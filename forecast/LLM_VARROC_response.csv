@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:23:19,"{
+  ""stock_code"": ""VARROC"",
+  ""instrument_token"": 987393,
+  ""support"": 510.0,
+  ""resistance"": 545.0,
+  ""volume_threshold"": 413,
+  ""bollinger"": {
+    ""mid_price"": 544.9111,
+    ""upper_band"": 546.6027,
+    ""lower_band"": 543.7073
+  },
+  ""macd"": {
+    ""signal_line"": -0.4047,
+    ""histogram"": 0.0566,
+    ""ma_fast"": 544.9111,
+    ""ma_slow"": 545.155,
+    ""ma_signal"": 545.155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 544.9111,
+    ""ma_slow"": 545.155
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near resistance with no clear breakout."",
+    ""Support adjusted slightly lower to 510 based on recent lows."",
+    ""Volume threshold set to recent volume levels (413)."",
+    ""No significant trend or breakout observed in recent data; maintained current indicator parameters.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

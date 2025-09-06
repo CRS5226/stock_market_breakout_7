@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:27:34,"{
+  ""stock_code"": ""KSB"",
+  ""instrument_token"": 498945,
+  ""support"": 795.05,
+  ""resistance"": 801.15,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 814.9611,
+    ""upper_band"": 840.5375,
+    ""lower_band"": 788.385
+  },
+  ""macd"": {
+    ""signal_line"": -5.1486,
+    ""histogram"": -7.1777,
+    ""ma_fast"": 814.9611,
+    ""ma_slow"": 840.5375,
+    ""ma_signal"": -5.1486
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 805.9722,
+    ""ma_slow"": 805.4175
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with MA fast and slow nearly equal, indicating sideways movement."",
+    ""Support adjusted slightly downward to 795.05 due to recent lows."",
+    ""Resistance adjusted slightly upward to 801.15 based on recent highs."",
+    ""Bollinger bands indicate low volatility, suggesting no breakout imminent."",
+    ""MACD remains near zero, indicating lack of strong momentum."",
+    ""ADX remains below 20, confirming weak trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:26:00"",
+  ""signal"": ""Hold""
+}"

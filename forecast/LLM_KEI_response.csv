@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:19:19,"{
+  ""stock_code"": ""KEI"",
+  ""instrument_token"": 3407361,
+  ""support"": 3800.0,
+  ""resistance"": 3930.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 3923.24,
+    ""upper_band"": 3928.37,
+    ""lower_band"": 3918.11
+  },
+  ""macd"": {
+    ""signal_line"": -0.9973,
+    ""histogram"": -0.4746,
+    ""ma_fast"": 3921.37,
+    ""ma_slow"": 3923.24,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 3800 based on recent daily lows around 3760-3800 indicating stronger short-term support."",
+    ""Resistance updated to 3930 reflecting recent 1-minute upper Bollinger Band and highs near 3928-3930."",
+    ""Bollinger Bands updated to recent values from 1-minute data showing tight range around 3923 mid and 3928 upper band."",
+    ""MACD values updated to recent 1-minute data indicating slight bearish histogram but close to signal line."",
+    ""Signal set to Hold due to price trading near upper Bollinger Band but MACD histogram negative and ADX below threshold indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

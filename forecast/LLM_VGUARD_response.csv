@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:21:21,"{
+  ""stock_code"": ""VGUARD"",
+  ""instrument_token"": 3932673,
+  ""support"": 350.1,
+  ""resistance"": 369.2,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 368.46,
+    ""upper_band"": 368.9189117562233,
+    ""lower_band"": 367.9777712418753
+  },
+  ""macd"": {
+    ""signal_line"": 0.012883512838706174,
+    ""histogram"": -0.04720925990512462,
+    ""ma_fast"": 368.2944444444444,
+    ""ma_slow"": 368.46,
+    ""ma_signal"": 0.024685827814987328
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low 350.1 from historical data."",
+    ""Resistance updated to recent high 369.2 from recent data high."",
+    ""Bollinger Bands updated to recent values indicating tighter range."",
+    ""MACD parameters updated to reflect recent momentum changes."",
+    ""Signal line slightly positive but MACD histogram negative indicating weak bearish momentum."",
+    ""ADX threshold unchanged as trend strength remains below threshold."",
+    ""Volume threshold unchanged due to no significant volume breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

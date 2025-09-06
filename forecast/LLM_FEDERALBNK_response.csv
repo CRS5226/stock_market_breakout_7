@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:10:25,"{
+  ""stock_code"": ""FEDERALBNK"",
+  ""instrument_token"": 261889,
+  ""support"": 195.0,
+  ""resistance"": 199.0,
+  ""volume_threshold"": 7000000,
+  ""bollinger"": {
+    ""mid_price"": 198.44,
+    ""upper_band"": 219.58,
+    ""lower_band"": 189.14
+  },
+  ""macd"": {
+    ""signal_line"": -3.05,
+    ""histogram"": -0.76,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 195.0 due to recent lows around 195.44-195.57."",
+    ""Resistance updated to 199.0 based on recent highs near 198.65 and 198.53."",
+    ""Volume threshold increased to 7,000,000 reflecting recent daily volumes above 5 million."",
+    ""Bollinger Bands updated to reflect recent mid, upper, and lower bands from historical data."",
+    ""MACD signal line and histogram adjusted to recent values indicating slight bearish momentum."",
+    ""ADX threshold increased to 30 due to rising ADX values indicating stronger trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

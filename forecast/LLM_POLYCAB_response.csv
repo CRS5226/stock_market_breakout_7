@@ -1,0 +1,2836 @@
+timestamp,raw_response
+2025-08-19 13:26:15,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 7102.0,
+  ""resistance"": 7109.5,
+  ""volume_threshold"": 464368,
+  ""bollinger"": {
+    ""mid_price"": 7105.772727272727,
+    ""upper_band"": 7109.826090329019,
+    ""lower_band"": 7101.719364216435
+  },
+  ""macd"": {
+    ""signal_line"": -0.019090147391580103,
+    ""histogram"": -0.3524497417016171,
+    ""ma_fast"": 7106.055555555556,
+    ""ma_slow"": 7105.772727272727,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 7102.0 based on latest 1-minute candle lows."",
+    ""Resistance updated to recent high of 7109.5 based on latest 1-minute candle highs."",
+    ""Bollinger Bands updated to reflect recent 1-minute price action."",
+    ""MACD values updated to reflect recent momentum showing slight bearish histogram."",
+    ""Volume threshold retained as no significant volume spike above current threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:30:24,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 7096.0,
+  ""resistance"": 7109.5,
+  ""volume_threshold"": 464368,
+  ""bollinger"": {
+    ""mid_price"": 7103.866666666667,
+    ""upper_band"": 7111.237479979245,
+    ""lower_band"": 7096.4958533540885
+  },
+  ""macd"": {
+    ""signal_line"": -0.5032294250143119,
+    ""histogram"": -1.0129848371086458,
+    ""ma_fast"": 7101.944444444444,
+    ""ma_slow"": 7103.866666666667,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent 1-minute candle low of 7096.0 reflecting short-term price floor."",
+    ""Resistance retained at 7109.5 as recent highs confirm this level as strong ceiling."",
+    ""Bollinger Bands adjusted to recent 1-minute data showing slight widening and upper band increase."",
+    ""MACD values updated to recent 1-minute data indicating increased bearish momentum with deeper negative histogram."",
+    ""Volume threshold retained as recent volume remains below threshold, no significant spikes observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:36:22,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 7093.5,
+  ""resistance"": 7109.5,
+  ""volume_threshold"": 464368,
+  ""bollinger"": {
+    ""mid_price"": 7101.5,
+    ""upper_band"": 7111.215966241191,
+    ""lower_band"": 7091.784033758809
+  },
+  ""macd"": {
+    ""signal_line"": -1.8681818272304467,
+    ""histogram"": -0.6738702842515609,
+    ""ma_fast"": 7096.777777777777,
+    ""ma_slow"": 7101.5,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent 1-minute candle low of 7093.5 reflecting a new short-term price floor."",
+    ""Resistance retained at 7109.5 as recent highs confirm this level as a strong ceiling."",
+    ""Bollinger Bands adjusted to recent 1-minute data showing slight widening and updated upper and lower bands."",
+    ""MACD values updated to recent 1-minute data indicating bearish momentum with less negative histogram."",
+    ""Volume threshold retained as recent volume remains below threshold, no significant spikes observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:12:45,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 6620.0,
+  ""resistance"": 7105.0,
+  ""volume_threshold"": 150000,
+  ""bollinger"": {
+    ""mid_price"": 7088.15,
+    ""upper_band"": 7105.79,
+    ""lower_band"": 7071.80
+  },
+  ""macd"": {
+    ""signal_line"": 7.77,
+    ""histogram"": 0.30,
+    ""ma_fast"": 7083.28,
+    ""ma_slow"": 7088.90,
+    ""ma_signal"": 7.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 6620 based on recent historical low."",
+    ""Resistance updated to 7105 based on recent upper Bollinger Band and recent highs."",
+    ""Volume threshold lowered to 150000 reflecting recent lower volume in 1-minute candles."",
+    ""Bollinger Bands updated to recent values from 1-minute data."",
+    ""MACD parameters updated to recent values indicating slight bearish momentum but close to neutral."",
+    ""Signal set to Hold due to price near resistance with mixed momentum indicators.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:17:18,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 7091.5,
+  ""resistance"": 7117.0,
+  ""volume_threshold"": 464368,
+  ""bollinger"": {
+    ""mid_price"": 7097.875,
+    ""upper_band"": 7113.8057093376265,
+    ""lower_band"": 7081.9442906623735
+  },
+  ""macd"": {
+    ""signal_line"": 3.516327241082665,
+    ""histogram"": 2.0928486778931146,
+    ""ma_fast"": 7103.944444444444,
+    ""ma_slow"": 7097.875,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 7091.5 based on last 1-minute candle lows."",
+    ""Resistance updated to recent high of 7117.0 based on last 1-minute candle highs."",
+    ""Bollinger Bands updated to reflect recent 1-minute price action."",
+    ""MACD values updated to reflect recent momentum changes in 1-minute data."",
+    ""Volume threshold retained as recent volume spikes did not exceed historical max.""
+  ],
+  ""last_updated"": ""2025-08-19 15:16:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:21:50,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""support"": 7091.5,
+  ""resistance"": 7123.613605999442,
+  ""volume_threshold"": 464368,
+  ""bollinger"": {
+    ""mid_price"": 7113.166666666667,
+    ""upper_band"": 7123.613605999442,
+    ""lower_band"": 7081.936394000557
+  },
+  ""macd"": {
+    ""signal_line"": 5.456097510641024,
+    ""histogram"": 1.7666069355323142,
+    ""ma_fast"": 7113.166666666667,
+    ""ma_slow"": 7102.775,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent 1-minute upper Bollinger Band of 7123.61 indicating breakout potential."",
+    ""Bollinger Bands updated to reflect latest 1-minute price action with upper band expansion."",
+    ""MACD values updated to reflect increased momentum in recent 1-minute data."",
+    ""Support retained at recent low of 7091.5 from last 1-minute candle lows."",
+    ""Volume threshold retained as recent volume spikes did not exceed historical maximum.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Buy""
+}"
+2025-09-01 14:47:43,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:44:00+00:00"",
+    ""open"": 7138.5,
+    ""high"": 7144.0,
+    ""low"": 7138.5,
+    ""close"": 7140.0,
+    ""volume"": 214
+  },
+  ""support"": 7068.0,
+  ""resistance"": 7159.0,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7144.95,
+    ""upper_band"": 7154.686015612158,
+    ""lower_band"": 7135.213984387841
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent 1-minute HH20 level 7159.0 from 7100.0 due to recent price momentum"",
+    ""Bollinger bands updated to latest values from recent data"",
+    ""Signal changed to Hold due to ADX above threshold and price near upper Bollinger band""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0027,
+      ""price"": 7140.0 * 1.0027
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 7140.0 * 1.012
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 7140.0 * 1.045
+    }
+  }
+}"
+2025-09-01 14:55:45,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:52:00+00:00"",
+    ""open"": 7141.0,
+    ""high"": 7142.0,
+    ""low"": 7137.0,
+    ""close"": 7140.5,
+    ""volume"": 234
+  },
+  ""support"": 7068.0,
+  ""resistance"": 7159.0,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7144.225,
+    ""upper_band"": 7153.463371068537,
+    ""lower_band"": 7134.986628931464
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent HH20 level 7159.0 from 7100.0 due to price testing new highs"",
+    ""Bollinger bands updated to recent values from latest data"",
+    ""Signal remains 'No Action' due to lack of strong momentum or volume confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0025,
+      ""price"": 7140.5 * 1.0025
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 7140.5 * 1.01
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 7140.5 * 1.04
+    }
+  }
+}"
+2025-09-01 15:02:21,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:53:00+00:00"",
+    ""open"": 7140.5,
+    ""high"": 7141.0,
+    ""low"": 7137.5,
+    ""close"": 7137.5,
+    ""volume"": 174
+  },
+  ""support"": 7068.0,
+  ""resistance"": 7159.0,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7143.65,
+    ""upper_band"": 7153.06,
+    ""lower_band"": 7134.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated from 7100.0 to 7159.0 based on recent high near 7159.0"",
+    ""Bollinger bands updated to reflect recent mid, upper, and lower values from recent data"",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0025,
+      ""price"": 7155.84
+    },
+    ""1w"": {
+      ""ret"": 0.0075,
+      ""price"": 7191.53
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7313.94
+    }
+  }
+}"
+2025-09-02 11:06:25,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:03:00+00:00"",
+    ""open"": 7160.0,
+    ""high"": 7162.5,
+    ""low"": 7160.0,
+    ""close"": 7161.0,
+    ""volume"": 68
+  },
+  ""support"": 7080.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7166.275,
+    ""upper_band"": 7171.847028355991,
+    ""lower_band"": 7160.702971644008
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to 7080.0 based on recent historical low and HH20 level"",
+    ""Updated resistance to 7208.0 based on recent historical high and HH20 level"",
+    ""Refreshed Bollinger Bands to recent mid 7166.275, upper 7171.847, lower 7160.703 from recent 1-min data"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram momentum"",
+    ""Predicted targets computed using recent close 7161.0 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7175.322
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7217.288
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7341.025
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 7175.322,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 7217.288,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 7341.025,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-02 11:15:16,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:05:00+00:00"",
+    ""open"": 7162.5,
+    ""high"": 7165.5,
+    ""low"": 7162.5,
+    ""close"": 7163.5,
+    ""volume"": 78
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7136.0,
+  ""resistance_realtime"": 7178.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.5865,
+  ""sr_range_pct_1d"": 1.2289,
+  ""sr_range_pct_1w"": 5.4182,
+  ""sr_range_pct_3m"": 20.2206,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7166.275,
+    ""upper_band"": 7171.847028355991,
+    ""lower_band"": 7160.702971644008
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No changes to support or resistance as recent data confirms current levels"",
+    ""Bollinger Bands remain consistent with recent 1-min data"",
+    ""ADX below threshold and weak MACD histogram momentum justify 'No Action' signal"",
+    ""Predicted targets estimated from recent close 7163.5 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7177.927
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7220.808
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7343.588
+    }
+  }
+}"
+2025-09-02 11:23:50,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:14:00+00:00"",
+    ""open"": 7161.0,
+    ""high"": 7163.5,
+    ""low"": 7160.5,
+    ""close"": 7160.5,
+    ""volume"": 88
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7147.5,
+  ""resistance_realtime"": 7178.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.4257,
+  ""sr_range_pct_1d"": 1.2284,
+  ""sr_range_pct_1w"": 5.416,
+  ""sr_range_pct_3m"": 20.2122,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7166.275,
+    ""upper_band"": 7171.847028355991,
+    ""lower_band"": 7160.702971644008
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No changes to support or resistance as recent data confirms current levels"",
+    ""Bollinger Bands remain consistent with recent 1-min data"",
+    ""ADX below threshold and weak MACD histogram momentum justify 'No Action' signal"",
+    ""Predicted targets estimated from recent close 7160.5 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7175.821,
+      ""method"": ""estimated_from_close""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7217.784,
+      ""method"": ""estimated_from_close""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7336.013,
+      ""method"": ""estimated_from_close""
+    }
+  }
+}"
+2025-09-02 11:32:25,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:29:00+00:00"",
+    ""open"": 7161.0,
+    ""high"": 7165.0,
+    ""low"": 7161.0,
+    ""close"": 7165.0,
+    ""volume"": 44
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.0,
+  ""resistance_realtime"": 7170.5,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1746,
+  ""sr_range_pct_1d"": 1.229,
+  ""sr_range_pct_1w"": 5.4186,
+  ""sr_range_pct_3m"": 20.2221,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7161.325,
+    ""upper_band"": 7164.193361901824,
+    ""lower_band"": 7158.456638098176
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-min data"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume remains below threshold, no change"",
+    ""Signal remains 'No Action' due to weak momentum and no breakout"",
+    ""Predicted targets estimated from recent close 7165.0 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7178.33
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7222.32
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7346.63
+    }
+  }
+}"
+2025-09-02 11:41:38,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:38:00+00:00"",
+    ""open"": 7164.0,
+    ""high"": 7166.0,
+    ""low"": 7164.0,
+    ""close"": 7166.0,
+    ""volume"": 97
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.0,
+  ""resistance_realtime"": 7170.5,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1745,
+  ""sr_range_pct_1d"": 1.2282,
+  ""sr_range_pct_1w"": 5.4152,
+  ""sr_range_pct_3m"": 20.2094,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7162.7,
+    ""upper_band"": 7166.803656905712,
+    ""lower_band"": 7158.5963430942875
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-min data"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume remains below threshold, no change"",
+    ""Signal remains 'No Action' due to weak momentum and no breakout"",
+    ""Predicted targets estimated from recent close 7166.0 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7179.33
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7223.33
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7346.15
+    }
+  }
+}"
+2025-09-02 11:50:47,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:40:00+00:00"",
+    ""open"": 7163.5,
+    ""high"": 7165.5,
+    ""low"": 7162.0,
+    ""close"": 7163.0,
+    ""volume"": 136
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.5,
+  ""resistance_realtime"": 7170.5,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1675,
+  ""sr_range_pct_1d"": 1.228,
+  ""sr_range_pct_1w"": 5.4145,
+  ""sr_range_pct_3m"": 20.2065,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7162.7,
+    ""upper_band"": 7166.803656905712,
+    ""lower_band"": 7158.5963430942875
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-min data"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume remains below threshold, no change"",
+    ""Signal remains 'No Action' due to weak momentum and no breakout"",
+    ""Predicted targets estimated from recent close 7165.0 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7178.33
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7222.32
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7345.13
+    }
+  }
+}"
+2025-09-02 11:59:39,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:49:00+00:00"",
+    ""open"": 7165.0,
+    ""high"": 7168.0,
+    ""low"": 7164.5,
+    ""close"": 7167.0,
+    ""volume"": 265
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.5,
+  ""resistance_realtime"": 7170.5,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1675,
+  ""sr_range_pct_1d"": 1.2282,
+  ""sr_range_pct_1w"": 5.4152,
+  ""sr_range_pct_3m"": 20.2094,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7163.175,
+    ""upper_band"": 7167.077242944773,
+    ""lower_band"": 7159.272757055227
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-min data"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume remains below threshold, no change"",
+    ""Signal remains 'No Action' due to weak momentum and no breakout"",
+    ""Predicted targets estimated from recent close 7167.0 and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7178.33
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7222.32
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7345.13
+    }
+  }
+}"
+2025-09-02 12:08:09,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:58:00+00:00"",
+    ""open"": 7160.0,
+    ""high"": 7163.5,
+    ""low"": 7160.0,
+    ""close"": 7160.0,
+    ""volume"": 127
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.5,
+  ""resistance_realtime"": 7170.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1606,
+  ""sr_range_pct_1d"": 1.2291,
+  ""sr_range_pct_1w"": 5.419,
+  ""sr_range_pct_3m"": 20.2235,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7163.175,
+    ""upper_band"": 7167.077242944773,
+    ""lower_band"": 7159.272757055227
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV confirmed from recent 1-min data at 7160.0 close"",
+    ""Bollinger Bands remain consistent with recent volatility"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume below threshold, no update"",
+    ""No breakout above resistance or below support, signal unchanged"",
+    ""Predicted targets estimated from recent close 7160.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7173.32
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7217.28
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7339.0
+    }
+  }
+}"
+2025-09-02 12:16:52,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:07:00+00:00"",
+    ""open"": 7161.0,
+    ""high"": 7164.0,
+    ""low"": 7161.0,
+    ""close"": 7162.5,
+    ""volume"": 94
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.5,
+  ""resistance_realtime"": 7168.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1327,
+  ""sr_range_pct_1d"": 1.229,
+  ""sr_range_pct_1w"": 5.4186,
+  ""sr_range_pct_3m"": 20.2221,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7160.975,
+    ""upper_band"": 7162.632558445445,
+    ""lower_band"": 7159.317441554555
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV confirmed from recent 1-min data at 7162.5 close"",
+    ""Bollinger Bands updated to recent 1-min indicator values reflecting current volatility"",
+    ""ADX remains below threshold indicating weak trend"",
+    ""Volume remains below threshold, no update"",
+    ""No breakout above resistance or below support, signal unchanged"",
+    ""Predicted targets estimated from recent close 7162.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7176.825
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7220.9
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7338.56
+    }
+  }
+}"
+2025-09-02 14:11:46,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:09:00+00:00"",
+    ""open"": 7172.0,
+    ""high"": 7182.5,
+    ""low"": 7171.5,
+    ""close"": 7177.5,
+    ""volume"": 249
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7158.5,
+  ""resistance_realtime"": 7168.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.1326,
+  ""sr_range_pct_1d"": 1.2286,
+  ""sr_range_pct_1w"": 5.4171,
+  ""sr_range_pct_3m"": 20.2164,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7170.675,
+    ""upper_band"": 7182.537862217863,
+    ""lower_band"": 7158.812137782137
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to recent 1-min data showing higher close at 7177.5"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values reflecting increased volatility"",
+    ""ADX remains below threshold indicating weak trend continuation"",
+    ""Volume remains below threshold, no update"",
+    ""Price above realtime resistance but no confirmed breakout, signal unchanged"",
+    ""Predicted targets estimated from recent close 7177.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7191.855,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7235.82,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7351.94,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:27:46,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:25:00+00:00"",
+    ""open"": 7171.5,
+    ""high"": 7175.5,
+    ""low"": 7170.5,
+    ""close"": 7173.0,
+    ""volume"": 80
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7161.0,
+  ""resistance_realtime"": 7199.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.5294,
+  ""sr_range_pct_1d"": 1.2261,
+  ""sr_range_pct_1w"": 5.4058,
+  ""sr_range_pct_3m"": 20.1742,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7173.4,
+    ""upper_band"": 7183.44788534966,
+    ""lower_band"": 7163.352114650339
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to recent 1-min data at 14:25 showing stable close at 7173.0"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values reflecting current volatility"",
+    ""ADX remains below threshold indicating weak trend continuation"",
+    ""Volume remains below threshold, no update"",
+    ""Price near realtime resistance but no confirmed breakout, signal unchanged"",
+    ""Predicted targets estimated from recent close 7173.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7186.346,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7230.584,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7351.825,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:36:19,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:33:00+00:00"",
+    ""open"": 7169.5,
+    ""high"": 7171.5,
+    ""low"": 7168.0,
+    ""close"": 7169.5,
+    ""volume"": 134
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7161.0,
+  ""resistance_realtime"": 7199.0,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.5299,
+  ""sr_range_pct_1d"": 1.2271,
+  ""sr_range_pct_1w"": 5.4103,
+  ""sr_range_pct_3m"": 20.191,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7172.75,
+    ""upper_band"": 7182.7973877201875,
+    ""lower_band"": 7162.7026122798125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to recent 1-min data at 14:33 showing stable close at 7169.5"",
+    ""Bollinger Bands updated to recent 1-min indicator values reflecting current volatility"",
+    ""ADX remains below threshold indicating weak trend continuation"",
+    ""Volume remains below threshold, no update"",
+    ""Price near realtime resistance but no confirmed breakout, signal unchanged"",
+    ""Predicted targets estimated from recent close 7169.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7183.839,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7225.956,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7341.238,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:20:07,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:17:00+00:00"",
+    ""open"": 7176.0,
+    ""high"": 7178.5,
+    ""low"": 7176.0,
+    ""close"": 7176.0,
+    ""volume"": 281
+  },
+  ""support"": 7120.0,
+  ""resistance"": 7208.0,
+  ""support_realtime"": 7161.0,
+  ""resistance_realtime"": 7193.5,
+  ""support_1d"": 7120.0,
+  ""resistance_1d"": 7208.0,
+  ""support_1w"": 6820.0,
+  ""resistance_1w"": 7208.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.4533,
+  ""sr_range_pct_1d"": 1.2274,
+  ""sr_range_pct_1w"": 5.4118,
+  ""sr_range_pct_3m"": 20.1967,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7179.825,
+    ""upper_band"": 7188.258712112698,
+    ""lower_band"": 7171.391287887302
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to recent 1-min data at 15:17 showing close at 7176.0"",
+    ""Bollinger Bands updated to recent 1-min indicator values reflecting current volatility"",
+    ""ADX remains below threshold indicating weak trend continuation"",
+    ""Volume remains below threshold, no update"",
+    ""Price near realtime resistance but no confirmed breakout, signal unchanged"",
+    ""Predicted targets estimated from recent close 7176.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7189.352,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7232.608,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7350.9,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:28:45,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:26:00+00:00"",
+    ""open"": 7178.0,
+    ""high"": 7178.0,
+    ""low"": 7174.0,
+    ""close"": 7177.5,
+    ""volume"": 284
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7159.5,
+  ""support_realtime"": 7162.5,
+  ""resistance_realtime"": 7190.0,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7159.5,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7180.0,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7208.0,
+  ""sr_range_pct_realtime"": 0.3832,
+  ""sr_range_pct_1d"": 1.4005,
+  ""sr_range_pct_1w"": 2.7174,
+  ""sr_range_pct_3m"": 20.1784,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7180.3,
+    ""upper_band"": 7188.389499366448,
+    ""lower_band"": 7172.210500633552
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to recent 1-min data at 15:26 showing close at 7177.5"",
+    ""Bollinger Bands updated to recent 1-min indicator values reflecting current volatility"",
+    ""ADX remains below threshold indicating weak trend continuation"",
+    ""Volume remains below threshold, no update"",
+    ""Price near realtime resistance but no confirmed breakout, signal unchanged"",
+    ""Predicted targets estimated from recent close 7177.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7191.855,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7235.82,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7351.9375,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 11:59:17,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:27:00+00:00"",
+    ""open"": 7176.0,
+    ""high"": 7200.0,
+    ""low"": 7176.0,
+    ""close"": 7199.5,
+    ""volume"": 171
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7187.0,
+  ""resistance_realtime"": 7203.4551777649385,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.2303,
+  ""sr_range_pct_1d"": 1.999,
+  ""sr_range_pct_1w"": 3.927,
+  ""sr_range_pct_3m"": 20.1742,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7197.9,
+    ""upper_band"": 7203.4551777649385,
+    ""lower_band"": 7192.344822235061
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated OHLCV to latest 1-min close 7199.5 with adjusted high 7200.0"",
+    ""Realtime support and resistance updated based on recent 1-min Bollinger bands and price action"",
+    ""Resistance levels raised to upper Bollinger band reflecting recent volatility"",
+    ""Support levels remain stable from historical daily lows"",
+    ""Volume remains below threshold, no update"",
+    ""Signal unchanged due to lack of breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7199.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7187.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7213.899
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7257.596
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7379.48875
+    }
+  }
+}"
+2025-09-03 12:08:59,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:58:00+00:00"",
+    ""open"": 7197.0,
+    ""high"": 7200.0,
+    ""low"": 7196.0,
+    ""close"": 7199.0,
+    ""volume"": 294
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7187.0,
+  ""resistance_realtime"": 7202.754483722134,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.208,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7197.525,
+    ""upper_band"": 7202.754483722134,
+    ""lower_band"": 7192.295516277865
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance_realtime to 7202.75 based on latest 1-min Bollinger upper band"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime resistance"",
+    ""OHLCV retained as latest known 1-min bar"",
+    ""Support levels stable from historical daily lows"",
+    ""Volume below threshold, no change"",
+    ""Signal unchanged due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7199.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7187.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7203.398
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7257.592
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7379.475
+    }
+  }
+}"
+2025-09-03 12:18:36,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:16:00+00:00"",
+    ""open"": 7200.0,
+    ""high"": 7200.0,
+    ""low"": 7197.5,
+    ""close"": 7200.0,
+    ""volume"": 157
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7187.0,
+  ""resistance_realtime"": 7201.114944167979,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.198,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7199.1,
+    ""upper_band"": 7201.114944167979,
+    ""lower_band"": 7197.085055832022
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 12:16"",
+    ""Refreshed resistance_realtime to 7201.11 based on latest Bollinger upper band"",
+    ""Adjusted sr_range_pct_realtime to 0.198 reflecting updated realtime resistance"",
+    ""Bollinger bands mid_price updated to 7199.1 from recent data"",
+    ""Support and other SR levels unchanged from historical data"",
+    ""Volume remains below threshold, no volume_threshold change"",
+    ""Signal remains No Action due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7200.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7187.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7214.4
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7257.6
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7380.0
+    }
+  }
+}"
+2025-09-03 12:27:42,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:25:00+00:00"",
+    ""open"": 7213.0,
+    ""high"": 7214.0,
+    ""low"": 7207.5,
+    ""close"": 7207.5,
+    ""volume"": 155
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7187.0,
+  ""resistance_realtime"": 7214.4037809119645,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.366,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7202.5,
+    ""upper_band"": 7214.4037809119645,
+    ""lower_band"": 7190.5962190880355
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 12:25"",
+    ""Refreshed resistance_realtime to 7214.40 based on latest Bollinger upper band"",
+    ""Updated bollinger mid_price to 7202.5 and lower_band to 7190.60 from recent data"",
+    ""Increased sr_range_pct_realtime to 0.366 reflecting wider realtime S/R range"",
+    ""Support and other SR levels unchanged from historical data"",
+    ""Volume remains below threshold, no volume_threshold change"",
+    ""Signal remains No Action due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7207.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7187.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7218.915
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7265.26
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7387.688
+    }
+  }
+}"
+2025-09-03 12:37:40,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:35:00+00:00"",
+    ""open"": 7201.0,
+    ""high"": 7202.0,
+    ""low"": 7198.0,
+    ""close"": 7200.0,
+    ""volume"": 209
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7196.0,
+  ""resistance_realtime"": 7218.4415241908255,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7206.5,
+    ""upper_band"": 7218.4415241908255,
+    ""lower_band"": 7194.5584758091745
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 12:35"",
+    ""Refreshed support_realtime and resistance_realtime from recent Bollinger bands and VWAP"",
+    ""Updated bollinger mid_price, upper_band, and lower_band from recent data"",
+    ""Adjusted sr_range_pct_realtime to reflect current realtime S/R range"",
+    ""Preserved historical support and resistance levels"",
+    ""Volume remains below threshold, no volume_threshold change"",
+    ""Signal remains No Action due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7200.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7214.4
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7257.6
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7380.0
+    }
+  }
+}"
+2025-09-03 15:32:30,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:29:00+00:00"",
+    ""open"": 7238.0,
+    ""high"": 7240.0,
+    ""low"": 7232.0,
+    ""close"": 7232.0,
+    ""volume"": 911
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7227.0,
+  ""resistance_realtime"": 7240.447543140994,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.179,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7234.725,
+    ""upper_band"": 7240.447543140994,
+    ""lower_band"": 7229.002456859007
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 15:29"",
+    ""Refreshed support_realtime and resistance_realtime from recent Bollinger bands and VWAP"",
+    ""Updated bollinger mid_price, upper_band, and lower_band from recent data"",
+    ""Adjusted sr_range_pct_realtime to reflect current realtime S/R range"",
+    ""Preserved historical support and resistance levels"",
+    ""Volume remains below threshold, no volume_threshold change"",
+    ""Signal remains No Action due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7232.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7246.464
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7290.656
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7400.8
+    }
+  }
+}"
+2025-09-04 11:15:40,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"":  ""2025-09-04 11:13:00+00:00"",
+    ""open"": 7286.0,
+    ""high"": 7286.5,
+    ""low"": 7283.5,
+    ""close"": 7285.5,
+    ""volume"": 282
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7270.5,
+  ""resistance_realtime"": 7290.82546991372,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.276,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7280.85,
+    ""upper_band"": 7290.82546991372,
+    ""lower_band"": 7270.874530086281
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 11:13"",
+    ""Refreshed support_realtime and resistance_realtime from recent Bollinger bands and VWAP"",
+    ""Updated bollinger mid_price, upper_band, and lower_band from recent data"",
+    ""Adjusted sr_range_pct_realtime to reflect current realtime S/R range"",
+    ""Preserved historical support and resistance levels"",
+    ""Volume remains below threshold, no volume_threshold change"",
+    ""Signal remains No Action due to no breakout confirmation"",
+    ""Predicted targets recalculated from latest close 7285.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7300.071
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7343.784
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7467.138
+    }
+  }
+}"
+2025-09-04 14:23:44,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:14:00+00:00"",
+    ""open"": 7285.5,
+    ""high"": 7289.5,
+    ""low"": 7285.5,
+    ""close"": 7289.5,
+    ""volume"": 173
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7270.5,
+  ""resistance_realtime"": 7290.82546991372,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.2796,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7280.85,
+    ""upper_band"": 7290.82546991372,
+    ""lower_band"": 7270.874530086281
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 11:14"",
+    ""Confirmed support_realtime and resistance_realtime near recent Bollinger bands and VWAP"",
+    ""Maintained historical support and resistance levels from daily and weekly data"",
+    ""Volume remains below threshold, no volume_threshold adjustment"",
+    ""Signal remains No Action due to no confirmed breakout or trend change"",
+    ""Trade levels preserved with risk-reward ratios within typical range"",
+    ""Predicted targets recalculated based on latest close 7289.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7313.079,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7349.816,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7461.73875,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 14:51:24,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:22:00+00:00"",
+    ""open"": 7294.0,
+    ""high"": 7295.5,
+    ""low"": 7294.0,
+    ""close"": 7294.5,
+    ""volume"": 232
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7270.5,
+  ""resistance_realtime"": 7290.82546991372,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.2796,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806,
+  ""bollinger"": {
+    ""mid_price"": 7280.85,
+    ""upper_band"": 7290.82546991372,
+    ""lower_band"": 7270.874530086281
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 14:22"",
+    ""Confirmed support_realtime and resistance_realtime near recent Bollinger bands and VWAP"",
+    ""Maintained historical support and resistance levels from daily and weekly data"",
+    ""Volume remains below threshold, no volume_threshold adjustment"",
+    ""Signal remains No Action due to no confirmed breakout or trend change"",
+    ""Trade levels preserved with risk-reward ratios within typical range"",
+    ""Predicted targets recalculated based on latest close 7294.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7310.089,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7352.316,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7477.8625,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 15:04:36,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:50:00+00:00"",
+    ""open"": 7292.5,
+    ""high"": 7296.0,
+    ""low"": 7290.0,
+    ""close"": 7293.5,
+    ""volume"": 513
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7270.5,
+  ""resistance_realtime"": 7290.82546991372,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.2796,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7280.85,
+    ""upper_band"": 7290.82546991372,
+    ""lower_band"": 7270.874530086281
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 14:50"",
+    ""Confirmed support_realtime and resistance_realtime near recent Bollinger bands and VWAP"",
+    ""Maintained historical support and resistance levels from daily and weekly data"",
+    ""Volume remains below threshold, no volume_threshold adjustment"",
+    ""Signal remains No Action due to no confirmed breakout or trend change"",
+    ""Trade levels preserved with risk-reward ratios within typical range"",
+    ""Predicted targets recalculated based on latest close 7293.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7308.087,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7349.748,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7465.8375,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 15:16:24,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:14:00+00:00"",
+    ""open"": 7259.5,
+    ""high"": 7260.0,
+    ""low"": 7259.5,
+    ""close"": 7260.0,
+    ""volume"": 1327.0
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7270.5,
+  ""resistance_realtime"": 7290.82546991372,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.2796,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7280.85,
+    ""upper_band"": 7290.82546991372,
+    ""lower_band"": 7270.874530086281
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 15:14"",
+    ""Confirmed support_realtime and resistance_realtime near recent Bollinger bands and VWAP"",
+    ""Maintained historical support and resistance levels from daily and weekly data"",
+    ""Volume remains below threshold, no volume_threshold adjustment"",
+    ""Signal remains No Action due to no confirmed breakout or trend change"",
+    ""Trade levels preserved with risk-reward ratios within typical range"",
+    ""Predicted targets recalculated based on latest close 7260.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7059.0,
+  ""target"": 7196.0,
+  ""stoploss"": 7030.0,
+  ""entry1"": 7059.0,
+  ""target1"": 7203.4551777649385,
+  ""stoploss1"": 7030.0,
+  ""entry2"": 6985.0,
+  ""target2"": 7271.0426,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 5760.0,
+  ""target3"": 7271.0426,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7274.52
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7318.08
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7431.5
+    }
+  }
+}"
+2025-09-05 13:39:15,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:15:00+00:00"",
+    ""open"": 7260.0,
+    ""high"": 7260.0,
+    ""low"": 7254.5,
+    ""close"": 7254.5,
+    ""volume"": 1129
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.123883817344,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.15,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.123883817344,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7254.5 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7180.0,
+  ""stoploss"": 7000.0,
+  ""entry1"": 7100.0,
+  ""target1"": 7180.0,
+  ""stoploss1"": 7000.0,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6950.0,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7269.009,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7313.536,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7438.3625,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:27:47,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:38:00+00:00"",
+    ""open"": 7251.0,
+    ""high"": 7254.0,
+    ""low"": 7248.0,
+    ""close"": 7250.0,
+    ""volume"": 577
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4551777649385,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.123883817344,
+  ""support_1d"": 7059.0,
+  ""resistance_1d"": 7203.4551777649385,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.1536,
+  ""sr_range_pct_1d"": 2.0464,
+  ""sr_range_pct_1w"": 4.0951,
+  ""sr_range_pct_3m"": 26.2334,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.123883817344,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7250.0 with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7160.234,
+  ""stoploss"": 7028.117,
+  ""entry1"": 7101.354,
+  ""target1"": 7160.234,
+  ""stoploss1"": 7028.117,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6954.441,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5734.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7265.0
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7309.999999999999
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7431.25
+    }
+  }
+}"
+2025-09-05 14:44:52,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:26:00+00:00"",
+    ""open"": 7248.5,
+    ""high"": 7251.5,
+    ""low"": 7248.5,
+    ""close"": 7249.5,
+    ""volume"": 241
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4552,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.1239,
+  ""support_1d"": 6728.17,
+  ""resistance_1d"": 7302.58,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.1534,
+  ""sr_range_pct_1d"": 7.9234,
+  ""sr_range_pct_1w"": 3.9457,
+  ""sr_range_pct_3m"": 20.8434,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.1239,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7249.5 with slight positive momentum"",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7160.234,
+  ""stoploss"": 7028.117,
+  ""entry1"": 7101.354,
+  ""target1"": 7160.234,
+  ""stoploss1"": 6704.621,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6954.441,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5734.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7264.999,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7309.496,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7431.7375,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:56:58,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:43:00+00:00"",
+    ""open"": 7245.0,
+    ""high"": 7247.0,
+    ""low"": 7245.0,
+    ""close"": 7245.0,
+    ""volume"": 160
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4552,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.1239,
+  ""support_1d"": 6728.17,
+  ""resistance_1d"": 7302.58,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.1535,
+  ""sr_range_pct_1d"": 7.9284,
+  ""sr_range_pct_1w"": 3.9481,
+  ""sr_range_pct_3m"": 20.8564,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.1239,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7245.0 with slight positive momentum"",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7160.234,
+  ""stoploss"": 7028.117,
+  ""entry1"": 7101.354,
+  ""target1"": 7160.234,
+  ""stoploss1"": 6704.621,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6954.441,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5734.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7259.49
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7303.96
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7426.13
+    }
+  }
+}"
+2025-09-05 15:11:10,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:55:00+00:00"",
+    ""open"": 7246.0,
+    ""high"": 7250.0,
+    ""low"": 7246.0,
+    ""close"": 7246.5,
+    ""volume"": 174
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4552,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.1239,
+  ""support_1d"": 6728.17,
+  ""resistance_1d"": 7302.58,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.1535,
+  ""sr_range_pct_1d"": 7.9267,
+  ""sr_range_pct_1w"": 3.9473,
+  ""sr_range_pct_3m"": 20.852,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.1239,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7246.5 with slight positive momentum"",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7160.234,
+  ""stoploss"": 7028.117,
+  ""entry1"": 7101.354,
+  ""target1"": 7160.234,
+  ""stoploss1"": 6704.621,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6954.441,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5734.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7261.0
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7304.7
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7427.7
+    }
+  }
+}"
+2025-09-05 15:23:27,"{
+  ""stock_code"": ""POLYCAB"",
+  ""instrument_token"": 2455041,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:10:00+00:00"",
+    ""open"": 7237.0,
+    ""high"": 7237.5,
+    ""low"": 7233.5,
+    ""close"": 7235.0,
+    ""volume"": 373
+  },
+  ""support"": 7059.0,
+  ""resistance"": 7203.4552,
+  ""support_realtime"": 7241.0,
+  ""resistance_realtime"": 7252.1239,
+  ""support_1d"": 6728.17,
+  ""resistance_1d"": 7302.58,
+  ""support_1w"": 6985.0,
+  ""resistance_1w"": 7271.0426,
+  ""support_3m"": 5760.0,
+  ""resistance_3m"": 7271.0426,
+  ""sr_range_pct_realtime"": 0.1538,
+  ""sr_range_pct_1d"": 7.9393,
+  ""sr_range_pct_1w"": 3.9536,
+  ""sr_range_pct_3m"": 20.8852,
+  ""volume_threshold"": 806.0,
+  ""bollinger"": {
+    ""mid_price"": 7246.525,
+    ""upper_band"": 7252.1239,
+    ""lower_band"": 7241.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Preserved historical support and resistance levels from daily, weekly, and 3-month data"",
+    ""Maintained volume_threshold as volume remains below threshold"",
+    ""Signal remains No Action due to lack of confirmed breakout or trend change"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Set trade levels inside respective S-R bands with reasonable risk-reward ratios"",
+    ""Recalculated predicted_targets based on latest close price 7246.5 with slight positive momentum"",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7120.0,
+  ""target"": 7160.234,
+  ""stoploss"": 7028.117,
+  ""entry1"": 7101.354,
+  ""target1"": 7160.234,
+  ""stoploss1"": 6704.621,
+  ""entry2"": 7100.0,
+  ""target2"": 7200.0,
+  ""stoploss2"": 6954.441,
+  ""entry3"": 6500.0,
+  ""target3"": 7200.0,
+  ""stoploss3"": 5734.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7261.0
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 7304.7
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7427.7
+    }
+  }
+}"

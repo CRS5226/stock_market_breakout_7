@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:09:43,"{
+  ""stock_code"": ""HLEGLAS"",
+  ""instrument_token"": 585985,
+  ""support"": 425.4,
+  ""resistance"": 498.95,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 498.95,
+    ""upper_band"": 498.95,
+    ""lower_band"": 498.95
+  },
+  ""macd"": {
+    ""signal_line"": 0.0,
+    ""histogram"": 0.0,
+    ""ma_fast"": 498.95,
+    ""ma_slow"": 498.95,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong consolidation at 498.95 with no significant movement, indicating a potential support level at 425.4 and resistance at 498.95."",
+    ""No clear breakout or breakdown signals observed in recent data; support and resistance levels adjusted based on recent high and low."",
+    ""Volume remains high, but no breakout confirmed, so volume threshold remains unchanged.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

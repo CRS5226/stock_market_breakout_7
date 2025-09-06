@@ -1,0 +1,1776 @@
+{
+  "stocks": [
+    {
+      "stock_code": "CDSL",
+      "instrument_token": 5420545,
+      "ohlcv": {
+        "time": "2025-09-01 15:02:00+00:00",
+        "open": 1476.7,
+        "high": 1477.0,
+        "low": 1476.3,
+        "close": 1476.3,
+        "volume": 5877
+      },
+      "support": 1470.37,
+      "resistance": 1476.35,
+      "volume_threshold": 8248,
+      "bollinger": {
+        "mid_price": 1473.36,
+        "upper_band": 1476.35,
+        "lower_band": 1470.37
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated ohlcv to latest minute bar at 15:00",
+        "Adjusted support and resistance to recent Bollinger lower and upper bands from minute data",
+        "Bollinger bands updated to reflect recent minute data volatility",
+        "Volume remains below threshold, no update to volume threshold",
+        "ADX remains below threshold indicating weak trend",
+        "Signal maintained as 'Neutral' due to close price near support and mixed momentum"
+      ],
+      "signal": "Neutral",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0015,
+          "price": 1478.92,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.006,
+          "price": 1485.56,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 1506.23,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 15:03:13",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.405
+    },
+    {
+      "reason": [
+        "Price remains within support and resistance levels with no breakout signals.",
+        "Volatility and trend indicators show no significant change from recent data.",
+        "Momentum remains neutral with MACD and ADX below threshold levels."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0,
+          "price": 2174.5,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 2176.78,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 2220.0,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:57:00",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-01 14:55:00+00:00",
+        "open": 2172.2,
+        "high": 2174.0,
+        "low": 2171.7,
+        "close": 2173.5,
+        "volume": 4850
+      },
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": null
+    },
+    {
+      "stock_code": "JIOFIN",
+      "instrument_token": 4644609,
+      "ohlcv": {
+        "time": "2025-09-01 14:56:00+00:00",
+        "open": 313.45,
+        "high": 313.65,
+        "low": 313.45,
+        "close": 313.6,
+        "volume": 14463
+      },
+      "support": 312.3,
+      "resistance": 313.5,
+      "volume_threshold": 45951,
+      "bollinger": {
+        "mid_price": 313.3,
+        "upper_band": 313.54,
+        "lower_band": 313.06
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Latest OHLCV updated to 2025-09-01 14:53 based on recent 1-min data",
+        "Bollinger bands adjusted to recent mid, upper, and lower values from 1-min indicators",
+        "Signal remains No Action as ADX at 22.26 slightly above threshold but momentum weak",
+        "Support and resistance unchanged due to stable price range and volume below threshold"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 313.66335,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.007,
+          "price": 315.48945,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.03,
+          "price": 322.7505,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:57:22",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.383
+    },
+    {
+      "stock_code": "GESHIP",
+      "instrument_token": 3526657,
+      "ohlcv": {
+        "time": "2025-09-01 14:56:00+00:00",
+        "open": 948.1,
+        "high": 948.1,
+        "low": 947.6,
+        "close": 947.6,
+        "volume": 18
+      },
+      "support": 933.28,
+      "resistance": 936.92,
+      "volume_threshold": 176,
+      "bollinger": {
+        "mid_price": 935.1,
+        "upper_band": 936.92,
+        "lower_band": 933.28
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Price remains near support level with minimal change",
+        "Bollinger mid-price stable, price within bands",
+        "ADX below threshold indicating weak trend",
+        "Recent momentum shows no significant change"
+      ],
+      "signal": "Hold",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 950.25,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.006,
+          "price": 954.4,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 962.0,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": "2025-09-02 11:22:00+00:00",
+          "price": 950.25,
+          "ret": 0.002
+        },
+        "1w": {
+          "time": "2025-09-08 11:22:00+00:00",
+          "price": 954.4,
+          "ret": 0.006
+        },
+        "3m": {
+          "time": "2025-12-01 11:22:00+00:00",
+          "price": 962.0,
+          "ret": 0.015
+        }
+      },
+      "last_updated": "2025-09-01 14:57:43",
+      "forecast": "AI",
+      "sr_range_pct": 0.3843
+    },
+    {
+      "stock_code": "MCX",
+      "instrument_token": 7982337,
+      "ohlcv": {
+        "time": "2025-09-01 14:57:00+00:00",
+        "open": 7778.0,
+        "high": 7782.5,
+        "low": 7777.0,
+        "close": 7779.0,
+        "volume": 1402
+      },
+      "support": 7757.79,
+      "resistance": 7777.51,
+      "volume_threshold": 1500,
+      "bollinger": {
+        "mid_price": 7767.65,
+        "upper_band": 7777.51,
+        "lower_band": 7757.79
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated ohlcv to latest 1-min bar at 14:53",
+        "Adjusted support and resistance to recent 1-min Bollinger Bands lower and upper bands",
+        "Volume threshold unchanged due to stable recent volume",
+        "ADX threshold lowered to 20 reflecting recent ADX around 19.7-20.4",
+        "Bollinger bands updated to recent 1-min mid, upper, and lower values",
+        "Signal remains No Action due to price near mid Bollinger and low volume"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0013,
+          "price": 7662.43,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0045,
+          "price": 7807.36,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.022,
+          "price": 7939.95,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:58:07",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.2537
+    },
+    {
+      "stock_code": "GRSE",
+      "instrument_token": 1401601,
+      "ohlcv": {
+        "time": "2025-09-01 14:57:00+00:00",
+        "open": 2488.1,
+        "high": 2488.3,
+        "low": 2485.3,
+        "close": 2486.1,
+        "volume": 1380
+      },
+      "support": 2421.5,
+      "resistance": 2442.8,
+      "volume_threshold": 1933,
+      "bollinger": {
+        "mid_price": 2432.15,
+        "upper_band": 2442.55,
+        "lower_band": 2422.26
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Price remains near support level with sideways movement, indicating consolidation.",
+        "No significant change in ADX or MACD suggesting lack of strong trend.",
+        "Price stays within Bollinger bands, indicating low volatility and no breakout signals."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 2485.25,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 2497.02,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 2533.68,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": "2025-09-02",
+          "price": 2485.25,
+          "ret": 0.001
+        },
+        "1w": {
+          "time": "2025-09-08",
+          "price": 2497.02,
+          "ret": 0.005
+        },
+        "3m": {
+          "time": "2025-12-01",
+          "price": 2533.68,
+          "ret": 0.02
+        }
+      },
+      "last_updated": "2025-09-01 14:58:27",
+      "forecast": "AI",
+      "sr_range_pct": 0.857
+    },
+    {
+      "stock_code": "DELHIVERY",
+      "instrument_token": 2457345,
+      "ohlcv": {
+        "time": "2025-09-01 14:57:00+00:00",
+        "open": 473.55,
+        "high": 474.1,
+        "low": 473.55,
+        "close": 474.0,
+        "volume": 4052
+      },
+      "support": 474.45,
+      "resistance": 476.08,
+      "volume_threshold": 6868,
+      "bollinger": {
+        "mid_price": 473.145,
+        "upper_band": 473.5596082488288,
+        "lower_band": 472.73039175117117
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated latest OHLCV to most recent 1-min bar",
+        "Refreshed Bollinger bands to recent minute-level mid_price and upper_band",
+        "Price remains below resistance with volume below threshold, confirming resistance test",
+        "ADX remains below threshold indicating weak trend momentum",
+        "MACD histogram negative and slightly decreasing, suggesting bearish momentum"
+      ],
+      "signal": "Watch",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.002,
+          "price": 472.054,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": -0.005,
+          "price": 470.635,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.01,
+          "price": 477.73,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:58:47",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.3446
+    },
+    {
+      "stock_code": "PARAS",
+      "instrument_token": 1513217,
+      "ohlcv": {
+        "time": "2025-09-01 14:58:00+00:00",
+        "open": 661.25,
+        "high": 661.25,
+        "low": 660.85,
+        "close": 661.2,
+        "volume": 119
+      },
+      "support": 647.0,
+      "resistance": 649.35,
+      "volume_threshold": 463,
+      "bollinger": {
+        "mid_price": 648.17,
+        "upper_band": 649.22,
+        "lower_band": 647.51
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent recent indicator momentum remains bullish with positive MACD and +DI.",
+        "Price remains near support with no significant breakdown signals.",
+        "Bollinger bands are stable with slight expansion, indicating moderate volatility.",
+        "ADX remains above threshold, confirming trend strength.",
+        "Recent momentum suggests potential for short-term upward movement."
+      ],
+      "signal": "Bullish",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 674.4,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.035,
+          "price": 689.4,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.085,
+          "price": 727.4,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": "2025-09-02",
+          "price": 674.4,
+          "ret": 0.012
+        },
+        "1w": {
+          "time": "2025-09-08",
+          "price": 689.4,
+          "ret": 0.035
+        },
+        "3m": {
+          "time": "2025-12-01",
+          "price": 727.4,
+          "ret": 0.085
+        }
+      },
+      "last_updated": "2025-09-01 14:59:04",
+      "forecast": "AI",
+      "sr_range_pct": 0.3555
+    },
+    {
+      "stock_code": "RRKABEL",
+      "instrument_token": 4752897,
+      "ohlcv": {
+        "time": "2025-09-01 14:58:00+00:00",
+        "open": 1194.9,
+        "high": 1197.6,
+        "low": 1194.7,
+        "close": 1194.7,
+        "volume": 737
+      },
+      "support": 1191.82,
+      "resistance": 1195.11,
+      "volume_threshold": 427,
+      "bollinger": {
+        "mid_price": 1193.465,
+        "upper_band": 1195.1097,
+        "lower_band": 1191.8203
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 22.74
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated OHLCV to latest 1-minute bar data with higher volume",
+        "Refined support to latest Bollinger lower band (1191.82) reflecting recent volatility",
+        "Adjusted resistance to latest Bollinger upper band (1195.11) indicating current upper range",
+        "Volume increased but remains below threshold, indicating moderate trading interest",
+        "ADX stable above threshold (~29.94) indicating sustained moderate trend strength",
+        "Signal remains 'No Action' due to lack of strong momentum and volume confirmation"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0015,
+          "price": 1195.7,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.007,
+          "price": 1202.2,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.03,
+          "price": 1230.7,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:59:30",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.2756
+    },
+    {
+      "reason": [
+        "Recent daily candles show price approaching resistance with decreasing volatility, indicating potential consolidation.",
+        "Recent momentum indicators (MACD, ADX) suggest weakening trend strength, supporting a 'No Action' stance."
+      ],
+      "signal": "No Action",
+      "stock_code": "RTNINDIA",
+      "instrument_token": 6988033,
+      "ohlcv": {
+        "time": "2025-09-01 14:58:00+00:00",
+        "open": 61.89,
+        "high": 61.89,
+        "low": 61.84,
+        "close": 61.88,
+        "volume": 16921
+      },
+      "support": 53.75,
+      "resistance": 54.71,
+      "volume_threshold": 1984,
+      "bollinger": {
+        "mid_price": 54.23,
+        "upper_band": 54.71,
+        "lower_band": 53.75
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.005,
+          "price": 62.12,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 63.84,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 66.66,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:59:49",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 1.5514
+    },
+    {
+      "stock_code": "PARADEEP",
+      "instrument_token": 2493697,
+      "ohlcv": {
+        "time": "2025-09-01 14:59:00+00:00",
+        "open": 227.3,
+        "high": 227.45,
+        "low": 227.3,
+        "close": 227.3,
+        "volume": 41074
+      },
+      "support": 219.48,
+      "resistance": 227.07,
+      "volume_threshold": 19568,
+      "bollinger": {
+        "mid_price": 226.78,
+        "upper_band": 227.07,
+        "lower_band": 226.49
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Resistance raised slightly to 227.07 matching recent 1-min upper Bollinger band and high",
+        "Bollinger bands updated to latest recent data mid 226.78, upper 227.07, lower 226.49",
+        "Latest 1-min close 227.02 supports resistance near 227.07",
+        "Signal remains 'No Action' due to ADX below threshold and weak MACD histogram momentum"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.004,
+          "price": 227.93,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 230.43,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.05,
+          "price": 238.37,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 15:00:13",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 3.3433
+    },
+    {
+      "stock_code": "COCHINSHIP",
+      "instrument_token": 5506049,
+      "ohlcv": {
+        "time": "2025-09-01 14:59:00+00:00",
+        "open": 1673.0,
+        "high": 1674.4,
+        "low": 1672.2,
+        "close": 1672.6,
+        "volume": 2210
+      },
+      "support": 1695.26,
+      "resistance": 1763.4,
+      "volume_threshold": 1080,
+      "bollinger": {
+        "mid_price": 1729.33,
+        "upper_band": 1763.4,
+        "lower_band": 1695.26
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent price action shows slight upward momentum with close near resistance.",
+        "ADX remains below threshold, indicating no strong trend.",
+        "Price is within Bollinger bands, suggesting no breakout signal.",
+        "Moving averages are flat with no clear crossover.",
+        "Recent volume is below threshold, indicating lack of strong buying interest."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 1673.34,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 1684.56,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.025,
+          "price": 1714.25,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": "2025-09-02",
+          "price": 1673.34,
+          "ret": 0.002
+        },
+        "1w": {
+          "time": "2025-09-08",
+          "price": 1684.56,
+          "ret": 0.008
+        },
+        "3m": {
+          "time": "2025-11-01",
+          "price": 1714.25,
+          "ret": 0.025
+        }
+      },
+      "last_updated": "2025-09-01 15:00:34",
+      "forecast": "AI",
+      "sr_range_pct": 4.0871
+    },
+    {
+      "stock_code": "TRENT",
+      "instrument_token": 502785,
+      "ohlcv": {
+        "time": "2025-09-01 14:59:00+00:00",
+        "open": 5447.0,
+        "high": 5452.0,
+        "low": 5447.0,
+        "close": 5450.0,
+        "volume": 1885
+      },
+      "support": 5449.5,
+      "resistance": 5468.76,
+      "volume_threshold": 5776,
+      "bollinger": {
+        "mid_price": 5456.825,
+        "upper_band": 5464.2497895595,
+        "lower_band": 5449.4002104405
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Refreshed Bollinger Bands from recent 1-minute data showing slight widening",
+        "Latest close stable near support level with volume below threshold",
+        "ADX remains above threshold indicating sustained trend strength",
+        "MACD histogram slightly negative but momentum steady, no reversal signal"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0015,
+          "price": 5468.19,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 5504.28,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.035,
+          "price": 5653.12,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 15:00:57",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.3527
+    },
+    {
+      "stock_code": "POWERINDIA",
+      "instrument_token": 4724993,
+      "ohlcv": {
+        "time": "2025-09-01 15:00:00+00:00",
+        "open": 18986.0,
+        "high": 18989.0,
+        "low": 18974.0,
+        "close": 18982.0,
+        "volume": 225
+      },
+      "support": 19491.95,
+      "resistance": 20598.55,
+      "volume_threshold": 229,
+      "bollinger": {
+        "mid_price": 20045.25,
+        "upper_band": 20598.55,
+        "lower_band": 19491.95
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent daily candles show a slight downward trend with lower closes and MACD histogram negative, indicating weakening momentum.",
+        "Recent 1-minute data shows price near support level with no clear breakout signals, and ADX remains below threshold, indicating weak trend strength.",
+        "No significant change in Bollinger bands or volume to justify support/resistance adjustment."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0,
+          "price": 18973.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0,
+          "price": 18973.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.0,
+          "price": 18973.0,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 18973,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 18973,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 18973,
+          "ret": 0
+        }
+      },
+      "last_updated": "2025-09-01 15:01:15",
+      "forecast": "AI",
+      "sr_range_pct": 5.8325
+    },
+    {
+      "stock_code": "KAJARIACER",
+      "instrument_token": 462849,
+      "ohlcv": {
+        "time": "2025-09-01 15:00:00+00:00",
+        "open": 1229.0,
+        "high": 1229.0,
+        "low": 1228.3,
+        "close": 1228.5,
+        "volume": 437
+      },
+      "support": 1209.55,
+      "resistance": 1235.62,
+      "volume_threshold": 668,
+      "bollinger": {
+        "mid_price": 1223.68,
+        "upper_band": 1235.62,
+        "lower_band": 1211.74
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated latest OHLCV from recent 1-minute data for accuracy.",
+        "Resistance adjusted slightly higher to 1235.62 based on recent Bollinger upper band from 1-minute data.",
+        "Bollinger bands updated to reflect recent volatility and price levels.",
+        "Support and volume threshold retained as recent data confirms stability near these levels.",
+        "Signal remains 'No Action' due to ADX below threshold and stable price near support."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 1231.46,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.01,
+          "price": 1241.29,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.035,
+          "price": 1273.02,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 15:01:36",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 2.1212
+    },
+    {
+      "stock_code": "FORCEMOT",
+      "instrument_token": 2962689,
+      "ohlcv": {
+        "time": "2025-09-01 15:00:00+00:00",
+        "open": 19100.0,
+        "high": 19109.0,
+        "low": 19090.0,
+        "close": 19091.0,
+        "volume": 236
+      },
+      "support": 20576.82,
+      "resistance": 21915.58,
+      "volume_threshold": 78,
+      "bollinger": {
+        "mid_price": 21246.2,
+        "upper_band": 21915.58,
+        "lower_band": 20576.82
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent daily candles show price near support level with bullish momentum (Close rising from 20047 to 20869).",
+        "Recent indicator data indicates positive trend with ADX above threshold (50.79), suggesting strong trend strength.",
+        "Price is within Bollinger bands, with slight upward movement, indicating potential for continuation."
+      ],
+      "signal": "Bullish",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 19250.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.045,
+          "price": 19660.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.12,
+          "price": 21500.0,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 19250.0,
+          "ret": 0.012
+        },
+        "1w": {
+          "time": null,
+          "price": 19660.0,
+          "ret": 0.045
+        },
+        "3m": {
+          "time": null,
+          "price": 21500.0,
+          "ret": 0.12
+        }
+      },
+      "last_updated": "2025-09-01 15:01:57",
+      "forecast": "AI",
+      "sr_range_pct": 7.0055
+    },
+    {
+      "stock_code": "POLYCAB",
+      "instrument_token": 2455041,
+      "ohlcv": {
+        "time": "2025-09-01 15:01:00+00:00",
+        "open": 7147.5,
+        "high": 7150.5,
+        "low": 7147.5,
+        "close": 7150.0,
+        "volume": 563
+      },
+      "support": 7068.0,
+      "resistance": 7159.0,
+      "volume_threshold": 806,
+      "bollinger": {
+        "mid_price": 7143.65,
+        "upper_band": 7153.06,
+        "lower_band": 7134.24
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Resistance updated from 7100.0 to 7159.0 based on recent high near 7159.0",
+        "Bollinger bands updated to reflect recent mid, upper, and lower values from recent data",
+        "Signal remains 'No Action' due to weak momentum and ADX below threshold"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0025,
+          "price": 7155.84,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0075,
+          "price": 7191.53,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.025,
+          "price": 7313.94,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 15:02:21",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 1.275
+    },
+    {
+      "reason": [
+        "Recent price action shows a significant upward move, crossing above the resistance level of 2828.8, indicating potential bullish momentum.",
+        "The latest candle indicates a strong bullish body with a body percent exceeding 0.7, supporting a bullish bias.",
+        "The ADX value remains above the threshold of 20, confirming the trend strength is still significant.",
+        "The recent momentum indicators (MACD, +DI, -DI) suggest continued bullish pressure.",
+        "Support and resistance levels are close, but the breakout above resistance suggests a potential new upward trend."
+      ],
+      "signal": "Bullish Breakout",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 2928.8,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.035,
+          "price": 2974.4,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.085,
+          "price": 3194.4,
+          "method": "llm_v1"
+        }
+      },
+      "ohlcv": {
+        "time": "2025-09-01 14:46:00+00:00",
+        "open": 2912.0,
+        "high": 2913.8,
+        "low": 2911.2,
+        "close": 2913.1,
+        "volume": 161
+      },
+      "support": 2792.13,
+      "resistance": 2828.8,
+      "volume_threshold": 45,
+      "bollinger": {
+        "mid_price": 2912.7,
+        "upper_band": 2914.6,
+        "lower_band": 2910.8
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 2912.7,
+        "ma_slow": 2911.7
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "last_updated": "2025-09-01 14:47:58",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 1.2585
+    },
+    {
+      "stock_code": "CHOLAHLDNG",
+      "instrument_token": 5565441,
+      "ohlcv": {
+        "time": "2025-09-01 14:47:00+00:00",
+        "open": 1759.9,
+        "high": 1760.0,
+        "low": 1752.0,
+        "close": 1753.3,
+        "volume": 1686
+      },
+      "support": 1765.1,
+      "resistance": 1769.5,
+      "volume_threshold": 600,
+      "bollinger": {
+        "mid_price": 1767.2,
+        "upper_band": 1769.1339079605943,
+        "lower_band": 1765.2660920394057
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support and resistance to recent Bollinger lower and upper bands",
+        "Volume threshold adjusted to recent average volume (~275) rounded to 600 for noise tolerance",
+        "Bollinger bands updated to recent values from 1-min data",
+        "Signal remains 'No Action' due to weak momentum and ADX below threshold"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.005,
+          "price": 1757.6675,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.002,
+          "price": 1770.833,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 1793.4975,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:48:18",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.2491
+    },
+    {
+      "stock_code": "NATCOPHARM",
+      "instrument_token": 1003009,
+      "ohlcv": {
+        "time": "2025-09-01 14:47:00+00:00",
+        "open": 868.0,
+        "high": 868.0,
+        "low": 867.35,
+        "close": 867.35,
+        "volume": 122
+      },
+      "support": 880.22,
+      "resistance": 883.6,
+      "volume_threshold": 1633,
+      "bollinger": {
+        "mid_price": 881.91,
+        "upper_band": 883.32,
+        "lower_band": 880.25
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent daily candles show a slight upward momentum with support near 880.22 and resistance at 883.6.",
+        "Historical data indicates a consolidation phase with Bollinger bands tight around current price, suggesting low volatility breakout potential.",
+        "Recent indicator readings (MACD, ADX, DMI) show no strong trend, supporting a 'No Action' stance."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 888.74,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 888.83,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 894.09,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "last_updated": "2025-09-01 14:48:39",
+      "forecast": "AI",
+      "sr_range_pct": 0.3895
+    },
+    {
+      "stock_code": "GMDCLTD",
+      "instrument_token": 1332225,
+      "ohlcv": {
+        "time": "2025-09-01 14:47:00+00:00",
+        "open": 429.85,
+        "high": 429.95,
+        "low": 429.05,
+        "close": 429.8,
+        "volume": 10886
+      },
+      "support": 427.8,
+      "resistance": 431.75,
+      "volume_threshold": 7586,
+      "bollinger": {
+        "mid_price": 429.59,
+        "upper_band": 431.01,
+        "lower_band": 428.17
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support and resistance to recent 20-day low and high from recent data (427.8 and 431.75)",
+        "Refreshed Bollinger Bands from recent data (mid 429.59, upper 431.01, lower 428.17)",
+        "Latest close price 430.1 above mid Bollinger and near resistance, indicating slight bullish momentum",
+        "ADX near threshold (~18.3) suggests moderate trend strength",
+        "Volume below threshold, so no strong volume confirmation"
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.004,
+          "price": 431.82,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.012,
+          "price": 435.22,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 449.55,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:49:00",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.9196
+    },
+    {
+      "stock_code": "ETERNAL",
+      "instrument_token": 1304833,
+      "ohlcv": {
+        "time": "2025-09-01 14:48:00+00:00",
+        "open": 321.9,
+        "high": 321.9,
+        "low": 321.75,
+        "close": 321.9,
+        "volume": 30529
+      },
+      "support": 316.0,
+      "resistance": 323.7,
+      "volume_threshold": 15000,
+      "bollinger": {
+        "mid_price": 316.45,
+        "upper_band": 316.55,
+        "lower_band": 316.35
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 316.45,
+        "ma_slow": 316.45
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Recent daily candles show consolidation near support and resistance levels.",
+        "Recent indicator momentum remains neutral with minimal divergence.",
+        "Price remains within Bollinger Bands, indicating low volatility."
+      ],
+      "signal": "Hold",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 321.7,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 323.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 326.0,
+          "method": "llm_v1"
+        }
+      },
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 321.7,
+          "ret": 0.001
+        },
+        "1w": {
+          "time": null,
+          "price": 323.0,
+          "ret": 0.005
+        },
+        "3m": {
+          "time": null,
+          "price": 326.0,
+          "ret": 0.015
+        }
+      },
+      "last_updated": "2025-09-01 14:49:20",
+      "forecast": "AI",
+      "sr_range_pct": 2.3935
+    },
+    {
+      "stock_code": "RPOWER-BE",
+      "instrument_token": 3906817,
+      "ohlcv": {
+        "time": "2025-09-01 14:48:00+00:00",
+        "open": 44.23,
+        "high": 44.25,
+        "low": 43.99,
+        "close": 44.0,
+        "volume": 183336
+      },
+      "support": 44.4,
+      "resistance": 44.55,
+      "volume_threshold": 7155,
+      "bollinger": {
+        "mid_price": 44.442,
+        "upper_band": 44.494,
+        "lower_band": 44.39
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support and resistance to recent Bollinger bands and price extremes.",
+        "Volume remains above threshold, confirming liquidity.",
+        "ADX remains strong above threshold indicating trend strength.",
+        "Recent close near lower Bollinger band suggests short-term support.",
+        "MACD histogram positive but small, indicating mild bullish momentum."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.005,
+          "price": 44.63,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 45.07,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.05,
+          "price": 46.63,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-01 14:49:42",
+      "forecast": "AI",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "sr_range_pct": 0.3375
+    }
+  ]
+}

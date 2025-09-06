@@ -1,0 +1,20 @@
+timestamp,raw_response
+2025-08-19 14:24:26,"{
+  ""stock_code"": ""CLEAN"",
+  ""instrument_token"": 1292545,
+  ""support"": 1149.0,
+  ""resistance"": 1239.9,
+  ""volume_threshold"": 104019,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 40
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout above previous resistance at 1162.6, indicating potential bullish momentum."",
+    ""Support adjusted to recent low of 1149.0 to reflect recent price action."",
+    ""Resistance increased to 1239.9 based on recent high, suggesting a new short-term target."",
+    ""ADX increased to 40, indicating a strengthening trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:23:00"",
+  ""signal"": ""Buy""
+}"

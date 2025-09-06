@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:22:37,"{
+  ""stock_code"": ""RALLIS"",
+  ""instrument_token"": 720897,
+  ""support"": 370.0,
+  ""resistance"": 385.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 371.5,
+    ""upper_band"": 373.5,
+    ""lower_band"": 369.5
+  },
+  ""macd"": {
+    ""signal_line"": 11.0,
+    ""histogram"": -1.0,
+    ""ma_fast"": 372.07,
+    ""ma_slow"": 371.92,
+    ""ma_signal"": 11.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 372,
+    ""ma_slow"": 372
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward trend with increased volume and a bullish MACD crossover."",
+    ""Support adjusted upward to 370 based on recent lows."",
+    ""Resistance adjusted to 385 considering recent highs and breakout signals."",
+    ""Volatility remains stable; Bollinger bands indicate consolidation near current levels.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:16:37,"{
+  ""stock_code"": ""CANFINHOME"",
+  ""instrument_token"": 149249,
+  ""support"": 745.2,
+  ""resistance"": 767.1,
+  ""volume_threshold"": 800000,
+  ""bollinger"": {
+    ""mid_price"": 766.68,
+    ""upper_band"": 767.09,
+    ""lower_band"": 766.28
+  },
+  ""macd"": {
+    ""signal_line"": -0.0305,
+    ""histogram"": 0.0004,
+    ""ma_fast"": 766.75,
+    ""ma_slow"": 766.69,
+    ""ma_signal"": -0.0305
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 18
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 745.2 from 2025-08-14 candle."",
+    ""Resistance updated to recent high of 767.1 from recent 1-minute data."",
+    ""Volume threshold lowered to 800000 reflecting recent volume trends."",
+    ""Bollinger bands updated to recent values from 1-minute data."",
+    ""MACD parameters updated to recent values indicating neutral momentum."",
+    ""ADX threshold lowered to 18 due to recent ADX values around 18-24 indicating moderate trend strength."",
+    ""Signal set to Hold due to price near resistance with moderate trend strength and neutral MACD histogram.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

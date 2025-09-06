@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:24:46,"{
+  ""stock_code"": ""TARSONS"",
+  ""instrument_token"": 1777409,
+  ""support"": 338.75,
+  ""resistance"": 339.12,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 338.87,
+    ""upper_band"": 339.12,
+    ""lower_band"": 338.39
+  },
+  ""macd"": {
+    ""signal_line"": 0.0467,
+    ""histogram"": 0.0393,
+    ""ma_fast"": 338.87,
+    ""ma_slow"": 338.76,
+    ""ma_signal"": 338.76
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 338.87,
+    ""ma_slow"": 338.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with minimal volatility."",
+    ""No significant breakout or breakdown signals observed in recent data."",
+    ""Volume remains stable, not indicating major trend shifts.""
+  ],
+  ""last_updated"": ""2025-08-19 14:23:00"",
+  ""signal"": ""Hold""
+}"

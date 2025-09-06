@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:30:58,"{
+  ""stock_code"": ""HSCL"",
+  ""instrument_token"": 3669505,
+  ""support"": 460.0,
+  ""resistance"": 480.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 475.39,
+    ""upper_band"": 477.19,
+    ""lower_band"": 473.59
+  },
+  ""macd"": {
+    ""signal_line"": -6.50,
+    ""histogram"": -2.31,
+    ""ma_fast"": 461.73,
+    ""ma_slow"": 482.82,
+    ""ma_signal"": -8.81
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 460 based on recent lows around 465 and 466."",
+    ""Resistance updated to 480 based on recent highs touching 480.9 and 480.5."",
+    ""Bollinger Bands updated to recent values reflecting current price volatility."",
+    ""MACD values updated to recent calculated values indicating slight bearish momentum."",
+    ""Signal set to Hold due to price consolidating near resistance with no strong breakout or breakdown.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

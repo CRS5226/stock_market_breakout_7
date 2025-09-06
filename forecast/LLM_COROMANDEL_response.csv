@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:13:18,"{
+  ""stock_code"": ""COROMANDEL"",
+  ""instrument_token"": 189185,
+  ""support"": 2383.7,
+  ""resistance"": 2453.0,
+  ""volume_threshold"": 900000,
+  ""bollinger"": {
+    ""mid_price"": 2400.913,
+    ""upper_band"": 2404.944,
+    ""lower_band"": 2396.882
+  },
+  ""macd"": {
+    ""signal_line"": -0.518,
+    ""histogram"": -0.564,
+    ""ma_fast"": 2399.97,
+    ""ma_slow"": 2400.91,
+    ""ma_signal"": -0.518
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong downtrend with support breaking below previous support levels."",
+    ""Breakout below support at 2383.7 indicates potential further decline, justifying lowering support threshold."",
+    ""Volume has decreased significantly, but recent price action suggests increased bearish momentum."",
+    ""MACD remains negative with decreasing histogram, indicating sustained downward pressure."",
+    ""Support adjusted downward to reflect recent lows; resistance remains near previous levels due to lack of reversal signals.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Sell""
+}"

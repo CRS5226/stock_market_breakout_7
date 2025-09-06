@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:29:07,"{
+  ""stock_code"": ""RANEHOLDIN"",
+  ""instrument_token"": 728065,
+  ""support"": 1466.9,
+  ""resistance"": 1467.055,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1466.2667,
+    ""upper_band"": 1469.5836,
+    ""lower_band"": 1464.5264
+  },
+  ""macd"": {
+    ""signal_line"": 0.0341,
+    ""histogram"": -0.0935,
+    ""ma_fast"": 1466.2667,
+    ""ma_slow"": 1467.055,
+    ""ma_signal"": 1464.5264
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1466.2667,
+    ""ma_slow"": 1467.055
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with no clear breakout signals."",
+    ""No significant trend change or breakout detected in recent data."",
+    ""Support and resistance levels remain stable based on recent hourly candles.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

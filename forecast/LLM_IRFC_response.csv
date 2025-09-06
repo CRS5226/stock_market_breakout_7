@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:08:47,"{
+  ""stock_code"": ""IRFC"",
+  ""instrument_token"": 519425,
+  ""support"": 124.5,
+  ""resistance"": 126.35,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 125.822,
+    ""upper_band"": 125.89,
+    ""lower_band"": 125.754
+  },
+  ""macd"": {
+    ""signal_line"": 0.019590853541530357,
+    ""histogram"": 0.007508816091088982,
+    ""ma_fast"": 0.02709966963261934,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 124.5 reflecting recent price floor."",
+    ""Resistance updated to recent high of 126.35 reflecting recent price ceiling."",
+    ""Bollinger Bands updated to recent 1-minute data for short-term precision."",
+    ""MACD parameters updated to recent 1-minute values indicating slight bullish momentum."",
+    ""Signal maintained as Hold due to consolidation near resistance and support with low volatility.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

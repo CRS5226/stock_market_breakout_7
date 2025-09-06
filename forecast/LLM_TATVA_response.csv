@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:17:06,"{
+  ""stock_code"": ""TATVA"",
+  ""instrument_token"": 1321473,
+  ""support"": 1030.0,
+  ""resistance"": 1085.0,
+  ""volume_threshold"": 90000,
+  ""bollinger"": {
+    ""mid_price"": 1082.17,
+    ""upper_band"": 1085.06,
+    ""lower_band"": 1079.28
+  },
+  ""macd"": {
+    ""signal_line"": -0.29,
+    ""histogram"": -0.26,
+    ""ma_fast"": 1081.63,
+    ""ma_slow"": 1082.17,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1030 based on recent lows around 1031.5 and 1036.2."",
+    ""Resistance updated to 1085 based on recent highs touching 1085.8 and 1085.0."",
+    ""Volume threshold lowered to 90000 reflecting recent daily volumes around 49005 to 188003 with recent 1-min volume at 437 indicating lower short-term volume."",
+    ""Bollinger Bands updated to recent 1-min values for mid, upper, and lower bands."",
+    ""MACD parameters updated to recent 1-min values reflecting slight bearish histogram and signal line."",
+    ""Signal set to Hold due to price near resistance but no breakout and weak MACD histogram.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

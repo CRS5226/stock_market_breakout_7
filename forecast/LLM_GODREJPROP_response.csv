@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:14:36,"{
+  ""stock_code"": ""GODREJPROP"",
+  ""instrument_token"": 4576001,
+  ""support"": 1935.0,
+  ""resistance"": 2003.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2000.25,
+    ""upper_band"": 2003.0,
+    ""lower_band"": 1997.6
+  },
+  ""macd"": {
+    ""signal_line"": 0.98,
+    ""histogram"": -0.20,
+    ""ma_fast"": 2000.53,
+    ""ma_slow"": 2000.26,
+    ""ma_signal"": 0.78
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1935.0 based on recent lows around 1934.8-1935.0 in last week."",
+    ""Resistance updated to 2003.0 reflecting recent upper Bollinger Band and recent highs near 2002.9."",
+    ""Bollinger Bands updated to recent values from 1-minute data indicating tight range around 2000."",
+    ""MACD parameters updated to reflect recent positive signal line and slightly negative histogram indicating weakening bearish momentum."",
+    ""Signal set to Hold due to price consolidating near resistance with low volume and no breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

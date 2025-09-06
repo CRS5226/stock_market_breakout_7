@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:09:19,"{
+  ""stock_code"": ""IDBI"",
+  ""instrument_token"": 377857,
+  ""support"": 87.5,
+  ""resistance"": 89.75,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 89.22,
+    ""upper_band"": 89.2629,
+    ""lower_band"": 89.1771
+  },
+  ""macd"": {
+    ""signal_line"": -1.4452,
+    ""histogram"": -0.22797,
+    ""ma_fast"": 89.2167,
+    ""ma_slow"": 89.22,
+    ""ma_signal"": 89.1771
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 89.22,
+    ""ma_slow"": 89.22
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with tight Bollinger bands, indicating low volatility."",
+    ""MACD histogram remains negative but close to zero, suggesting potential for a bullish crossover."",
+    ""ADX remains below 20, indicating a weak trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:07:00"",
+  ""signal"": ""Hold""
+}"

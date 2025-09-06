@@ -1,0 +1,87 @@
+timestamp,raw_response
+2025-08-19 14:43:03,"{
+  ""stock_code"": ""ICICIBANK"",
+  ""instrument_token"": 1270529,
+  ""support"": 1408.0,
+  ""resistance"": 1440.0,
+  ""volume_threshold"": 7500000,
+  ""bollinger"": {
+    ""mid_price"": 1435.875,
+    ""upper_band"": 1438.62,
+    ""lower_band"": 1433.13
+  },
+  ""macd"": {
+    ""signal_line"": 0.7185,
+    ""histogram"": 0.1235,
+    ""ma_fast"": 1437.11,
+    ""ma_slow"": 1435.88,
+    ""ma_signal"": 0.842
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 18
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1408 based on recent lows and 20-day lower Bollinger Band."",
+    ""Resistance updated to 1440 reflecting recent highs near upper Bollinger Band and 20-day high."",
+    ""Volume threshold lowered to 7.5 million due to recent volume trends being below previous threshold."",
+    ""Bollinger Bands updated to recent values from 1-minute data."",
+    ""MACD parameters updated to recent values indicating mild bullish momentum."",
+    ""ADX threshold lowered to 18 reflecting slightly weaker trend strength in recent data."",
+    ""Signal set to Hold due to price near upper Bollinger Band but volume and ADX not strongly confirming breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:23:45,"{
+  ""stock_code"": ""ICICIBANK"",
+  ""instrument_token"": 1270529,
+  ""support"": 1408.0,
+  ""resistance"": 1440.0,
+  ""volume_threshold"": 7500000,
+  ""bollinger"": {
+    ""mid_price"": 1437.11,
+    ""upper_band"": 1438.62,
+    ""lower_band"": 1433.13
+  },
+  ""macd"": {
+    ""signal_line"": 0.7185,
+    ""histogram"": 0.1235,
+    ""ma_fast"": 1437.11,
+    ""ma_slow"": 1435.88,
+    ""ma_signal"": 0.842
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 18
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No significant breakout or breakdown in recent 1-minute data to justify changing support or resistance."",
+    ""Volume remains below threshold, no adjustment needed."",
+    ""Bollinger Bands and MACD parameters remain consistent with recent data, no update required."",
+    ""ADX threshold remains appropriate given stable trend strength."",
+    ""Signal set to Hold due to price near upper Bollinger Band but lack of strong volume or ADX confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:45:00"",
+  ""signal"": ""Hold""
+}"

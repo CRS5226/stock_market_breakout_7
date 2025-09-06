@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:21:31,"{
+  ""stock_code"": ""FINEORG"",
+  ""instrument_token"": 958465,
+  ""support"": 4818.5,
+  ""resistance"": 4833.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 4824.52,
+    ""upper_band"": 4831.17,
+    ""lower_band"": 4818.38
+  },
+  ""macd"": {
+    ""signal_line"": 0.0055,
+    ""histogram"": 0.048,
+    ""ma_fast"": 4823.78,
+    ""ma_slow"": 4824.78,
+    ""ma_signal"": 4824.52
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 4823,
+    ""ma_slow"": 4824
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout; support adjusted slightly lower to 4818.5."",
+    ""Resistance remains at 4833 based on recent high activity."",
+    ""No significant trend change or breakout observed in recent data; parameters maintained.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

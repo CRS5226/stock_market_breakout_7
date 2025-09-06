@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:27:58,"{
+  ""stock_code"": ""SPARC"",
+  ""instrument_token"": 3785729,
+  ""support"": 141.38,
+  ""resistance"": 147.2,
+  ""volume_threshold"": 2500000,
+  ""bollinger"": {
+    ""mid_price"": 147.2015,
+    ""upper_band"": 147.5119,
+    ""lower_band"": 146.8911
+  },
+  ""macd"": {
+    ""signal_line"": -0.0394,
+    ""histogram"": -0.0032,
+    ""ma_fast"": 147.1544,
+    ""ma_slow"": 147.2015,
+    ""ma_signal"": -0.0426
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 147.1544,
+    ""ma_slow"": 147.2015
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands and stable moving averages, indicating low volatility and no clear breakout signals."",
+    ""Support adjusted slightly downward to recent lows (141.38) to reflect recent price lows."",
+    ""Resistance adjusted upward to recent highs (147.2) to account for recent peaks."",
+    ""Volume threshold increased to 2,500,000 due to recent volume spikes indicating potential accumulation."",
+    ""No significant trend or breakout detected; maintaining current indicator parameters.""
+  ],
+  ""last_updated"": ""2025-08-19 14:26:00"",
+  ""signal"": ""Hold""
+}"

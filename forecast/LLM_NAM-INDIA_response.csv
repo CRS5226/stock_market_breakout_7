@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:11:57,"{
+  ""stock_code"": ""NAM-INDIA"",
+  ""instrument_token"": 91393,
+  ""support"": 800.0,
+  ""resistance"": 860.0,
+  ""volume_threshold"": 800,
+  ""bollinger"": {
+    ""mid_price"": 855.6076923076923,
+    ""upper_band"": 857.3874270130071,
+    ""lower_band"": 853.8279576023775
+  },
+  ""macd"": {
+    ""signal_line"": 0.22491439916882514,
+    ""histogram"": -0.08915023973281763,
+    ""ma_fast"": 0.1357641594360075,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 10.6
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 800.0 based on recent historical lows around 799-805."",
+    ""Resistance updated to 860.0 reflecting recent upper Bollinger Band and recent highs."",
+    ""Volume threshold lowered to 800 due to significantly lower recent volumes (~789)."",
+    ""Bollinger Bands updated to recent mid, upper, and lower band values from recent data."",
+    ""MACD parameters updated to recent values indicating weakening momentum."",
+    ""ADX threshold lowered to 10.6 reflecting recent ADX value indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Buy""
+}"

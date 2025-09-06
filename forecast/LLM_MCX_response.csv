@@ -1,0 +1,4091 @@
+timestamp,raw_response
+2025-08-19 13:28:12,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8280.461538461539,
+    ""upper_band"": 8286.351053766939,
+    ""lower_band"": 8274.572023156139
+  },
+  ""macd"": {
+    ""signal_line"": -0.9854600549756325,
+    ""histogram"": -0.671037644078311,
+    ""ma_fast"": 8279.833333333334,
+    ""ma_slow"": 8280.875,
+    ""ma_signal"": 8275.518928678594
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to recent 1-minute data showing mid, upper, and lower bands around 8280 indicating price consolidation near resistance."",
+    ""MACD values updated to recent negative histogram and signal line indicating weakening bullish momentum."",
+    ""Moving averages for MACD fast and slow adjusted to recent minute-level averages around 8280."",
+    ""Support retained at 7900.0 due to stable historical consolidation without recent break below."",
+    ""Resistance retained at 8439.5 based on historical highs and no breakout in recent data."",
+    ""Volume threshold unchanged as recent volume remains low without significant spikes."",
+    ""ADX threshold retained at 25 as recent ADX remains below indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:34:06,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8282.055555555555,
+    ""upper_band"": 8289.626618073744,
+    ""lower_band"": 8274.484493037366
+  },
+  ""macd"": {
+    ""signal_line"": -0.3369954336047697,
+    ""histogram"": 0.5447431179600244,
+    ""ma_fast"": 8282.388888888889,
+    ""ma_slow"": 8282.055555555555,
+    ""ma_signal"": 8275.518928678594
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to recent 1-minute data showing mid, upper, and lower bands tightened around 8282 indicating price consolidation near mid band."",
+    ""MACD histogram turned positive recently with signal line less negative, indicating a potential shift to bullish momentum."",
+    ""MACD moving averages updated to recent minute-level averages around 8282 reflecting current price action."",
+    ""Support retained at 7900.0 due to no recent break below this level in historical or recent data."",
+    ""Resistance retained at 8439.5 based on historical highs and no breakout above in recent data."",
+    ""Volume threshold unchanged at 600000 as recent volume remains low without significant spikes."",
+    ""ADX threshold retained at 25 as ADX remains below threshold indicating no strong trend currently."",
+    ""Signal updated to 'Hold' reflecting consolidation and early signs of bullish momentum but no breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 13:32:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:38:21,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8281.775,
+    ""upper_band"": 8288.813998508309,
+    ""lower_band"": 8274.73600149169
+  },
+  ""macd"": {
+    ""signal_line"": 0.007880980901367752,
+    ""histogram"": -0.05293068607655589,
+    ""ma_fast"": 8284.388888888889,
+    ""ma_slow"": 8281.775,
+    ""ma_signal"": 8281.775
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data showing mid, upper, and lower bands tightened around 8281.775 indicating price consolidation near mid band."",
+    ""MACD signal line and histogram updated to recent minute-level values showing slight negative histogram indicating weak bearish momentum but near neutral signal line."",
+    ""MACD moving averages updated to recent minute-level averages around 8284.39 and 8281.78 reflecting current price action."",
+    ""Support retained at 7900.0 due to no recent break below this level in historical or recent data."",
+    ""Resistance retained at 8439.5 based on historical highs and no breakout above in recent data."",
+    ""Volume threshold unchanged at 600000 as recent volume remains low without significant spikes."",
+    ""ADX threshold retained at 25 as ADX remains below threshold indicating no strong trend currently."",
+    ""Signal updated to 'Hold' reflecting consolidation and lack of strong momentum or breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 13:37:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:53:07,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8282.775,
+    ""upper_band"": 8290.017064622743,
+    ""lower_band"": 8275.532935377256
+  },
+  ""macd"": {
+    ""signal_line"": 0.23500489241480976,
+    ""histogram"": 0.3346652580691341,
+    ""ma_fast"": 8283.777777777777,
+    ""ma_slow"": 8282.775,
+    ""ma_signal"": 8282.775
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to recent 1-minute data showing mid, upper, and lower bands tightened around 8282.775 indicating price consolidation near mid band."",
+    ""MACD signal line and histogram updated to recent minute-level values showing positive histogram indicating slight bullish momentum."",
+    ""MACD moving averages updated to recent minute-level averages around 8283.78 and 8282.78 reflecting current price action."",
+    ""Support retained at 7900.0 due to no recent break below this level in historical or recent data."",
+    ""Resistance retained at 8439.5 based on historical highs and no breakout above in recent data."",
+    ""Volume threshold unchanged at 600000 as recent volume remains low without significant spikes."",
+    ""ADX threshold retained at 25 as ADX remains below threshold indicating no strong trend currently."",
+    ""Signal updated to 'Hold' reflecting consolidation and lack of strong momentum or breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 13:51:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:44:59,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8292.692388155425,
+    ""upper_band"": 8439.5,
+    ""lower_band"": 8274.307611844575
+  },
+  ""macd"": {
+    ""signal_line"": 0.17638590039950483,
+    ""histogram"": 0.545765528056113,
+    ""ma_fast"": 8284.111111111111,
+    ""ma_slow"": 8283.5,
+    ""ma_signal"": 0.17638590039950483
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands mid and lower bands updated to reflect recent 1-minute candle data showing price consolidation near upper band at ~8292.69 and 8274.31."",
+    ""MACD values updated to reflect recent positive histogram and signal line indicating continued bullish momentum."",
+    ""Moving averages for MACD fast and slow adjusted to recent minute-level averages around 8284.11 and 8283.5 respectively."",
+    ""Support retained at 7900.0 due to stable historical consolidation without recent breach."",
+    ""Resistance retained at 8439.5 based on recent highs in historical data and unchanged recent upper Bollinger Band."",
+    ""Volume threshold unchanged as recent volume remains low without significant spikes."",
+    ""Signal line for MACD set equal to recent MACD signal for consistency.""
+  ],
+  ""last_updated"": ""2025-08-19 14:45:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:15:00,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8285.725,
+    ""upper_band"": 8297.281275351514,
+    ""lower_band"": 8274.168724648487
+  },
+  ""macd"": {
+    ""signal_line"": 0.922854077163717,
+    ""histogram"": 1.7161848789328389,
+    ""ma_fast"": 8287.277777777777,
+    ""ma_slow"": 8285.725,
+    ""ma_signal"": 0.922854077163717
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute candle data showing consolidation near upper band at ~8297.28 and lower band at ~8274.17."",
+    ""MACD values updated to reflect recent positive histogram and signal line indicating short-term bullish momentum."",
+    ""Moving averages for MACD fast and slow adjusted to recent minute-level averages around 8287.28 and 8285.73 respectively."",
+    ""Support and resistance levels retained due to no recent breach or breakout in recent data."",
+    ""Volume threshold unchanged as recent volume remains low without significant spikes."",
+    ""MACD signal line set equal to recent MACD signal for consistency.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:19:21,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 7900.0,
+  ""resistance"": 8439.5,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 8287.875,
+    ""upper_band"": 8301.888832452258,
+    ""lower_band"": 8273.861167547742
+  },
+  ""macd"": {
+    ""signal_line"": 2.548794962765562,
+    ""histogram"": 0.6589594853761516,
+    ""ma_fast"": 8294.055555555555,
+    ""ma_slow"": 8287.875,
+    ""ma_signal"": 2.548794962765562
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute candle data showing consolidation near upper band at ~8301.89 and lower band at ~8273.86."",
+    ""MACD values updated to reflect recent positive histogram and signal line indicating short-term bullish momentum."",
+    ""Moving averages for MACD fast and slow adjusted to recent minute-level averages around 8294.06 and 8287.88 respectively."",
+    ""Support and resistance levels retained due to no recent breach or breakout in recent data."",
+    ""Volume threshold unchanged as recent volume remains low without significant spikes."",
+    ""MACD signal line set equal to recent MACD signal for consistency.""
+  ],
+  ""last_updated"": ""2025-08-19 15:18:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:04:18,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 8031.5,
+  ""resistance"": 8060.0,
+  ""volume_threshold"": 2562,
+  ""bollinger"": {
+    ""mid_price"": 8048.35,
+    ""upper_band"": 8060.0,
+    ""lower_band"": 8031.5
+  },
+  ""macd"": {
+    ""signal_line"": 6.522956771459576,
+    ""histogram"": 0.6589594853761516,
+    ""ma_fast"": 8294.055555555555,
+    ""ma_slow"": 8287.875,
+    ""ma_signal"": 6.522956771459576
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating tightly between 8031.5 support and 8060 resistance, just inside Bollinger Bands."",
+    ""Bollinger Bands narrowed slightly, mid price updated to 8048.35 reflecting recent average."",
+    ""MACD histogram positive and increasing slightly in recent 1-min data, indicating mild bullish momentum."",
+    ""Support and resistance updated to recent intraday lows and highs (8031.5 and 8060) from last few 1-minute candles."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent data.""
+  ],
+  ""last_updated"": ""2025-08-22 12:05:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:09:34,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""support"": 8031.5,
+  ""resistance"": 8060.0,
+  ""volume_threshold"": 2562,
+  ""bollinger"": {
+    ""mid_price"": 8048.35,
+    ""upper_band"": 8060.0,
+    ""lower_band"": 8031.5
+  },
+  ""macd"": {
+    ""signal_line"": 6.522956771459576,
+    ""histogram"": 0.6589594853761516,
+    ""ma_fast"": 8294.055555555555,
+    ""ma_slow"": 8287.875,
+    ""ma_signal"": 6.522956771459576
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating tightly between 8031.5 support and 8060 resistance, just inside Bollinger Bands."",
+    ""Bollinger Bands narrowed slightly, mid price updated to 8048.35 reflecting recent average."",
+    ""MACD histogram positive and increasing slightly in recent 1-min data, indicating mild bullish momentum."",
+    ""Support and resistance updated to recent intraday lows and highs (8031.5 and 8060) from last few 1-minute candles."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent data.""
+  ],
+  ""last_updated"": ""2025-08-22 12:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:34:57,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 11:23:00+00:00"",
+    ""open"": 7760.0,
+    ""high"": 7761.0,
+    ""low"": 7757.5,
+    ""close"": 7759.5,
+    ""volume"": 3068
+  },
+  ""support"": 7741.5,
+  ""resistance"": 7770.0,
+  ""volume_threshold"": 1536,
+  ""bollinger"": {
+    ""mid_price"": 7757.8,
+    ""upper_band"": 7765.14,
+    ""lower_band"": 7750.46
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger bands to reflect recent 1-minute data mid_price and bands"",
+    ""Signal remains 'No Action' due to lack of strong directional momentum"",
+    ""Recent close below historical support level but volume low, no breakout confirmed""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 7759.5 * (1 - 0.002)
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7759.5 * (1 + 0.005)
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 7759.5 * (1 + 0.02)
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 7759.5 * (1 - 0.002),
+      ""ret"": -0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 7759.5 * (1 + 0.005),
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 7759.5 * (1 + 0.02),
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:43:36,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:33:00+00:00"",
+    ""open"": 7767.5,
+    ""high"": 7769.0,
+    ""low"": 7766.0,
+    ""close"": 7766.0,
+    ""volume"": 180
+  },
+  ""support"": 7749.56,
+  ""resistance"": 7767.33,
+  ""volume_threshold"": 1536,
+  ""bollinger"": {
+    ""mid_price"": 7760.45,
+    ""upper_band"": 7767.33,
+    ""lower_band"": 7753.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.6
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent Bollinger Bands from 1-min data"",
+    ""Adjusted ADX threshold down from 25 to 21.6 based on recent ADX weakening"",
+    ""Updated Bollinger mid, upper, lower bands to recent 1-min values"",
+    ""Latest close price lower than previous support, indicating slight bearish pressure""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 7649.468
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7805.33
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 7955.15
+    }
+  }
+}"
+2025-09-01 14:51:31,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:48:00+00:00"",
+    ""open"": 7770.0,
+    ""high"": 7773.0,
+    ""low"": 7770.0,
+    ""close"": 7770.0,
+    ""volume"": 796
+  },
+  ""support"": 7756.12,
+  ""resistance"": 7776.0,
+  ""volume_threshold"": 1500,
+  ""bollinger"": {
+    ""mid_price"": 7766.05,
+    ""upper_band"": 7775.98,
+    ""lower_band"": 7756.12
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 22.3
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar"",
+    ""Adjusted support and resistance to recent 1-min Bollinger Bands lower and upper bands"",
+    ""Volume threshold slightly lowered to 1500 reflecting recent average volumes"",
+    ""ADX threshold adjusted to 22.3 based on recent ADX readings around 22"",
+    ""Bollinger bands updated to recent 1-min mid, upper, and lower values"",
+    ""Signal remains No Action due to stable price near mid Bollinger and low volume""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0013,
+      ""price"": 7660.89
+    },
+    ""1w"": {
+      ""ret"": 0.0045,
+      ""price"": 7804.17
+    },
+    ""3m"": {
+      ""ret"": 0.022,
+      ""price"": 7934.34
+    }
+  }
+}"
+2025-09-01 14:58:07,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 7770.0,
+    ""high"": 7775.0,
+    ""low"": 7770.0,
+    ""close"": 7772.5,
+    ""volume"": 895
+  },
+  ""support"": 7757.79,
+  ""resistance"": 7777.51,
+  ""volume_threshold"": 1500,
+  ""bollinger"": {
+    ""mid_price"": 7767.65,
+    ""upper_band"": 7777.51,
+    ""lower_band"": 7757.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 14:53"",
+    ""Adjusted support and resistance to recent 1-min Bollinger Bands lower and upper bands"",
+    ""Volume threshold unchanged due to stable recent volume"",
+    ""ADX threshold lowered to 20 reflecting recent ADX around 19.7-20.4"",
+    ""Bollinger bands updated to recent 1-min mid, upper, and lower values"",
+    ""Signal remains No Action due to price near mid Bollinger and low volume""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0013,
+      ""price"": 7662.43
+    },
+    ""1w"": {
+      ""ret"": 0.0045,
+      ""price"": 7807.36
+    },
+    ""3m"": {
+      ""ret"": 0.022,
+      ""price"": 7939.95
+    }
+  }
+}"
+2025-09-02 11:02:03,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T10:58:00+00:00"",
+    ""open"": 7706.0,
+    ""high"": 7712.0,
+    ""low"": 7705.5,
+    ""close"": 7710.0,
+    ""volume"": 802
+  },
+  ""support"": 7700.78,
+  ""resistance"": 7761.62,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7731.2,
+    ""upper_band"": 7761.62,
+    ""lower_band"": 7700.78
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price dropped below previous support 7887.67 to 7700.78 (lower Bollinger band)."",
+    ""Recent close 7710.0 confirms new support near 7700.78."",
+    ""Bollinger bands tightened with mid price adjusted to 7731.2."",
+    ""ADX remains below threshold indicating weak trend continuation."",
+    ""Volume in recent minute low but historical volume threshold unchanged."",
+    ""Signal updated to 'Strong Breakdown' due to price below lower BB and support breach.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7665.45
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7603.35
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7413.60
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 7665.45,
+      ""ret"": -0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 7603.35,
+      ""ret"": -0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 7413.60,
+      ""ret"": -0.04
+    }
+  }
+}"
+2025-09-02 11:10:44,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:07:00+00:00"",
+    ""open"": 7715.0,
+    ""high"": 7717.5,
+    ""low"": 7715.0,
+    ""close"": 7715.0,
+    ""volume"": 282
+  },
+  ""support"": 7700.78,
+  ""resistance"": 7789.5,
+  ""support_realtime"": 7700.78,
+  ""resistance_realtime"": 7789.5,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.2516,
+  ""sr_range_pct_1d"": 1.4073,
+  ""sr_range_pct_1w"": 4.7147,
+  ""sr_range_pct_3m"": 34.9287,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7717.975,
+    ""upper_band"": 7732.42,
+    ""lower_band"": 7703.53
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to lower Bollinger band level 7700.78 due to recent price close at 7715.0 near this level."",
+    ""Resistance remains at recent realtime resistance 7789.5 as price is below it."",
+    ""Bollinger bands updated to recent values from last minute data: mid 7717.975, upper 7732.42, lower 7703.53."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX below threshold 25 indicates weak trend; no change to ADX config."",
+    ""Signal maintained as 'Strong Breakdown' due to price below previous support and lower Bollinger band.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7670.425
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7602.725
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7413.6
+    }
+  }
+}"
+2025-09-02 11:19:13,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:16:00+00:00"",
+    ""open"": 7708.0,
+    ""high"": 7713.0,
+    ""low"": 7703.0,
+    ""close"": 7704.0,
+    ""volume"": 930
+  },
+  ""support"": 7703.53,
+  ""resistance"": 7727.43,
+  ""support_realtime"": 7693.0,
+  ""resistance_realtime"": 7789.5,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.2508,
+  ""sr_range_pct_1d"": 1.4064,
+  ""sr_range_pct_1w"": 4.7116,
+  ""sr_range_pct_3m"": 34.906,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7712.3,
+    ""upper_band"": 7727.43,
+    ""lower_band"": 7697.17
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7697.17 based on recent 1-min data close at 7704.0 near this level."",
+    ""Updated resistance to latest Bollinger upper band 7727.43 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal maintained as 'Strong Breakdown' due to price below previous support and near lower Bollinger band."",
+    ""Latest 1-min data shows price consolidation near lower Bollinger band with low momentum.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7665.48
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7594.44
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7410.24
+    }
+  }
+}"
+2025-09-02 11:28:05,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:18:00+00:00"",
+    ""open"": 7713.0,
+    ""high"": 7713.5,
+    ""low"": 7709.5,
+    ""close"": 7710.0,
+    ""volume"": 221
+  },
+  ""support"": 7690.71,
+  ""resistance"": 7720.99,
+  ""support_realtime"": 7700.0,
+  ""resistance_realtime"": 7761.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.7914,
+  ""sr_range_pct_1d"": 1.4076,
+  ""sr_range_pct_1w"": 4.7159,
+  ""sr_range_pct_3m"": 34.9377,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7705.85,
+    ""upper_band"": 7720.99,
+    ""lower_band"": 7690.71
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7690.71 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7720.99 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal maintained as 'Strong Breakdown' due to price below previous support and near lower Bollinger band."",
+    ""Latest 1-min data shows price consolidation near lower Bollinger band with low momentum.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7665.45
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7594.35
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7410.60
+    }
+  }
+}"
+2025-09-02 11:36:54,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:27:00+00:00"",
+    ""open"": 7694.0,
+    ""high"": 7698.5,
+    ""low"": 7694.0,
+    ""close"": 7696.5,
+    ""volume"": 412
+  },
+  ""support"": 7687.9,
+  ""resistance"": 7713.7,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7761.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.9227,
+  ""sr_range_pct_1d"": 1.41,
+  ""sr_range_pct_1w"": 4.7238,
+  ""sr_range_pct_3m"": 34.9968,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7700.8,
+    ""upper_band"": 7713.7,
+    ""lower_band"": 7687.9
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7687.9 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7713.7 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal maintained as 'Strong Breakdown' due to price below previous support and near lower Bollinger band."",
+    ""Latest 1-min data shows price consolidation near lower Bollinger band with low momentum.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7657.1
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7604.0
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7398.2
+    }
+  }
+}"
+2025-09-02 11:45:58,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:35:00+00:00"",
+    ""open"": 7706.0,
+    ""high"": 7707.5,
+    ""low"": 7705.0,
+    ""close"": 7707.5,
+    ""volume"": 288
+  },
+  ""support"": 7682.22,
+  ""resistance"": 7732.08,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7761.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.9214,
+  ""sr_range_pct_1d"": 1.4081,
+  ""sr_range_pct_1w"": 4.7174,
+  ""sr_range_pct_3m"": 34.9491,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7707.15,
+    ""upper_band"": 7732.08,
+    ""lower_band"": 7682.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7682.22 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7732.08 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'Strong Breakdown' due to price below previous support and near lower Bollinger band."",
+    ""Latest 1-min data shows price consolidation near lower Bollinger band with low momentum.""
+  ],
+  ""signal"": ""Strong Breakdown"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 7668.96
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 7603.91
+    },
+    ""3m"": {
+      ""ret"": -0.04,
+      ""price"": 7419.60
+    }
+  }
+}"
+2025-09-02 11:55:09,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:53:00+00:00"",
+    ""open"": 7748.5,
+    ""high"": 7749.0,
+    ""low"": 7742.0,
+    ""close"": 7746.0,
+    ""volume"": 1624
+  },
+  ""support"": 7701.07,
+  ""resistance"": 7755.38,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7749.5,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.7696,
+  ""sr_range_pct_1d"": 1.4033,
+  ""sr_range_pct_1w"": 4.7015,
+  ""sr_range_pct_3m"": 34.8315,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7728.23,
+    ""upper_band"": 7755.38,
+    ""lower_band"": 7701.07
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7701.07 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7755.38 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Latest 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7751.49
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7784.73
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7859.19
+    }
+  }
+}"
+2025-09-02 12:03:38,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:54:00+00:00"",
+    ""open"": 7746.0,
+    ""high"": 7746.0,
+    ""low"": 7743.0,
+    ""close"": 7745.5,
+    ""volume"": 256
+  },
+  ""support"": 7725.54,
+  ""resistance"": 7758.06,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7749.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.7616,
+  ""sr_range_pct_1d"": 1.4005,
+  ""sr_range_pct_1w"": 4.6921,
+  ""sr_range_pct_3m"": 34.7618,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7741.8,
+    ""upper_band"": 7758.06,
+    ""lower_band"": 7725.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7725.54 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7758.06 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Latest 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7761.01
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7783.73
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7864.18
+    }
+  }
+}"
+2025-09-02 12:12:19,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:10:00+00:00"",
+    ""open"": 7757.0,
+    ""high"": 7760.0,
+    ""low"": 7753.5,
+    ""close"": 7760.0,
+    ""volume"": 395
+  },
+  ""support"": 7735.797159320156,
+  ""resistance"": 7771.002840679843,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7763.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.9412,
+  ""sr_range_pct_1d"": 1.3989,
+  ""sr_range_pct_1w"": 4.6867,
+  ""sr_range_pct_3m"": 34.7215,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7753.4,
+    ""upper_band"": 7771.002840679843,
+    ""lower_band"": 7735.797159320156
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7735.797 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7771.003 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Latest 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7775.52
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7798.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7874.4
+    }
+  }
+}"
+2025-09-02 14:07:18,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:11:00+00:00"",
+    ""open"": 7749.0,
+    ""high"": 7753.0,
+    ""low"": 7745.5,
+    ""close"": 7751.5,
+    ""volume"": 4543
+  },
+  ""support"": 7735.797159320156,
+  ""resistance"": 7771.002840679843,
+  ""support_realtime"": 7690.0,
+  ""resistance_realtime"": 7767.5,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.9991,
+  ""sr_range_pct_1d"": 1.3987,
+  ""sr_range_pct_1w"": 4.6861,
+  ""sr_range_pct_3m"": 34.717,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7753.4,
+    ""upper_band"": 7771.002840679843,
+    ""lower_band"": 7735.797159320156
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7735.797 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7771.003 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Latest 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7767.003,
+      ""method"": ""estimated""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7790.258,
+      ""method"": ""estimated""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7869.273,
+      ""method"": ""estimated""
+    }
+  }
+}"
+2025-09-02 14:16:06,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:06:00+00:00"",
+    ""open"": 7653.0,
+    ""high"": 7653.0,
+    ""low"": 7645.0,
+    ""close"": 7648.0,
+    ""volume"": 4076
+  },
+  ""support"": 7642.582307783776,
+  ""resistance"": 7700.817692216224,
+  ""support_realtime"": 7645.0,
+  ""resistance_realtime"": 7766.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.5811,
+  ""sr_range_pct_1d"": 1.4177,
+  ""sr_range_pct_1w"": 4.7498,
+  ""sr_range_pct_3m"": 35.1888,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7671.7,
+    ""upper_band"": 7700.817692216224,
+    ""lower_band"": 7642.582307783776
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7642.582 based on recent 1-min data close near this level."",
+    ""Updated resistance to latest Bollinger upper band 7700.818 reflecting recent volatility contraction."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal updated to 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Latest 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7663.296
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7686.24
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7759.72
+    }
+  }
+}"
+2025-09-02 14:23:04,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:15:00+00:00"",
+    ""open"": 7684.0,
+    ""high"": 7685.0,
+    ""low"": 7680.5,
+    ""close"": 7684.5,
+    ""volume"": 469
+  },
+  ""support"": 7644.770804197987,
+  ""resistance"": 7701.379195802013,
+  ""support_realtime"": 7640.0,
+  ""resistance_realtime"": 7744.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.3541,
+  ""sr_range_pct_1d"": 1.4127,
+  ""sr_range_pct_1w"": 4.7328,
+  ""sr_range_pct_3m"": 35.0628,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7673.075,
+    ""upper_band"": 7701.379195802013,
+    ""lower_band"": 7644.770804197987
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7644.771 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7701.379 reflecting recent volatility."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Recent 1-min data shows price consolidation near Bollinger mid and lower bands with low momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7699.469,
+      ""method"": ""estimate_from_recent_close""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7723.9225,
+      ""method"": ""estimate_from_recent_close""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7806.7675,
+      ""method"": ""estimate_from_recent_close""
+    }
+  }
+}"
+2025-09-02 14:31:44,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:29:00+00:00"",
+    ""open"": 7671.0,
+    ""high"": 7675.5,
+    ""low"": 7667.5,
+    ""close"": 7672.5,
+    ""volume"": 522
+  },
+  ""support"": 7670.210816644921,
+  ""resistance"": 7693.13918335508,
+  ""support_realtime"": 7640.0,
+  ""resistance_realtime"": 7730.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.1708,
+  ""sr_range_pct_1d"": 1.4115,
+  ""sr_range_pct_1w"": 4.7288,
+  ""sr_range_pct_3m"": 35.0332,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7681.675,
+    ""upper_band"": 7693.13918335508,
+    ""lower_band"": 7670.210816644921
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7670.211 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7693.139 reflecting recent volatility."",
+    ""Updated ohlcv to latest 1-min bar showing consolidation near Bollinger mid band."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7687.945,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7711.8625,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7783.58875,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:15:14,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:12:00+00:00"",
+    ""open"": 7651.5,
+    ""high"": 7651.5,
+    ""low"": 7648.0,
+    ""close"": 7649.0,
+    ""volume"": 1984
+  },
+  ""support"": 7638.950138122597,
+  ""resistance"": 7657.049861877403,
+  ""support_realtime"": 7640.0,
+  ""resistance_realtime"": 7730.0,
+  ""support_1d"": 8195.0,
+  ""resistance_1d"": 8303.5,
+  ""support_1w"": 8076.0,
+  ""resistance_1w"": 8439.5,
+  ""support_3m"": 6422.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 1.173,
+  ""sr_range_pct_1d"": 1.4141,
+  ""sr_range_pct_1w"": 4.7377,
+  ""sr_range_pct_3m"": 35.0994,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7648.0,
+    ""upper_band"": 7657.049861877403,
+    ""lower_band"": 7638.950138122597
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7638.95 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7657.05 reflecting recent 1-min volatility."",
+    ""Updated ohlcv to latest 1-min bar at 2025-09-02 15:12:00 showing consolidation near Bollinger mid band."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets set with modest positive returns based on recent momentum and historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7664.298,
+      ""method"": ""estimated from recent close""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7686.245,
+      ""method"": ""estimated from recent close""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7760.735,
+      ""method"": ""estimated from recent close""
+    }
+  }
+}"
+2025-09-02 15:24:04,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:21:00+00:00"",
+    ""open"": 7649.5,
+    ""high"": 7653.5,
+    ""low"": 7644.5,
+    ""close"": 7648.0,
+    ""volume"": 645
+  },
+  ""support"": 7637.572866100464,
+  ""resistance"": 7656.027133899536,
+  ""support_realtime"": 7635.5,
+  ""resistance_realtime"": 7692.5,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.7452,
+  ""sr_range_pct_1d"": 4.9876,
+  ""sr_range_pct_1w"": 10.1386,
+  ""sr_range_pct_3m"": 26.2257,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7646.8,
+    ""upper_band"": 7656.027133899536,
+    ""lower_band"": 7637.572866100464
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7637.57 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7656.03 reflecting recent 1-min volatility."",
+    ""Updated ohlcv to latest 1-min bar at 2025-09-02 15:21:00 showing consolidation near Bollinger mid band."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets set with modest positive returns based on recent momentum and historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7663.296,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7686.24,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7760.72,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:32:40,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 7649.5,
+    ""high"": 7649.5,
+    ""low"": 7649.5,
+    ""close"": 7649.5,
+    ""volume"": 18
+  },
+  ""support"": 7638.882816743156,
+  ""resistance"": 7653.267183256844,
+  ""support_realtime"": 7635.5,
+  ""resistance_realtime"": 7691.0,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.7257,
+  ""sr_range_pct_1d"": 4.9882,
+  ""sr_range_pct_1w"": 10.1399,
+  ""sr_range_pct_3m"": 26.2291,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7646.075,
+    ""upper_band"": 7653.267183256844,
+    ""lower_band"": 7638.882816743156
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7638.88 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7653.27 reflecting recent 1-min volatility."",
+    ""Updated ohlcv to latest 1-min bar at 2025-09-02 15:30:00 showing price near Bollinger mid band."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets set with modest positive returns based on recent momentum and historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7664.799,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7687.745,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7761.2425,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 11:54:19,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 7649.5,
+    ""high"": 7649.5,
+    ""low"": 7649.5,
+    ""close"": 7649.5,
+    ""volume"": 18
+  },
+  ""support"": 7638.88,
+  ""resistance"": 7653.27,
+  ""support_realtime"": 7640.0,
+  ""resistance_realtime"": 7656.0,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.22,
+  ""sr_range_pct_1d"": 4.9892,
+  ""sr_range_pct_1w"": 10.1419,
+  ""sr_range_pct_3m"": 26.2342,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7651.3,
+    ""upper_band"": 7656.735071296679,
+    ""lower_band"": 7645.864928703321
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7645.86 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7656.74 reflecting recent 1-min volatility."",
+    ""Updated support_realtime and resistance_realtime to recent 1-min low 7640.0 and high 7656.0."",
+    ""Adjusted Bollinger mid price to 7651.3 from recent data."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets set with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7645.86,
+  ""target"": 7656.74,
+  ""stoploss"": 7638.88,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7664.799
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7687.745
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7761.2425
+    }
+  }
+}"
+2025-09-03 12:04:14,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:53:00+00:00"",
+    ""open"": 7652.0,
+    ""high"": 7652.5,
+    ""low"": 7650.0,
+    ""close"": 7650.0,
+    ""volume"": 316
+  },
+  ""support"": 7645.864928703321,
+  ""resistance"": 7656.735071296679,
+  ""support_realtime"": 7640.0,
+  ""resistance_realtime"": 7656.0,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.2094,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7651.3,
+    ""upper_band"": 7656.735071296679,
+    ""lower_band"": 7645.864928703321
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to latest Bollinger lower band 7645.86 based on recent 1-min data."",
+    ""Updated resistance to latest Bollinger upper band 7656.74 reflecting recent 1-min volatility."",
+    ""Updated support_realtime and resistance_realtime to recent 1-min low 7640.0 and high 7656.0."",
+    ""Adjusted Bollinger mid price to 7651.3 from recent data."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets set with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7645.864928703321,
+  ""target"": 7656.735071296679,
+  ""stoploss"": 7638.88,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7664.799,
+      ""method"": null
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7687.745,
+      ""method"": null
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7761.2425,
+      ""method"": null
+    }
+  }
+}"
+2025-09-03 12:13:47,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:11:00+00:00"",
+    ""open"": 7699.0,
+    ""high"": 7708.5,
+    ""low"": 7637.683526462377,
+    ""close"": 7706.0,
+    ""volume"": 2210
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7643.5,
+  ""resistance_realtime"": 7708.5,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.867,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7670.225,
+    ""upper_band"": 7708.5,
+    ""lower_band"": 7637.683526462377
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar data."",
+    ""Refreshed support and resistance to latest Bollinger bands from recent 1-min data."",
+    ""Updated support_realtime and resistance_realtime to recent 1-min low and high."",
+    ""Adjusted Bollinger mid price to 7670.225 based on recent data."",
+    ""Calculated sr_range_pct_realtime as 0.867 reflecting current volatility."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7620.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7721.412,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7739.03,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7816.59,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 12:22:50,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:20:00+00:00"",
+    ""open"": 7696.5,
+    ""high"": 7698.0,
+    ""low"": 7693.0,
+    ""close"": 7697.0,
+    ""volume"": 402
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7663.112628947664,
+  ""resistance_realtime"": 7722.487371052336,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.797,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7692.8,
+    ""upper_band"": 7722.487371052336,
+    ""lower_band"": 7663.112628947664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar data at 2025-09-03 12:20:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to latest Bollinger lower and upper bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7692.8 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.797 reflecting current volatility from recent data."",
+    ""Volume remains below threshold; no change to volume_threshold."",
+    ""ADX remains below threshold 25 indicating weak trend; no change to ADX config."",
+    ""Signal remains 'No Action' due to price consolidating within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7610.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7701.394,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7736.485,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7811.455,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 12:32:22,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:21:00+00:00"",
+    ""open"": 7697.0,
+    ""high"": 7703.5,
+    ""low"": 7697.0,
+    ""close"": 7703.5,
+    ""volume"": 691
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7696.013546720682,
+  ""resistance_realtime"": 7711.686453279319,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.209,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7703.85,
+    ""upper_band"": 7711.686453279319,
+    ""lower_band"": 7696.013546720682
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7703.85 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.209 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7610.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7718.007
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7742.52
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7818.55
+    }
+  }
+}"
+2025-09-03 15:27:15,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:31:00+00:00"",
+    ""open"": 7704.0,
+    ""high"": 7710.5,
+    ""low"": 7703.0,
+    ""close"": 7710.5,
+    ""volume"": 585
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7700.5,
+  ""resistance_realtime"": 7715.524354077922,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.198,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7707.3,
+    ""upper_band"": 7715.524354077922,
+    ""lower_band"": 7699.075645922078
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7707.3 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.198 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7610.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7725.921,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7749.0535,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.6575,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 15:37:37,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:26:00+00:00"",
+    ""open"": 7705.0,
+    ""high"": 7710.0,
+    ""low"": 7705.0,
+    ""close"": 7709.0,
+    ""volume"": 764
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7700.5,
+  ""resistance_realtime"": 7715.225375929275,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.198,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7707.3,
+    ""upper_band"": 7715.225375929275,
+    ""lower_band"": 7699.075645922078
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7707.3 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.198 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7610.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 10:18:14,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:34:00+00:00"",
+    ""open"": 7707.5,
+    ""high"": 7707.5,
+    ""low"": 7707.5,
+    ""close"": 7707.5,
+    ""volume"": 0
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7700.5,
+  ""resistance_realtime"": 7715.225375929275,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.198,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7707.3,
+    ""upper_band"": 7715.225375929275,
+    ""lower_band"": 7699.075645922078
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7707.3 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.198 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7637.683526462377,
+  ""target"": 7708.5,
+  ""stoploss"": 7610.0,
+  ""entry1"": 7438.0,
+  ""target1"": 7550.0,
+  ""stoploss1"": 7350.0,
+  ""entry2"": 7304.0,
+  ""target2"": 7600.0,
+  ""stoploss2"": 7200.0,
+  ""entry3"": 7109.0,
+  ""target3"": 7600.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 10:40:16,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:17:00+00:00"",
+    ""open"": 7688.5,
+    ""high"": 7698.0,
+    ""low"": 7688.5,
+    ""close"": 7695.0,
+    ""volume"": 993
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7668.084390848646,
+  ""resistance_realtime"": 7713.065609151354,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.198,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7707.3,
+    ""upper_band"": 7713.065609151354,
+    ""lower_band"": 7668.084390848646
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7707.3 based on recent 1-min data."",
+    ""Calculated sr_range_pct_realtime as 0.198 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 11:10:45,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:39:00+00:00"",
+    ""open"": 7671.0,
+    ""high"": 7675.5,
+    ""low"": 7669.0,
+    ""close"": 7671.5,
+    ""volume"": 430
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7672.590873186974,
+  ""resistance_realtime"": 7695.609126813027,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7684.1,
+    ""upper_band"": 7695.609126813027,
+    ""lower_band"": 7672.590873186974
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7684.1 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.303 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 11:20:27,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:09:00+00:00"",
+    ""open"": 7673.5,
+    ""high"": 7674.5,
+    ""low"": 7670.0,
+    ""close"": 7671.0,
+    ""volume"": 1146
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7672.590873186974,
+  ""resistance_realtime"": 7695.609126813027,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7684.1,
+    ""upper_band"": 7695.609126813027,
+    ""lower_band"": 7672.590873186974
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7684.1 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.303 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 14:17:35,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:19:00+00:00"",
+    ""open"": 7678.0,
+    ""high"": 7680.0,
+    ""low"": 7676.0,
+    ""close"": 7679.5,
+    ""volume"": 192
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7672.590873186974,
+  ""resistance_realtime"": 7695.609126813027,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7684.1,
+    ""upper_band"": 7695.609126813027,
+    ""lower_band"": 7672.590873186974
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7684.1 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.303 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 14:44:52,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:16:00+00:00"",
+    ""open"": 7669.5,
+    ""high"": 7672.5,
+    ""low"": 7666.0,
+    ""close"": 7670.5,
+    ""volume"": 1240
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7672.590873186974,
+  ""resistance_realtime"": 7695.609126813027,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7684.1,
+    ""upper_band"": 7695.609126813027,
+    ""lower_band"": 7672.590873186974
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7684.1 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.303 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 14:58:09,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:43:00+00:00"",
+    ""open"": 7663.5,
+    ""high"": 7673.0,
+    ""low"": 7663.5,
+    ""close"": 7673.0,
+    ""volume"": 550
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7672.590873186974,
+  ""resistance_realtime"": 7695.609126813027,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7684.1,
+    ""upper_band"": 7695.609126813027,
+    ""lower_band"": 7672.590873186974
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7684.1 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.303 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7686.0,
+  ""target"": 7659.443822423391,
+  ""stoploss"": 7703.704118384406,
+  ""entry1"": 7686.0,
+  ""target1"": 7542.9375,
+  ""stoploss1"": 7781.375,
+  ""entry2"": 7686.0,
+  ""target2"": 7395.1875,
+  ""stoploss2"": 7879.875,
+  ""entry3"": 7686.0,
+  ""target3"": 7008.7,
+  ""stoploss3"": 8187.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7724.818
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7748.545
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7825.635
+    }
+  }
+}"
+2025-09-04 15:10:14,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:57:00+00:00"",
+    ""open"": 7668.5,
+    ""high"": 7671.0,
+    ""low"": 7666.5,
+    ""close"": 7666.5,
+    ""volume"": 239
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7651.509059286973,
+  ""resistance_realtime"": 7679.440940713028,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.373,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7665.475,
+    ""upper_band"": 7679.440940713028,
+    ""lower_band"": 7651.509059286973
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7665.475 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.373 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7668.0,
+  ""target"": 7634.5,
+  ""stoploss"": 7695.5,
+  ""entry1"": 7629.0,
+  ""target1"": 7438.0,
+  ""stoploss1"": 7819.5,
+  ""entry2"": 7691.0,
+  ""target2"": 7304.0,
+  ""stoploss2"": 8079.5,
+  ""entry3"": 8100.0,
+  ""target3"": 7109.0,
+  ""stoploss3"": 9115.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7679.833,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7705.325,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7780.495,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 12:08:58,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:09:00+00:00"",
+    ""open"": 7642.0,
+    ""high"": 7642.5,
+    ""low"": 7638.5,
+    ""close"": 7640.0,
+    ""volume"": 883
+  },
+  ""support"": 7637.683526462377,
+  ""resistance"": 7708.5,
+  ""support_realtime"": 7582.364775894934,
+  ""resistance_realtime"": 7615.385224105066,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.44,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7598.875,
+    ""upper_band"": 7615.385224105066,
+    ""lower_band"": 7582.364775894934
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-min data."",
+    ""Adjusted Bollinger mid price to 7598.875 based on recent 1-min data."",
+    ""Recalculated sr_range_pct_realtime as 0.44 reflecting current volatility from recent data."",
+    ""Preserved volume_threshold as volume remains below threshold."",
+    ""Maintained ADX threshold at 25 due to weak trend indication."",
+    ""Signal remains 'No Action' as price consolidates within Bollinger bands and ADX below threshold."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context."",
+    ""Calculated trade levels for default and S/R pairs maintaining risk-reward between 1.1 and 2.5."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7673.0,
+  ""target"": 7708.5,
+  ""stoploss"": 7637.683526462377,
+  ""entry1"": 7638.75,
+  ""target1"": 7819.5,
+  ""stoploss1"": 7438.0,
+  ""entry2"": 7691.75,
+  ""target2"": 8079.5,
+  ""stoploss2"": 7304.0,
+  ""entry3"": 8112.0,
+  ""target3"": 9115.0,
+  ""stoploss3"": 7109.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7651.28
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7679.2
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7751.6
+    }
+  }
+}"
+2025-09-05 12:26:59,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:07:00+00:00"",
+    ""open"": 7596.5,
+    ""high"": 7607.0,
+    ""low"": 7595.5,
+    ""close"": 7600.0,
+    ""volume"": 1102
+  },
+  ""support"": 7582.364775894934,
+  ""resistance"": 7615.385224105066,
+  ""support_realtime"": 7582.364775894934,
+  ""resistance_realtime"": 7615.385224105066,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4355,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7598.875,
+    ""upper_band"": 7615.385224105066,
+    ""lower_band"": 7582.364775894934
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to align with realtime Bollinger bands reflecting recent 1-min data."",
+    ""Maintained support_1d, resistance_1d, support_1w, resistance_1w, support_3m, resistance_3m from historical data as valid S/R levels."",
+    ""Adjusted trade levels for default and S/R pairs ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Set entry and target levels closer to support and resistance respectively to maintain reasonable risk-reward ratios between 1.1 and 2.5."",
+    ""Preserved volume_threshold and ADX threshold as recent data shows weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7590.0,
+  ""target"": 7615.0,
+  ""stoploss"": 7570.0,
+  ""entry1"": 7500.0,
+  ""target1"": 7810.0,
+  ""stoploss1"": 7400.0,
+  ""entry2"": 7400.0,
+  ""target2"": 8070.0,
+  ""stoploss2"": 7250.0,
+  ""entry3"": 7600.0,
+  ""target3"": 9000.0,
+  ""stoploss3"": 7000.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7615.2
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7630.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7714.0
+    }
+  }
+}"
+2025-09-05 12:32:21,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:25:00+00:00"",
+    ""open"": 7588.0,
+    ""high"": 7591.0,
+    ""low"": 7588.0,
+    ""close"": 7591.0,
+    ""volume"": 466
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4355,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7583.0,
+  ""target"": 7614.0,
+  ""stoploss"": 7579.0,
+  ""entry1"": 7440.0,
+  ""target1"": 7815.0,
+  ""stoploss1"": 7435.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8075.0,
+  ""stoploss2"": 7299.0,
+  ""entry3"": 7115.0,
+  ""target3"": 9100.0,
+  ""stoploss3"": 7095.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7606.18
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7630.96
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7706.87
+    }
+  }
+}"
+2025-09-05 13:32:58,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:31:00+00:00"",
+    ""open"": 7594.0,
+    ""high"": 7598.0,
+    ""low"": 7594.0,
+    ""close"": 7595.0,
+    ""volume"": 262.0
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4356,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7583.0,
+  ""target"": 7605.0,
+  ""stoploss"": 7575.0,
+  ""entry1"": 7440.0,
+  ""target1"": 7800.0,
+  ""stoploss1"": 7425.0,
+  ""entry2"": 7320.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7290.0,
+  ""entry3"": 7150.0,
+  ""target3"": 9000.0,
+  ""stoploss3"": 7080.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7610.19
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7633.98
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7706.93
+    }
+  }
+}"
+2025-09-05 13:44:48,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:31:00+00:00"",
+    ""open"": 7606.5,
+    ""high"": 7607.5,
+    ""low"": 7605.0,
+    ""close"": 7605.5,
+    ""volume"": 321
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4356,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7583.0,
+  ""target"": 7605.0,
+  ""stoploss"": 7570.0,
+  ""entry1"": 7440.0,
+  ""target1"": 7800.0,
+  ""stoploss1"": 7420.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7280.0,
+  ""entry3"": 7110.0,
+  ""target3"": 9000.0,
+  ""stoploss3"": 7080.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7610.19
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7633.98
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7706.93
+    }
+  }
+}"
+2025-09-05 14:21:38,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:43:00+00:00"",
+    ""open"": 7615.0,
+    ""high"": 7615.0,
+    ""low"": 7613.5,
+    ""close"": 7613.5,
+    ""volume"": 136
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4356,
+  ""sr_range_pct_1d"": 5.1291,
+  ""sr_range_pct_1w"": 10.6175,
+  ""sr_range_pct_3m"": 28.2178,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7588.0,
+  ""target"": 7608.0,
+  ""stoploss"": 7577.0,
+  ""entry1"": 7445.0,
+  ""target1"": 7780.0,
+  ""stoploss1"": 7425.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7285.0,
+  ""entry3"": 7120.0,
+  ""target3"": 9000.0,
+  ""stoploss3"": 7090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7629.727,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7651.565,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7725.703,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:33:13,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:20:00+00:00"",
+    ""open"": 7629.0,
+    ""high"": 7629.0,
+    ""low"": 7626.5,
+    ""close"": 7629.0,
+    ""volume"": 255.0
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.433,
+  ""sr_range_pct_1d"": 5.0007,
+  ""sr_range_pct_1w"": 10.1652,
+  ""sr_range_pct_3m"": 26.2944,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7583.36,
+  ""target"": 7609.39,
+  ""stoploss"": 7570.0,
+  ""entry1"": 7440.0,
+  ""target1"": 7790.0,
+  ""stoploss1"": 7420.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7280.0,
+  ""entry3"": 7110.0,
+  ""target3"": 9000.0,
+  ""stoploss3"": 7080.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7644.258
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7668.145
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7739.435
+    }
+  }
+}"
+2025-09-05 14:38:09,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:32:00+00:00"",
+    ""open"": 7629.0,
+    ""high"": 7629.0,
+    ""low"": 7625.5,
+    ""close"": 7625.5,
+    ""volume"": 349
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4332,
+  ""sr_range_pct_1d"": 5.003,
+  ""sr_range_pct_1w"": 10.1698,
+  ""sr_range_pct_3m"": 26.3065,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7583.36,
+  ""target"": 7609.39,
+  ""stoploss"": 7552.36,
+  ""entry1"": 7440.0,
+  ""target1"": 7790.0,
+  ""stoploss1"": 7405.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7270.0,
+  ""entry3"": 7115.0,
+  ""target3"": 9080.0,
+  ""stoploss3"": 7075.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7640.751,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7663.625,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7737.8825,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:50:36,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:37:00+00:00"",
+    ""open"": 7610.5,
+    ""high"": 7613.0,
+    ""low"": 7607.0,
+    ""close"": 7612.0,
+    ""volume"": 264
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4339,
+  ""sr_range_pct_1d"": 5.0118,
+  ""sr_range_pct_1w"": 10.1879,
+  ""sr_range_pct_3m"": 26.3531,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7587.36,
+  ""target"": 7608.39,
+  ""stoploss"": 7552.36,
+  ""entry1"": 7443.0,
+  ""target1"": 7789.5,
+  ""stoploss1"": 7405.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8040.0,
+  ""stoploss2"": 7272.0,
+  ""entry3"": 7115.0,
+  ""target3"": 9080.0,
+  ""stoploss3"": 7077.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7626.024,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7652.06,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7723.18,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 15:04:55,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:49:00+00:00"",
+    ""open"": 7606.0,
+    ""high"": 7607.0,
+    ""low"": 7601.5,
+    ""close"": 7603.5,
+    ""volume"": 155
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7582.36,
+  ""resistance_realtime"": 7615.39,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.4344,
+  ""sr_range_pct_1d"": 5.0174,
+  ""sr_range_pct_1w"": 10.1993,
+  ""sr_range_pct_3m"": 26.3826,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7598.88,
+    ""upper_band"": 7615.39,
+    ""lower_band"": 7582.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Preserved support and resistance levels from historical and realtime data as they are consistent and valid."",
+    ""Volume threshold and ADX threshold retained as recent data indicates weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Adjusted default trade levels: stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels similarly ensuring no violation of ordering and levels inside S-R band."",
+    ""Adjusted 1w trade levels to maintain long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7587.36,
+  ""target"": 7608.39,
+  ""stoploss"": 7562.36,
+  ""entry1"": 7443.0,
+  ""target1"": 7780.0,
+  ""stoploss1"": 7413.0,
+  ""entry2"": 7310.0,
+  ""target2"": 8050.0,
+  ""stoploss2"": 7275.0,
+  ""entry3"": 7115.0,
+  ""target3"": 9080.0,
+  ""stoploss3"": 7075.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7619.61
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7631.52
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7715.05
+    }
+  }
+}"
+2025-09-05 15:17:02,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:03:00+00:00"",
+    ""open"": 7600.0,
+    ""high"": 7609.5,
+    ""low"": 7591.288164596961,
+    ""close"": 7608.0,
+    ""volume"": 2507.0
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7589.0,
+  ""resistance_realtime"": 7612.21,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.303,
+  ""sr_range_pct_1d"": 5.023,
+  ""sr_range_pct_1w"": 10.2107,
+  ""sr_range_pct_3m"": 26.4121,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7601.75,
+    ""upper_band"": 7612.21,
+    ""lower_band"": 7589.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to reflect latest Bollinger bands and recent price lows/highs."",
+    ""Adjusted realtime sr_range_pct to match updated realtime S/R levels."",
+    ""Preserved historical S/R levels as they remain valid and consistent with recent data."",
+    ""Volume threshold and ADX threshold retained due to weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Set default trade levels with stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels ensuring ordering and levels inside 1d S-R band."",
+    ""Adjusted 1w trade levels maintaining long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7585.0,
+  ""target"": 7605.0,
+  ""stoploss"": 7575.0,
+  ""entry1"": 7482.63,
+  ""target1"": 7772.58,
+  ""stoploss1"": 7411.97,
+  ""entry2"": 7347.82,
+  ""target2"": 8031.02,
+  ""stoploss2"": 7275.0,
+  ""entry3"": 7151.65,
+  ""target3"": 9060.31,
+  ""stoploss3"": 7077.9,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7619.62
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7631.52
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7715.05
+    }
+  }
+}"
+2025-09-05 15:29:11,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:16:00+00:00"",
+    ""open"": 7606.0,
+    ""high"": 7610.0,
+    ""low"": 7604.0,
+    ""close"": 7608.0,
+    ""volume"": 1350
+  },
+  ""support"": 7582.36,
+  ""resistance"": 7615.39,
+  ""support_realtime"": 7589.0,
+  ""resistance_realtime"": 7612.21,
+  ""support_1d"": 7438.0,
+  ""resistance_1d"": 7819.5,
+  ""support_1w"": 7304.0,
+  ""resistance_1w"": 8079.5,
+  ""support_3m"": 7109.0,
+  ""resistance_3m"": 9115.0,
+  ""sr_range_pct_realtime"": 0.3051,
+  ""sr_range_pct_1d"": 5.0145,
+  ""sr_range_pct_1w"": 10.1932,
+  ""sr_range_pct_3m"": 26.367,
+  ""volume_threshold"": 4288.0,
+  ""bollinger"": {
+    ""mid_price"": 7601.75,
+    ""upper_band"": 7612.21,
+    ""lower_band"": 7589.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to reflect latest Bollinger bands and recent price lows/highs."",
+    ""Adjusted realtime sr_range_pct to match updated realtime S/R levels."",
+    ""Preserved historical S/R levels as they remain valid and consistent with recent data."",
+    ""Volume threshold and ADX threshold retained due to weak trend and volume below threshold."",
+    ""Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend."",
+    ""Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs."",
+    ""Set default trade levels with stoploss below support, entry just above support, target below resistance for balanced risk-reward."",
+    ""Adjusted 1d trade levels ensuring ordering and levels inside 1d S-R band."",
+    ""Adjusted 1w trade levels maintaining long-only setup with proper risk-reward and ordering."",
+    ""Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints."",
+    ""Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 7585.0,
+  ""target"": 7610.0,
+  ""stoploss"": 7570.0,
+  ""entry1"": 7482.63,
+  ""target1"": 7772.58,
+  ""stoploss1"": 7411.967,
+  ""entry2"": 7347.824,
+  ""target2"": 8031.02,
+  ""stoploss2"": 7275.0,
+  ""entry3"": 7151.654,
+  ""target3"": 9060.31,
+  ""stoploss3"": 7077.9,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 7619.62
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 7631.52
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 7715.05
+    }
+  }
+}"

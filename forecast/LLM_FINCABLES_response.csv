@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:18:30,"{
+  ""stock_code"": ""FINCABLES"",
+  ""instrument_token"": 265729,
+  ""support"": 810.0,
+  ""resistance"": 832.5,
+  ""volume_threshold"": 345000,
+  ""bollinger"": {
+    ""mid_price"": 832.04,
+    ""upper_band"": 946.77,
+    ""lower_band"": 814.28
+  },
+  ""macd"": {
+    ""signal_line"": -24.15,
+    ""histogram"": -5.48,
+    ""ma_fast"": 849.89,
+    ""ma_slow"": 880.53,
+    ""ma_signal"": -29.63
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 810.0 based on recent low on 2025-08-14."",
+    ""Resistance lowered to 832.5 reflecting recent highs and upper Bollinger Band proximity."",
+    ""Volume threshold reduced to 345000 matching recent highest volume candle."",
+    ""Bollinger Bands updated from historical data for mid, upper, and lower bands."",
+    ""MACD parameters updated to recent averages reflecting bearish momentum."",
+    ""ADX threshold increased to 30 due to rising ADX values indicating stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Sell""
+}"

@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:25:05,"{
+  ""stock_code"": ""BAYERCROP"",
+  ""instrument_token"": 4589313,
+  ""support"": 5542.39,
+  ""resistance"": 5553.70,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 5543.08,
+    ""upper_band"": 5553.70,
+    ""lower_band"": 5532.45
+  },
+  ""macd"": {
+    ""signal_line"": 0.825,
+    ""histogram"": 0.826,
+    ""ma_fast"": 5542.39,
+    ""ma_slow"": 5543.08,
+    ""ma_signal"": 5543.08
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 5542,
+    ""ma_slow"": 5543
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with minimal volatility."",
+    ""No significant breakout or trend change observed in recent data."",
+    ""Support and resistance levels adjusted slightly based on recent close prices."",
+    ""Volume remains stable, no volume spike justifying parameter change.""
+  ],
+  ""last_updated"": ""2025-08-19 14:23:00"",
+  ""signal"": ""Hold""
+}"

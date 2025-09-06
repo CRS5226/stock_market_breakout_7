@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:18:56,"{
+  ""stock_code"": ""JKCEMENT"",
+  ""instrument_token"": 3397121,
+  ""support"": 7000.0,
+  ""resistance"": 7350.0,
+  ""volume_threshold"": 500000,
+  ""bollinger"": {
+    ""mid_price"": 7323.325,
+    ""upper_band"": 7344.299448741265,
+    ""lower_band"": 7302.350551258734
+  },
+  ""macd"": {
+    ""signal_line"": 6.641504324263056,
+    ""histogram"": 0.13018737619148357,
+    ""ma_fast"": 7330.444444444444,
+    ""ma_slow"": 7323.325,
+    ""ma_signal"": 6.771691700454539
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 40
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price broke above previous resistance of 2000, adjusted resistance to recent high 7350."",
+    ""Support updated to recent consolidation low around 7000."",
+    ""Volume threshold lowered to 500000 reflecting recent lower volume levels."",
+    ""Bollinger Bands updated to recent values indicating current volatility."",
+    ""MACD values updated to reflect recent momentum."",
+    ""ADX threshold increased to 40 indicating stronger trend confirmation in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Buy""
+}"

@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:30:32,"{
+  ""stock_code"": ""SYMPHONY"",
+  ""instrument_token"": 6192641,
+  ""support"": 940.0,
+  ""resistance"": 960.5,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 958.85,
+    ""upper_band"": 960.16,
+    ""lower_band"": 957.54
+  },
+  ""macd"": {
+    ""signal_line"": 0.0899,
+    ""histogram"": 0.1231,
+    ""ma_fast"": 0.2130,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level adjusted to 940 based on recent lows around 941 and 939 in last week."",
+    ""Resistance level lowered to 960.5 reflecting recent upper Bollinger Band and recent highs."",
+    ""Bollinger Bands updated to reflect recent 1-minute data mid, upper, and lower bands."",
+    ""MACD parameters updated to recent values indicating slight bullish momentum."",
+    ""Signal set to Hold due to price consolidating near resistance with low volume and weak momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

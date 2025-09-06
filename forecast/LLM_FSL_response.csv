@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:13:29,"{
+  ""stock_code"": ""FSL"",
+  ""instrument_token"": 3661825,
+  ""support"": 360.0,
+  ""resistance"": 375.0,
+  ""volume_threshold"": 900000,
+  ""bollinger"": {
+    ""mid_price"": 366.62,
+    ""upper_band"": 366.93,
+    ""lower_band"": 366.31
+  },
+  ""macd"": {
+    ""signal_line"": -0.0372,
+    ""histogram"": 0.0085,
+    ""ma_fast"": 366.57,
+    ""ma_slow"": 366.62,
+    ""ma_signal"": -0.0287
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 360 based on recent lows around 359.2 and 360.35 in last week."",
+    ""Resistance updated to 375 based on recent highs touching 375.5."",
+    ""Volume threshold lowered to 900000 reflecting recent average volumes around 800k-930k."",
+    ""Bollinger bands updated to recent values from 1-minute data indicating tight range around 366.6."",
+    ""MACD parameters updated to recent values showing slight bullish histogram but negative signal line."",
+    ""ADX threshold increased to 25 due to recent ADX values around 23-26 indicating stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:23:07,"{
+  ""stock_code"": ""EIDPARRY"",
+  ""instrument_token"": 234497,
+  ""support"": 1050.0,
+  ""resistance"": 1247.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1156.54,
+    ""upper_band"": 1237.09,
+    ""lower_band"": 1116.67
+  },
+  ""macd"": {
+    ""signal_line"": 26.50,
+    ""histogram"": -12.72,
+    ""ma_fast"": 1155.46,
+    ""ma_slow"": 1177.57,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support raised from 1000 to 1050 based on recent lows around 1052 and 1116."",
+    ""Resistance updated from 2000 to 1247 based on 20-day high around 1246.8."",
+    ""Bollinger Bands set to recent mid (1156.54), upper (1237.09), and lower (1116.67) values reflecting recent volatility."",
+    ""MACD parameters updated to recent values reflecting weakening bullish momentum."",
+    ""No change in volume threshold or ADX threshold as no significant volume or trend strength changes detected."",
+    ""Signal set to Hold due to mixed indicators and no breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

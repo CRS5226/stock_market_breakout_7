@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:30:20,"{
+  ""stock_code"": ""REDINGTON"",
+  ""instrument_token"": 3649281,
+  ""support"": 234.25,
+  ""resistance"": 242.95,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 241.655,
+    ""upper_band"": 242.051,
+    ""lower_band"": 241.259
+  },
+  ""macd"": {
+    ""signal_line"": -0.1308,
+    ""histogram"": 0.0572,
+    ""ma_fast"": 241.6,
+    ""ma_slow"": 241.655,
+    ""ma_signal"": -0.0736
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 241.6,
+    ""ma_slow"": 241.655
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with narrow Bollinger bands and low MACD histogram, indicating sideways movement."",
+    ""Support adjusted slightly downward to 234.25 based on recent lows."",
+    ""Resistance adjusted upward to 242.95 based on recent highs."",
+    ""Volume threshold remains unchanged due to stable volume levels.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,4281 @@
+timestamp,raw_response
+2025-08-19 13:28:21,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with the latest close at 2630.0, near the resistance at 2685.0."",
+    ""ADX remains above 20, indicating a strong trend."",
+    ""MACD histogram is positive and stable, supporting bullish momentum."",
+    ""Price is trading near the upper Bollinger Band, suggesting potential continuation upward.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:34:16,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with the latest close at 2631.1, near the resistance at 2685.0."",
+    ""Price has broken above previous support levels and is trading near the upper Bollinger Band, indicating potential bullish momentum."",
+    ""ADX remains above 20, confirming a strong trend."",
+    ""MACD histogram is positive and stable, supporting bullish outlook.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:38:32,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with the latest close at 2634.0, near the resistance at 2685.0."",
+    ""Price has broken above previous support levels and is trading near the upper Bollinger Band, indicating potential bullish momentum."",
+    ""ADX remains above 20, confirming a strong trend."",
+    ""MACD histogram is positive and stable, supporting bullish outlook.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:53:18,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a sideways consolidation with low volatility, with the latest close at 2628.0, remaining within support and resistance levels."",
+    ""No significant breakout or trend reversal signals detected in recent data."",
+    ""ADX remains above 20, indicating a maintained trend but no clear directional move."",
+    ""MACD histogram is stable and close to zero, suggesting no strong momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:52:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:45:13,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a sideways consolidation with the latest close at 2633.8, near the resistance at 2685.0."",
+    ""ADX remains above 20, indicating a strong trend."",
+    ""MACD histogram is positive and stable, suggesting ongoing momentum."",
+    ""Price is trading within Bollinger Bands, indicating no immediate breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:15:11,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward momentum with the latest close at 2603.3, approaching the resistance at 2685.0."",
+    ""ADX remains above 20, indicating a strong trend."",
+    ""MACD histogram is negative but decreasing in magnitude, suggesting potential weakening of bearish momentum."",
+    ""Price is trading within Bollinger Bands, indicating no immediate breakout but close to upper band.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:19:35,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2475.0,
+  ""resistance"": 2685.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2560.0,
+    ""upper_band"": 2647.0,
+    ""lower_band"": 2475.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward momentum with the latest close at 2596.7, near the resistance at 2685.0."",
+    ""ADX remains above 20, indicating a strong trend."",
+    ""MACD histogram is negative but decreasing in magnitude, suggesting potential weakening of bearish momentum."",
+    ""Price is trading within Bollinger Bands, indicating no immediate breakout but close to upper band.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:04:32,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2588.59,
+  ""resistance"": 2649.56,
+  ""volume_threshold"": 1144,
+  ""bollinger"": {
+    ""mid_price"": 2619.07,
+    ""upper_band"": 2649.56,
+    ""lower_band"": 2588.59
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward momentum with MACD histogram positive and price near resistance."",
+    ""Support and resistance levels remain valid; no major breakout or breakdown observed."",
+    ""Volume remains below threshold, indicating no strong breakout confirmation."",
+    ""ADX indicates moderate trend strength, no significant change.""
+  ],
+  ""last_updated"": ""2025-08-21 14:59:21"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:09:49,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""support"": 2588.59,
+  ""resistance"": 2649.56,
+  ""volume_threshold"": 1144,
+  ""bollinger"": {
+    ""mid_price"": 2619.07,
+    ""upper_band"": 2649.56,
+    ""lower_band"": 2588.59
+  },
+  ""macd"": {
+    ""signal_line"": 0.2389,
+    ""histogram"": 0.2322,
+    ""ma_fast"": 2561.0,
+    ""ma_slow"": 2600.0,
+    ""ma_signal"": 2550.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward momentum with MACD histogram positive and price near resistance."",
+    ""Support and resistance levels remain valid; no major breakout or breakdown observed."",
+    ""Volume remains below threshold, indicating no strong breakout confirmation."",
+    ""ADX indicates moderate trend strength, no significant change.""
+  ],
+  ""last_updated"": ""2025-08-21 14:59:21"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:35:15,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 11:22:00+00:00"",
+    ""open"": 2438.3,
+    ""high"": 2440.0,
+    ""low"": 2435.4,
+    ""close"": 2436.0,
+    ""volume"": 1550
+  },
+  ""support"": 2421.5,
+  ""resistance"": 2442.8,
+  ""volume_threshold"": 1933,
+  ""bollinger"": {
+    ""mid_price"": 2432.15,
+    ""upper_band"": 2442.55,
+    ""lower_band"": 2422.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price near support level with sideways movement, indicating consolidation."",
+    ""No significant change in ADX or MACD suggesting lack of strong trend."",
+    ""Price remains within Bollinger bands, indicating low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2436.24
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2450.18
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2484.72
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2436.24,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2450.18,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2484.72,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:43:57,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:34:00+00:00"",
+    ""open"": 2495.2,
+    ""high"": 2498.0,
+    ""low"": 2493.0,
+    ""close"": 2495.2,
+    ""volume"": 6048
+  },
+  ""support"": 2421.5,
+  ""resistance"": 2442.8,
+  ""volume_threshold"": 1933,
+  ""bollinger"": {
+    ""mid_price"": 2432.15,
+    ""upper_band"": 2442.55,
+    ""lower_band"": 2422.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains near support level with sideways movement, indicating consolidation."",
+    ""No significant change in ADX or MACD suggesting lack of strong trend."",
+    ""Price stays within Bollinger bands, indicating low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2497.75
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2510.72
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2540.12
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2497.75,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2510.72,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2540.12,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:51:49,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:42:00+00:00"",
+    ""open"": 2490.0,
+    ""high"": 2493.0,
+    ""low"": 2488.0,
+    ""close"": 2490.0,
+    ""volume"": 4721
+  },
+  ""support"": 2421.5,
+  ""resistance"": 2442.8,
+  ""volume_threshold"": 1933,
+  ""bollinger"": {
+    ""mid_price"": 2432.15,
+    ""upper_band"": 2442.55,
+    ""lower_band"": 2422.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains near support level with sideways movement, indicating consolidation."",
+    ""No significant change in ADX or MACD suggesting lack of strong trend."",
+    ""Price stays within Bollinger bands, indicating low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2497.75
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2510.72
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2540.12
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2497.75,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2510.72,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2540.12,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:58:27,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:50:00+00:00"",
+    ""open"": 2484.0,
+    ""high"": 2484.6,
+    ""low"": 2483.3,
+    ""close"": 2484.0,
+    ""volume"": 1733
+  },
+  ""support"": 2421.5,
+  ""resistance"": 2442.8,
+  ""volume_threshold"": 1933,
+  ""bollinger"": {
+    ""mid_price"": 2432.15,
+    ""upper_band"": 2442.55,
+    ""lower_band"": 2422.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains near support level with sideways movement, indicating consolidation."",
+    ""No significant change in ADX or MACD suggesting lack of strong trend."",
+    ""Price stays within Bollinger bands, indicating low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2485.25
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2497.02
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2533.68
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2485.25,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2497.02,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2533.68,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 11:02:23,"{
+  ""reason"": [
+    ""Recent price decline below support level of 2588.59, indicating potential weakness."",
+    ""Volume spike in recent data suggests increased selling pressure."",
+    ""MACD histogram shows negative momentum, aligning with price decline."",
+    ""Price near lower Bollinger Band, indicating possible oversold condition."",
+    ""ADX remains below threshold of 20, suggesting lack of strong trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 2484.86
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2514.54
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 2554.55
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2484.86,
+      ""ret"": -0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2514.54,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2554.55,
+      ""ret"": 0.035
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 2588.59,
+  ""resistance"": 2649.56,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2619.07,
+    ""upper_band"": 2649.56,
+    ""lower_band"": 2588.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price decline below support level of 2588.59, indicating potential weakness."",
+    ""Volume spike in recent data suggests increased selling pressure."",
+    ""MACD histogram shows negative momentum, aligning with price decline."",
+    ""Price near lower Bollinger Band, indicating possible oversold condition."",
+    ""ADX remains below threshold of 20, suggesting lack of strong trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 2484.86
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2514.54
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 2554.55
+    }
+  }
+}"
+2025-09-02 11:11:04,"{
+  ""reason"": [
+    ""Recent price remains below support level of 2553.0, indicating continued weakness."",
+    ""Volume remains below volume threshold of 1507, suggesting lack of strong buying interest."",
+    ""Price near lower Bollinger Band at 2588.59, indicating potential oversold condition but no immediate reversal signals."",
+    ""ADX remains below threshold of 20, indicating a weak or sideways trend."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 2487.0
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 2514.0
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 2554.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2487.0,
+      ""ret"": -0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2514.0,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2554.0,
+      ""ret"": 0.025
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:01:00+00:00"",
+    ""open"": 2488.0,
+    ""high"": 2488.0,
+    ""low"": 2487.1,
+    ""close"": 2487.6,
+    ""volume"": 469
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2436.2,
+  ""resistance_realtime"": 2499.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 2.5241,
+  ""sr_range_pct_1d"": 3.332,
+  ""sr_range_pct_1w"": 8.5611,
+  ""sr_range_pct_3m"": 44.8272,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2619.07,
+    ""upper_band"": 2649.56,
+    ""lower_band"": 2588.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:02:23"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.332
+}"
+2025-09-02 11:19:35,"{
+  ""reason"": [
+    ""Recent price remains below support level of 2553.0, indicating persistent weakness."",
+    ""Volume remains below threshold of 1507, suggesting limited buying interest."",
+    ""Price near lower Bollinger Band at 2588.59, indicating potential oversold condition but no immediate reversal signals."",
+    ""ADX remains below threshold of 20, indicating a weak or sideways trend."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 2487.0
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 2514.0
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 2554.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2487.0,
+      ""ret"": -0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2514.0,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2554.0,
+      ""ret"": 0.025
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:09:00+00:00"",
+    ""open"": 2488.5,
+    ""high"": 2489.3,
+    ""low"": 2487.0,
+    ""close"": 2487.0,
+    ""volume"": 923
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2465.5,
+  ""resistance_realtime"": 2499.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 1.3457,
+  ""sr_range_pct_1d"": 3.3301,
+  ""sr_range_pct_1w"": 8.5563,
+  ""sr_range_pct_3m"": 44.802,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2619.07,
+    ""upper_band"": 2649.56,
+    ""lower_band"": 2588.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:11:04"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.3301
+}"
+2025-09-02 11:28:22,"{
+  ""reason"": [
+    ""Recent price decline from the previous close of 2495.0 to 2487.8 indicates continued downward momentum."",
+    ""Price is approaching the lower Bollinger Band at 2482.415, suggesting potential oversold condition but no confirmed reversal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest."",
+    ""ADX remains below 20, indicating weak or sideways trend strength."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 2480.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2494.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2534.0
+    }
+  }
+}"
+2025-09-02 11:37:16,"{
+  ""reason"": [
+    ""Recent daily close of 2488.4 is slightly below the support level at 2553.0, indicating continued weakness."",
+    ""The latest hourly close remains near the lower Bollinger Band at approximately 2483.9, suggesting potential oversold condition but no immediate reversal signal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 2485.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2494.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2534.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:27:00+00:00"",
+    ""open"": 2484.9,
+    ""high"": 2485.0,
+    ""low"": 2482.3,
+    ""close"": 2485.0,
+    ""volume"": 1131
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2480.0,
+  ""resistance_realtime"": 2500.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.8039,
+  ""sr_range_pct_1d"": 3.3323,
+  ""sr_range_pct_1w"": 8.5618,
+  ""sr_range_pct_3m"": 44.8308,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2489.895,
+    ""upper_band"": 2495.875,
+    ""lower_band"": 2483.915
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2489.48,
+    ""ma_slow"": 2489.895
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2485,
+      ""ret"": -0.003
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2494,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2534,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 11:46:20,"{
+  ""reason"": [
+    ""Recent daily close of 2495.0 is significantly below the support level at 2553.0, indicating persistent weakness."",
+    ""The latest hourly close remains near the lower Bollinger Band at approximately 2489.34, suggesting oversold conditions but no immediate reversal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 2495.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2504.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2545.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:36:00+00:00"",
+    ""open"": 2489.6,
+    ""high"": 2494.9,
+    ""low"": 2488.3,
+    ""close"": 2492.3,
+    ""volume"": 1462
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2481.5,
+  ""resistance_realtime"": 2500.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.7434,
+  ""sr_range_pct_1d"": 3.3315,
+  ""sr_range_pct_1w"": 8.5597,
+  ""sr_range_pct_3m"": 44.82,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2489.895,
+    ""upper_band"": 2495.875,
+    ""lower_band"": 2483.915
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2489.48,
+    ""ma_slow"": 2489.895
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2495,
+      ""ret"": -0.003
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2504,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2545,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 11:55:31,"{
+  ""reason"": [
+    ""Recent daily close of 2494.0 is significantly below the support level at 2553.0, indicating persistent weakness."",
+    ""The latest hourly close remains near the lower Bollinger Band at approximately 2487.04, suggesting oversold conditions but no immediate reversal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 2494.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2504.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2545.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:45:00+00:00"",
+    ""open"": 2490.0,
+    ""high"": 2491.6,
+    ""low"": 2490.0,
+    ""close"": 2491.3,
+    ""volume"": 86
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2481.5,
+  ""resistance_realtime"": 2500.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.7415,
+  ""sr_range_pct_1d"": 3.3226,
+  ""sr_range_pct_1w"": 8.5371,
+  ""sr_range_pct_3m"": 44.7014,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2489.895,
+    ""upper_band"": 2495.875,
+    ""lower_band"": 2483.915
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2489.48,
+    ""ma_slow"": 2489.895
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2495,
+      ""ret"": -0.003
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2504,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2545,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 12:04:00,"{
+  ""reason"": [
+    ""Recent daily close of 2497.0 is near the support level at 2553.0, indicating potential stabilization after previous decline."",
+    ""The latest hourly close remains close to the lower Bollinger Band at approximately 2488.27, suggesting oversold conditions but no immediate reversal signal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 2494.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2504.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2545.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:54:00+00:00"",
+    ""open"": 2494.0,
+    ""high"": 2494.6,
+    ""low"": 2493.4,
+    ""close"": 2493.4,
+    ""volume"": 263
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2482.3,
+  ""resistance_realtime"": 2500.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.7097,
+  ""sr_range_pct_1d"": 3.324,
+  ""sr_range_pct_1w"": 8.5405,
+  ""sr_range_pct_3m"": 44.7193,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2489.895,
+    ""upper_band"": 2495.875,
+    ""lower_band"": 2483.915
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2489.48,
+    ""ma_slow"": 2489.895
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2495,
+      ""ret"": -0.003
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2504,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2545,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 12:12:39,"{
+  ""reason"": [
+    ""The recent hourly close of 2519.5 is slightly below the support level at 2553.0, indicating continued weakness but potential for stabilization."",
+    ""The latest hourly Bollinger Band indicates a lower band at approximately 2485.18, suggesting oversold conditions but no immediate reversal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.001,
+      ""price"": 2518.5
+    },
+    ""1w"": {
+      ""ret"": 0.003,
+      ""price"": 2526.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 2559.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:02:00+00:00"",
+    ""open"": 2497.2,
+    ""high"": 2507.0,
+    ""low"": 2496.0,
+    ""close"": 2506.9,
+    ""volume"": 3830
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2482.3,
+  ""resistance_realtime"": 2507.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.9892,
+  ""sr_range_pct_1d"": 3.32,
+  ""sr_range_pct_1w"": 8.5302,
+  ""sr_range_pct_3m"": 44.6656,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2489.895,
+    ""upper_band"": 2495.875,
+    ""lower_band"": 2483.915
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2492.067,
+    ""ma_slow"": 2492.067
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2518.5,
+      ""ret"": -0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2526.0,
+      ""ret"": 0.003
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2559.0,
+      ""ret"": 0.015
+    }
+  }
+}"
+2025-09-02 14:07:40,"{
+  ""reason"": [
+    ""The recent hourly close of 2529.3 is slightly below the support level at 2553.0, indicating potential short-term weakness but no decisive breakdown."",
+    ""The hourly Bollinger Band lower band at approximately 2525.36 is close to the current close, suggesting oversold conditions but no immediate reversal signal."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price decline.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.001,
+      ""price"": 2528.5
+    },
+    ""1w"": {
+      ""ret"": 0.003,
+      ""price"": 2536.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 2559.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:05:00+00:00"",
+    ""open"": 2527.8,
+    ""high"": 2531.0,
+    ""low"": 2527.8,
+    ""close"": 2529.3,
+    ""volume"": 3669
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2525.36,
+  ""resistance_realtime"": 2544.52,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.75,
+  ""sr_range_pct_1d"": 3.29,
+  ""sr_range_pct_1w"": 8.45,
+  ""sr_range_pct_3m"": 44.27,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2534.94,
+    ""upper_band"": 2544.52,
+    ""lower_band"": 2525.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2530.88,
+    ""ma_slow"": 2534.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2528.5,
+      ""ret"": -0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2536.0,
+      ""ret"": 0.003
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2559.0,
+      ""ret"": 0.015
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:12:39"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.29
+}"
+2025-09-02 14:16:29,"{
+  ""reason"": [
+    ""The recent hourly close of 2531.1 is slightly above support at 2553.0, indicating no immediate breakdown but potential for short-term consolidation."",
+    ""The hourly Bollinger Band mid at approximately 2534.94 is close to the current close, suggesting neutral volatility with no clear reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.001,
+      ""price"": 2530.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.003,
+      ""price"": 2539.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 2567.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:07:40+00:00"",
+    ""open"": 2530.6,
+    ""high"": 2530.6,
+    ""low"": 2528.0,
+    ""close"": 2528.9,
+    ""volume"": 658
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2527.4,
+  ""resistance_realtime"": 2559.4,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 1.2652,
+  ""sr_range_pct_1d"": 3.2776,
+  ""sr_range_pct_1w"": 8.4213,
+  ""sr_range_pct_3m"": 44.0952,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2534.94,
+    ""upper_band"": 2544.52,
+    ""lower_band"": 2525.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2530.88,
+    ""ma_slow"": 2534.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2530.4,
+      ""ret"": -0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2539.0,
+      ""ret"": 0.003
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2567.0,
+      ""ret"": 0.015
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:07:40"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.2776
+}"
+2025-09-02 14:23:24,"{
+  ""reason"": [
+    ""The recent hourly close of 2540.6 is slightly below the support at 2553.0, indicating potential for further downside or consolidation."",
+    ""The hourly Bollinger Band mid at approximately 2532.48 is close to the current close, suggesting neutral volatility with no clear reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.001,
+      ""price"": 2530.4
+    },
+    ""1w"": {
+      ""ret"": 0.003,
+      ""price"": 2539.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 2567.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:15:00+00:00"",
+    ""open"": 2531.9,
+    ""high"": 2534.0,
+    ""low"": 2530.1,
+    ""close"": 2532.4,
+    ""volume"": 362
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2525.0,
+  ""resistance_realtime"": 2556.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 1.2251,
+  ""sr_range_pct_1d"": 3.276,
+  ""sr_range_pct_1w"": 8.4173,
+  ""sr_range_pct_3m"": 44.0743,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2534.94,
+    ""upper_band"": 2544.52,
+    ""lower_band"": 2525.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2530.88,
+    ""ma_slow"": 2534.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2530.4,
+      ""ret"": -0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2539.0,
+      ""ret"": 0.003
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2567.0,
+      ""ret"": 0.015
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:16:29"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.276
+}"
+2025-09-02 14:32:04,"{
+  ""reason"": [
+    ""The recent hourly close of 2532.4 is slightly below the support at 2553.0, indicating potential for further downside or consolidation."",
+    ""The hourly Bollinger Band mid at approximately 2534.94 is close to the current close, suggesting neutral volatility with no clear reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight negative momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.001,
+      ""price"": 2530.4
+    },
+    ""1w"": {
+      ""ret"": 0.003,
+      ""price"": 2539.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 2567.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:22:00+00:00"",
+    ""open"": 2540.6,
+    ""high"": 2542.0,
+    ""low"": 2538.3,
+    ""close"": 2538.3,
+    ""volume"": 457
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2525.0,
+  ""resistance_realtime"": 2556.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 1.2198,
+  ""sr_range_pct_1d"": 3.2621,
+  ""sr_range_pct_1w"": 8.3815,
+  ""sr_range_pct_3m"": 43.887,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2534.94,
+    ""upper_band"": 2544.52,
+    ""lower_band"": 2525.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2530.88,
+    ""ma_slow"": 2534.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2530.4,
+      ""ret"": -0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2539.0,
+      ""ret"": 0.003
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2567.0,
+      ""ret"": 0.015
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:23:24"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 3.2621
+}"
+2025-09-02 15:15:37,"{
+  ""reason"": [
+    ""Recent hourly close of 2542.9 is slightly above the support at 2553.0, indicating potential for stabilization or minor upward movement."",
+    ""The hourly Bollinger Band mid at approximately 2539.53 is close to the current close, suggesting neutral volatility with no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2543.2
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2555.4
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2594.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:13:00+00:00"",
+    ""open"": 2544.5,
+    ""high"": 2544.9,
+    ""low"": 2541.8,
+    ""close"": 2542.9,
+    ""volume"": 1416
+  },
+  ""support"": 2553.0,
+  ""resistance"": 2635.9,
+  ""support_realtime"": 2525.0,
+  ""resistance_realtime"": 2556.0,
+  ""support_1d"": 2553.0,
+  ""resistance_1d"": 2635.9,
+  ""support_1w"": 2505.0,
+  ""resistance_1w"": 2718.0,
+  ""support_3m"": 2423.1,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.5837,
+  ""sr_range_pct_1d"": 3.2736,
+  ""sr_range_pct_1w"": 8.411,
+  ""sr_range_pct_3m"": 44.0412,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2539.53,
+    ""upper_band"": 2547.12,
+    ""lower_band"": 2531.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2537.76,
+    ""ma_slow"": 2537.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2543.2,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2555.4,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2594.0,
+      ""ret"": 0.02
+    }
+  },
+  ""last_updated"": ""2025-09-02 15:13:00"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.5837
+}"
+2025-09-02 15:24:26,"{
+  ""reason"": [
+    ""Recent hourly close of 2542.9 is very close to the support at 2553.0, indicating limited downside risk and potential for consolidation."",
+    ""Hourly Bollinger Band mid at approximately 2539.53 remains near the current close, suggesting neutral volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2543.2,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2555.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2594.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:14:00+00:00"",
+    ""open"": 2545.4,
+    ""high"": 2545.7,
+    ""low"": 2542.2,
+    ""close"": 2542.4,
+    ""volume"": 1790
+  },
+  ""support"": 2358.1,
+  ""resistance"": 2499.0,
+  ""support_realtime"": 2530.1,
+  ""resistance_realtime"": 2548.7,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.7314,
+  ""sr_range_pct_1d"": 5.5409,
+  ""sr_range_pct_1w"": 11.4751,
+  ""sr_range_pct_3m"": 47.7958,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2539.53,
+    ""upper_band"": 2547.12,
+    ""lower_band"": 2531.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2537.76,
+    ""ma_slow"": 2537.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2543.2,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2555.4,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2594.0,
+      ""ret"": 0.02
+    }
+  },
+  ""last_updated"": ""2025-09-02 15:15:37"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 5.5409
+}"
+2025-09-02 15:33:09,"{
+  ""reason"": [
+    ""Recent hourly close of 2545.0 is above the support at 2553.0, indicating potential for upward movement."",
+    ""Hourly Bollinger Band mid at approximately 2539.53 remains near the current close, suggesting neutral volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2545.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2557.3,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2596.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:23:00+00:00"",
+    ""open"": 2543.0,
+    ""high"": 2544.7,
+    ""low"": 2541.5,
+    ""close"": 2544.5,
+    ""volume"": 3962
+  },
+  ""support"": 2358.1,
+  ""resistance"": 2499.0,
+  ""support_realtime"": 2530.2,
+  ""resistance_realtime"": 2548.7,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.7276,
+  ""sr_range_pct_1d"": 5.5414,
+  ""sr_range_pct_1w"": 11.476,
+  ""sr_range_pct_3m"": 47.7996,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2539.53,
+    ""upper_band"": 2547.12,
+    ""lower_band"": 2531.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2537.76,
+    ""ma_slow"": 2537.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2545.0,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2557.3,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2596.0,
+      ""ret"": 0.02
+    }
+  },
+  ""last_updated"": ""2025-09-02 15:24:26"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 5.5414
+}"
+2025-09-03 11:54:43,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 2545.0,
+    ""high"": 2545.0,
+    ""low"": 2545.0,
+    ""close"": 2545.0,
+    ""volume"": 100
+  },
+  ""support"": 2358.1,
+  ""resistance"": 2499.0,
+  ""support_realtime"": 2530.2,
+  ""resistance_realtime"": 2551.0,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.8173,
+  ""sr_range_pct_1d"": 5.5363,
+  ""sr_range_pct_1w"": 11.4656,
+  ""sr_range_pct_3m"": 47.7564,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2539.53,
+    ""upper_band"": 2547.12,
+    ""lower_band"": 2531.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2537.76,
+    ""ma_slow"": 2537.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly close of 2545.0 is below the resistance at 2551.0, indicating potential for downward movement."",
+    ""Hourly Bollinger Band mid at approximately 2539.53 remains near the current close, suggesting neutral volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2545.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2557.3
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2596.0
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:04:34,"{
+  ""reason"": [
+    ""Recent hourly close of 2507.6 is slightly below the previous support at 2530.2, indicating potential weakening of support levels."",
+    ""Hourly Bollinger Band mid at approximately 2507.95 remains near current close, suggesting low volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  },
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:54:43+00:00"",
+    ""open"": 2507.0,
+    ""high"": 2508.0,
+    ""low"": 2504.8,
+    ""close"": 2506.3,
+    ""volume"": 2761
+  },
+  ""support"": 2358.1,
+  ""resistance"": 2499.0,
+  ""support_realtime"": 2530.2,
+  ""resistance_realtime"": 2551.0,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.8221,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2539.53,
+    ""upper_band"": 2547.12,
+    ""lower_band"": 2531.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2537.76,
+    ""ma_slow"": 2537.76
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly close of 2507.6 is slightly below the previous support at 2530.2, indicating potential weakening of support levels."",
+    ""Hourly Bollinger Band mid at approximately 2507.95 remains near current close, suggesting low volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited buying interest in recent activity."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-03 12:14:12,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:03:00+00:00"",
+    ""open"": 2507.6,
+    ""high"": 2508.2,
+    ""low"": 2506.0,
+    ""close"": 2506.0,
+    ""volume"": 1371
+  },
+  ""support"": 2358.1,
+  ""resistance"": 2499.0,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.045,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly close of 2507.6 is slightly above the support_realtime at 2507.6, indicating support held at recent hourly close."",
+    ""Hourly Bollinger Band mid at approximately 2509.1 remains near current close, suggesting low volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited trading interest."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-03 12:23:10,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:13:00+00:00"",
+    ""open"": 2508.8,
+    ""high"": 2508.8,
+    ""low"": 2506.7,
+    ""close"": 2508.5,
+    ""volume"": 575
+  },
+  ""support"": 2507.6,
+  ""resistance"": 2508.2,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.0239,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly close of 2507.6 is slightly above the support_realtime at 2507.6, indicating support held at recent hourly close."",
+    ""Hourly Bollinger Band mid at approximately 2509.1 remains near current close, suggesting low volatility and no immediate reversal signals."",
+    ""Volume remains below the threshold of 1507, indicating limited trading interest."",
+    ""ADX remains below 20, indicating weak trend strength and sideways movement."",
+    ""MACD histogram shows slight positive momentum, aligning with recent price stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  },
+  ""reasoning"": [
+    ""Support level slightly adjusted upward based on recent realtime data."",
+    ""Reinforced support at 2507.6 with recent hourly close."",
+    ""No significant change in trend indicators; maintained current levels.""
+  ]
+}"
+2025-09-03 12:32:44,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:22:00+00:00"",
+    ""open"": 2510.0,
+    ""high"": 2510.0,
+    ""low"": 2508.3,
+    ""close"": 2508.5,
+    ""volume"": 445
+  },
+  ""support"": 2507.6,
+  ""resistance"": 2508.2,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.0239,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted upward based on recent realtime data."",
+    ""Reinforced support at 2507.6 with recent hourly close."",
+    ""No significant change in trend indicators; maintained current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-03 15:27:39,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:31:00+00:00"",
+    ""open"": 2505.8,
+    ""high"": 2510.0,
+    ""low"": 2505.8,
+    ""close"": 2508.0,
+    ""volume"": 2243
+  },
+  ""support"": 2507.6,
+  ""resistance"": 2508.2,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.0239,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted upward based on recent realtime data."",
+    ""Reinforced support at 2507.6 with recent hourly close."",
+    ""No significant change in trend indicators; maintained current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-03 15:37:58,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:26:00+00:00"",
+    ""open"": 2505.1,
+    ""high"": 2505.2,
+    ""low"": 2505.0,
+    ""close"": 2505.0,
+    ""volume"": 3024
+  },
+  ""support"": 2507.6,
+  ""resistance"": 2508.2,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.0239,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted upward based on recent realtime data."",
+    ""Reinforced support at 2507.6 with recent hourly close."",
+    ""No significant change in trend indicators; maintained current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-04 10:18:35,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:31:00+00:00"",
+    ""open"": 2501.4,
+    ""high"": 2501.4,
+    ""low"": 2501.4,
+    ""close"": 2501.4,
+    ""volume"": 0
+  },
+  ""support"": 2507.6,
+  ""resistance"": 2508.2,
+  ""support_realtime"": 2507.6,
+  ""resistance_realtime"": 2508.2,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.0239,
+  ""sr_range_pct_1d"": 5.9751,
+  ""sr_range_pct_1w"": 12.5613,
+  ""sr_range_pct_3m"": 52.3203,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2509.1,
+    ""upper_band"": 2511.3457,
+    ""lower_band"": 2506.8543
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2505.44,
+    ""ma_slow"": 2505.91
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted upward based on recent realtime data."",
+    ""Reinforced support at 2507.6 with recent hourly close."",
+    ""No significant change in trend indicators; maintained current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2507.6,
+  ""target"": 2519.0,
+  ""stoploss"": 2499.0,
+  ""entry1"": 2507.6,
+  ""target1"": 2519.0,
+  ""stoploss1"": 2499.0,
+  ""entry2"": 2507.6,
+  ""target2"": 2519.0,
+  ""stoploss2"": 2499.0,
+  ""entry3"": 2507.6,
+  ""target3"": 2519.0,
+  ""stoploss3"": 2499.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2507.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2519.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2559.0
+    }
+  }
+}"
+2025-09-04 10:40:42,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:17:00+00:00"",
+    ""open"": 2453.6,
+    ""high"": 2453.6,
+    ""low"": 2451.0,
+    ""close"": 2452.4,
+    ""volume"": 1681
+  },
+  ""support"": 2451.0,
+  ""resistance"": 2453.6,
+  ""support_realtime"": 2447.1,
+  ""resistance_realtime"": 2458.4,
+  ""support_1d"": 2358.1,
+  ""resistance_1d"": 2499.0,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2614.8,
+  ""support_3m"": 2323.0,
+  ""resistance_3m"": 3538.4,
+  ""sr_range_pct_realtime"": 0.025,
+  ""sr_range_pct_1d"": 6.2,
+  ""sr_range_pct_1w"": 12.7,
+  ""sr_range_pct_3m"": 52.3,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2454.5,
+    ""upper_band"": 2458.0,
+    ""lower_band"": 2449.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2447.8,
+    ""ma_slow"": 2450.2
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level adjusted downward based on recent daily lows."",
+    ""Reinforced support at 2447.1 with recent hourly close."",
+    ""Trend indicators remain neutral; levels adjusted accordingly."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2451.2,
+  ""target"": 2450.0,
+  ""stoploss"": 2452.4,
+  ""entry1"": 2448.4,
+  ""target1"": 2442.4,
+  ""stoploss1"": 2454.4,
+  ""entry2"": 2448.4,
+  ""target2"": 2434.0,
+  ""stoploss2"": 2458.4,
+  ""entry3"": 2448.4,
+  ""target3"": 2424.0,
+  ""stoploss3"": 2472.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2454.5,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2457.7,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2500.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 11:11:07,"{
+  ""reason"": [
+    ""Recent hourly data indicates support at 2440.9 and resistance at 2445.2, slightly adjusting previous levels."",
+    ""Hourly indicators show a slight bullish momentum with MACD histogram increasing and ADX remaining neutral."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2454.5
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2457.7
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2500.0
+    }
+  },
+  ""support"": 2440.9,
+  ""resistance"": 2445.2,
+  ""support_realtime"": 2440.9,
+  ""resistance_realtime"": 2445.2,
+  ""support_1d"": 2440.9,
+  ""resistance_1d"": 2445.2,
+  ""support_1w"": 2440.9,
+  ""resistance_1w"": 2445.2,
+  ""support_3m"": 2440.9,
+  ""resistance_3m"": 2445.2,
+  ""sr_range_pct_realtime"": 0.173,
+  ""sr_range_pct_1d"": 0.174,
+  ""sr_range_pct_1w"": 0.174,
+  ""sr_range_pct_3m"": 0.174,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2454.5,
+    ""upper_band"": 2458.0,
+    ""lower_band"": 2449.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2441.7,
+    ""ma_slow"": 2444.8
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2440.9,
+  ""target"": 2445.2,
+  ""stoploss"": 2439.2,
+  ""entry1"": 2440.9,
+  ""target1"": 2445.2,
+  ""stoploss1"": 2439.2,
+  ""entry2"": 2440.9,
+  ""target2"": 2445.2,
+  ""stoploss2"": 2439.2,
+  ""entry3"": 2440.9,
+  ""target3"": 2445.2,
+  ""stoploss3"": 2439.2,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2454.5
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2457.7
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2500.0
+    }
+  }
+}"
+2025-09-04 11:20:52,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:10:00+00:00"",
+    ""open"": 2438.8,
+    ""high"": 2442.0,
+    ""low"": 2438.8,
+    ""close"": 2440.0,
+    ""volume"": 1725
+  },
+  ""support"": 2440.9,
+  ""resistance"": 2445.2,
+  ""support_realtime"": 2440.9,
+  ""resistance_realtime"": 2445.2,
+  ""support_1d"": 2440.9,
+  ""resistance_1d"": 2445.2,
+  ""support_1w"": 2440.9,
+  ""resistance_1w"": 2445.2,
+  ""support_3m"": 2440.9,
+  ""resistance_3m"": 2445.2,
+  ""sr_range_pct_realtime"": 0.1762,
+  ""sr_range_pct_1d"": 0.1762,
+  ""sr_range_pct_1w"": 0.1762,
+  ""sr_range_pct_3m"": 0.1762,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2454.5,
+    ""upper_band"": 2458.0,
+    ""lower_band"": 2449.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2441.7,
+    ""ma_slow"": 2444.8
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2440.9 and resistance at 2445.2, slightly adjusting previous levels."",
+    ""Hourly indicators show a slight bullish momentum with MACD histogram increasing and ADX remaining neutral."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2443.48,
+  ""target"": 2441.87,
+  ""stoploss"": 2444.56,
+  ""entry1"": 2443.48,
+  ""target1"": 2441.87,
+  ""stoploss1"": 2444.56,
+  ""entry2"": 2443.48,
+  ""target2"": 2441.87,
+  ""stoploss2"": 2444.56,
+  ""entry3"": 2443.48,
+  ""target3"": 2441.87,
+  ""stoploss3"": 2444.56,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2454.5
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2457.7
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2500.0
+    }
+  }
+}"
+2025-09-04 14:18:10,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:19:00+00:00"",
+    ""open"": 2434.8,
+    ""high"": 2436.5,
+    ""low"": 2434.0,
+    ""close"": 2436.0,
+    ""volume"": 1078
+  },
+  ""support"": 2440.9,
+  ""resistance"": 2445.2,
+  ""support_realtime"": 2440.9,
+  ""resistance_realtime"": 2445.2,
+  ""support_1d"": 2440.9,
+  ""resistance_1d"": 2445.2,
+  ""support_1w"": 2440.9,
+  ""resistance_1w"": 2445.2,
+  ""support_3m"": 2440.9,
+  ""resistance_3m"": 2445.2,
+  ""sr_range_pct_realtime"": 0.1762,
+  ""sr_range_pct_1d"": 0.1762,
+  ""sr_range_pct_1w"": 0.1762,
+  ""sr_range_pct_3m"": 0.1762,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2454.5,
+    ""upper_band"": 2458.0,
+    ""lower_band"": 2449.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2441.7,
+    ""ma_slow"": 2444.8
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2440.9 and resistance at 2445.2, slightly adjusting previous levels."",
+    ""Hourly indicators show a slight bullish momentum with MACD histogram increasing and ADX remaining neutral."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2443.48,
+  ""target"": 2441.87,
+  ""stoploss"": 2444.56,
+  ""entry1"": 2443.48,
+  ""target1"": 2441.87,
+  ""stoploss1"": 2444.56,
+  ""entry2"": 2443.48,
+  ""target2"": 2441.87,
+  ""stoploss2"": 2444.56,
+  ""entry3"": 2443.48,
+  ""target3"": 2441.87,
+  ""stoploss3"": 2444.56,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 2454.5,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2457.7,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2500.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 14:45:32,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:17:00+00:00"",
+    ""open"": 2413.9,
+    ""high"": 2415.9,
+    ""low"": 2412.8,
+    ""close"": 2415.9,
+    ""volume"": 1244
+  },
+  ""support"": 2413.0,
+  ""resistance"": 2416.9,
+  ""support_realtime"": 2413.0,
+  ""resistance_realtime"": 2416.9,
+  ""support_1d"": 2413.0,
+  ""resistance_1d"": 2416.9,
+  ""support_1w"": 2413.0,
+  ""resistance_1w"": 2416.9,
+  ""support_3m"": 2413.0,
+  ""resistance_3m"": 2416.9,
+  ""sr_range_pct_realtime"": 0.124,
+  ""sr_range_pct_1d"": 0.124,
+  ""sr_range_pct_1w"": 0.124,
+  ""sr_range_pct_3m"": 0.124,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2414.5,
+    ""upper_band"": 2418.0,
+    ""lower_band"": 2411.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2413.0,
+    ""ma_slow"": 2414.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2413.0 and resistance at 2416.9, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2414.00,
+  ""target"": 2412.50,
+  ""stoploss"": 2415.50,
+  ""entry1"": 2414.00,
+  ""target1"": 2412.50,
+  ""stoploss1"": 2415.50,
+  ""entry2"": 2414.00,
+  ""target2"": 2412.50,
+  ""stoploss2"": 2415.50,
+  ""entry3"": 2414.00,
+  ""target3"": 2412.50,
+  ""stoploss3"": 2415.50,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0005,
+      ""price"": 2414.7,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.002,
+      ""price"": 2419.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.008,
+      ""price"": 2420.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 14:58:46,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:44:00+00:00"",
+    ""open"": 2417.0,
+    ""high"": 2419.7,
+    ""low"": 2417.0,
+    ""close"": 2418.5,
+    ""volume"": 3017
+  },
+  ""support"": 2413.0,
+  ""resistance"": 2416.9,
+  ""support_realtime"": 2413.0,
+  ""resistance_realtime"": 2416.9,
+  ""support_1d"": 2413.0,
+  ""resistance_1d"": 2416.9,
+  ""support_1w"": 2413.0,
+  ""resistance_1w"": 2416.9,
+  ""support_3m"": 2413.0,
+  ""resistance_3m"": 2416.9,
+  ""sr_range_pct_realtime"": 0.1616,
+  ""sr_range_pct_1d"": 0.1616,
+  ""sr_range_pct_1w"": 0.1616,
+  ""sr_range_pct_3m"": 0.1616,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2414.5,
+    ""upper_band"": 2418.0,
+    ""lower_band"": 2411.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2413.0,
+    ""ma_slow"": 2414.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2413.0 and resistance at 2416.9, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2414.56,
+  ""target"": 2416.0225,
+  ""stoploss"": 2413.585,
+  ""entry1"": 2414.56,
+  ""target1"": 2416.0225,
+  ""stoploss1"": 2413.585,
+  ""entry2"": 2414.56,
+  ""target2"": 2416.0225,
+  ""stoploss2"": 2413.585,
+  ""entry3"": 2414.56,
+  ""target3"": 2416.0225,
+  ""stoploss3"": 2413.585,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0005,
+      ""price"": 2414.7,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.002,
+      ""price"": 2419.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.008,
+      ""price"": 2420.0,
+      ""method"": ""llm_v1""
+    }
+  ],
+  ""last_updated"": ""2025-09-04 14:45:32"",
+  ""forecast"": ""AI""
+}"
+2025-09-04 15:10:45,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:44:00+00:00"",
+    ""open"": 2417.0,
+    ""high"": 2419.7,
+    ""low"": 2417.0,
+    ""close"": 2418.5,
+    ""volume"": 3017
+  },
+  ""support"": 2413.0,
+  ""resistance"": 2416.9,
+  ""support_realtime"": 2413.0,
+  ""resistance_realtime"": 2416.9,
+  ""support_1d"": 2413.0,
+  ""resistance_1d"": 2416.9,
+  ""support_1w"": 2413.0,
+  ""resistance_1w"": 2416.9,
+  ""support_3m"": 2413.0,
+  ""resistance_3m"": 2416.9,
+  ""sr_range_pct_realtime"": 0.1616,
+  ""sr_range_pct_1d"": 0.1616,
+  ""sr_range_pct_1w"": 0.1616,
+  ""sr_range_pct_3m"": 0.1616,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2414.5,
+    ""upper_band"": 2418.0,
+    ""lower_band"": 2411.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2413.0,
+    ""ma_slow"": 2414.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2413.0 and resistance at 2416.9, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2414.56,
+  ""target"": 2416.0225,
+  ""stoploss"": 2413.585,
+  ""entry1"": 2414.56,
+  ""target1"": 2416.0225,
+  ""stoploss1"": 2413.585,
+  ""entry2"": 2414.56,
+  ""target2"": 2416.0225,
+  ""stoploss2"": 2413.585,
+  ""entry3"": 2414.56,
+  ""target3"": 2416.0225,
+  ""stoploss3"": 2413.585,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0005,
+      ""price"": 2414.7,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.002,
+      ""price"": 2419.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.008,
+      ""price"": 2420.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2413.0 and resistance at 2416.9, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ]
+}"
+2025-09-05 12:09:28,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:09:00+00:00"",
+    ""open"": 2408.1,
+    ""high"": 2410.0,
+    ""low"": 2407.2,
+    ""close"": 2409.5,
+    ""volume"": 2486
+  },
+  ""support"": 2413.0,
+  ""resistance"": 2416.9,
+  ""support_realtime"": 2413.0,
+  ""resistance_realtime"": 2416.9,
+  ""support_1d"": 2413.0,
+  ""resistance_1d"": 2416.9,
+  ""support_1w"": 2413.0,
+  ""resistance_1w"": 2416.9,
+  ""support_3m"": 2413.0,
+  ""resistance_3m"": 2416.9,
+  ""sr_range_pct_realtime"": 0.1616,
+  ""sr_range_pct_1d"": 0.1616,
+  ""sr_range_pct_1w"": 0.1616,
+  ""sr_range_pct_3m"": 0.1616,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2414.5,
+    ""upper_band"": 2418.0,
+    ""lower_band"": 2411.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2413.0,
+    ""ma_slow"": 2414.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2413.0 and resistance at 2416.9, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=short, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2415.34,
+  ""target"": 2413.8775,
+  ""stoploss"": 2416.315,
+  ""entry1"": 2415.34,
+  ""target1"": 2413.8775,
+  ""stoploss1"": 2416.315,
+  ""entry2"": 2415.34,
+  ""target2"": 2413.8775,
+  ""stoploss2"": 2416.315,
+  ""entry3"": 2415.34,
+  ""target3"": 2413.8775,
+  ""stoploss3"": 2416.315,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0005,
+      ""price"": 2414.7,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.002,
+      ""price"": 2419.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.008,
+      ""price"": 2420.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 12:27:26,"{
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:08:00+00:00"",
+    ""open"": 2397.0,
+    ""high"": 2397.0,
+    ""low"": 2394.3,
+    ""close"": 2395.0,
+    ""volume"": 1043
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2394.3,
+  ""resistance_1d"": 2397.0,
+  ""support_1w"": 2394.3,
+  ""resistance_1w"": 2397.0,
+  ""support_3m"": 2394.3,
+  ""resistance_3m"": 2397.0,
+  ""sr_range_pct_realtime"": 0.124,
+  ""sr_range_pct_1d"": 0.124,
+  ""sr_range_pct_1w"": 0.124,
+  ""sr_range_pct_3m"": 0.124,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2394.3 and resistance at 2397.0, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2395.34,
+  ""target"": 2397.87,
+  ""stoploss"": 2394.3,
+  ""entry1"": 2395.34,
+  ""target1"": 2397.87,
+  ""stoploss1"": 2394.3,
+  ""entry2"": 2395.34,
+  ""target2"": 2397.87,
+  ""stoploss2"": 2394.3,
+  ""entry3"": 2395.34,
+  ""target3"": 2397.87,
+  ""stoploss3"": 2394.3,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 13:33:26,"{
+  ""reason"": [
+    ""Recent hourly data indicates support at 2394.3 and resistance at 2397.0, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:26:00+00:00"",
+    ""open"": 2398.9,
+    ""high"": 2399.0,
+    ""low"": 2396.0,
+    ""close"": 2399.0,
+    ""volume"": 3603
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2394.3,
+  ""resistance_1d"": 2397.0,
+  ""support_1w"": 2394.3,
+  ""resistance_1w"": 2397.0,
+  ""support_3m"": 2394.3,
+  ""resistance_3m"": 2397.0,
+  ""sr_range_pct_realtime"": 0.1128,
+  ""sr_range_pct_1d"": 0.1128,
+  ""sr_range_pct_1w"": 0.1128,
+  ""sr_range_pct_3m"": 0.1128,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent hourly data indicates support at 2394.3 and resistance at 2397.0, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 2395.34,
+  ""target"": 2397.87,
+  ""stoploss"": 2394.3,
+  ""entry1"": 2395.34,
+  ""target1"": 2397.87,
+  ""stoploss1"": 2394.3,
+  ""entry2"": 2395.34,
+  ""target2"": 2397.87,
+  ""stoploss2"": 2394.3,
+  ""entry3"": 2395.34,
+  ""target3"": 2397.87,
+  ""stoploss3"": 2394.3,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 13:45:19,"{
+  ""reason"": [
+    ""Recent hourly data indicates support at 2394.3 and resistance at 2397.0, slight downward adjustment from previous levels."",
+    ""Hourly indicators show a neutral to slightly bullish momentum with MACD histogram increasing and ADX near threshold."",
+    ""Support level adjusted downward based on recent hourly lows; resistance slightly upward from recent high."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining risk-reward ratio around 1.5."",
+    ""Support/realtime levels refined based on recent hourly close and daily lows, aligning with trend indicators."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:32:00+00:00"",
+    ""open"": 2411.0,
+    ""high"": 2411.3,
+    ""low"": 2411.0,
+    ""close"": 2411.3,
+    ""volume"": 1
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2394.3,
+  ""resistance_1d"": 2397.0,
+  ""support_1w"": 2394.3,
+  ""resistance_1w"": 2397.0,
+  ""support_3m"": 2394.3,
+  ""resistance_3m"": 2397.0,
+  ""sr_range_pct_realtime"": 0.1128,
+  ""sr_range_pct_1d"": 0.1128,
+  ""sr_range_pct_1w"": 0.1128,
+  ""sr_range_pct_3m"": 0.1128,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2408.666,
+  ""target"": 2382.618,
+  ""stoploss"": 2385.92,
+  ""entry1"": 2408.666,
+  ""target1"": 2382.618,
+  ""stoploss1"": 2385.92,
+  ""entry2"": 2408.666,
+  ""target2"": 2382.618,
+  ""stoploss2"": 2385.92,
+  ""entry3"": 2408.666,
+  ""target3"": 2382.618,
+  ""stoploss3"": 2385.92,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:22:03,"{
+  ""reason"": [
+    ""Hourly data shows support at 2394.3 and resistance at 2397.0, consistent with previous levels, indicating stability in core levels."",
+    ""Market indicators suggest a neutral to slightly bullish trend with MACD histogram increasing and ADX near threshold, supporting a long bias."",
+    ""Support and resistance levels are aligned across multiple timeframes, confirming the current S/R bands."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining reasonable risk-reward ratios."",
+    ""Recent hourly close and daily lows support the current support at 2394.3 and resistance at 2397.0."",
+    ""Trade levels are within the S–R band, preserving the correct order: stoploss < support < entry < target < resistance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:19:00+00:00"",
+    ""open"": 2411.4,
+    ""high"": 2416.0,
+    ""low"": 2411.4,
+    ""close"": 2414.7,
+    ""volume"": 368
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2394.3,
+  ""resistance_1d"": 2397.0,
+  ""support_1w"": 2394.3,
+  ""resistance_1w"": 2397.0,
+  ""support_3m"": 2394.3,
+  ""resistance_3m"": 2397.0,
+  ""sr_range_pct_realtime"": 0.1128,
+  ""sr_range_pct_1d"": 0.1128,
+  ""sr_range_pct_1w"": 0.1128,
+  ""sr_range_pct_3m"": 0.1128,
+  ""volume_threshold"": 1507,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2408.666,
+  ""target"": 2382.618,
+  ""stoploss"": 2385.92,
+  ""entry1"": 2408.666,
+  ""target1"": 2382.618,
+  ""stoploss1"": 2385.92,
+  ""entry2"": 2408.666,
+  ""target2"": 2382.618,
+  ""stoploss2"": 2385.92,
+  ""entry3"": 2408.666,
+  ""target3"": 2382.618,
+  ""stoploss3"": 2385.92,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:33:46,"{
+  ""reason"": [
+    ""Hourly data shows support at 2394.3 and resistance at 2397.0, consistent with previous levels, indicating stability in core levels."",
+    ""Market indicators suggest a neutral to slightly bullish trend with MACD histogram increasing and ADX near threshold, supporting a long bias."",
+    ""Support and resistance levels are aligned across multiple timeframes, confirming the current S/R bands."",
+    ""Auto-filled trade levels from updated support/resistance with bias=long, maintaining reasonable risk-reward ratios."",
+    ""Recent hourly close and daily lows support the current support at 2394.3 and resistance at 2397.0."",
+    ""Trade levels are within the S–R band, preserving the correct order: stoploss < support < entry < target < resistance."",
+    ""Support and resistance levels have been recomputed for all horizons to ensure consistency and proper ordering."",
+    ""Market context remains bullish, with current levels favoring long positions.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.1118,
+  ""sr_range_pct_1d"": 14.2256,
+  ""sr_range_pct_1w"": 16.7148,
+  ""sr_range_pct_3m"": 60.3456,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2408.666,
+  ""target"": 2411.56,
+  ""stoploss"": 2385.92,
+  ""entry1"": 2408.666,
+  ""target1"": 2417.096,
+  ""stoploss1"": 2356.254,
+  ""entry2"": 2408.666,
+  ""target2"": 2417.096,
+  ""stoploss2"": 2314.87,
+  ""entry3"": 2408.666,
+  ""target3"": 2417.096,
+  ""stoploss3"": 2114.005
+}"
+2025-09-05 14:38:38,"{
+  ""reason"": [
+    ""Market indicators show a slight bullish trend with support at 2394.3 and resistance at 2397.0, consistent with hourly data."",
+    ""Recent hourly close and daily lows reinforce the current support and resistance levels, indicating stability."",
+    ""Support and resistance levels across multiple timeframes are aligned, confirming the current S/R bands."",
+    ""Trade levels have been adjusted to ensure the order: stoploss < support < entry < target < resistance, maintaining risk-reward ratios."",
+    ""Market context remains bullish, supporting a long-only stance with levels within the S–R band.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.1119,
+  ""sr_range_pct_1d"": 14.2439,
+  ""sr_range_pct_1w"": 16.7363,
+  ""sr_range_pct_3m"": 60.4231,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2408.666,
+  ""target"": 2411.56,
+  ""stoploss"": 2385.92,
+  ""entry1"": 2408.666,
+  ""target1"": 2417.096,
+  ""stoploss1"": 2356.254,
+  ""entry2"": 2408.666,
+  ""target2"": 2417.096,
+  ""stoploss2"": 2314.87,
+  ""entry3"": 2408.666,
+  ""target3"": 2417.096,
+  ""stoploss3"": 2114.005,
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""last_updated"": ""2025-09-05 14:33:46"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:32:00+00:00"",
+    ""open"": 2412.9,
+    ""high"": 2413.2,
+    ""low"": 2412.9,
+    ""close"": 2412.9,
+    ""volume"": 199
+  },
+  ""sr_range_pct"": 0.1128,
+  ""respected_S"": 3,
+  ""respected_R"": 2,
+  ""respected_S1"": 3,
+  ""respected_R1"": 3,
+  ""respected_S2"": 2,
+  ""respected_R2"": 3,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0
+}"
+2025-09-05 14:51:10,"{
+  ""reason"": [
+    ""Historical data shows support at 2394.3 and resistance at 2397.0, with recent hourly data confirming these levels."",
+    ""Market indicators suggest a bearish or neutral trend, with recent hourly closes near support levels and no strong bullish signals."",
+    ""The recent hourly data indicates a slight downward movement, and the market context is now more cautious, favoring a conservative long-only approach."",
+    ""Trade levels have been adjusted to ensure the order: stoploss < support < entry < target < resistance, with levels aligned to recent data and volatility."",
+    ""Levels have been set conservatively within the current S/R bands to mitigate risk in a potentially weakening market.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.1119,
+  ""sr_range_pct_1d"": 14.2468,
+  ""sr_range_pct_1w"": 16.7398,
+  ""sr_range_pct_3m"": 60.4357,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2395.0,
+  ""target"": 2397.0,
+  ""stoploss"": 2393.0,
+  ""entry1"": 2395.0,
+  ""target1"": 2397.0,
+  ""stoploss1"": 2393.0,
+  ""entry2"": 2395.0,
+  ""target2"": 2397.0,
+  ""stoploss2"": 2393.0,
+  ""entry3"": 2395.0,
+  ""target3"": 2397.0,
+  ""stoploss3"": 2393.0,
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""last_updated"": ""2025-09-05 14:38:38"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:37:00+00:00"",
+    ""open"": 2412.0,
+    ""high"": 2412.5,
+    ""low"": 2412.0,
+    ""close"": 2412.4,
+    ""volume"": 286
+  },
+  ""sr_range_pct"": 0.1128,
+  ""respected_S"": 3,
+  ""respected_R"": 2,
+  ""respected_S1"": 3,
+  ""respected_R1"": 3,
+  ""respected_S2"": 2,
+  ""respected_R2"": 3,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0
+}"
+2025-09-05 15:05:27,"{
+  ""reason"": [
+    ""Recent hourly data indicates a slight downward movement, with the close near support levels, suggesting a cautious market outlook."",
+    ""Market indicators such as ADX and Bollinger bands show low volatility and weak bullish momentum, supporting a conservative long-only stance."",
+    ""Support and resistance levels have been reaffirmed from historical data, with support at 2394.3 and resistance at 2397.0, aligning with recent lows and highs."",
+    ""Trade levels have been adjusted to maintain the proper order: stoploss < support < entry < target < resistance, considering recent volatility and market signals."",
+    ""The overall market context remains neutral to bearish, leading to a 'No Action' signal while preserving long-only levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.112,
+  ""sr_range_pct_1d"": 14.2545,
+  ""sr_range_pct_1w"": 16.7488,
+  ""sr_range_pct_3m"": 60.4683,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2408.666,
+  ""target"": 2411.56,
+  ""stoploss"": 2385.92,
+  ""entry1"": 2395.0,
+  ""target1"": 2403.383,
+  ""stoploss1"": 2356.254,
+  ""entry2"": 2395.0,
+  ""target2"": 2403.383,
+  ""stoploss2"": 2314.87,
+  ""entry3"": 2395.0,
+  ""target3"": 2403.383,
+  ""stoploss3"": 2114.005,
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""last_updated"": ""2025-09-05 14:51:10"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:50:00+00:00"",
+    ""open"": 2408.3,
+    ""high"": 2411.3,
+    ""low"": 2407.9,
+    ""close"": 2411.1,
+    ""volume"": 1310
+  },
+  ""sr_range_pct"": 0.1128,
+  ""respected_S"": 3,
+  ""respected_R"": 2,
+  ""respected_S1"": 3,
+  ""respected_R1"": 3,
+  ""respected_S2"": 2,
+  ""respected_R2"": 3,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0
+}"
+2025-09-05 15:17:28,"{
+  ""reason"": [
+    ""Recent hourly data indicates a slight downward movement, with the close near support levels, suggesting a cautious market outlook."",
+    ""Market indicators such as ADX and Bollinger bands show low volatility and weak bullish momentum, supporting a conservative long-only stance."",
+    ""Support and resistance levels have been reaffirmed from historical data, with support at 2394.3 and resistance at 2397.0, aligning with recent lows and highs."",
+    ""Trade levels have been adjusted to maintain the proper order: stoploss < support < entry < target < resistance, considering recent volatility and market signals."",
+    ""The overall market context remains neutral to bearish, leading to a 'No Action' signal while preserving long-only levels."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: Some trade levels still missing after synthesis.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.1124,
+  ""sr_range_pct_1d"": 14.3133,
+  ""sr_range_pct_1w"": 16.8178,
+  ""sr_range_pct_3m"": 60.7176,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2395.0,
+  ""target"": 2403.383,
+  ""stoploss"": 2356.254,
+  ""entry1"": 2395.0,
+  ""target1"": 2403.383,
+  ""stoploss1"": 2356.254,
+  ""entry2"": 2395.0,
+  ""target2"": 2403.383,
+  ""stoploss2"": 2314.87,
+  ""entry3"": 2395.0,
+  ""target3"": 2403.383,
+  ""stoploss3"": 2114.005,
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""last_updated"": ""2025-09-05 15:05:27"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:04:00+00:00"",
+    ""open"": 2398.9,
+    ""high"": 2402.0,
+    ""low"": 2398.9,
+    ""close"": 2401.2,
+    ""volume"": 795
+  }
+}"
+2025-09-05 15:29:37,"{
+  ""reason"": [
+    ""Recent hourly data indicates a slight downward movement, with the close near support levels, suggesting a cautious market outlook."",
+    ""Market indicators such as ADX and Bollinger bands show low volatility and weak bullish momentum, supporting a conservative long-only stance."",
+    ""Support and resistance levels have been reaffirmed from historical data, with support at 2394.3 and resistance at 2397.0, aligning with recent lows and highs."",
+    ""Trade levels have been adjusted to maintain the proper order: stoploss < support < entry < target < resistance, considering recent volatility and market signals."",
+    ""The overall market context remains neutral to bearish, leading to a 'No Action' signal while preserving long-only levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0002,
+      ""price"": 2395.48,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.001,
+      ""price"": 2397.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.005,
+      ""price"": 2397.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2394.3,
+  ""resistance"": 2397.0,
+  ""support_realtime"": 2394.3,
+  ""resistance_realtime"": 2397.0,
+  ""support_1d"": 2364.53,
+  ""resistance_1d"": 2708.22,
+  ""support_1w"": 2323.0,
+  ""resistance_1w"": 2726.83,
+  ""support_3m"": 2121.43,
+  ""resistance_3m"": 3579.38,
+  ""sr_range_pct_realtime"": 0.1123,
+  ""sr_range_pct_1d"": 14.2978,
+  ""sr_range_pct_1w"": 16.7997,
+  ""sr_range_pct_3m"": 60.6519,
+  ""volume_threshold"": 1507.0,
+  ""bollinger"": {
+    ""mid_price"": 2395.0,
+    ""upper_band"": 2397.0,
+    ""lower_band"": 2393.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2394.0,
+    ""ma_slow"": 2395.0
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2395.0,
+  ""target"": 2403.383,
+  ""stoploss"": 2356.254,
+  ""entry1"": 2395.0,
+  ""target1"": 2403.383,
+  ""stoploss1"": 2356.254,
+  ""entry2"": 2395.0,
+  ""target2"": 2403.383,
+  ""stoploss2"": 2314.87,
+  ""entry3"": 2395.0,
+  ""target3"": 2403.383,
+  ""stoploss3"": 2114.005,
+  ""stock_code"": ""GRSE"",
+  ""instrument_token"": 1401601,
+  ""last_updated"": ""2025-09-05 15:17:28"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:16:00+00:00"",
+    ""open"": 2408.0,
+    ""high"": 2408.0,
+    ""low"": 2403.8,
+    ""close"": 2403.8,
+    ""volume"": 1539
+  },
+  ""sr_range_pct"": 0.1128,
+  ""respected_S"": 3,
+  ""respected_R"": 2,
+  ""respected_S1"": 3,
+  ""respected_R1"": 3,
+  ""respected_S2"": 2,
+  ""respected_R2"": 3,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0
+}"

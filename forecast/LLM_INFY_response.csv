@@ -1,0 +1,81 @@
+timestamp,raw_response
+2025-08-19 14:43:14,"{
+  ""stock_code"": ""INFY"",
+  ""instrument_token"": 408065,
+  ""support"": 1422.4,
+  ""resistance"": 1441.8,
+  ""volume_threshold"": 6000,
+  ""bollinger"": {
+    ""mid_price"": 1441.78,
+    ""upper_band"": 1442.44,
+    ""lower_band"": 1441.13
+  },
+  ""macd"": {
+    ""signal_line"": -0.3177,
+    ""histogram"": 0.064,
+    ""ma_fast"": 1441.98,
+    ""ma_slow"": 1441.78,
+    ""ma_signal"": -0.3177
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1441.98,
+    ""ma_slow"": 1441.78
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with tight Bollinger bands."",
+    ""No clear breakout or breakdown signals observed in recent data."",
+    ""Volume remains stable, not indicating significant volume-driven moves.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:23:55,"{
+  ""stock_code"": ""INFY"",
+  ""instrument_token"": 408065,
+  ""support"": 1422.4,
+  ""resistance"": 1441.8,
+  ""volume_threshold"": 6000,
+  ""bollinger"": {
+    ""mid_price"": 1441.78,
+    ""upper_band"": 1442.44,
+    ""lower_band"": 1441.13
+  },
+  ""macd"": {
+    ""signal_line"": -0.3177,
+    ""histogram"": 0.064,
+    ""ma_fast"": 1441.98,
+    ""ma_slow"": 1441.78,
+    ""ma_signal"": -0.3177
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1441.98,
+    ""ma_slow"": 1441.78
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with tight Bollinger bands."",
+    ""No clear breakout or breakdown signals observed in recent data."",
+    ""Volume remains stable, not indicating significant volume-driven moves.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

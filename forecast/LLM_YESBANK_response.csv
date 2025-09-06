@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:34:34,"{
+  ""stock_code"": ""YESBANK"",
+  ""instrument_token"": 3050241,
+  ""support"": 18.5,
+  ""resistance"": 19.35,
+  ""volume_threshold"": 35000000,
+  ""bollinger"": {
+    ""mid_price"": 19.28,
+    ""upper_band"": 19.35,
+    ""lower_band"": 19.20
+  },
+  ""macd"": {
+    ""signal_line"": 0.027,
+    ""histogram"": -0.003,
+    ""ma_fast"": 19.30,
+    ""ma_slow"": 19.28,
+    ""ma_signal"": 0.024
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 15
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low around 18.5 based on historical lows and recent price action."",
+    ""Resistance adjusted to upper Bollinger Band around 19.35 reflecting recent highs and BB upper band."",
+    ""Volume threshold increased to 35 million reflecting recent high volume days around 35-37 million."",
+    ""Bollinger bands updated to recent mid, upper, and lower values from latest data."",
+    ""MACD parameters updated to recent values indicating slight positive signal line and near zero histogram."",
+    ""ADX threshold lowered to 15 due to recent ADX values around 14-25 indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Buy""
+}"

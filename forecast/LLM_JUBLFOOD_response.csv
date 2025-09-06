@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:13:06,"{
+  ""stock_code"": ""JUBLFOOD"",
+  ""instrument_token"": 4632577,
+  ""support"": 620.0,
+  ""resistance"": 695.5,
+  ""volume_threshold"": 3000000,
+  ""bollinger"": {
+    ""mid_price"": 627.65,
+    ""upper_band"": 678.17,
+    ""lower_band"": 617.31
+  },
+  ""macd"": {
+    ""signal_line"": -12.7158,
+    ""histogram"": -0.2743,
+    ""ma_fast"": 635.04,
+    ""ma_slow"": 647.74,
+    ""ma_signal"": -12.99
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 35
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 620.0 based on recent lows and historical LL20."",
+    ""Resistance updated to 695.5 based on recent HH20."",
+    ""Volume threshold increased to 3,000,000 due to higher recent volume spikes."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values reflecting current volatility."",
+    ""MACD parameters updated to recent values indicating weakening bearish momentum."",
+    ""ADX threshold increased to 35 reflecting stronger trend strength in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

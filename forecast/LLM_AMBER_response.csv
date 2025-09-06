@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:24:17,"{
+  ""stock_code"": ""AMBER"",
+  ""instrument_token"": 303361,
+  ""support"": 7350.5,
+  ""resistance"": 7380.7,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 7364.55,
+    ""upper_band"": 7380.745369708656,
+    ""lower_band"": 7348.354630291345
+  },
+  ""macd"": {
+    ""signal_line"": 2.2494444462590972,
+    ""histogram"": 1.4666055566685618,
+    ""ma_fast"": 3.716050002927659,
+    ""ma_slow"": 2.2494444462590972,
+    ""ma_signal"": 1.4666055566685618
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 29.298979572782983
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent lower Bollinger Band level 7350.5 due to price holding above this level in recent candles."",
+    ""Resistance updated to recent upper Bollinger Band level 7380.7 reflecting short-term breakout potential."",
+    ""Bollinger Bands mid, upper, and lower values updated to reflect recent data."",
+    ""MACD parameters updated to recent values indicating mild bullish momentum."",
+    ""ADX threshold increased to 29.3 indicating stronger trend strength recently."",
+    ""Signal set to Hold due to price near upper Bollinger Band but volume low and no strong breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:31:48,"{
+  ""stock_code"": ""JKLAKSHMI"",
+  ""instrument_token"": 3453697,
+  ""support"": 900.0,
+  ""resistance"": 940.5,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 938.8575,
+    ""upper_band"": 940.5162,
+    ""lower_band"": 937.1988
+  },
+  ""macd"": {
+    ""signal_line"": 0.1467,
+    ""histogram"": 0.1075,
+    ""ma_fast"": 0.2542,
+    ""ma_slow"": 0.1467,
+    ""ma_signal"": 0.1075
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 900.0 based on recent lows around 900 and historical lows."",
+    ""Resistance updated to 940.5 reflecting recent highs and upper Bollinger Band."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values from 1-minute data."",
+    ""MACD parameters updated to recent values indicating mild bullish momentum."",
+    ""Signal set to Hold due to price near resistance but no strong breakout or volume confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

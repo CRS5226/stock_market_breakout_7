@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:26:12,"{
+  ""stock_code"": ""MAHABANK"",
+  ""instrument_token"": 2912513,
+  ""support"": 55.01,
+  ""resistance"": 55.98,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 55.88,
+    ""upper_band"": 57.9751,
+    ""lower_band"": 53.7849
+  },
+  ""macd"": {
+    ""signal_line"": 0.0,
+    ""histogram"": -0.1169,
+    ""ma_fast"": 54.8922,
+    ""ma_slow"": 55.88,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 55,
+    ""ma_slow"": 56
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with low volatility and no clear breakout signals."",
+    ""No significant trend change or breakout observed in recent data; support and resistance levels adjusted slightly based on recent lows and highs."",
+    ""Volume threshold remains unchanged due to stable volume activity.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

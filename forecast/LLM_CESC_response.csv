@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:15:59,"{
+  ""stock_code"": ""CESC"",
+  ""instrument_token"": 160769,
+  ""support"": 162.0,
+  ""resistance"": 166.34,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 164.331,
+    ""upper_band"": 164.446,
+    ""lower_band"": 164.234
+  },
+  ""macd"": {
+    ""signal_line"": 0.054,
+    ""histogram"": 0.0557,
+    ""ma_fast"": 164.331,
+    ""ma_slow"": 164.34,
+    ""ma_signal"": 164.331
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 164,
+    ""ma_slow"": 165
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands around 164.33, indicating low volatility and potential for breakout."",
+    ""MACD remains near zero, suggesting a lack of strong momentum but potential for a directional move."",
+    ""Support adjusted slightly lower to 162.0 based on recent lows; resistance remains at 166.34 due to recent highs."",
+    ""Volume remains high, supporting potential breakout or breakdown.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

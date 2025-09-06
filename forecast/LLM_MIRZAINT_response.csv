@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:30:08,"{
+  ""stock_code"": ""MIRZAINT"",
+  ""instrument_token"": 1124865,
+  ""support"": 32.5,
+  ""resistance"": 34.5,
+  ""volume_threshold"": 150000,
+  ""bollinger"": {
+    ""mid_price"": 33.284,
+    ""upper_band"": 33.3972,
+    ""lower_band"": 33.1708
+  },
+  ""macd"": {
+    ""signal_line"": 0.0014,
+    ""histogram"": 0.0155,
+    ""ma_fast"": 33.2989,
+    ""ma_slow"": 33.284,
+    ""ma_signal"": 0.0169
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 45
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 32.5 based on recent low of 32.52 on 2025-08-14 indicating a new short-term floor."",
+    ""Resistance updated to 34.5 based on recent high on 2025-08-13 and 2025-08-19 intraday high."",
+    ""Volume threshold lowered to 150000 reflecting recent average volume in last few 1-minute candles."",
+    ""Bollinger Bands updated to recent values indicating current price channel."",
+    ""MACD parameters updated to reflect recent positive histogram and signal line values."",
+    ""ADX threshold increased to 45 due to recent ADX spike to 45.08 indicating stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

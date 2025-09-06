@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:28:44,"{
+  ""stock_code"": ""SEQUENT"",
+  ""instrument_token"": 3659777,
+  ""support"": 171.1,
+  ""resistance"": 176.96,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 176.4944,
+    ""upper_band"": 176.8046,
+    ""lower_band"": 175.9484
+  },
+  ""macd"": {
+    ""signal_line"": 0.1645,
+    ""histogram"": -0.0366,
+    ""ma_fast"": 176.4944,
+    ""ma_slow"": 176.3765,
+    ""ma_signal"": 0.1645
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 176.4944,
+    ""ma_slow"": 176.3765
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands and stable MACD, indicating no strong breakout or breakdown signals."",
+    ""Support and resistance levels adjusted slightly based on recent lows and highs."",
+    ""Volume threshold remains unchanged due to no significant volume spike.""
+  ],
+  ""last_updated"": ""2025-08-19 14:27:00"",
+  ""signal"": ""Hold""
+}"

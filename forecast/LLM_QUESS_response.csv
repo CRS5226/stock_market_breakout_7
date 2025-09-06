@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:25:18,"{
+  ""stock_code"": ""QUESS"",
+  ""instrument_token"": 4532225,
+  ""support"": 265.95,
+  ""resistance"": 275.4,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 270.36749999999995,
+    ""upper_band"": 270.55795996954737,
+    ""lower_band"": 270.17704003045253
+  },
+  ""macd"": {
+    ""signal_line"": -7.5655,
+    ""histogram"": -2.5956,
+    ""ma_fast"": 278.1278,
+    ""ma_slow"": 293.22,
+    ""ma_signal"": -10.1611
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 265.95 based on last 5 days lows."",
+    ""Resistance updated to recent high of 275.4 based on last 5 days highs."",
+    ""Bollinger Bands updated to recent 1-minute data mid, upper, and lower bands."",
+    ""MACD parameters updated to recent daily values reflecting bearish momentum."",
+    ""Signal set to Hold due to price consolidating near updated support and resistance with no breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

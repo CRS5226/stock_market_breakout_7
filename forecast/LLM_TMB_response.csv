@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:33:14,"{
+  ""stock_code"": ""TMB"",
+  ""instrument_token"": 2801921,
+  ""support"": 427.55,
+  ""resistance"": 431.3,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 428.78,
+    ""upper_band"": 428.95,
+    ""lower_band"": 428.61
+  },
+  ""macd"": {
+    ""signal_line"": 0.045,
+    ""histogram"": -0.025,
+    ""ma_fast"": 428.78,
+    ""ma_slow"": 428.78,
+    ""ma_signal"": 428.78
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 428.8,
+    ""ma_slow"": 428.78
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with narrow Bollinger bands and stable moving averages, indicating low volatility."",
+    ""No significant breakout or trend detected in recent data; support and resistance levels adjusted slightly based on recent highs and lows."",
+    ""Volume remains consistent; no volume spike justifying change in volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

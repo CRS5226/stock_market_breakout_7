@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:09:30,"{
+  ""stock_code"": ""HUDCO"",
+  ""instrument_token"": 5331201,
+  ""support"": 206.7,
+  ""resistance"": 214.0,
+  ""volume_threshold"": 2500000,
+  ""bollinger"": {
+    ""mid_price"": 213.88,
+    ""upper_band"": 214.01,
+    ""lower_band"": 213.74
+  },
+  ""macd"": {
+    ""signal_line"": 0.00038,
+    ""histogram"": 0.00056,
+    ""ma_fast"": 213.87,
+    ""ma_slow"": 213.88,
+    ""ma_signal"": 0.00038
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low 206.7 based on last 5 days lows."",
+    ""Resistance updated to recent upper Bollinger Band near 214.0 from recent 1-min data."",
+    ""Volume threshold lowered to 2.5 million reflecting recent average volumes around 2.5M instead of 10M."",
+    ""Bollinger Bands updated to recent 1-min values indicating tight range and low volatility."",
+    ""MACD parameters updated to reflect recent slight positive histogram and signal line values."",
+    ""Signal set to Hold due to price near resistance with low volatility and no strong breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

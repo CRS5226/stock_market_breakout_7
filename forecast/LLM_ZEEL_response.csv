@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:12:07,"{
+  ""stock_code"": ""ZEEL"",
+  ""instrument_token"": 975873,
+  ""support"": 112.8,
+  ""resistance"": 118.35,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 117.1025,
+    ""upper_band"": 117.2646,
+    ""lower_band"": 116.9404
+  },
+  ""macd"": {
+    ""signal_line"": -0.0392,
+    ""histogram"": -0.0229,
+    ""ma_fast"": 117.0789,
+    ""ma_slow"": 117.1025,
+    ""ma_signal"": -0.0392
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 117.0789,
+    ""ma_slow"": 117.1025
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with narrow Bollinger bands and stable moving averages, indicating low volatility."",
+    ""No clear breakout or trend reversal signals observed in recent data."",
+    ""Support and resistance levels adjusted slightly based on recent lows and highs."",
+    ""Volume remains high but does not indicate breakout activity.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

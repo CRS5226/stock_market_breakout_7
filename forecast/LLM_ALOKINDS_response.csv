@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:17:33,"{
+  ""stock_code"": ""ALOKINDS"",
+  ""instrument_token"": 4524801,
+  ""support"": 1000.0,
+  ""resistance"": 2000.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 0.0,
+    ""upper_band"": 0.0,
+    ""lower_band"": 0.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.0,
+    ""histogram"": 0.0,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Initial configuration with default values."",
+    ""No significant breakout or trend change in recent data to justify updating support, resistance, or volume threshold."",
+    ""ADX remains below threshold indicating no strong trend."",
+    ""MACD histogram negative and declining, no bullish reversal signal."",
+    ""Price near recent lows and below moving averages, no buy signal.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:32:26,"{
+  ""stock_code"": ""IRB"",
+  ""instrument_token"": 3920129,
+  ""support"": 44.75,
+  ""resistance"": 45.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 44.5911,
+    ""upper_band"": 49.2503,
+    ""lower_band"": 40.932
+  },
+  ""macd"": {
+    ""signal_line"": 42.7787,
+    ""histogram"": 0.0328,
+    ""ma_fast"": 44.5911,
+    ""ma_slow"": 46.0145,
+    ""ma_signal"": 44.0322
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 45.1078,
+    ""ma_slow"": 45.0885
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout, maintaining support at 44.75."",
+    ""No significant trend change or breakout observed in recent data, so support and resistance levels are preserved."",
+    ""Volume remains high but stable, indicating no major shift in trading activity.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

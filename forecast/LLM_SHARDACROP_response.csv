@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:19:32,"{
+  ""stock_code"": ""SHARDACROP"",
+  ""instrument_token"": 1277953,
+  ""support"": 960.0,
+  ""resistance"": 1018.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 960.0799999999999,
+    ""upper_band"": 961.4120660644277,
+    ""lower_band"": 958.7479339355722
+  },
+  ""macd"": {
+    ""signal_line"": -0.6443707230341041,
+    ""histogram"": 0.09424457102209172,
+    ""ma_fast"": 959.9444444444445,
+    ""ma_slow"": 960.0799999999999,
+    ""ma_signal"": -0.5501261520120124
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 959.9444444444445,
+    ""ma_slow"": 960.0799999999999
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout; support adjusted to 960 based on recent lows."",
+    ""Resistance slightly increased to 1018 due to recent high activity and upward movements."",
+    ""Volume threshold remains unchanged as recent volume does not indicate significant breakout activity."",
+    ""Indicators show sideways movement with no strong trend signals.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

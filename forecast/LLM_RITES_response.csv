@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:21:43,"{
+  ""stock_code"": ""RITES"",
+  ""instrument_token"": 962817,
+  ""support"": 245.0,
+  ""resistance"": 280.0,
+  ""volume_threshold"": 350000,
+  ""bollinger"": {
+    ""mid_price"": 253.98,
+    ""upper_band"": 254.26,
+    ""lower_band"": 253.70
+  },
+  ""macd"": {
+    ""signal_line"": -0.04997,
+    ""histogram"": 0.00099,
+    ""ma_fast"": 253.91,
+    ""ma_slow"": 253.98,
+    ""ma_signal"": -0.04898
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 245.0 based on recent 20-day low."",
+    ""Resistance adjusted to 280.0 reflecting recent 20-day high."",
+    ""Volume threshold lowered to 350000 aligning with recent average volumes."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values."",
+    ""MACD parameters updated to reflect recent signal line and histogram values."",
+    ""ADX threshold increased to 30 indicating stronger trend confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

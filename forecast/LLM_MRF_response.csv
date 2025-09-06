@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:14:14,"{
+  ""stock_code"": ""MRF"",
+  ""instrument_token"": 582913,
+  ""support"": 138100.0,
+  ""resistance"": 147175.0,
+  ""volume_threshold"": 3000,
+  ""bollinger"": {
+    ""mid_price"": 146915.33333333334,
+    ""upper_band"": 147074.47547804122,
+    ""lower_band"": 146746.4424216187
+  },
+  ""macd"": {
+    ""signal_line"": -33.10853420507347,
+    ""histogram"": -8.998254591910424,
+    ""ma_fast"": 146923.33333333334,
+    ""ma_slow"": 146915.33333333334,
+    ""ma_signal"": -35.88988581369755
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 28.34
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low 138100 based on last 5 days lows."",
+    ""Resistance updated to recent high 147175 based on last 5 days highs."",
+    ""Volume threshold lowered to 3000 reflecting recent average volume."",
+    ""Bollinger bands updated to recent values from 1-minute data."",
+    ""MACD parameters updated to recent values indicating bearish momentum."",
+    ""ADX threshold increased to 28.34 indicating stronger trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

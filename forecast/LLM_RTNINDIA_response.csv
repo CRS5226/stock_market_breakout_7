@@ -1,0 +1,3248 @@
+timestamp,raw_response
+2025-08-19 13:29:04,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 52.5,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 52.0,
+    ""upper_band"": 52.5,
+    ""lower_band"": 51.5
+  },
+  ""macd"": {
+    ""signal_line"": 0.0025,
+    ""histogram"": 0.0018,
+    ""ma_fast"": 52.45,
+    ""ma_slow"": 52.45,
+    ""ma_signal"": 52.45
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward breakout above resistance with increased volume."",
+    ""Price is trading near upper Bollinger Band, indicating potential bullish momentum."",
+    ""ADX remains above 20, confirming trend strength."",
+    ""MACD histogram shows positive momentum, supporting a bullish outlook.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:34:59,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 53.0,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 53.3,
+    ""upper_band"": 53.4,
+    ""lower_band"": 53.2
+  },
+  ""macd"": {
+    ""signal_line"": 0.0027,
+    ""histogram"": -0.0050,
+    ""ma_fast"": 53.3,
+    ""ma_slow"": 53.3,
+    ""ma_signal"": 53.3
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate consolidation with no clear breakout; support and resistance levels stable."",
+    ""No significant trend or breakout observed in recent data."",
+    ""ADX remains below 20, indicating weak trend strength."",
+    ""MACD histogram is negative but close to zero, suggesting no strong momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:33:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:39:17,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 53.0,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 53.3,
+    ""upper_band"": 53.4,
+    ""lower_band"": 53.2
+  },
+  ""macd"": {
+    ""signal_line"": 0.0027,
+    ""histogram"": -0.005,
+    ""ma_fast"": 53.3,
+    ""ma_slow"": 53.3,
+    ""ma_signal"": 53.3
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward movement with the close near the upper Bollinger band, indicating potential bullish momentum."",
+    ""MACD histogram remains negative but is decreasing in magnitude, suggesting weakening bearish momentum."",
+    ""ADX remains below 20, indicating weak trend strength, but recent price action suggests potential for a breakout."",
+    ""Support and resistance levels remain stable; recent volume is high, supporting potential breakout activity.""
+  ],
+  ""last_updated"": ""2025-08-19 13:33:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:54:09,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 53.0,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 53.3,
+    ""upper_band"": 53.4,
+    ""lower_band"": 53.2
+  },
+  ""macd"": {
+    ""signal_line"": 0.0027,
+    ""histogram"": -0.005,
+    ""ma_fast"": 53.3,
+    ""ma_slow"": 53.3,
+    ""ma_signal"": 53.3
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near resistance with no clear breakout, indicating potential sideways movement."",
+    ""MACD histogram remains negative but shows signs of decreasing bearish momentum, suggesting a possible weakening of downward trend."",
+    ""ADX remains below 20, indicating weak trend strength, but recent price action near resistance warrants monitoring for breakout confirmation."",
+    ""Volume remains high but no significant breakout signals observed in recent candles.""
+  ],
+  ""last_updated"": ""2025-08-19 13:52:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:01,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 52.5,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 52.0,
+    ""upper_band"": 52.5,
+    ""lower_band"": 51.5
+  },
+  ""macd"": {
+    ""signal_line"": 0.0025,
+    ""histogram"": 0.0018,
+    ""ma_fast"": 52.45,
+    ""ma_slow"": 52.45,
+    ""ma_signal"": 52.45
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward breakout above resistance with increased volume."",
+    ""MACD remains positive and above zero, indicating bullish momentum."",
+    ""Recent volume exceeds threshold, supporting breakout confirmation."",
+    ""No significant change in support level.""
+  ],
+  ""last_updated"": ""2025-08-19 15:14:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:20:27,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 50.0,
+  ""resistance"": 54.0,
+  ""volume_threshold"": 4000000,
+  ""bollinger"": {
+    ""mid_price"": 53.0,
+    ""upper_band"": 54.0,
+    ""lower_band"": 52.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.0025,
+    ""histogram"": 0.0018,
+    ""ma_fast"": 53.84,
+    ""ma_slow"": 53.48,
+    ""ma_signal"": 53.48
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward movement with the close near resistance at 54.0, indicating potential breakout."",
+    ""MACD remains positive and stable, supporting bullish momentum."",
+    ""Volume remains high and consistent with recent trend, supporting breakout potential."",
+    ""Support level remains unchanged, but resistance has been tested multiple times recently.""
+  ],
+  ""last_updated"": ""2025-08-19 15:19:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-22 12:05:41,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 53.67,
+  ""resistance"": 54.7,
+  ""volume_threshold"": 17017,
+  ""bollinger"": {
+    ""mid_price"": 54.18,
+    ""upper_band"": 54.7,
+    ""lower_band"": 53.67
+  },
+  ""macd"": {
+    ""signal_line"": 0.0025,
+    ""histogram"": 0.0018,
+    ""ma_fast"": 53.84,
+    ""ma_slow"": 53.48,
+    ""ma_signal"": 53.48
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward breakout above resistance at 54.7, indicating potential bullish momentum."",
+    ""Support remains stable at 53.67 with no major breakdown signals."",
+    ""Volume has increased slightly, supporting the breakout scenario."",
+    ""MACD histogram remains positive, confirming upward momentum."",
+    ""ADX remains above 20, indicating a trending market.""
+  ],
+  ""last_updated"": ""2025-08-21 11:34:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-22 12:10:54,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""support"": 53.67,
+  ""resistance"": 54.7,
+  ""volume_threshold"": 17017,
+  ""bollinger"": {
+    ""mid_price"": 54.18,
+    ""upper_band"": 54.7,
+    ""lower_band"": 53.67
+  },
+  ""macd"": {
+    ""signal_line"": 0.0025,
+    ""histogram"": 0.0018,
+    ""ma_fast"": 53.84,
+    ""ma_slow"": 53.48,
+    ""ma_signal"": 53.48
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward breakout above resistance at 54.7, indicating potential bullish momentum."",
+    ""Support remains stable at 53.67 with no major breakdown signals."",
+    ""Volume has increased slightly, supporting the breakout scenario."",
+    ""MACD histogram remains positive, confirming upward momentum."",
+    ""ADX remains above 20, indicating a trending market.""
+  ],
+  ""last_updated"": ""2025-08-21 11:34:00"",
+  ""signal"": ""Buy""
+}"
+2025-09-01 14:45:18,"{
+  ""reason"": [
+    ""Recent price surge to 61.45 indicates strong upward momentum."",
+    ""Significant increase in MACD and ADX suggests a bullish trend."",
+    ""Price is above the upper Bollinger Band, indicating potential overbought condition but strong bullish bias."",
+    ""Volume spike supports increased buying interest."",
+    ""Moving averages are aligned with fast MA crossing above slow MA.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 61.45 * (1 + 0.012)
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 61.45 * (1 + 0.035)
+    },
+    ""3m"": {
+      ""ret"": 0.10,
+      ""price"": 61.45 * (1 + 0.10)
+    }
+  },
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:41:00+00:00"",
+    ""open"": 61.34,
+    ""high"": 61.45,
+    ""low"": 61.34,
+    ""close"": 61.45,
+    ""volume"": 8666
+  },
+  ""support"": 53.75,
+  ""resistance"": 54.71,
+  ""volume_threshold"": 1984,
+  ""bollinger"": {
+    ""mid_price"": 54.23,
+    ""upper_band"": 54.71,
+    ""lower_band"": 53.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.3144,
+    ""ma_slow"": 61.2705
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-01 14:53:14,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 53.75,
+  ""resistance"": 54.71,
+  ""volume_threshold"": 1984,
+  ""bollinger"": {
+    ""mid_price"": 54.23,
+    ""upper_band"": 54.71,
+    ""lower_band"": 53.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show price approaching resistance with decreasing volatility, indicating potential consolidation."",
+    ""Recent momentum indicators (MACD, ADX) suggest weakening trend strength, supporting a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 62.12
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 63.84
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 66.66
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 62.12,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 63.84,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 66.66,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-01 14:59:48,"{
+  ""reason"": [
+    ""Recent daily candles show price approaching resistance with decreasing volatility, indicating potential consolidation."",
+    ""Recent momentum indicators (MACD, ADX) suggest weakening trend strength, supporting a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:14+00:00"",
+    ""open"": 61.91,
+    ""high"": 62.02,
+    ""low"": 61.83,
+    ""close"": 61.88,
+    ""volume"": 102055
+  },
+  ""support"": 53.75,
+  ""resistance"": 54.71,
+  ""volume_threshold"": 1984,
+  ""bollinger"": {
+    ""mid_price"": 54.23,
+    ""upper_band"": 54.71,
+    ""lower_band"": 53.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 62.12
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 63.84
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 66.66
+    }
+  }
+}"
+2025-09-02 11:03:53,"{
+  ""reason"": [
+    ""Recent price movement shows a significant upward trend, with the latest close at 62.07, surpassing previous resistance levels."",
+    ""The recent momentum indicators (MACD, ADX) suggest increasing bullish strength."",
+    ""The price is approaching the upper Bollinger Band, indicating potential overbought conditions but also strong upward momentum."",
+    ""Volume has increased compared to historical averages, supporting the bullish move.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.07 * (1 + 0.012)
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 62.07 * (1 + 0.035)
+    },
+    ""3m"": {
+      ""ret"": 0.10,
+      ""price"": 62.07 * (1 + 0.10)
+    }
+  },
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:01:00+00:00"",
+    ""open"": 62.04,
+    ""high"": 62.07,
+    ""low"": 62.01,
+    ""close"": 62.07,
+    ""volume"": 1943
+  },
+  ""support"": 53.75,
+  ""resistance"": 54.71,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 1984,
+  ""bollinger"": {
+    ""mid_price"": 54.23,
+    ""upper_band"": 54.71,
+    ""lower_band"": 53.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02 15:30:00+05:30"",
+      ""price"": 62.07 * 1.012,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 15:30:00+05:30"",
+      ""price"": 62.07 * 1.035,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 15:30:00+05:30"",
+      ""price"": 62.07 * 1.10,
+      ""ret"": 0.10
+    }
+  }
+}"
+2025-09-02 11:12:36,"{
+  ""reason"": [
+    ""Recent momentum shows a significant upward move with the latest close at 61.97, well above support and resistance levels."",
+    ""The recent indicator data suggests strong bullish signals with positive +DI and ADX values indicating trend strength."",
+    ""Historical data indicates a recent breakout above the Bollinger upper band, suggesting increased volatility and potential continuation.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.59
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 63.86
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 67.89
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 62.59,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 63.86,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 67.89,
+      ""ret"": 0.085
+    }
+  },
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:09:00+00:00"",
+    ""open"": 61.92,
+    ""high"": 61.97,
+    ""low"": 61.9,
+    ""close"": 61.97,
+    ""volume"": 1900
+  },
+  ""support"": 53.75,
+  ""resistance"": 54.71,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 1984,
+  ""bollinger"": {
+    ""mid_price"": 54.23,
+    ""upper_band"": 54.71,
+    ""lower_band"": 53.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-02 11:21:03,"{
+  ""reason"": [
+    ""Recent momentum shows a significant upward move with the latest close at 61.8, well above support and resistance levels."",
+    ""The recent indicator data suggests strong bullish signals with positive +DI and ADX values indicating trend strength."",
+    ""Historical data indicates a recent breakout above the Bollinger upper band, suggesting increased volatility and potential continuation.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.59
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 63.86
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 67.89
+    }
+  }
+}"
+2025-09-02 11:29:44,"{
+  ""reason"": [
+    ""Recent momentum shows a stable close around 61.7 with minimal volatility, indicating consolidation."",
+    ""Indicator data suggests weak trend strength with low ADX and neutral +DI/-DI values, implying no clear directional bias."",
+    ""Historical data indicates the stock has been trading within a narrow Bollinger band, reflecting low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    }
+  }
+}"
+2025-09-02 11:38:55,"{
+  ""reason"": [
+    ""Recent data indicates a slight upward momentum with the close at 61.7, but volatility remains low as shown by narrow Bollinger bands and minimal ATR."",
+    ""ADX remains below the threshold of 20, suggesting weak trend strength, and the +DI/-DI values are neutral, indicating no clear directional bias."",
+    ""Historical support and resistance levels are stable with no significant breakout signals, reinforcing the consolidation phase.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:28:00+00:00"",
+    ""open"": 61.7,
+    ""high"": 61.82,
+    ""low"": 61.7,
+    ""close"": 61.8,
+    ""volume"": 12482
+  },
+  ""support"": 61.25,
+  ""resistance"": 62.3,
+  ""support_realtime"": 61.25,
+  ""resistance_realtime"": 62.3,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.7018,
+  ""sr_range_pct_1d"": 2.1556,
+  ""sr_range_pct_1w"": 6.3857,
+  ""sr_range_pct_3m"": 39.611,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent momentum shows a stable close around 61.7 with minimal volatility, indicating consolidation."",
+    ""Indicator data suggests weak trend strength with low ADX and neutral +DI/-DI values, implying no clear directional bias."",
+    ""Historical data indicates the stock has been trading within a narrow Bollinger band, reflecting low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.7
+    }
+  }
+}"
+2025-09-02 11:47:55,"{
+  ""reason"": [
+    ""Recent momentum indicates a stable close around 61.82 with minimal volatility, suggesting consolidation."",
+    ""Indicator data shows weak trend strength with low ADX and neutral +DI/-DI, implying no clear directional bias."",
+    ""Historical data reflects the stock trading within a narrow Bollinger band, indicating low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:37:00+00:00"",
+    ""open"": 61.72,
+    ""high"": 61.72,
+    ""low"": 61.7,
+    ""close"": 61.7,
+    ""volume"": 2156
+  },
+  ""support"": 61.28,
+  ""resistance"": 62.3,
+  ""support_realtime"": 61.82,
+  ""resistance_realtime"": 61.86,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.322,
+  ""sr_range_pct_1d"": 2.1538,
+  ""sr_range_pct_1w"": 6.3806,
+  ""sr_range_pct_3m"": 39.5789,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.7,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.7,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.7,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 61.7,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 61.7,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 61.7,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:56:59,"{
+  ""reason"": [
+    ""Recent momentum shows a stable close around 61.83 with minimal volatility, indicating consolidation."",
+    ""Indicator data reveals weak trend strength with low ADX and neutral +DI/-DI, suggesting no clear trend."",
+    ""Historical data indicates the stock trading within a narrow Bollinger band, reflecting low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:46:00+00:00"",
+    ""open"": 61.82,
+    ""high"": 61.86,
+    ""low"": 61.82,
+    ""close"": 61.83,
+    ""volume"": 1479
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 61.67,
+  ""resistance_realtime"": 62.11,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.7117,
+  ""sr_range_pct_1d"": 2.1514,
+  ""sr_range_pct_1w"": 6.3733,
+  ""sr_range_pct_3m"": 39.5341,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:05:31,"{
+  ""reason"": [
+    ""Recent momentum indicates a stable close around 61.83 with minimal volatility, suggesting consolidation."",
+    ""Indicator data shows weak trend strength with low ADX and neutral +DI/-DI, implying no clear trend."",
+    ""Historical data confirms the stock trading within a narrow Bollinger band, reflecting low volatility and no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:55:00+00:00"",
+    ""open"": 61.85,
+    ""high"": 61.92,
+    ""low"": 61.85,
+    ""close"": 61.9,
+    ""volume"": 7904
+  },
+  ""support"": 61.67,
+  ""resistance"": 62.11,
+  ""support_realtime"": 61.83,
+  ""resistance_realtime"": 61.83,
+  ""support_1d"": 61.67,
+  ""resistance_1d"": 62.11,
+  ""support_1w"": 61.67,
+  ""resistance_1w"": 62.11,
+  ""support_3m"": 61.67,
+  ""resistance_3m"": 62.11,
+  ""sr_range_pct_realtime"": 0.7114,
+  ""sr_range_pct_1d"": 0.7114,
+  ""sr_range_pct_1w"": 0.7114,
+  ""sr_range_pct_3m"": 0.7114,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:14:06,"{
+  ""reason"": [
+    ""Recent momentum shows the stock maintaining a stable close around 61.83 with minimal volatility, indicating consolidation."",
+    ""Indicator data confirms weak trend strength with low ADX and neutral +DI/-DI, suggesting no clear directional bias."",
+    ""Historical data reveals the stock trading within a narrow Bollinger band, reflecting low volatility and absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:04:00+00:00"",
+    ""open"": 61.81,
+    ""high"": 61.96,
+    ""low"": 61.81,
+    ""close"": 61.93,
+    ""volume"": 32002
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 61.7,
+  ""resistance_realtime"": 62.0,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.4852,
+  ""sr_range_pct_1d"": 2.1511,
+  ""sr_range_pct_1w"": 6.3723,
+  ""sr_range_pct_3m"": 39.5277,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.83,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 61.83,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 14:09:14,"{
+  ""reason"": [
+    ""Recent data indicates the stock remains in a consolidation phase with minimal price movement and low volatility, suggesting no immediate breakout or breakdown."",
+    ""Indicator signals show weak trend strength with low ADX and neutral +DI/-DI, reinforcing the lack of a clear directional bias."",
+    ""Historical Bollinger bands reflect narrow bandwidth, confirming low volatility and absence of significant breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:13:00+00:00"",
+    ""open"": 61.75,
+    ""high"": 61.75,
+    ""low"": 61.71,
+    ""close"": 61.71,
+    ""volume"": 9676
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 61.7,
+  ""resistance_realtime"": 61.98,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.4529,
+  ""sr_range_pct_1d"": 2.1514,
+  ""sr_range_pct_1w"": 6.3733,
+  ""sr_range_pct_3m"": 39.5341,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:17:59,"{
+  ""reason"": [
+    ""Recent data confirms the stock remains in a consolidation phase with minimal price movement and low volatility, indicating no imminent breakout or breakdown."",
+    ""Indicator signals show weak trend strength with low ADX and neutral +DI/-DI, reinforcing the absence of a clear directional bias."",
+    ""Historical Bollinger bands reflect narrow bandwidth, confirming low volatility and lack of significant breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:08:00+00:00"",
+    ""open"": 60.75,
+    ""high"": 60.91,
+    ""low"": 60.75,
+    ""close"": 60.86,
+    ""volume"": 2051
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 60.51,
+  ""resistance_realtime"": 61.67,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.9104,
+  ""sr_range_pct_1d"": 2.1904,
+  ""sr_range_pct_1w"": 6.4888,
+  ""sr_range_pct_3m"": 40.2503,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.71,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:24:44,"{
+  ""reason"": [
+    ""Recent data indicates the stock remains in a consolidation phase with minimal price movement and low volatility, reinforcing the current support and resistance levels."",
+    ""Indicator signals show weak trend strength with low ADX and neutral +DI/-DI, confirming the absence of a clear directional bias."",
+    ""Historical Bollinger bands reflect narrow bandwidth, consistent with low volatility and no significant breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:17:59+00:00"",
+    ""open"": 60.79,
+    ""high"": 60.79,
+    ""low"": 60.71,
+    ""close"": 60.76,
+    ""volume"": 13508
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 60.51,
+  ""resistance_realtime"": 61.55,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.7108,
+  ""sr_range_pct_1d"": 2.1879,
+  ""sr_range_pct_1w"": 6.4813,
+  ""sr_range_pct_3m"": 40.204,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 60.76,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 60.76,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 60.76,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:33:35,"{
+  ""reason"": [
+    ""Recent data shows the stock remains in a consolidation phase with minimal price movement and low volatility, reinforcing the current support and resistance levels."",
+    ""Indicator signals show weak trend strength with low ADX and neutral +DI/-DI, confirming the absence of a clear directional bias."",
+    ""Historical Bollinger bands reflect narrow bandwidth, consistent with low volatility and no significant breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:23:00+00:00"",
+    ""open"": 60.96,
+    ""high"": 60.97,
+    ""low"": 60.91,
+    ""close"": 60.91,
+    ""volume"": 6921
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 60.51,
+  ""resistance_realtime"": 61.55,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.7058,
+  ""sr_range_pct_1d"": 2.1814,
+  ""sr_range_pct_1w"": 6.4622,
+  ""sr_range_pct_3m"": 40.0853,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 60.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 60.91,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 60.91,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:17:17,"{
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation with minimal price movement and low volatility, maintaining current support and resistance levels."",
+    ""Indicators show weak trend signals with ADX below threshold and neutral +DI/-DI, confirming lack of a clear directional bias."",
+    ""Historical Bollinger bands show narrow bandwidth, consistent with low volatility and absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:32:00+00:00"",
+    ""open"": 60.92,
+    ""high"": 60.95,
+    ""low"": 60.9,
+    ""close"": 60.92,
+    ""volume"": 16911
+  },
+  ""support"": 53.17,
+  ""resistance"": 54.5,
+  ""support_realtime"": 60.51,
+  ""resistance_realtime"": 61.55,
+  ""support_1d"": 53.17,
+  ""resistance_1d"": 54.5,
+  ""support_1w"": 50.56,
+  ""resistance_1w"": 54.5,
+  ""support_3m"": 45.26,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.7074,
+  ""sr_range_pct_1d"": 2.1835,
+  ""sr_range_pct_1w"": 6.4686,
+  ""sr_range_pct_3m"": 40.1248,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 60.92
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 60.92
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 60.92
+    }
+  }
+}"
+2025-09-02 15:26:02,"{
+  ""reason"": [
+    ""Recent data shows the stock remains in a tight consolidation with minimal price movement and low volatility, maintaining current support and resistance levels."",
+    ""Indicators show weak trend signals with ADX below threshold and neutral +DI/-DI, confirming lack of a clear directional bias."",
+    ""Historical Bollinger bands show narrow bandwidth, consistent with low volatility and absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:16:00+00:00"",
+    ""open"": 61.44,
+    ""high"": 61.44,
+    ""low"": 61.25,
+    ""close"": 61.3,
+    ""volume"": 47894
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 60.75,
+  ""resistance_realtime"": 61.7,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.5492,
+  ""sr_range_pct_1d"": 3.0333,
+  ""sr_range_pct_1w"": 17.4331,
+  ""sr_range_pct_3m"": 36.8885,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.74,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.3
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.3
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.3
+    }
+  }
+}"
+2025-09-02 15:34:44,"{
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation phase with minimal price movement and low volatility, consistent with historical support and resistance levels."",
+    ""Indicators such as ADX below threshold and neutral +DI/-DI suggest a lack of a strong trend, confirming the current sideways market condition."",
+    ""Narrow Bollinger bands in recent data align with low volatility, supporting the absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 61.09,
+    ""high"": 61.09,
+    ""low"": 61.09,
+    ""close"": 61.09,
+    ""volume"": 32
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 61.0,
+  ""resistance_realtime"": 61.52,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.1743,
+  ""sr_range_pct_1d"": 3.0343,
+  ""sr_range_pct_1w"": 17.4388,
+  ""sr_range_pct_3m"": 36.9005,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.15,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.09,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.09,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.09,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 11:56:30,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 61.09,
+    ""high"": 61.09,
+    ""low"": 61.09,
+    ""close"": 61.09,
+    ""volume"": 32
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 60.84,
+  ""resistance_realtime"": 61.7,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.4078,
+  ""sr_range_pct_1d"": 3.0447,
+  ""sr_range_pct_1w"": 17.4988,
+  ""sr_range_pct_3m"": 37.0273,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.15,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation phase with minimal price movement and low volatility, consistent with historical support and resistance levels."",
+    ""Indicators such as ADX below threshold and neutral +DI/-DI suggest a lack of a strong trend, confirming the current sideways market condition."",
+    ""Narrow Bollinger bands in recent data align with low volatility, supporting the absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    }
+  }
+}"
+2025-09-03 12:06:04,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:55:00+00:00"",
+    ""open"": 61.15,
+    ""high"": 61.15,
+    ""low"": 61.09,
+    ""close"": 61.14,
+    ""volume"": 1127
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 60.84,
+  ""resistance_realtime"": 61.7,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 1.4135,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.15,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation phase with minimal price movement and low volatility, consistent with historical support and resistance levels."",
+    ""Indicators such as ADX below threshold and neutral +DI/-DI suggest a lack of a strong trend, confirming the current sideways market condition."",
+    ""Narrow Bollinger bands in recent data align with low volatility, supporting the absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.09
+    }
+  }
+}"
+2025-09-03 12:15:50,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:05:00+00:00"",
+    ""open"": 61.1,
+    ""high"": 61.11,
+    ""low"": 61.1,
+    ""close"": 61.11,
+    ""volume"": 650
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 61.11,
+  ""resistance_realtime"": 61.11,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.0,
+  ""sr_range_pct_1w"": 0.0,
+  ""sr_range_pct_3m"": 0.0,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.879,
+    ""lower_band"": 61.664
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.15,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation phase with minimal price movement and low volatility, consistent with historical support and resistance levels."",
+    ""Indicators such as ADX below threshold and neutral +DI/-DI suggest a lack of a strong trend, confirming the current sideways market condition."",
+    ""Narrow Bollinger bands in recent data align with low volatility, supporting the absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    }
+  }
+}"
+2025-09-03 12:24:47,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:14:00+00:00"",
+    ""open"": 61.11,
+    ""high"": 61.11,
+    ""low"": 61.11,
+    ""close"": 61.11,
+    ""volume"": 501
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 61.17,
+  ""resistance_realtime"": 61.2,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.052,
+  ""sr_range_pct_1d"": 3.07,
+  ""sr_range_pct_1w"": 20.42,
+  ""sr_range_pct_3m"": 48.05,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.88,
+    ""lower_band"": 61.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.14,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates the stock remains in a tight consolidation phase with minimal price movement and low volatility, consistent with historical support and resistance levels."",
+    ""Indicators such as ADX below threshold and neutral +DI/-DI suggest a lack of a strong trend, confirming the current sideways market condition."",
+    ""Narrow Bollinger bands in recent data align with low volatility, supporting the absence of breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.11
+    }
+  },
+  ""reason_changes"": [
+    ""Revised support and resistance levels based on recent daily data."",
+    ""Adjusted realtime support and resistance to reflect current consolidation."",
+    ""Confirmed low volatility and lack of trend strength from recent indicator readings.""
+  ]
+}"
+2025-09-03 12:34:31,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:23:00+00:00"",
+    ""open"": 61.17,
+    ""high"": 61.2,
+    ""low"": 61.17,
+    ""close"": 61.19,
+    ""volume"": 6399
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 61.14,
+  ""resistance_realtime"": 61.14,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.23,
+  ""sr_range_pct_1d"": 2.89,
+  ""sr_range_pct_1w"": 20.42,
+  ""sr_range_pct_3m"": 48.05,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.88,
+    ""lower_band"": 61.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.14,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Revised support and resistance levels based on recent daily data."",
+    ""Adjusted realtime support and resistance to reflect current consolidation."",
+    ""Confirmed low volatility and lack of trend strength from recent indicator readings.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    }
+  }
+}"
+2025-09-03 15:29:26,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:33:00+00:00"",
+    ""open"": 61.14,
+    ""high"": 61.14,
+    ""low"": 61.06,
+    ""close"": 61.08,
+    ""volume"": 230
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 61.14,
+  ""resistance_realtime"": 61.14,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.88,
+    ""lower_band"": 61.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 61.14,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Revised support and resistance levels based on recent daily data."",
+    ""Adjusted realtime support and resistance to reflect current consolidation."",
+    ""Confirmed low volatility and lack of trend strength from recent indicator readings.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 61.19
+    }
+  }
+}"
+2025-09-04 11:12:43,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:28:00+00:00"",
+    ""open"": 60.44,
+    ""high"": 60.49,
+    ""low"": 60.32,
+    ""close"": 60.48,
+    ""volume"": 3672526
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 60.20,
+  ""resistance_realtime"": 60.20,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.70,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.52,
+  ""sr_range_pct_1w"": 2.0,
+  ""sr_range_pct_3m"": 4.0,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.88,
+    ""lower_band"": 61.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 60.20,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Revised support and resistance levels based on recent daily data."",
+    ""Adjusted realtime support and resistance to reflect current consolidation."",
+    ""Confirmed low volatility and lack of trend strength from recent indicator readings.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 60.63,
+  ""target"": 62.49,
+  ""stoploss"": 59.42,
+  ""entry1"": 60.63,
+  ""target1"": 62.49,
+  ""stoploss1"": 59.42,
+  ""entry2"": 60.20,
+  ""target2"": 62.49,
+  ""stoploss2"": 58.94,
+  ""entry3"": 59.70,
+  ""target3"": 62.49,
+  ""stoploss3"": 58.20,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    }
+  }
+}"
+2025-09-04 11:22:33,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:11:00+00:00"",
+    ""open"": 59.8,
+    ""high"": 59.8,
+    ""low"": 59.75,
+    ""close"": 59.75,
+    ""volume"": 1562
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 60.2,
+  ""resistance_realtime"": 60.2,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 61.75,
+    ""upper_band"": 61.88,
+    ""lower_band"": 61.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 60.2,
+    ""ma_slow"": 61.77
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Revised support and resistance levels based on recent daily data."",
+    ""Adjusted realtime support and resistance to reflect current consolidation."",
+    ""Confirmed low volatility and lack of trend strength from recent indicator readings."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 61.746,
+  ""target"": 61.0485,
+  ""stoploss"": 62.211,
+  ""entry1"": 61.746,
+  ""target1"": 61.0485,
+  ""stoploss1"": 62.211,
+  ""entry2"": 59.8,
+  ""target2"": 55.7913,
+  ""stoploss2"": 62.4725,
+  ""entry3"": 59.8,
+  ""target3"": 51.3175,
+  ""stoploss3"": 65.455,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 61.19
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels were updated based on recent daily data."",
+    ""Recalculated trade levels to align with new support/resistance bands, maintaining short bias."",
+    ""Predicted targets adjusted for small expected return, consistent across timeframes.""
+  ]
+}"
+2025-09-04 14:20:08,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:21:00+00:00"",
+    ""open"": 60.0,
+    ""high"": 60.0,
+    ""low"": 59.85,
+    ""close"": 59.85,
+    ""volume"": 15994
+  },
+  ""support"": 60.63,
+  ""resistance"": 62.49,
+  ""support_realtime"": 59.24,
+  ""resistance_realtime"": 59.24,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.0,
+  ""sr_range_pct_1w"": 0.0,
+  ""sr_range_pct_3m"": 0.0,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 59.24,
+    ""upper_band"": 59.44,
+    ""lower_band"": 59.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 59.43,
+    ""ma_slow"": 59.43
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels were updated based on recent daily data."",
+    ""Recalculated trade levels to align with new support/resistance bands, maintaining short bias."",
+    ""Predicted targets adjusted for small expected return, consistent across timeframes.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 59.85,
+  ""target"": 58.275,
+  ""stoploss"": 61.425,
+  ""entry1"": 59.85,
+  ""target1"": 58.275,
+  ""stoploss1"": 61.425,
+  ""entry2"": 58.0,
+  ""target2"": 55.0,
+  ""stoploss2"": 61.0,
+  ""entry3"": 58.0,
+  ""target3"": 52.0,
+  ""stoploss3"": 63.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 14:47:45,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:19:00+00:00"",
+    ""open"": 59.24,
+    ""high"": 59.24,
+    ""low"": 59.19,
+    ""close"": 59.19,
+    ""volume"": 5492
+  },
+  ""support"": 59.19,
+  ""resistance"": 59.24,
+  ""support_realtime"": 59.37,
+  ""resistance_realtime"": 59.42,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.084,
+  ""sr_range_pct_1d"": 0.423,
+  ""sr_range_pct_1w"": 1.052,
+  ""sr_range_pct_3m"": 1.179,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 59.24,
+    ""upper_band"": 59.44,
+    ""lower_band"": 59.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 59.43,
+    ""ma_slow"": 59.43
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels were updated based on recent daily data."",
+    ""Recalculated trade levels to align with new support/resistance bands, maintaining short bias."",
+    ""Predicted targets adjusted for small expected return, consistent across timeframes.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 59.85,
+  ""target"": 58.275,
+  ""stoploss"": 61.425,
+  ""entry1"": 59.85,
+  ""target1"": 58.275,
+  ""stoploss1"": 61.425,
+  ""entry2"": 58.0,
+  ""target2"": 55.0,
+  ""stoploss2"": 61.0,
+  ""entry3"": 58.0,
+  ""target3"": 52.0,
+  ""stoploss3"": 63.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    }
+  }
+}"
+2025-09-04 15:01:01,"{
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:46:00+00:00"",
+    ""open"": 59.42,
+    ""high"": 59.44,
+    ""low"": 59.4,
+    ""close"": 59.4,
+    ""volume"": 2880
+  },
+  ""support"": 59.19,
+  ""resistance"": 59.24,
+  ""support_realtime"": 59.37,
+  ""resistance_realtime"": 59.42,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.0842,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 59.24,
+    ""upper_band"": 59.44,
+    ""lower_band"": 59.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 59.43,
+    ""ma_slow"": 59.43
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels were updated based on recent daily data."",
+    ""Recalculated trade levels to align with new support/resistance bands, maintaining short bias."",
+    ""Predicted targets adjusted for small expected return, consistent across timeframes."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 59.21,
+  ""target"": 59.22875,
+  ""stoploss"": 59.1975,
+  ""entry1"": 61.374,
+  ""target1"": 62.0715,
+  ""stoploss1"": 60.909,
+  ""entry2"": 59.42,
+  ""target2"": 63.42875,
+  ""stoploss2"": 56.7475,
+  ""entry3"": 59.42,
+  ""target3"": 67.9025,
+  ""stoploss3"": 53.765,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels were updated based on recent daily data."",
+    ""Recalculated trade levels to align with new support/resistance bands, maintaining short bias."",
+    ""Predicted targets adjusted for small expected return, consistent across timeframes."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ]
+}"
+2025-09-04 15:13:06,"{
+  ""reason"": [
+    ""Recent intraday data indicates slight upward movement with support around 59.10 and resistance near 59.20, slightly adjusting previous levels."",
+    ""Support and resistance levels were refined based on recent minute data, confirming a narrow trading range."",
+    ""Trade levels were recalculated to align with new intraday support/resistance, maintaining a short bias."",
+    ""Predicted targets remain consistent with previous estimates, reflecting small expected returns."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating a potential consolidation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    }
+  },
+  ""support"": 59.10,
+  ""resistance"": 59.20,
+  ""support_realtime"": 59.10,
+  ""resistance_realtime"": 59.20,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.70,
+  ""sr_range_pct_realtime"": 0.0842,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 59.24,
+    ""upper_band"": 59.44,
+    ""lower_band"": 59.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 59.43,
+    ""ma_slow"": 59.43
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 59.22,
+  ""target"": 59.20125,
+  ""stoploss"": 59.2325,
+  ""entry1"": 61.746,
+  ""target1"": 61.0485,
+  ""stoploss1"": 62.211,
+  ""entry2"": 59.08,
+  ""target2"": 55.07125,
+  ""stoploss2"": 61.7525,
+  ""entry3"": 59.08,
+  ""target3"": 50.5975,
+  ""stoploss3"": 64.735,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04
+    }
+  }
+}"
+2025-09-05 13:35:33,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 59.10 and resistance near 59.20, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 60.04,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 59.1,
+  ""resistance"": 59.2,
+  ""support_realtime"": 59.1,
+  ""resistance_realtime"": 59.2,
+  ""support_1d"": 60.63,
+  ""resistance_1d"": 62.49,
+  ""support_1w"": 52.35,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 47.08,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.1692,
+  ""sr_range_pct_1d"": 3.0678,
+  ""sr_range_pct_1w"": 20.4202,
+  ""sr_range_pct_3m"": 48.0459,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 59.24,
+    ""upper_band"": 59.44,
+    ""lower_band"": 59.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 59.43,
+    ""ma_slow"": 59.43
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 59.22,
+  ""target"": 59.20125,
+  ""stoploss"": 59.2325,
+  ""entry1"": 61.746,
+  ""target1"": 61.0485,
+  ""stoploss1"": 62.211,
+  ""entry2"": 59.08,
+  ""target2"": 55.07125,
+  ""stoploss2"": 61.7525,
+  ""entry3"": 59.08,
+  ""target3"": 50.5975,
+  ""stoploss3"": 64.735,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-04 15:13:06"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:12:00+00:00"",
+    ""open"": 59.1,
+    ""high"": 59.1,
+    ""low"": 58.91,
+    ""close"": 58.91,
+    ""volume"": 20888
+  },
+  ""sr_range_pct"": 0.1692,
+  ""respected_S"": 7,
+  ""respected_R"": 11,
+  ""respected_S1"": 8,
+  ""respected_R1"": 10,
+  ""respected_S2"": 9,
+  ""respected_R2"": 7,
+  ""respected_S3"": 7,
+  ""respected_R3"": 3
+}"
+2025-09-05 13:47:22,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 62.73,
+  ""resistance_1d"": 62.89,
+  ""support_1w"": 62.73,
+  ""resistance_1w"": 62.89,
+  ""support_3m"": 62.73,
+  ""resistance_3m"": 62.89,
+  ""sr_range_pct_realtime"": 0.226,
+  ""sr_range_pct_1d"": 0.226,
+  ""sr_range_pct_1w"": 0.226,
+  ""sr_range_pct_3m"": 0.226,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 62.835,
+  ""target"": 62.695,
+  ""stoploss"": 62.645,
+  ""entry1"": 62.835,
+  ""target1"": 62.695,
+  ""stoploss1"": 62.645,
+  ""entry2"": 62.835,
+  ""target2"": 62.695,
+  ""stoploss2"": 62.645,
+  ""entry3"": 62.835,
+  ""target3"": 62.695,
+  ""stoploss3"": 62.645,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 13:35:33"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:34:00+00:00"",
+    ""open"": 62.06,
+    ""high"": 62.18,
+    ""low"": 62.06,
+    ""close"": 62.15,
+    ""volume"": 31461
+  },
+  ""sr_range_pct"": 0.226,
+  ""respected_S"": 7,
+  ""respected_R"": 11,
+  ""respected_S1"": 8,
+  ""respected_R1"": 10,
+  ""respected_S2"": 9,
+  ""respected_R2"": 7,
+  ""respected_S3"": 7,
+  ""respected_R3"": 3
+}"
+2025-09-05 14:24:05,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 62.73,
+  ""resistance_1d"": 62.89,
+  ""support_1w"": 62.73,
+  ""resistance_1w"": 62.89,
+  ""support_3m"": 62.73,
+  ""resistance_3m"": 62.89,
+  ""sr_range_pct_realtime"": 0.2551,
+  ""sr_range_pct_1d"": 0.2551,
+  ""sr_range_pct_1w"": 0.2551,
+  ""sr_range_pct_3m"": 0.2551,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 63.106,
+  ""target"": 62.513,
+  ""stoploss"": 62.51,
+  ""entry1"": 63.106,
+  ""target1"": 62.513,
+  ""stoploss1"": 62.51,
+  ""entry2"": 63.106,
+  ""target2"": 62.513,
+  ""stoploss2"": 62.51,
+  ""entry3"": 63.106,
+  ""target3"": 62.513,
+  ""stoploss3"": 62.51,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 13:47:22"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:46:00+00:00"",
+    ""open"": 62.88,
+    ""high"": 62.9,
+    ""low"": 62.5,
+    ""close"": 62.5,
+    ""volume"": 204378
+  },
+  ""sr_range_pct"": 0.2551,
+  ""respected_S"": 4,
+  ""respected_R"": 7,
+  ""respected_S1"": 4,
+  ""respected_R1"": 7,
+  ""respected_S2"": 4,
+  ""respected_R2"": 7,
+  ""respected_S3"": 4,
+  ""respected_R3"": 7
+}"
+2025-09-05 14:40:47,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)."",
+    ""LLM duplicated/missed support_1w/resistance_1w; recomputed via horizon_sr(5)."",
+    ""LLM duplicated/missed support_3m/resistance_3m; recomputed via horizon_sr(60)."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 47.11,
+  ""resistance_1d"": 62.64,
+  ""support_1w"": 47.11,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 39.29,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.2564,
+  ""sr_range_pct_1d"": 24.8878,
+  ""sr_range_pct_1w"": 25.5288,
+  ""sr_range_pct_3m"": 48.734,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 63.106,
+  ""target"": 63.18,
+  ""stoploss"": 62.51,
+  ""entry1"": 62.264,
+  ""target1"": 62.34,
+  ""stoploss1"": 46.945,
+  ""entry2"": 62.662,
+  ""target2"": 62.74,
+  ""stoploss2"": 46.945,
+  ""entry3"": 63.106,
+  ""target3"": 63.327,
+  ""stoploss3"": 39.152,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 14:24:05"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:23:00+00:00"",
+    ""open"": 62.42,
+    ""high"": 62.44,
+    ""low"": 62.39,
+    ""close"": 62.4,
+    ""volume"": 7746
+  }
+}"
+2025-09-05 14:53:19,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)."",
+    ""LLM duplicated/missed support_1w/resistance_1w; recomputed via horizon_sr(5)."",
+    ""LLM duplicated/missed support_3m/resistance_3m; recomputed via horizon_sr(60)."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 47.11,
+  ""resistance_1d"": 62.64,
+  ""support_1w"": 47.11,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 39.29,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.2583,
+  ""sr_range_pct_1d"": 25.0686,
+  ""sr_range_pct_1w"": 25.7143,
+  ""sr_range_pct_3m"": 49.088,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 63.106,
+  ""target"": 63.18,
+  ""stoploss"": 62.51,
+  ""entry1"": 62.264,
+  ""target1"": 62.34,
+  ""stoploss1"": 46.945,
+  ""entry2"": 62.662,
+  ""target2"": 62.74,
+  ""stoploss2"": 46.945,
+  ""entry3"": 63.106,
+  ""target3"": 63.327,
+  ""stoploss3"": 39.152,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 14:40:47"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:39:00+00:00"",
+    ""open"": 62.0,
+    ""high"": 62.05,
+    ""low"": 61.95,
+    ""close"": 61.95,
+    ""volume"": 13010
+  }
+}"
+2025-09-05 15:07:30,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)."",
+    ""LLM duplicated/missed support_1w/resistance_1w; recomputed via horizon_sr(5)."",
+    ""LLM duplicated/missed support_3m/resistance_3m; recomputed via horizon_sr(60)."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 47.11,
+  ""resistance_1d"": 62.64,
+  ""support_1w"": 47.11,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 39.29,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.2578,
+  ""sr_range_pct_1d"": 25.0242,
+  ""sr_range_pct_1w"": 25.6687,
+  ""sr_range_pct_3m"": 49.001,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 63.106,
+  ""target"": 63.18,
+  ""stoploss"": 62.51,
+  ""entry1"": 62.264,
+  ""target1"": 62.34,
+  ""stoploss1"": 46.945,
+  ""entry2"": 62.662,
+  ""target2"": 62.74,
+  ""stoploss2"": 46.945,
+  ""entry3"": 63.106,
+  ""target3"": 63.327,
+  ""stoploss3"": 39.152,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 14:53:19"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:52:00+00:00"",
+    ""open"": 62.07,
+    ""high"": 62.08,
+    ""low"": 62.02,
+    ""close"": 62.06,
+    ""volume"": 10979
+  },
+  ""sr_range_pct"": 0.2551,
+  ""respected_S"": 4,
+  ""respected_R"": 7,
+  ""respected_S1"": 7,
+  ""respected_R1"": 9,
+  ""respected_S2"": 7,
+  ""respected_R2"": 7,
+  ""respected_S3"": 4,
+  ""respected_R3"": 3
+}"
+2025-09-05 15:19:29,"{
+  ""reason"": [
+    ""Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels."",
+    ""Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels."",
+    ""Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias."",
+    ""Predicted targets remain consistent, reflecting small expected returns based on recent data."",
+    ""Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action."",
+    ""Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)."",
+    ""LLM duplicated/missed support_1w/resistance_1w; recomputed via horizon_sr(5)."",
+    ""LLM duplicated/missed support_3m/resistance_3m; recomputed via horizon_sr(60)."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: Some trade levels still missing after synthesis.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 62.94,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 62.73,
+  ""resistance"": 62.89,
+  ""support_realtime"": 62.73,
+  ""resistance_realtime"": 62.89,
+  ""support_1d"": 47.11,
+  ""resistance_1d"": 62.64,
+  ""support_1w"": 47.11,
+  ""resistance_1w"": 63.04,
+  ""support_3m"": 39.29,
+  ""resistance_3m"": 69.7,
+  ""sr_range_pct_realtime"": 0.2582,
+  ""sr_range_pct_1d"": 25.0646,
+  ""sr_range_pct_1w"": 25.7101,
+  ""sr_range_pct_3m"": 49.0801,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 62.81,
+    ""upper_band"": 63.01,
+    ""lower_band"": 62.61
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 62.89,
+    ""ma_slow"": 62.89
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 62.264,
+  ""target"": 62.34,
+  ""stoploss"": 46.945,
+  ""entry1"": 62.264,
+  ""target1"": 62.34,
+  ""stoploss1"": 46.945,
+  ""entry2"": 62.662,
+  ""target2"": 62.74,
+  ""stoploss2"": 46.945,
+  ""entry3"": 63.106,
+  ""target3"": 63.327,
+  ""stoploss3"": 39.152,
+  ""stock_code"": ""RTNINDIA"",
+  ""instrument_token"": 6988033,
+  ""last_updated"": ""2025-09-05 15:07:30"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:06:00+00:00"",
+    ""open"": 61.99,
+    ""high"": 62.03,
+    ""low"": 61.96,
+    ""close"": 61.96,
+    ""volume"": 65459
+  },
+  ""sr_range_pct"": 0.2551,
+  ""respected_S"": 4,
+  ""respected_R"": 7,
+  ""respected_S1"": 7,
+  ""respected_R1"": 9,
+  ""respected_S2"": 7,
+  ""respected_R2"": 7,
+  ""respected_S3"": 4,
+  ""respected_R3"": 3
+}"

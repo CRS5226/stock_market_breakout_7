@@ -1,0 +1,2126 @@
+{
+  "stocks": [
+    {
+      "stock_code": "CDSL",
+      "instrument_token": 5420545,
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 1524.3,
+        "high": 1524.8,
+        "low": 1524.0,
+        "close": 1524.2,
+        "volume": 5421
+      },
+      "support": 1449.94,
+      "resistance": 1627.39,
+      "sr_range_pct": 0.2958,
+      "volume_threshold": 9028,
+      "support_1d": 1449.9354,
+      "resistance_1d": 1627.3946,
+      "support_1w": 1421.0,
+      "resistance_1w": 1632.3377,
+      "support_3m": 1250.9654,
+      "resistance_3m": 1873.2555,
+      "sr_range_pct_1d": 12.2391,
+      "sr_range_pct_1w": 14.8725,
+      "sr_range_pct_3m": 49.7448,
+      "entry": 1524.2,
+      "target": 1531.867,
+      "stoploss": 1448.49,
+      "entry1": 1524.2,
+      "target1": 1526.133,
+      "stoploss1": 1506.659,
+      "entry2": 1524.2,
+      "target2": 1532.533,
+      "stoploss2": 1496.236,
+      "entry3": 1524.2,
+      "target3": 1533.2,
+      "stoploss3": 1486.878,
+      "respected_S": 6,
+      "respected_R": 4,
+      "respected_S1": 9,
+      "respected_R1": 7,
+      "respected_S2": 5,
+      "respected_R2": 8,
+      "respected_S3": 6,
+      "respected_R3": 10,
+      "bollinger": {
+        "mid_price": 1538.66,
+        "upper_band": 1524.99,
+        "lower_band": 1521.91
+      },
+      "macd": {
+        "signal_line": -0.3542017241072997,
+        "histogram": 0.007775188782746023,
+        "ma_fast": 1580.888888888889,
+        "ma_slow": 1581.115,
+        "ma_signal": 1580.888888888889
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0001807966266912116,
+          "price": 1523.9244297815972,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.000404273547384202,
+          "price": 1523.5838062590772,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.00202136773692101,
+          "price": 1521.1190312953852,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:26:04"
+    },
+    {
+      "stock_code": "BSE",
+      "instrument_token": 5013761,
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 2323.2,
+        "high": 2323.2,
+        "low": 2321.1,
+        "close": 2321.2,
+        "volume": 10253
+      },
+      "support": 2094.4,
+      "resistance": 2593.32,
+      "sr_range_pct": 0.7903,
+      "volume_threshold": 37709,
+      "support_1d": 2094.4042,
+      "resistance_1d": 2593.3158,
+      "support_1w": 2090.0,
+      "resistance_1w": 2607.0129,
+      "support_3m": 2090.0,
+      "resistance_3m": 3089.4689,
+      "sr_range_pct_1d": 23.8212,
+      "sr_range_pct_1w": 24.7375,
+      "sr_range_pct_3m": 47.8215,
+      "entry": 2321.2,
+      "target": 2457.82,
+      "stoploss": 2091.637,
+      "entry1": 2236.713,
+      "target1": 2239.663,
+      "stoploss1": 2174.128,
+      "entry2": 2261.403,
+      "target2": 2264.386,
+      "stoploss2": 2137.177,
+      "entry3": 2297.657,
+      "target3": 2300.688,
+      "stoploss3": 2111.811,
+      "respected_S": 5,
+      "respected_R": 2,
+      "respected_S1": 6,
+      "respected_R1": 4,
+      "respected_S2": 5,
+      "respected_R2": 4,
+      "respected_S3": 6,
+      "respected_R3": 2,
+      "bollinger": {
+        "mid_price": 2343.86,
+        "upper_band": 2327.42,
+        "lower_band": 2309.17
+      },
+      "macd": {
+        "signal_line": -46.61,
+        "histogram": 5.12,
+        "ma_fast": 2416.58,
+        "ma_slow": 2456.16,
+        "ma_signal": 2416.58
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.00015458157497917193,
+          "price": 2320.841185248158,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0003456549097224091,
+          "price": 2320.3976658235524,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0017282745486120455,
+          "price": 2317.1883291177614,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:26:23"
+    },
+    {
+      "stock_code": "JIOFIN",
+      "instrument_token": 4644609,
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 309.7,
+        "high": 309.75,
+        "low": 309.65,
+        "close": 309.75,
+        "volume": 88833
+      },
+      "support": 308.14,
+      "resistance": 336.77,
+      "sr_range_pct": 0.3334,
+      "volume_threshold": 89101,
+      "support_1d": 308.1362,
+      "resistance_1d": 336.7738,
+      "support_1w": 307.2,
+      "resistance_1w": 338.1417,
+      "support_3m": 264.9107,
+      "resistance_3m": 346.8697,
+      "sr_range_pct_1d": 9.2938,
+      "sr_range_pct_1w": 10.0722,
+      "sr_range_pct_3m": 30.9384,
+      "entry": 309.75,
+      "target": 309.762,
+      "stoploss": 307.832,
+      "entry1": 311.14,
+      "target1": 311.151,
+      "stoploss1": 310.456,
+      "entry2": 309.75,
+      "target2": 309.762,
+      "stoploss2": 307.526,
+      "entry3": 309.75,
+      "target3": 309.764,
+      "stoploss3": 305.561,
+      "respected_S": 4,
+      "respected_R": 3,
+      "respected_S1": 7,
+      "respected_R1": 6,
+      "respected_S2": 3,
+      "respected_R2": 7,
+      "respected_S3": 5,
+      "respected_R3": 7,
+      "bollinger": {
+        "mid_price": 322.45,
+        "upper_band": 309.93,
+        "lower_band": 308.97
+      },
+      "macd": {
+        "signal_line": 4.16,
+        "histogram": 0.2044,
+        "ma_fast": 331.04,
+        "ma_slow": 330.67,
+        "ma_signal": 328.31
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.00042133615105099785,
+          "price": 309.619491127212,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0009421362751281506,
+          "price": 309.45817328877905,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.004710681375640753,
+          "price": 308.29086644389525,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:26:42"
+    },
+    {
+      "stock_code": "GESHIP",
+      "instrument_token": 3526657,
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 972.15,
+        "high": 972.15,
+        "low": 971.6,
+        "close": 971.6,
+        "volume": 451
+      },
+      "support": 918.07,
+      "resistance": 992.37,
+      "sr_range_pct": 0.3503,
+      "volume_threshold": 705,
+      "support_1d": 918.0712,
+      "resistance_1d": 992.3688,
+      "support_1w": 911.1949,
+      "resistance_1w": 992.4272,
+      "support_3m": 889.7575,
+      "resistance_3m": 1049.0,
+      "sr_range_pct_1d": 8.0928,
+      "sr_range_pct_1w": 8.9149,
+      "sr_range_pct_3m": 17.8973,
+      "entry": 971.6,
+      "target": 983.867,
+      "stoploss": 917.152,
+      "entry1": 967.704,
+      "target1": 968.672,
+      "stoploss1": 949.916,
+      "entry2": 971.6,
+      "target2": 977.465,
+      "stoploss2": 941.99,
+      "entry3": 971.6,
+      "target3": 985.09,
+      "stoploss3": 931.934,
+      "respected_S": 18,
+      "respected_R": 21,
+      "respected_S1": 21,
+      "respected_R1": 17,
+      "respected_S2": 20,
+      "respected_R2": 19,
+      "respected_S3": 20,
+      "respected_R3": 19,
+      "bollinger": {
+        "mid_price": 955.22,
+        "upper_band": 973.87,
+        "lower_band": 970.96
+      },
+      "macd": {
+        "signal_line": -9.8703,
+        "histogram": 3.4523,
+        "ma_fast": 945.3667,
+        "ma_slow": 955.805,
+        "ma_signal": 955.9193
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -1.9880995405756657e-05,
+          "price": 971.5806836248638,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -4.44552571876329e-05,
+          "price": 971.5568072721165,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.00022227628593816454,
+          "price": 971.3840363605825,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:27:00"
+    },
+    {
+      "stock_code": "MCX",
+      "instrument_token": 7982337,
+      "ohlcv": {
+        "time": "2025-09-05 15:26:00+00:00",
+        "open": 7616.5,
+        "high": 7618.0,
+        "low": 7612.0,
+        "close": 7612.0,
+        "volume": 769
+      },
+      "support": 7362.07,
+      "resistance": 8453.03,
+      "sr_range_pct": 0.4037,
+      "volume_threshold": 1001,
+      "support_1d": 7362.0749,
+      "resistance_1d": 8453.0251,
+      "support_1w": 7304.0,
+      "resistance_1w": 8463.7288,
+      "support_3m": 5716.2883,
+      "resistance_3m": 9412.1794,
+      "sr_range_pct_1d": 14.8185,
+      "sr_range_pct_1w": 15.878,
+      "sr_range_pct_3m": 64.6554,
+      "entry": 7612.0,
+      "target": 7612.011,
+      "stoploss": 7354.708,
+      "entry1": 7612.0,
+      "target1": 7612.011,
+      "stoploss1": 7576.083,
+      "entry2": 7612.0,
+      "target2": 7612.012,
+      "stoploss2": 7452.373,
+      "entry3": 7612.0,
+      "target3": 7612.014,
+      "stoploss3": 7384.275,
+      "respected_S": 3,
+      "respected_R": 3,
+      "respected_S1": 7,
+      "respected_R1": 8,
+      "respected_S2": 2,
+      "respected_R2": 9,
+      "respected_S3": 3,
+      "respected_R3": 9,
+      "bollinger": {
+        "mid_price": 7907.55,
+        "upper_band": 7619.64,
+        "lower_band": 7593.86
+      },
+      "macd": {
+        "signal_line": 2.548794962765562,
+        "histogram": 0.6589594853761516,
+        "ma_fast": 8294.055555555555,
+        "ma_slow": 8287.875,
+        "ma_signal": 2.548794962765562
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 25
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.00030142881599904515,
+          "price": 7609.705523852615,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0006740153229511412,
+          "price": 7606.869395361696,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.003370076614755706,
+          "price": 7586.34697680848,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:27:19"
+    },
+    {
+      "stock_code": "GRSE",
+      "instrument_token": 1401601,
+      "ohlcv": {
+        "time": "2025-09-05 15:26:00+00:00",
+        "open": 2410.7,
+        "high": 2410.7,
+        "low": 2408.9,
+        "close": 2409.0,
+        "volume": 1132
+      },
+      "support": 2364.53,
+      "resistance": 2708.22,
+      "sr_range_pct": 0.5296,
+      "volume_threshold": 3072,
+      "support_1d": 2364.5341,
+      "resistance_1d": 2708.2159,
+      "support_1w": 2323.0,
+      "resistance_1w": 2726.8288,
+      "support_3m": 2121.4287,
+      "resistance_3m": 3579.3813,
+      "sr_range_pct_1d": 14.5349,
+      "sr_range_pct_1w": 17.3839,
+      "sr_range_pct_3m": 68.725,
+      "entry": 2409.0,
+      "target": 2409.012,
+      "stoploss": 2362.03,
+      "entry1": 2473.164,
+      "target1": 2473.176,
+      "stoploss1": 2467.589,
+      "entry2": 2442.658,
+      "target2": 2442.671,
+      "stoploss2": 2436.422,
+      "entry3": 2409.0,
+      "target3": 2409.014,
+      "stoploss3": 2388.372,
+      "respected_S": 3,
+      "respected_R": 3,
+      "respected_S1": 5,
+      "respected_R1": 6,
+      "respected_S2": 4,
+      "respected_R2": 10,
+      "respected_S3": 3,
+      "respected_R3": 12,
+      "bollinger": {
+        "mid_price": 2536.38,
+        "upper_band": 2410.31,
+        "lower_band": 2399.76
+      },
+      "macd": {
+        "signal_line": 0.2389,
+        "histogram": 0.2322,
+        "ma_fast": 2561.0,
+        "ma_slow": 2600.0,
+        "ma_signal": 2550.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0003081609932618614,
+          "price": 2408.2576401672322,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0006890689289473767,
+          "price": 2407.3400329501656,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.003445344644736884,
+          "price": 2400.7001647508287,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:27:38"
+    },
+    {
+      "stock_code": "DELHIVERY",
+      "instrument_token": 2457345,
+      "ohlcv": {
+        "time": "2025-09-05 15:26:00+00:00",
+        "open": 469.8,
+        "high": 470.2,
+        "low": 469.6,
+        "close": 470.15,
+        "volume": 70564
+      },
+      "support": 456.71,
+      "resistance": 485.7,
+      "sr_range_pct": 0.9226,
+      "volume_threshold": 38960,
+      "support_1d": 456.7142,
+      "resistance_1d": 485.7,
+      "support_1w": 425.1293,
+      "resistance_1w": 495.8607,
+      "support_3m": 324.6845,
+      "resistance_3m": 497.0017,
+      "sr_range_pct_1d": 6.3466,
+      "sr_range_pct_1w": 16.6376,
+      "sr_range_pct_3m": 53.0722,
+      "entry": 470.15,
+      "target": 470.166,
+      "stoploss": 456.228,
+      "entry1": 471.332,
+      "target1": 471.348,
+      "stoploss1": 470.27,
+      "entry2": 470.15,
+      "target2": 470.168,
+      "stoploss2": 463.044,
+      "entry3": 470.15,
+      "target3": 470.17,
+      "stoploss3": 455.586,
+      "respected_S": 4,
+      "respected_R": 1,
+      "respected_S1": 5,
+      "respected_R1": 1,
+      "respected_S2": 7,
+      "respected_R2": 0,
+      "respected_S3": 4,
+      "respected_R3": 0,
+      "bollinger": {
+        "mid_price": 471.2,
+        "upper_band": 469.75,
+        "lower_band": 466.07
+      },
+      "macd": {
+        "signal_line": 0.44,
+        "histogram": 0.17,
+        "ma_fast": 471.76,
+        "ma_slow": 470.54,
+        "ma_signal": 470.54
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Price near resistance 470.37 with volume spike.",
+        "EMA20/50 slopes positive.",
+        "MACD histogram rising.",
+        "Price above upper BB.",
+        "VWAP alignment OK."
+      ],
+      "signal": "Strong Breakout",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0001084549698752955,
+          "price": 470.09900989591307,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00024251268513885265,
+          "price": 470.03598266108196,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0012125634256942633,
+          "price": 469.5799133054098,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:27:58"
+    },
+    {
+      "stock_code": "PARAS",
+      "instrument_token": 1513217,
+      "ohlcv": {
+        "time": "2025-09-05 15:27:00+00:00",
+        "open": 660.75,
+        "high": 660.8,
+        "low": 660.3,
+        "close": 660.3,
+        "volume": 742
+      },
+      "support": 630.27,
+      "resistance": 692.46,
+      "sr_range_pct": 0.5787,
+      "volume_threshold": 3390,
+      "support_1d": 630.2682,
+      "resistance_1d": 692.4618,
+      "support_1w": 624.1826,
+      "resistance_1w": 695.7664,
+      "support_3m": 568.088,
+      "resistance_3m": 942.0,
+      "sr_range_pct_1d": 9.8678,
+      "sr_range_pct_1w": 11.4684,
+      "sr_range_pct_3m": 65.8194,
+      "entry": 660.3,
+      "target": 660.311,
+      "stoploss": 629.3,
+      "entry1": 660.3,
+      "target1": 660.311,
+      "stoploss1": 656.355,
+      "entry2": 660.3,
+      "target2": 660.312,
+      "stoploss2": 649.332,
+      "entry3": 660.3,
+      "target3": 660.313,
+      "stoploss3": 639.531,
+      "respected_S": 4,
+      "respected_R": 7,
+      "respected_S1": 8,
+      "respected_R1": 8,
+      "respected_S2": 6,
+      "respected_R2": 10,
+      "respected_S3": 5,
+      "respected_R3": 7,
+      "bollinger": {
+        "mid_price": 661.37,
+        "upper_band": 662.16,
+        "lower_band": 659.84
+      },
+      "macd": {
+        "signal_line": 0.3692,
+        "histogram": 0.2423,
+        "ma_fast": 679.7,
+        "ma_slow": 679.12,
+        "ma_signal": 0.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -7.82263956066673e-05,
+          "price": 660.248347110981,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.000174919538211299,
+          "price": 660.1845006289191,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0008745976910564951,
+          "price": 659.7225031445954,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:28:16"
+    },
+    {
+      "stock_code": "RRKABEL",
+      "instrument_token": 4752897,
+      "ohlcv": {
+        "time": "2025-09-05 15:27:00+00:00",
+        "open": 1203.8,
+        "high": 1205.3,
+        "low": 1203.0,
+        "close": 1205.1,
+        "volume": 267
+      },
+      "support": 1167.39,
+      "resistance": 1269.33,
+      "sr_range_pct": 0.8469,
+      "volume_threshold": 1169,
+      "support_1d": 1167.394,
+      "resistance_1d": 1269.326,
+      "support_1w": 1119.7348,
+      "resistance_1w": 1388.5752,
+      "support_3m": 1119.7348,
+      "resistance_3m": 1535.1424,
+      "sr_range_pct_1d": 8.7316,
+      "sr_range_pct_1w": 24.0093,
+      "sr_range_pct_3m": 37.0987,
+      "entry": 1205.1,
+      "target": 1207.553,
+      "stoploss": 1165.763,
+      "entry1": 1205.1,
+      "target1": 1207.553,
+      "stoploss1": 1189.274,
+      "entry2": 1205.1,
+      "target2": 1207.767,
+      "stoploss2": 1169.135,
+      "entry3": 1205.1,
+      "target3": 1207.98,
+      "stoploss3": 1157.119,
+      "respected_S": 4,
+      "respected_R": 6,
+      "respected_S1": 7,
+      "respected_R1": 9,
+      "respected_S2": 5,
+      "respected_R2": 11,
+      "respected_S3": 4,
+      "respected_R3": 10,
+      "bollinger": {
+        "mid_price": 1218.36,
+        "upper_band": 1212.18,
+        "lower_band": 1202.07
+      },
+      "macd": {
+        "signal_line": 0.6462662949848765,
+        "histogram": 0.11195076434197637,
+        "ma_fast": 1218.7,
+        "ma_slow": 1217.775,
+        "ma_signal": 0.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 22.74
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0001140004562085433,
+          "price": 1204.962618050223,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0002549127695482908,
+          "price": 1204.7928046214174,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.001274563847741454,
+          "price": 1203.5640231070865,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:28:36"
+    },
+    {
+      "stock_code": "RTNINDIA",
+      "instrument_token": 6988033,
+      "ohlcv": {
+        "time": "2025-09-05 15:27:00+00:00",
+        "open": 61.9,
+        "high": 61.98,
+        "low": 61.9,
+        "close": 61.92,
+        "volume": 38132
+      },
+      "support": 47.11,
+      "resistance": 62.64,
+      "sr_range_pct": 0.5665,
+      "volume_threshold": 110909,
+      "support_1d": 47.1082,
+      "resistance_1d": 62.6398,
+      "support_1w": 47.1082,
+      "resistance_1w": 63.04,
+      "support_3m": 39.2909,
+      "resistance_3m": 69.7,
+      "sr_range_pct_1d": 32.9701,
+      "sr_range_pct_1w": 33.8196,
+      "sr_range_pct_3m": 77.3948,
+      "entry": 61.92,
+      "target": 62.56,
+      "stoploss": 47.03,
+      "entry1": 61.275,
+      "target1": 61.379,
+      "stoploss1": 59.802,
+      "entry2": 61.92,
+      "target2": 62.133,
+      "stoploss2": 59.226,
+      "entry3": 61.92,
+      "target3": 62.69,
+      "stoploss3": 58.354,
+      "respected_S": 7,
+      "respected_R": 9,
+      "respected_S1": 7,
+      "respected_R1": 9,
+      "respected_S2": 5,
+      "respected_R2": 11,
+      "respected_S3": 8,
+      "respected_R3": 8,
+      "bollinger": {
+        "mid_price": 54.88,
+        "upper_band": 62.12,
+        "lower_band": 61.84
+      },
+      "macd": {
+        "signal_line": 0.0025,
+        "histogram": 0.0018,
+        "ma_fast": 53.84,
+        "ma_slow": 53.48,
+        "ma_signal": 53.48
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -5.7167773401418886e-05,
+          "price": 61.91646017147099,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.000127831027447877,
+          "price": 61.91208470278043,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0006391551372393851,
+          "price": 61.880423513902144,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:28:54"
+    },
+    {
+      "stock_code": "PARADEEP",
+      "instrument_token": 2493697,
+      "ohlcv": {
+        "time": "2025-09-05 15:28:00+00:00",
+        "open": 200.99,
+        "high": 200.99,
+        "low": 200.5,
+        "close": 200.5,
+        "volume": 38855
+      },
+      "support": 199.54,
+      "resistance": 236.26,
+      "sr_range_pct": 0.594,
+      "volume_threshold": 47359,
+      "support_1d": 199.5379,
+      "resistance_1d": 236.2601,
+      "support_1w": 199.4317,
+      "resistance_1w": 237.477,
+      "support_3m": 143.4288,
+      "resistance_3m": 245.194,
+      "sr_range_pct_1d": 18.4036,
+      "sr_range_pct_1w": 19.0769,
+      "sr_range_pct_3m": 70.9517,
+      "entry": 200.5,
+      "target": 200.512,
+      "stoploss": 199.267,
+      "entry1": 209.044,
+      "target1": 209.055,
+      "stoploss1": 208.508,
+      "entry2": 206.927,
+      "target2": 206.939,
+      "stoploss2": 206.334,
+      "entry3": 203.379,
+      "target3": 203.392,
+      "stoploss3": 202.736,
+      "respected_S": 3,
+      "respected_R": 0,
+      "respected_S1": 3,
+      "respected_R1": 3,
+      "respected_S2": 3,
+      "respected_R2": 5,
+      "respected_S3": 2,
+      "respected_R3": 6,
+      "bollinger": {
+        "mid_price": 217.9,
+        "upper_band": 201.53,
+        "lower_band": 200.53
+      },
+      "macd": {
+        "signal_line": 12.921,
+        "histogram": -2.7109,
+        "ma_fast": 220.33,
+        "ma_slow": 208.4,
+        "ma_signal": 208.4
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0005546910198445563,
+          "price": 200.38878445052117,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0012403268268811128,
+          "price": 200.25131447121032,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.006201634134405563,
+          "price": 199.2565723560517,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:29:14"
+    },
+    {
+      "stock_code": "COCHINSHIP",
+      "instrument_token": 5506049,
+      "ohlcv": {
+        "time": "2025-09-05 15:28:00+00:00",
+        "open": 1652.4,
+        "high": 1653.2,
+        "low": 1652.0,
+        "close": 1652.5,
+        "volume": 6265
+      },
+      "support": 1609.19,
+      "resistance": 1769.4,
+      "sr_range_pct": 0.3457,
+      "volume_threshold": 6432,
+      "support_1d": 1609.1898,
+      "resistance_1d": 1769.4,
+      "support_1w": 1594.0,
+      "resistance_1w": 1783.6583,
+      "support_3m": 1594.0,
+      "resistance_3m": 2408.7816,
+      "sr_range_pct_1d": 9.956,
+      "sr_range_pct_1w": 11.8983,
+      "sr_range_pct_3m": 51.1155,
+      "entry": 1652.5,
+      "target": 1652.512,
+      "stoploss": 1607.581,
+      "entry1": 1717.725,
+      "target1": 1717.737,
+      "stoploss1": 1713.951,
+      "entry2": 1695.673,
+      "target2": 1695.686,
+      "stoploss2": 1691.44,
+      "entry3": 1669.266,
+      "target3": 1669.279,
+      "stoploss3": 1664.6,
+      "respected_S": 3,
+      "respected_R": 6,
+      "respected_S1": 5,
+      "respected_R1": 6,
+      "respected_S2": 6,
+      "respected_R2": 3,
+      "respected_S3": 6,
+      "respected_R3": 3,
+      "bollinger": {
+        "mid_price": 1689.3,
+        "upper_band": 1653.8,
+        "lower_band": 1649.89
+      },
+      "macd": {
+        "signal_line": 0.7117137550318986,
+        "histogram": 0.6620015133324231,
+        "ma_fast": 1707.975,
+        "ma_slow": 1707.975,
+        "ma_signal": 1707.975
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -9.572016670476448e-05,
+          "price": 1652.3418224245204,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00021403679956946543,
+          "price": 1652.1463041887116,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0010701839978473273,
+          "price": 1650.7315209435574,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:29:32"
+    },
+    {
+      "stock_code": "TRENT",
+      "instrument_token": 502785,
+      "ohlcv": {
+        "time": "2025-09-05 15:28:00+00:00",
+        "open": 5525.5,
+        "high": 5528.0,
+        "low": 5522.0,
+        "close": 5524.5,
+        "volume": 1519
+      },
+      "support": 5239.12,
+      "resistance": 5541.23,
+      "sr_range_pct": 0.3576,
+      "volume_threshold": 2467,
+      "support_1d": 5239.1163,
+      "resistance_1d": 5541.2337,
+      "support_1w": 5067.9855,
+      "resistance_1w": 5597.5145,
+      "support_3m": 4802.0415,
+      "resistance_3m": 6475.9027,
+      "sr_range_pct_1d": 5.7666,
+      "sr_range_pct_1w": 10.4485,
+      "sr_range_pct_3m": 34.8573,
+      "entry": 5524.5,
+      "target": 5534.581,
+      "stoploss": 5233.881,
+      "entry1": 5524.5,
+      "target1": 5529.357,
+      "stoploss1": 5380.614,
+      "entry2": 5524.5,
+      "target2": 5584.611,
+      "stoploss2": 5287.707,
+      "entry3": 5524.5,
+      "target3": 5634.525,
+      "stoploss3": 5230.764,
+      "respected_S": 12,
+      "respected_R": 12,
+      "respected_S1": 20,
+      "respected_R1": 13,
+      "respected_S2": 18,
+      "respected_R2": 12,
+      "respected_S3": 12,
+      "respected_R3": 11,
+      "bollinger": {
+        "mid_price": 5390.17,
+        "upper_band": 5536.49,
+        "lower_band": 5520.26
+      },
+      "macd": {
+        "signal_line": 4.15,
+        "histogram": -0.47,
+        "ma_fast": 5503.3,
+        "ma_slow": 5501.5,
+        "ma_signal": 0.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": 4.082830061889563e-06,
+          "price": 5524.522555594676,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": 9.129485558964738e-06,
+          "price": 5524.55043584297,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": 4.5647427794823686e-05,
+          "price": 5524.752179214852,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:29:51"
+    },
+    {
+      "stock_code": "POWERINDIA",
+      "instrument_token": 4724993,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 18868.0,
+        "high": 18890.0,
+        "low": 18868.0,
+        "close": 18871.0,
+        "volume": 387
+      },
+      "support": 18606.68,
+      "resistance": 21408.42,
+      "sr_range_pct": 0.815,
+      "volume_threshold": 556,
+      "support_1d": 18606.6842,
+      "resistance_1d": 21408.4158,
+      "support_1w": 18606.6842,
+      "resistance_1w": 21548.4406,
+      "support_3m": 14950.541,
+      "resistance_3m": 21800.0,
+      "sr_range_pct_1d": 15.0577,
+      "sr_range_pct_1w": 15.8102,
+      "sr_range_pct_3m": 45.8141,
+      "entry": 18871.0,
+      "target": 18871.012,
+      "stoploss": 18585.955,
+      "entry1": 19023.801,
+      "target1": 19023.813,
+      "stoploss1": 18979.835,
+      "entry2": 18871.0,
+      "target2": 18871.013,
+      "stoploss2": 18782.056,
+      "entry3": 18871.0,
+      "target3": 18871.014,
+      "stoploss3": 18645.209,
+      "respected_S": 5,
+      "respected_R": 5,
+      "respected_S1": 11,
+      "respected_R1": 11,
+      "respected_S2": 7,
+      "respected_R2": 11,
+      "respected_S3": 6,
+      "respected_R3": 12,
+      "bollinger": {
+        "mid_price": 20007.55,
+        "upper_band": 18916.92,
+        "lower_band": 18786.78
+      },
+      "macd": {
+        "signal_line": 10.4,
+        "histogram": -5.6,
+        "ma_fast": 19770.0,
+        "ma_slow": 19804.0,
+        "ma_signal": 19800.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0003394906225984414,
+          "price": 18864.593472460947,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0007591241098538413,
+          "price": 18856.67456892295,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0037956205492692065,
+          "price": 18799.37284461474,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:30:09"
+    },
+    {
+      "stock_code": "KAJARIACER",
+      "instrument_token": 462849,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 1224.4,
+        "high": 1228.9,
+        "low": 1222.0,
+        "close": 1223.0,
+        "volume": 749
+      },
+      "support": 1181.82,
+      "resistance": 1324.69,
+      "sr_range_pct": 0.9529,
+      "volume_threshold": 3325,
+      "support_1d": 1181.8168,
+      "resistance_1d": 1324.6932,
+      "support_1w": 1154.6276,
+      "resistance_1w": 1335.9724,
+      "support_3m": 911.0668,
+      "resistance_3m": 1340.7924,
+      "sr_range_pct_1d": 12.0896,
+      "sr_range_pct_1w": 15.7059,
+      "sr_range_pct_3m": 47.1673,
+      "entry": 1223.0,
+      "target": 1223.012,
+      "stoploss": 1179.392,
+      "entry1": 1223.0,
+      "target1": 1223.012,
+      "stoploss1": 1208.645,
+      "entry2": 1223.0,
+      "target2": 1223.013,
+      "stoploss2": 1186.623,
+      "entry3": 1223.0,
+      "target3": 1223.014,
+      "stoploss3": 1171.721,
+      "respected_S": 6,
+      "respected_R": 1,
+      "respected_S1": 6,
+      "respected_R1": 4,
+      "respected_S2": 4,
+      "respected_R2": 3,
+      "respected_S3": 7,
+      "respected_R3": 4,
+      "bollinger": {
+        "mid_price": 1253.26,
+        "upper_band": 1225.9,
+        "lower_band": 1217.37
+      },
+      "macd": {
+        "signal_line": 0.9747802938382268,
+        "histogram": 0.05082142997431549,
+        "ma_fast": 1292.1888888888889,
+        "ma_slow": 1290.7050000000002,
+        "ma_signal": 0.9747802938382268
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0001741925751439836,
+          "price": 1222.786962480599,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00038950643919768757,
+          "price": 1222.5236336248613,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0019475321959884376,
+          "price": 1220.618168124306,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:30:27"
+    },
+    {
+      "stock_code": "FORCEMOT",
+      "instrument_token": 2962689,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 17700.0,
+        "high": 17700.0,
+        "low": 17682.0,
+        "close": 17682.0,
+        "volume": 588
+      },
+      "support": 17424.67,
+      "resistance": 21572.73,
+      "sr_range_pct": 0.7871,
+      "volume_threshold": 1015,
+      "support_1d": 17424.6694,
+      "resistance_1d": 21572.7306,
+      "support_1w": 16174.6111,
+      "resistance_1w": 21898.1734,
+      "support_3m": 9747.4024,
+      "resistance_3m": 21990.0,
+      "sr_range_pct_1d": 23.8057,
+      "sr_range_pct_1w": 35.3861,
+      "sr_range_pct_3m": 125.5986,
+      "entry": 17682.0,
+      "target": 17682.012,
+      "stoploss": 17390.098,
+      "entry1": 19479.276,
+      "target1": 19479.288,
+      "stoploss1": 19411.743,
+      "entry2": 19144.34,
+      "target2": 19144.353,
+      "stoploss2": 19077.74,
+      "entry3": 18810.131,
+      "target3": 18810.144,
+      "stoploss3": 18739.08,
+      "respected_S": 4,
+      "respected_R": 1,
+      "respected_S1": 4,
+      "respected_R1": 6,
+      "respected_S2": 3,
+      "respected_R2": 4,
+      "respected_S3": 3,
+      "respected_R3": 2,
+      "bollinger": {
+        "mid_price": 19498.7,
+        "upper_band": 17763.4,
+        "lower_band": 17674.2
+      },
+      "macd": {
+        "signal_line": 6.389882551421106,
+        "histogram": 1.8017334511223595,
+        "ma_fast": 9.0,
+        "ma_slow": 20.0,
+        "ma_signal": 6.389882551421106
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0006605494786294725,
+          "price": 17670.320164118875,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0014770335367175452,
+          "price": 17655.88309300376,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.007385167683587725,
+          "price": 17551.4154650188,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:30:46"
+    },
+    {
+      "stock_code": "POLYCAB",
+      "instrument_token": 2455041,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 7228.0,
+        "high": 7240.0,
+        "low": 7224.0,
+        "close": 7224.0,
+        "volume": 614
+      },
+      "support": 6728.17,
+      "resistance": 7302.58,
+      "sr_range_pct": 0.3232,
+      "volume_threshold": 1413,
+      "support_1d": 6728.1728,
+      "resistance_1d": 7302.5772,
+      "support_1w": 6672.7777,
+      "resistance_1w": 7302.5772,
+      "support_3m": 5723.2656,
+      "resistance_3m": 7302.5772,
+      "sr_range_pct_1d": 8.5373,
+      "sr_range_pct_1w": 9.4383,
+      "sr_range_pct_3m": 27.5946,
+      "entry": 7224.0,
+      "target": 7237.225,
+      "stoploss": 6721.236,
+      "entry1": 7224.0,
+      "target1": 7237.225,
+      "stoploss1": 7172.6,
+      "entry2": 7224.0,
+      "target2": 7238.375,
+      "stoploss2": 7117.657,
+      "entry3": 7224.0,
+      "target3": 7239.525,
+      "stoploss3": 7085.19,
+      "respected_S": 12,
+      "respected_R": 3,
+      "respected_S1": 4,
+      "respected_R1": 3,
+      "respected_S2": 7,
+      "respected_R2": 3,
+      "respected_S3": 7,
+      "respected_R3": 4,
+      "bollinger": {
+        "mid_price": 7015.38,
+        "upper_band": 7240.34,
+        "lower_band": 7219.36
+      },
+      "macd": {
+        "signal_line": 5.456097510641024,
+        "histogram": 1.7666069355323142,
+        "ma_fast": 7113.166666666667,
+        "ma_slow": 7102.775,
+        "ma_signal": 0.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0010673303211718498,
+          "price": 7216.289605759855,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0023866231525869392,
+          "price": 7206.759034345711,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.011933115762934696,
+          "price": 7137.7951717285605,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:31:03"
+    },
+    {
+      "stock_code": "ANANDRATHI",
+      "instrument_token": 1829121,
+      "ohlcv": {
+        "time": "2025-09-05 15:23:00+00:00",
+        "open": 2935.6,
+        "high": 2936.8,
+        "low": 2933.0,
+        "close": 2936.8,
+        "volume": 258
+      },
+      "support": 2571.32,
+      "resistance": 2964.7,
+      "sr_range_pct": 0.6688,
+      "volume_threshold": 840,
+      "support_1d": 2571.3247,
+      "resistance_1d": 2964.6953,
+      "support_1w": 2555.574,
+      "resistance_1w": 2965.0,
+      "support_3m": 1760.7232,
+      "resistance_3m": 2965.0,
+      "sr_range_pct_1d": 15.2984,
+      "sr_range_pct_1w": 16.0209,
+      "sr_range_pct_3m": 68.3967,
+      "entry": 2936.8,
+      "target": 2961.142,
+      "stoploss": 2568.431,
+      "entry1": 2936.8,
+      "target1": 2944.063,
+      "stoploss1": 2887.352,
+      "entry2": 2936.8,
+      "target2": 2963.848,
+      "stoploss2": 2851.093,
+      "entry3": 2936.8,
+      "target3": 2971.225,
+      "stoploss3": 2830.416,
+      "respected_S": 6,
+      "respected_R": 1,
+      "respected_S1": 2,
+      "respected_R1": 2,
+      "respected_S2": 1,
+      "respected_R2": 1,
+      "respected_S3": 1,
+      "respected_R3": 0,
+      "bollinger": {
+        "mid_price": 2768.01,
+        "upper_band": 2951.61,
+        "lower_band": 2935.79
+      },
+      "macd": {
+        "signal_line": 0.06,
+        "histogram": 0.06,
+        "ma_fast": 2822.0,
+        "ma_slow": 2822.0,
+        "ma_signal": 2822.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0001364402962803879,
+          "price": 2936.399302137884,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0003050897773531591,
+          "price": 2935.9040123418695,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0015254488867657953,
+          "price": 2932.3200617093466,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:24:15"
+    },
+    {
+      "stock_code": "CHOLAHLDNG",
+      "instrument_token": 5565441,
+      "ohlcv": {
+        "time": "2025-09-05 15:23:00+00:00",
+        "open": 1755.3,
+        "high": 1756.3,
+        "low": 1754.5,
+        "close": 1755.5,
+        "volume": 356
+      },
+      "support": 1716.44,
+      "resistance": 1935.71,
+      "sr_range_pct": 0.5678,
+      "volume_threshold": 2260,
+      "support_1d": 1716.4368,
+      "resistance_1d": 1935.7132,
+      "support_1w": 1716.4368,
+      "resistance_1w": 1935.7132,
+      "support_3m": 1704.7506,
+      "resistance_3m": 2231.6,
+      "sr_range_pct_1d": 12.7751,
+      "sr_range_pct_1w": 12.7751,
+      "sr_range_pct_3m": 30.9048,
+      "entry": 1755.5,
+      "target": 1755.512,
+      "stoploss": 1714.724,
+      "entry1": 1755.5,
+      "target1": 1755.512,
+      "stoploss1": 1730.734,
+      "entry2": 1755.5,
+      "target2": 1755.513,
+      "stoploss2": 1715.017,
+      "entry3": 1755.5,
+      "target3": 1755.514,
+      "stoploss3": 1690.075,
+      "respected_S": 7,
+      "respected_R": 5,
+      "respected_S1": 6,
+      "respected_R1": 6,
+      "respected_S2": 7,
+      "respected_R2": 10,
+      "respected_S3": 6,
+      "respected_R3": 9,
+      "bollinger": {
+        "mid_price": 1826.08,
+        "upper_band": 1764.06,
+        "lower_band": 1756.46
+      },
+      "macd": {
+        "signal_line": -4.95,
+        "histogram": -0.37,
+        "ma_fast": 1849.43,
+        "ma_slow": 1856.44,
+        "ma_signal": 1856.44
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.000506209935792708,
+          "price": 1754.6113484577158,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.0011319198273182988,
+          "price": 1753.5129147431428,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.005659599136591495,
+          "price": 1745.5645737157135,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:24:33"
+    },
+    {
+      "stock_code": "NATCOPHARM",
+      "instrument_token": 1003009,
+      "ohlcv": {
+        "time": "2025-09-05 15:23:00+00:00",
+        "open": 853.6,
+        "high": 853.7,
+        "low": 852.85,
+        "close": 853.1,
+        "volume": 966
+      },
+      "support": 840.7,
+      "resistance": 934.35,
+      "sr_range_pct": 0.4172,
+      "volume_threshold": 1921,
+      "support_1d": 840.7043,
+      "resistance_1d": 934.3507,
+      "support_1w": 840.1719,
+      "resistance_1w": 966.3461,
+      "support_3m": 820.8571,
+      "resistance_3m": 1075.3062,
+      "sr_range_pct_1d": 11.139,
+      "sr_range_pct_1w": 15.0177,
+      "sr_range_pct_3m": 30.998,
+      "entry": 853.1,
+      "target": 853.111,
+      "stoploss": 839.859,
+      "entry1": 860.431,
+      "target1": 860.443,
+      "stoploss1": 858.541,
+      "entry2": 853.1,
+      "target2": 853.113,
+      "stoploss2": 845.953,
+      "entry3": 853.1,
+      "target3": 853.114,
+      "stoploss3": 836.213,
+      "respected_S": 3,
+      "respected_R": 9,
+      "respected_S1": 14,
+      "respected_R1": 16,
+      "respected_S2": 6,
+      "respected_R2": 14,
+      "respected_S3": 4,
+      "respected_R3": 8,
+      "bollinger": {
+        "mid_price": 887.53,
+        "upper_band": 854.53,
+        "lower_band": 851.43
+      },
+      "macd": {
+        "signal_line": -0.049999999999954525,
+        "histogram": 0.14999999999997726,
+        "ma_fast": 894.1167,
+        "ma_slow": 892.6475,
+        "ma_signal": 894.1167
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -4.6788647986402e-05,
+          "price": 853.0600846044028,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00010462259747290354,
+          "price": 853.0107464620959,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0005231129873645177,
+          "price": 852.6537323104793,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:24:51"
+    },
+    {
+      "stock_code": "GMDCLTD",
+      "instrument_token": 1332225,
+      "ohlcv": {
+        "time": "2025-09-05 15:24:00+00:00",
+        "open": 512.6,
+        "high": 514.9,
+        "low": 511.3,
+        "close": 511.3,
+        "volume": 163352
+      },
+      "support": 392.4,
+      "resistance": 470.07,
+      "sr_range_pct": 2.3424,
+      "volume_threshold": 244838,
+      "support_1d": 392.4035,
+      "resistance_1d": 470.0666666666666,
+      "support_1w": 387.487,
+      "resistance_1w": 470.0666666666666,
+      "support_3m": 317.8041,
+      "resistance_3m": 472.4,
+      "sr_range_pct_1d": 19.7917,
+      "sr_range_pct_1w": 21.3116,
+      "sr_range_pct_3m": 48.645,
+      "entry": 468.627,
+      "target": 470.545,
+      "stoploss": 390.794,
+      "entry1": 468.623,
+      "target1": 470.542,
+      "stoploss1": 442.398,
+      "entry2": 478.958,
+      "target2": 480.919,
+      "stoploss2": 426.978,
+      "entry3": 494.394,
+      "target3": 496.418,
+      "stoploss3": 416.654,
+      "respected_S": 8,
+      "respected_R": 1,
+      "respected_S1": 2,
+      "respected_R1": 1,
+      "respected_S2": 4,
+      "respected_R2": 0,
+      "respected_S3": 6,
+      "respected_R3": 0,
+      "bollinger": {
+        "mid_price": 431.24,
+        "upper_band": 515.11,
+        "lower_band": 503.32
+      },
+      "macd": {
+        "signal_line": 0.0323,
+        "histogram": -0.2,
+        "ma_fast": 429.21,
+        "ma_slow": 0.0,
+        "ma_signal": 0.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0003233488147805747,
+          "price": 511.46532824899725,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": 0.0007230299302933538,
+          "price": 511.669685203359,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": 0.003615149651466769,
+          "price": 513.1484260167949,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:25:09"
+    },
+    {
+      "stock_code": "ETERNAL",
+      "instrument_token": 1304833,
+      "ohlcv": {
+        "time": "2025-09-05 15:24:00+00:00",
+        "open": 328.8,
+        "high": 328.95,
+        "low": 328.7,
+        "close": 328.9,
+        "volume": 108188
+      },
+      "support": 297.7,
+      "resistance": 331.27,
+      "sr_range_pct": 0.4903,
+      "volume_threshold": 247978,
+      "support_1d": 297.6991,
+      "resistance_1d": 331.2709,
+      "support_1w": 295.1238,
+      "resistance_1w": 331.2709,
+      "support_3m": 216.5412,
+      "resistance_3m": 331.4745,
+      "sr_range_pct_1d": 11.2771,
+      "sr_range_pct_1w": 12.2481,
+      "sr_range_pct_3m": 53.0769,
+      "entry": 328.9,
+      "target": 330.872,
+      "stoploss": 297.402,
+      "entry1": 328.838,
+      "target1": 329.167,
+      "stoploss1": 322.161,
+      "entry2": 328.9,
+      "target2": 331.868,
+      "stoploss2": 318.548,
+      "entry3": 328.9,
+      "target3": 333.332,
+      "stoploss3": 315.418,
+      "respected_S": 3,
+      "respected_R": 1,
+      "respected_S1": 2,
+      "respected_R1": 2,
+      "respected_S2": 3,
+      "respected_R2": 1,
+      "respected_S3": 4,
+      "respected_R3": 0,
+      "bollinger": {
+        "mid_price": 314.49,
+        "upper_band": 330.01,
+        "lower_band": 328.43
+      },
+      "macd": {
+        "signal_line": 0.007,
+        "histogram": 0.0118,
+        "ma_fast": 316.45,
+        "ma_slow": 316.45,
+        "ma_signal": 316.45
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 316.45,
+        "ma_slow": 316.45
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -9.830066950476459e-05,
+          "price": 328.8676689097999,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00021980697924639422,
+          "price": 328.82770548452584,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.001099034896231971,
+          "price": 328.5385274226293,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:25:27"
+    },
+    {
+      "stock_code": "RPOWER-BE",
+      "instrument_token": 3906817,
+      "ohlcv": {
+        "time": "2025-09-05 15:24:00+00:00",
+        "open": 46.9,
+        "high": 46.98,
+        "low": 46.61,
+        "close": 46.96,
+        "volume": 22539
+      },
+      "support": 41.28,
+      "resistance": 49.51,
+      "sr_range_pct": 1.6327,
+      "volume_threshold": 55702,
+      "support_1d": 41.2815,
+      "resistance_1d": 49.5115,
+      "support_1w": 40.2483,
+      "resistance_1w": 52.7257,
+      "support_3m": 36.5562,
+      "resistance_3m": 76.49,
+      "sr_range_pct_1d": 19.9363,
+      "sr_range_pct_1w": 31.0011,
+      "sr_range_pct_3m": 109.2395,
+      "entry": 46.96,
+      "target": 46.971,
+      "stoploss": 41.149,
+      "entry1": 46.96,
+      "target1": 46.971,
+      "stoploss1": 46.685,
+      "entry2": 46.96,
+      "target2": 46.973,
+      "stoploss2": 45.771,
+      "entry3": 46.96,
+      "target3": 46.974,
+      "stoploss3": 45.02,
+      "respected_S": 9,
+      "respected_R": 1,
+      "respected_S1": 6,
+      "respected_R1": 2,
+      "respected_S2": 7,
+      "respected_R2": 1,
+      "respected_S3": 9,
+      "respected_R3": 2,
+      "bollinger": {
+        "mid_price": 45.39,
+        "upper_band": 47.31,
+        "lower_band": 46.7
+      },
+      "macd": {
+        "signal_line": 0.00266,
+        "histogram": -0.00101,
+        "ma_fast": 45.44,
+        "ma_slow": 45.44,
+        "ma_signal": 44.22
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "predicted_targets": {
+        "1d": {
+          "ret": -7.981361552402639e-05,
+          "price": 46.95625195261499,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.00017846866984175554,
+          "price": 46.951619111264236,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.0008923433492087776,
+          "price": 46.918095556321155,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:25:45"
+    }
+  ]
+}

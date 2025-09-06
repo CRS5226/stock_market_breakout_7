@@ -1,0 +1,174 @@
+{
+  "stocks": [
+    {
+      "stock_code": "RTNINDIA",
+      "instrument_token": 6988033,
+      "ohlcv": {
+        "time": "2025-09-02 15:10:00+00:00",
+        "open": 61.6,
+        "high": 61.6,
+        "low": 61.5,
+        "close": 61.5,
+        "volume": 73939
+      },
+      "support": 47.55,
+      "resistance": 62.49,
+      "sr_range_pct": 0.8994,
+      "volume_threshold": 48238,
+      "support_1d": 47.5534,
+      "resistance_1d": 62.49,
+      "support_1w": 47.5534,
+      "resistance_1w": 63.04,
+      "support_3m": 39.2909,
+      "resistance_3m": 69.7,
+      "sr_range_pct_1d": 31.4102,
+      "sr_range_pct_1w": 32.5668,
+      "sr_range_pct_3m": 77.3948,
+      "bollinger": {
+        "mid_price": 55.02,
+        "upper_band": 61.54,
+        "lower_band": 61.15
+      },
+      "macd": {},
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {},
+      "inside_bar": {},
+      "candle": {},
+      "reason": [],
+      "signal": "No Action",
+      "forecast": "basic_algo",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.00029215975426743535,
+          "price": 61.51796782488744,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": 0.0006532890708316198,
+          "price": 61.54017727785615,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": 0.003266445354158099,
+          "price": 61.70088638928073,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-02 15:11:29"
+    },
+    {
+      "stock_code": "JIOFIN",
+      "instrument_token": 4644609,
+      "ohlcv": {
+        "time": "2025-09-02 15:10:00+00:00",
+        "open": 311.85,
+        "high": 312.0,
+        "low": 311.85,
+        "close": 312.0,
+        "volume": 65341
+      },
+      "support": 307.2,
+      "resistance": 338.08,
+      "sr_range_pct": 0.199,
+      "volume_threshold": 38938,
+      "support_1d": 307.2,
+      "resistance_1d": 338.0821,
+      "support_1w": 307.2,
+      "resistance_1w": 338.1417,
+      "support_3m": 262.5162,
+      "resistance_3m": 346.8697,
+      "sr_range_pct_1d": 10.0528,
+      "sr_range_pct_1w": 10.0722,
+      "sr_range_pct_3m": 32.1327,
+      "bollinger": {
+        "mid_price": 322.64,
+        "upper_band": 312.1,
+        "lower_band": 311.48
+      },
+      "macd": {
+        "signal_line": 4.16,
+        "histogram": 0.003,
+        "ma_fast": 330.66,
+        "ma_slow": 330.65,
+        "ma_signal": 330.66
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Price near resistance 312.1 with volume spike.",
+        "MACD histogram rising.",
+        "BB squeeze \u2192 potential expansion.",
+        "VWAP alignment OK."
+      ],
+      "signal": "Potential Breakout",
+      "forecast": "basic_algo",
+      "targets": {
+        "1d": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "1w": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        },
+        "3m": {
+          "time": null,
+          "price": 0,
+          "ret": 0
+        }
+      },
+      "predicted_targets": {
+        "1d": {
+          "ret": -0.0004470477378238806,
+          "price": 311.86052110579897,
+          "method": "heuristic_v1"
+        },
+        "1w": {
+          "ret": -0.000999629130961701,
+          "price": 311.6881157111399,
+          "method": "heuristic_v1"
+        },
+        "3m": {
+          "ret": -0.004998145654808505,
+          "price": 310.44057855569974,
+          "method": "heuristic_v1"
+        }
+      },
+      "last_updated": "2025-09-02 15:11:16"
+    }
+  ]
+}

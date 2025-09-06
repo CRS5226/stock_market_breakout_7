@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:23:53,"{
+  ""stock_code"": ""INDIAMART"",
+  ""instrument_token"": 2745857,
+  ""support"": 2000.0,
+  ""resistance"": 2600.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2590.27,
+    ""upper_band"": 2594.83,
+    ""lower_band"": 2585.71
+  },
+  ""macd"": {
+    ""signal_line"": -2.11,
+    ""histogram"": 0.78,
+    ""ma_fast"": 2591.7,
+    ""ma_slow"": 2590.27,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 2600 based on recent breakout above previous resistance of 2000."",
+    ""Support updated to 2000 reflecting previous resistance level now acting as support."",
+    ""Bollinger Bands updated to recent values indicating current price range."",
+    ""MACD parameters updated to recent values showing slight bullish histogram despite negative signal line."",
+    ""No change in volume threshold as recent volume is low and does not justify adjustment.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Buy""
+}"

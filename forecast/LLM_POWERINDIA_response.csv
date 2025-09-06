@@ -1,0 +1,2726 @@
+timestamp,raw_response
+2025-08-19 13:25:42,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 20020.0,
+  ""resistance"": 21800.0,
+  ""volume_threshold"": 215564,
+  ""bollinger"": {
+    ""mid_price"": 19855.0,
+    ""upper_band"": 19904.6,
+    ""lower_band"": 19805.4
+  },
+  ""macd"": {
+    ""signal_line"": 6.5388,
+    ""histogram"": -1.0670,
+    ""ma_fast"": 19858.33,
+    ""ma_slow"": 19855.0,
+    ""ma_signal"": 19859.67
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 20020.0 with no clear breakout signals."",
+    ""MACD remains negative but shows slight decrease in bearish momentum, indicating potential for reversal."",
+    ""ADX remains below 20, indicating weak trend strength, but recent volatility suggests monitoring for breakout."",
+    ""Volume remains stable with no significant spike, supporting a cautious hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:29:53,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 20020.0,
+  ""resistance"": 21800.0,
+  ""volume_threshold"": 215564,
+  ""bollinger"": {
+    ""mid_price"": 19855.0,
+    ""upper_band"": 19904.6,
+    ""lower_band"": 19805.4
+  },
+  ""macd"": {
+    ""signal_line"": 6.5388,
+    ""histogram"": -1.067,
+    ""ma_fast"": 19858.33,
+    ""ma_slow"": 19855.0,
+    ""ma_signal"": 19859.67
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 20020.0 with no clear breakout signals."",
+    ""MACD remains negative but shows slight decrease in bearish momentum, indicating potential for reversal."",
+    ""ADX remains below 20, indicating weak trend strength, but recent volatility suggests monitoring for breakout."",
+    ""Volume remains stable with no significant spike, supporting a cautious hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:35:45,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 20020.0,
+  ""resistance"": 21800.0,
+  ""volume_threshold"": 215564,
+  ""bollinger"": {
+    ""mid_price"": 19855.0,
+    ""upper_band"": 19904.6,
+    ""lower_band"": 19805.4
+  },
+  ""macd"": {
+    ""signal_line"": 6.5388,
+    ""histogram"": -1.067,
+    ""ma_fast"": 19858.33,
+    ""ma_slow"": 19855.0,
+    ""ma_signal"": 19859.67
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate a consolidation near support at 20020.0 with no clear breakout signals."",
+    ""MACD remains negative but shows signs of decreasing bearish momentum, suggesting potential reversal."",
+    ""ADX remains below 20, indicating weak trend strength, but recent volatility hints at possible breakout."",
+    ""Volume remains stable with no significant spikes, supporting a cautious hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:40:01,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 19845.0,
+  ""resistance"": 21800.0,
+  ""volume_threshold"": 215564,
+  ""bollinger"": {
+    ""mid_price"": 19855.0,
+    ""upper_band"": 19904.6,
+    ""lower_band"": 19805.4
+  },
+  ""macd"": {
+    ""signal_line"": 6.5388,
+    ""histogram"": -1.067,
+    ""ma_fast"": 19858.33,
+    ""ma_slow"": 19855.0,
+    ""ma_signal"": 19859.67
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 19845.0 with no clear breakout signals."",
+    ""MACD remains negative but shows signs of decreasing bearish momentum, indicating potential reversal."",
+    ""ADX remains below 20, suggesting weak trend strength, but recent volatility hints at possible breakout."",
+    ""Volume remains stable with no significant spikes, supporting a cautious hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:54:57,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 19845.0,
+  ""resistance"": 21800.0,
+  ""volume_threshold"": 215564,
+  ""bollinger"": {
+    ""mid_price"": 19855.0,
+    ""upper_band"": 19904.6,
+    ""lower_band"": 19805.4
+  },
+  ""macd"": {
+    ""signal_line"": 6.5388,
+    ""histogram"": -1.067,
+    ""ma_fast"": 19858.33,
+    ""ma_slow"": 19855.0,
+    ""ma_signal"": 19859.67
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 19845.0 with no clear breakout signals."",
+    ""MACD remains negative but shows signs of decreasing bearish momentum, indicating potential reversal."",
+    ""ADX remains below 20, suggesting weak trend strength, but recent volatility hints at possible breakout."",
+    ""Volume remains stable with no significant spikes, supporting a cautious hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:44,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 19660.0,
+  ""resistance"": 19800.0,
+  ""volume_threshold"": 1240,
+  ""bollinger"": {
+    ""mid_price"": 19770.0,
+    ""upper_band"": 19924.0,
+    ""lower_band"": 19684.0
+  },
+  ""macd"": {
+    ""signal_line"": 10.4,
+    ""histogram"": -5.6,
+    ""ma_fast"": 19770.0,
+    ""ma_slow"": 19804.0,
+    ""ma_signal"": 19800.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near support at 19660.0 with no clear breakout signals."",
+    ""MACD remains negative but with decreasing bearish momentum, indicating potential stabilization."",
+    ""ADX remains below 20, suggesting weak trend strength, but recent volatility indicates watchful waiting."",
+    ""Volume remains low relative to recent spikes, supporting a cautious stance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:21:13,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 19660.0,
+  ""resistance"": 19800.0,
+  ""volume_threshold"": 1240,
+  ""bollinger"": {
+    ""mid_price"": 19770.0,
+    ""upper_band"": 19924.0,
+    ""lower_band"": 19684.0
+  },
+  ""macd"": {
+    ""signal_line"": 10.4,
+    ""histogram"": -5.6,
+    ""ma_fast"": 19770.0,
+    ""ma_slow"": 19804.0,
+    ""ma_signal"": 19800.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate a slight downward move towards support at 19660.0 with increased volatility and no clear breakout."",
+    ""MACD remains negative but shows signs of decreasing bearish momentum, suggesting potential stabilization."",
+    ""ADX remains below 20, indicating weak trend strength, but recent volatility suggests cautious observation."",
+    ""Volume remains low, consistent with recent consolidation, supporting a hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:12:07,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""support"": 19386.13,
+  ""resistance"": 20537.87,
+  ""volume_threshold"": 449,
+  ""bollinger"": {
+    ""mid_price"": 19962.0,
+    ""upper_band"": 20537.87,
+    ""lower_band"": 19386.13
+  },
+  ""macd"": {
+    ""signal_line"": 10.4,
+    ""histogram"": -5.6,
+    ""ma_fast"": 19770.0,
+    ""ma_slow"": 19804.0,
+    ""ma_signal"": 19800.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward momentum with the close near the upper Bollinger band, indicating potential breakout."",
+    ""MACD histogram remains negative but shows signs of decreasing negativity, suggesting weakening bearish momentum."",
+    ""ADX remains below 20, indicating a non-trending phase, but recent price action near resistance suggests monitoring for breakout.""
+  ],
+  ""last_updated"": ""2025-08-21 11:34:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:46:41,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:43:00+00:00"",
+    ""open"": 19000.0,
+    ""high"": 19000.0,
+    ""low"": 18982.0,
+    ""close"": 18999.0,
+    ""volume"": 109
+  },
+  ""support"": 19491.95,
+  ""resistance"": 20598.55,
+  ""volume_threshold"": 229,
+  ""bollinger"": {
+    ""mid_price"": 20045.25,
+    ""upper_band"": 20598.55,
+    ""lower_band"": 19491.95
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows consolidation near support with no clear breakout signals."",
+    ""MACD histogram remains negative but shows signs of decreasing bearish momentum."",
+    ""Price is trading below the Bollinger mid-price, indicating potential for upward correction."",
+    ""ADX remains above threshold, suggesting trend strength but no clear directional bias.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 19000.0 * (1 + 0.005)
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 19000.0 * (1 + 0.015)
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 19000.0 * (1 + 0.045)
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 19000.0 * (1 + 0.005),
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 19000.0 * (1 + 0.015),
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-01"",
+      ""price"": 19000.0 * (1 + 0.045),
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-01 14:54:40,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 19491.95,
+  ""resistance"": 20598.55,
+  ""volume_threshold"": 229,
+  ""bollinger"": {
+    ""mid_price"": 20045.25,
+    ""upper_band"": 20598.55,
+    ""lower_band"": 19491.95
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show a slight downward trend with lower closes and MACD histogram negative, indicating weakening momentum."",
+    ""Recent 1-minute data shows price near support level with no clear breakout signals, and ADX remains below threshold, indicating weak trend strength."",
+    ""No significant change in Bollinger bands or volume to justify support/resistance adjustment.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18961.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18961.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18961.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18961,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 18961,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 18961,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-01 15:01:15,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 18961.0,
+    ""high"": 18973.0,
+    ""low"": 18961.0,
+    ""close"": 18973.0,
+    ""volume"": 43
+  },
+  ""support"": 19491.95,
+  ""resistance"": 20598.55,
+  ""volume_threshold"": 229,
+  ""bollinger"": {
+    ""mid_price"": 20045.25,
+    ""upper_band"": 20598.55,
+    ""lower_band"": 19491.95
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show a slight downward trend with lower closes and MACD histogram negative, indicating weakening momentum."",
+    ""Recent 1-minute data shows price near support level with no clear breakout signals, and ADX remains below threshold, indicating weak trend strength."",
+    ""No significant change in Bollinger bands or volume to justify support/resistance adjustment.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18973.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18973.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18973.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18973,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 18973,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 18973,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:05:14,"{
+  ""reason"": [
+    ""Price has declined from recent highs, indicating potential weakening momentum."",
+    ""MACD histogram remains negative, suggesting bearish trend persistence."",
+    ""Recent volume is below the support threshold, reducing buying pressure."",
+    ""Price is near the lower Bollinger band, indicating potential oversold condition."",
+    ""ADX remains below threshold, indicating weak trend strength.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 18906.0 * (1 - 0.005)
+    },
+    ""1w"": {
+      ""ret"": -0.012,
+      ""price"": 18906.0 * (1 - 0.012)
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 18906.0 * (1 + 0.02)
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:02:00+00:00"",
+    ""open"": 18880.0,
+    ""high"": 18906.0,
+    ""low"": 18880.0,
+    ""close"": 18906.0,
+    ""volume"": 147
+  },
+  ""support"": 19491.95,
+  ""resistance"": 20598.55,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 229,
+  ""bollinger"": {
+    ""mid_price"": 20045.25,
+    ""upper_band"": 20598.55,
+    ""lower_band"": 19491.95
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-02 11:14:10,"{
+  ""reason"": [
+    ""Recent price action shows a slight downward move with the current close below the Bollinger mid-price and upper band, indicating potential short-term weakness."",
+    ""MACD histogram remains negative with decreasing magnitude, suggesting diminishing bearish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of strong trend, favoring consolidation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to support, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18899.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 19100.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 19700.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18899,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19100,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19700,
+      ""ret"": 0.045
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 19491.95,
+  ""resistance"": 20598.55,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 229,
+  ""bollinger"": {
+    ""mid_price"": 20045.25,
+    ""upper_band"": 20598.55,
+    ""lower_band"": 19491.95
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows a slight downward move with the current close below the Bollinger mid-price and upper band, indicating potential short-term weakness."",
+    ""MACD histogram remains negative with decreasing magnitude, suggesting diminishing bearish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of strong trend, favoring consolidation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to support, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18899.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 19100.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 19700.0
+    }
+  }
+}"
+2025-09-02 11:22:42,"{
+  ""reason"": [
+    ""Recent price action shows a slight downward move with the current close below the Bollinger mid-price and upper band, indicating potential short-term weakness."",
+    ""MACD histogram remains negative with decreasing magnitude, suggesting diminishing bearish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of strong trend, favoring consolidation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to support, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18939.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 19100.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 19700.0
+    }
+  }
+}"
+2025-09-02 11:31:16,"{
+  ""reason"": [
+    ""Recent price action shows a slight downward move with the current close below the Bollinger mid-price and upper band, indicating potential short-term weakness."",
+    ""MACD histogram remains negative with decreasing magnitude, suggesting diminishing bearish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of strong trend, favoring consolidation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to support, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18888.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 19000.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 19700.0
+    }
+  }
+}"
+2025-09-02 11:40:26,"{
+  ""reason"": [
+    ""Recent price action shows a slight upward move with the current close above the Bollinger mid-price and approaching the upper band, indicating potential short-term strength."",
+    ""MACD histogram has turned positive with increasing magnitude, suggesting strengthening bullish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of a strong trend, but recent momentum hints at possible trend initiation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to resistance, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""Bullish Signal"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 18941.0
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 19000.0
+    },
+    ""3m"": {
+      ""ret"": 0.055,
+      ""price"": 19700.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:30:00+00:00"",
+    ""open"": 18890.0,
+    ""high"": 18951.0,
+    ""low"": 18890.0,
+    ""close"": 18927.0,
+    ""volume"": 268
+  },
+  ""support"": 19780.0,
+  ""resistance"": 20445.0,
+  ""support_realtime"": 18880.0,
+  ""resistance_realtime"": 19000.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.6349,
+  ""sr_range_pct_1d"": 3.5183,
+  ""sr_range_pct_1w"": 10.3169,
+  ""sr_range_pct_3m"": 26.8716,
+  ""sr_range_pct"": 3.5183
+}"
+2025-09-02 11:49:33,"{
+  ""reason"": [
+    ""Recent price action shows a slight upward move with the current close above the Bollinger mid-price and approaching the upper band, indicating potential short-term strength."",
+    ""MACD histogram has turned positive with increasing magnitude, suggesting strengthening bullish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of a strong trend, but recent momentum hints at possible trend initiation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to resistance, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""Bullish Signal"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 18941.0
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 19000.0
+    },
+    ""3m"": {
+      ""ret"": 0.055,
+      ""price"": 19700.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:39:00+00:00"",
+    ""open"": 18937.0,
+    ""high"": 18937.0,
+    ""low"": 18919.0,
+    ""close"": 18919.0,
+    ""volume"": 9
+  },
+  ""support"": 19780.0,
+  ""resistance"": 20445.0,
+  ""support_realtime"": 18880.0,
+  ""resistance_realtime"": 19000.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.6335,
+  ""sr_range_pct_1d"": 3.5109,
+  ""sr_range_pct_1w"": 10.2951,
+  ""sr_range_pct_3m"": 26.8148,
+  ""reason"": [
+    ""Recent price action shows a slight upward move with the current close above the Bollinger mid-price and approaching the upper band, indicating potential short-term strength."",
+    ""MACD histogram has turned positive with increasing magnitude, suggesting strengthening bullish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of a strong trend, but recent momentum hints at possible trend initiation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to resistance, but no breakout confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""Bullish Signal"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 18941.0
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 19000.0
+    },
+    ""3m"": {
+      ""ret"": 0.055,
+      ""price"": 19700.0
+    }
+  }
+}"
+2025-09-02 11:58:29,"{
+  ""reason"": [
+    ""Recent price action shows a slight downward move with the current close below the Bollinger mid-price and approaching the lower band, indicating potential short-term weakness."",
+    ""MACD histogram has turned negative with increasing magnitude, suggesting weakening bearish momentum."",
+    ""ADX remains below the threshold of 20, indicating a lack of a strong trend, but recent momentum hints at possible trend continuation."",
+    ""Support and resistance levels have not changed significantly; current price is closer to support, but no breakdown confirmed."",
+    ""Volume threshold remains low, indicating no unusual trading activity.""
+  ],
+  ""signal"": ""Bearish Signal"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 18884.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 18800.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": -0.055,
+      ""price"": 17950.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:48:00+00:00"",
+    ""open"": 18925.0,
+    ""high"": 18926.0,
+    ""low"": 18913.0,
+    ""close"": 18926.0,
+    ""volume"": 49
+  },
+  ""support"": 19780.0,
+  ""resistance"": 20445.0,
+  ""support_realtime"": 18880.0,
+  ""resistance_realtime"": 18989.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.5759,
+  ""sr_range_pct_1d"": 3.5137,
+  ""sr_range_pct_1w"": 10.3033,
+  ""sr_range_pct_3m"": 26.8361,
+  ""last_updated"": ""2025-09-02 11:49:33"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:07:02,"{
+  ""reason"": [
+    ""Recent price action shows a consistent sideways movement with the current close near the lower Bollinger band, indicating potential support but no clear breakout."",
+    ""MACD histogram remains negative but with decreasing magnitude, suggesting weakening bearish momentum but no definitive reversal."",
+    ""ADX remains below 20, indicating a lack of a strong trend, supporting the view of consolidation."",
+    ""Support and resistance levels have not significantly shifted; current price is near support levels, but no confirmed breakdown or breakout."",
+    ""Volume remains low, indicating no surge in trading activity that could signal a trend change.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:58:29+00:00"",
+    ""open"": 18895.0,
+    ""high"": 18914.0,
+    ""low"": 18867.0,
+    ""close"": 18914.0,
+    ""volume"": 27
+  },
+  ""support"": 18880.0,
+  ""resistance"": 18978.0,
+  ""support_realtime"": 18880.0,
+  ""resistance_realtime"": 18978.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.103,
+  ""sr_range_pct_1d"": 3.5194,
+  ""sr_range_pct_1w"": 10.3202,
+  ""sr_range_pct_3m"": 26.8801,
+  ""last_updated"": ""2025-09-02 11:58:29"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18915.0,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 18955.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19180.0,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 12:15:40,"{
+  ""reason"": [
+    ""Recent price action indicates a consolidation phase with the current close near the lower Bollinger band, suggesting support but no breakout confirmation."",
+    ""MACD histogram remains negative but shows decreasing magnitude, implying weakening bearish momentum without a reversal signal."",
+    ""ADX remains below 20, indicating a lack of a strong trend and supporting sideways movement."",
+    ""Support and resistance levels have not shifted significantly; current price is near support but no clear breach or breakout has occurred."",
+    ""Volume remains low, showing no surge in trading activity that could indicate a trend change.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:05:00+00:00"",
+    ""open"": 18913.0,
+    ""high"": 18914.0,
+    ""low"": 18913.0,
+    ""close"": 18914.0,
+    ""volume"": 27
+  },
+  ""support"": 19780.0,
+  ""resistance"": 20445.0,
+  ""support_realtime"": 18870.0,
+  ""resistance_realtime"": 18978.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.571,
+  ""sr_range_pct_1d"": 3.5161,
+  ""sr_range_pct_1w"": 10.3104,
+  ""sr_range_pct_3m"": 26.8545,
+  ""last_updated"": ""2025-09-02 12:07:02"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18915.0,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 18955.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19180.0,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 14:10:37,"{
+  ""reason"": [
+    ""Recent price action shows the stock consolidating near the lower Bollinger band, indicating support but no breakout confirmation."",
+    ""MACD histogram remains negative but shows decreasing magnitude, suggesting weakening bearish momentum without reversal."",
+    ""ADX remains below 20, indicating a lack of a strong trend and supporting sideways movement."",
+    ""Support and resistance levels have not shifted significantly; current price is near support but no breach has occurred."",
+    ""Volume remains low, showing no surge in activity that could signal a trend change.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-02 14:19:27,"{
+  ""reason"": [
+    ""Recent price action indicates the stock remains near the lower Bollinger band, suggesting ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-02 14:26:34,"{
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:18:00+00:00"",
+    ""open"": 18984.0,
+    ""high"": 19000.0,
+    ""low"": 18982.0,
+    ""close"": 18990.0,
+    ""volume"": 310
+  }
+}"
+2025-09-02 14:35:09,"{
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:25:00+00:00"",
+    ""open"": 18977.0,
+    ""high"": 18986.0,
+    ""low"": 18967.0,
+    ""close"": 18982.0,
+    ""volume"": 70
+  },
+  ""last_updated"": ""2025-09-02 14:26:35"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  },
+  ""support_realtime"": 18900.0,
+  ""resistance_realtime"": 19008.0,
+  ""support_1d"": 19780.0,
+  ""resistance_1d"": 20445.0,
+  ""support_1w"": 19450.0,
+  ""resistance_1w"": 21400.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""support"": 19780.0,
+  ""resistance"": 20445.0,
+  ""sr_range_pct_realtime"": 0.5691,
+  ""sr_range_pct_1d"": 3.5041,
+  ""sr_range_pct_1w"": 10.2751,
+  ""sr_range_pct_3m"": 26.7626,
+  ""sr_range_pct"": 3.5041
+}"
+2025-09-02 15:18:57,"{
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:34:00+00:00"",
+    ""open"": 18901.0,
+    ""high"": 18912.0,
+    ""low"": 18901.0,
+    ""close"": 18906.0,
+    ""volume"": 83
+  }
+}"
+2025-09-02 15:27:34,"{
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:17:00+00:00"",
+    ""open"": 18750.0,
+    ""high"": 18755.0,
+    ""low"": 18711.0,
+    ""close"": 18715.0,
+    ""volume"": 977
+  },
+  ""last_updated"": ""2025-09-02 15:18:57"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 18915.0,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 18955.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19180.0,
+      ""ret"": 0.02
+    }
+  },
+  ""support_realtime"": 18711.0,
+  ""resistance_realtime"": 19000.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""sr_range_pct_realtime"": 1.5408,
+  ""sr_range_pct_1d"": 2.5004,
+  ""sr_range_pct_1w"": 7.1387,
+  ""sr_range_pct_3m"": 27.0779,
+  ""sr_range_pct"": 2.5004
+}"
+2025-09-03 11:57:59,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:26:00+00:00"",
+    ""open"": 18876.0,
+    ""high"": 18880.0,
+    ""low"": 18838.0,
+    ""close"": 18875.0,
+    ""volume"": 559
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4357,
+  ""sr_range_pct_1d"": 2.4939,
+  ""sr_range_pct_1w"": 7.1201,
+  ""sr_range_pct_3m"": 27.0073,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-03 12:07:46,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:56:00+00:00"",
+    ""open"": 19211.0,
+    ""high"": 19214.0,
+    ""low"": 19211.0,
+    ""close"": 19212.0,
+    ""volume"": 32
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows the stock remains near the lower Bollinger band, indicating ongoing support but no clear reversal or breakout."",
+    ""MACD histogram continues to show negative values with minimal change, implying persistent bearish momentum without acceleration."",
+    ""ADX remains below 20, confirming the absence of a strong trend and supporting sideways consolidation."",
+    ""Support and resistance levels have not shifted significantly; current price is close to support but no breach has occurred."",
+    ""Volume remains low, indicating lack of increased trading activity that could signal a trend initiation.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""reason_update"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ]
+}"
+2025-09-03 12:17:26,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:06:00+00:00"",
+    ""open"": 19201.0,
+    ""high"": 19201.0,
+    ""low"": 19187.0,
+    ""close"": 19198.0,
+    ""volume"": 68
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-03 12:26:24,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:16:00+00:00"",
+    ""open"": 19205.0,
+    ""high"": 19205.0,
+    ""low"": 19204.0,
+    ""close"": 19204.0,
+    ""volume"": 24
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-03 12:36:14,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:25:00+00:00"",
+    ""open"": 19187.0,
+    ""high"": 19189.0,
+    ""low"": 19185.0,
+    ""close"": 19189.0,
+    ""volume"": 38
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-03 15:31:04,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:35:00+00:00"",
+    ""open"": 19199.0,
+    ""high"": 19200.0,
+    ""low"": 19185.0,
+    ""close"": 19186.0,
+    ""volume"": 122
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-04 11:14:27,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:29:00+00:00"",
+    ""open"": 19200.0,
+    ""high"": 19210.0,
+    ""low"": 19185.0,
+    ""close"": 19199.0,
+    ""volume"": 593
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 19120.0,
+  ""target"": 19320.0,
+  ""stoploss"": 18900.0,
+  ""entry1"": 18920.0,
+  ""target1"": 19320.0,
+  ""stoploss1"": 18700.0,
+  ""entry2"": 18800.0,
+  ""target2"": 19320.0,
+  ""stoploss2"": 18500.0,
+  ""entry3"": 18200.0,
+  ""target3"": 19320.0,
+  ""stoploss3"": 17700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-04 14:22:17,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19120.0,
+  ""target"": 19320.0,
+  ""stoploss"": 18900.0,
+  ""entry1"": 18920.0,
+  ""target1"": 19320.0,
+  ""stoploss1"": 18700.0,
+  ""entry2"": 18800.0,
+  ""target2"": 19320.0,
+  ""stoploss2"": 18500.0,
+  ""entry3"": 18200.0,
+  ""target3"": 19320.0,
+  ""stoploss3"": 17700.0
+}"
+2025-09-04 14:49:53,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:21:00+00:00"",
+    ""open"": 19037.0,
+    ""high"": 19053.0,
+    ""low"": 19037.0,
+    ""close"": 19050.0,
+    ""volume"": 21
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18697.0,
+  ""resistance_realtime"": 18967.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms no significant breakout or breakdown."",
+    ""Price remains near support, but momentum indicators do not suggest reversal or strong trend."",
+    ""No new support/resistance levels inferred from recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 19120.0,
+  ""target"": 19320.0,
+  ""stoploss"": 18900.0,
+  ""entry1"": 18920.0,
+  ""target1"": 19320.0,
+  ""stoploss1"": 18700.0,
+  ""entry2"": 18800.0,
+  ""target2"": 19320.0,
+  ""stoploss2"": 18500.0,
+  ""entry3"": 18200.0,
+  ""target3"": 19320.0,
+  ""stoploss3"": 17700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-04 15:03:05,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:48:00+00:00"",
+    ""open"": 18972.0,
+    ""high"": 18972.0,
+    ""low"": 18968.0,
+    ""close"": 18968.0,
+    ""volume"": 37
+  },
+  ""support"": 18851.0,
+  ""resistance"": 19320.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.157,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 18970.0,
+  ""target"": 19320.0,
+  ""stoploss"": 18800.0,
+  ""entry1"": 18920.0,
+  ""target1"": 19320.0,
+  ""stoploss1"": 18700.0,
+  ""entry2"": 18800.0,
+  ""target2"": 19320.0,
+  ""stoploss2"": 18500.0,
+  ""entry3"": 18200.0,
+  ""target3"": 19320.0,
+  ""stoploss3"": 17700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-04 15:14:55,"{
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:02:00+00:00"",
+    ""open"": 18957.0,
+    ""high"": 18958.0,
+    ""low"": 18939.0,
+    ""close"": 18944.0,
+    ""volume"": 240
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1687,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 18970.0,
+  ""target"": 19320.0,
+  ""stoploss"": 18800.0,
+  ""entry1"": 18920.0,
+  ""target1"": 19320.0,
+  ""stoploss1"": 18700.0,
+  ""entry2"": 18800.0,
+  ""target2"": 19320.0,
+  ""stoploss2"": 18500.0,
+  ""entry3"": 18200.0,
+  ""target3"": 19320.0,
+  ""stoploss3"": 17700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  }
+}"
+2025-09-05 13:37:36,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1687,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 18950.4,
+  ""target"": 18943.275,
+  ""stoploss"": 18955.15,
+  ""entry1"": 18864.0,
+  ""target1"": 18827.55,
+  ""stoploss1"": 18981.25,
+  ""entry2"": 18864.0,
+  ""target2"": 18784.05,
+  ""stoploss2"": 19198.75,
+  ""entry3"": 18864.0,
+  ""target3"": 16959.375,
+  ""stoploss3"": 20133.75
+}"
+2025-09-05 14:26:07,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1687,
+  ""sr_range_pct_1d"": 2.4879,
+  ""sr_range_pct_1w"": 7.1031,
+  ""sr_range_pct_3m"": 30.375,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19052.634,
+  ""target"": 18844.252,
+  ""stoploss"": 18872.714,
+  ""entry1"": 18964.106,
+  ""target1"": 19030.48,
+  ""stoploss1"": 18785.022,
+  ""entry2"": 18964.106,
+  ""target2"": 19030.48,
+  ""stoploss2"": 18785.022,
+  ""entry3"": 18864.0,
+  ""target3"": 18930.024,
+  ""stoploss3"": 16662.477,
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""last_updated"": ""2025-09-05 13:37:36"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:36:00+00:00"",
+    ""open"": 18911.0,
+    ""high"": 18912.0,
+    ""low"": 18901.0,
+    ""close"": 18911.0,
+    ""volume"": 33
+  }
+}"
+2025-09-05 14:43:02,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1692,
+  ""sr_range_pct_1d"": 2.4793,
+  ""sr_range_pct_1w"": 7.0783,
+  ""sr_range_pct_3m"": 26.8489,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19052.634,
+  ""target"": 19075.5,
+  ""stoploss"": 18872.714,
+  ""entry1"": 18964.106,
+  ""target1"": 19030.48,
+  ""stoploss1"": 18785.022,
+  ""entry2"": 18964.106,
+  ""target2"": 19030.48,
+  ""stoploss2"": 18785.022,
+  ""entry3"": 18864.0,
+  ""target3"": 18930.024,
+  ""stoploss3"": 16662.477,
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""last_updated"": ""2025-09-05 14:26:07"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:25:00+00:00"",
+    ""open"": 18922.0,
+    ""high"": 18922.0,
+    ""low"": 18917.0,
+    ""close"": 18917.0,
+    ""volume"": 63
+  }
+}"
+2025-09-05 14:55:16,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.169,
+  ""sr_range_pct_1d"": 2.4764,
+  ""sr_range_pct_1w"": 7.0701,
+  ""sr_range_pct_3m"": 26.8177,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19052.634,
+  ""target"": 19075.5,
+  ""stoploss"": 18872.714,
+  ""entry1"": 18964.106,
+  ""target1"": 19030.48,
+  ""stoploss1"": 18785.022,
+  ""entry2"": 18964.106,
+  ""target2"": 19030.48,
+  ""stoploss2"": 18785.022,
+  ""entry3"": 18864.0,
+  ""target3"": 18930.024,
+  ""stoploss3"": 16662.477,
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""last_updated"": ""2025-09-05 14:43:02"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:42:00+00:00"",
+    ""open"": 18939.0,
+    ""high"": 18939.0,
+    ""low"": 18932.0,
+    ""close"": 18939.0,
+    ""volume"": 23
+  },
+  ""sr_range_pct"": 0.1003,
+  ""respected_S"": 9,
+  ""respected_R"": 7,
+  ""respected_S1"": 9,
+  ""respected_R1"": 11,
+  ""respected_S2"": 9,
+  ""respected_R2"": 12,
+  ""respected_S3"": 4,
+  ""respected_R3"": 1
+}"
+2025-09-05 15:09:34,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for base.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1696,
+  ""sr_range_pct_1d"": 2.4863,
+  ""sr_range_pct_1w"": 7.0986,
+  ""sr_range_pct_3m"": 26.9257,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19052.634,
+  ""target"": 19075.5,
+  ""stoploss"": 18872.714,
+  ""entry1"": 18964.106,
+  ""target1"": 19030.48,
+  ""stoploss1"": 18785.022,
+  ""entry2"": 18964.106,
+  ""target2"": 19030.48,
+  ""stoploss2"": 18785.022,
+  ""entry3"": 18864.0,
+  ""target3"": 18930.024,
+  ""stoploss3"": 16662.477,
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""last_updated"": ""2025-09-05 14:55:16"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:54:00+00:00"",
+    ""open"": 18866.0,
+    ""high"": 18866.0,
+    ""low"": 18854.0,
+    ""close"": 18863.0,
+    ""volume"": 76
+  },
+  ""sr_range_pct"": 0.1003,
+  ""respected_S"": 9,
+  ""respected_R"": 7,
+  ""respected_S1"": 9,
+  ""respected_R1"": 11,
+  ""respected_S2"": 9,
+  ""respected_R2"": 12,
+  ""respected_S3"": 4,
+  ""respected_R3"": 1
+}"
+2025-09-05 15:21:46,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels."",
+    ""Price remains near support, but momentum indicators show no strong reversal signals."",
+    ""No significant breakout or breakdown observed from recent candles."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Adjusted trade levels to ensure proper ordering: stoploss < support < entry < target < resistance for all horizons."",
+    ""Confirmed that all levels satisfy the long-only order constraints and risk-reward considerations.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 18915.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 18955.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 19180.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18939.0,
+  ""resistance"": 18958.0,
+  ""support_realtime"": 18965.0,
+  ""resistance_realtime"": 18997.0,
+  ""support_1d"": 18851.0,
+  ""resistance_1d"": 19320.0,
+  ""support_1w"": 18851.0,
+  ""resistance_1w"": 20190.0,
+  ""support_3m"": 16721.0,
+  ""resistance_3m"": 21800.0,
+  ""sr_range_pct_realtime"": 0.1701,
+  ""sr_range_pct_1d"": 2.4928,
+  ""sr_range_pct_1w"": 7.117,
+  ""sr_range_pct_3m"": 26.9959,
+  ""volume_threshold"": 178607.0,
+  ""bollinger"": {
+    ""mid_price"": 1370.0,
+    ""upper_band"": 1373.0,
+    ""lower_band"": 1365.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 18970.0,
+  ""target"": 19020.0,
+  ""stoploss"": 18850.0,
+  ""entry1"": 18970.0,
+  ""target1"": 19020.0,
+  ""stoploss1"": 18850.0,
+  ""entry2"": 18970.0,
+  ""target2"": 19020.0,
+  ""stoploss2"": 18850.0,
+  ""entry3"": 18870.0,
+  ""target3"": 18930.0,
+  ""stoploss3"": 16660.0,
+  ""stock_code"": ""POWERINDIA"",
+  ""instrument_token"": 4724993,
+  ""last_updated"": ""2025-09-05 15:09:34"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:08:00+00:00"",
+    ""open"": 18813.0,
+    ""high"": 18816.0,
+    ""low"": 18812.0,
+    ""close"": 18814.0,
+    ""volume"": 172
+  }
+}"

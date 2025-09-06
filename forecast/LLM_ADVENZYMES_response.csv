@@ -1,0 +1,20 @@
+timestamp,raw_response
+2025-08-19 14:13:39,"{
+  ""stock_code"": ""ADVENZYMES"",
+  ""instrument_token"": 4617985,
+  ""support"": 299.8,
+  ""resistance"": 312.75,
+  ""volume_threshold"": 1000000,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support around 299.8 and resistance at 312.75."",
+    ""No clear breakout or breakdown signals in recent data."",
+    ""Volume remains high but no significant trend change observed."",
+    ""Indicators such as MACD and ADX remain neutral, supporting a hold stance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

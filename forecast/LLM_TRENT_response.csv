@@ -1,0 +1,3068 @@
+timestamp,raw_response
+2025-08-19 13:25:30,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5482.0,
+  ""resistance"": 5495.0,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5485.9,
+    ""upper_band"": 5491.727520913733,
+    ""lower_band"": 5480.072479086266
+  },
+  ""macd"": {
+    ""signal_line"": -1.9338673287411539,
+    ""histogram"": -0.5016297318406842,
+    ""ma_fast"": 5485.0,
+    ""ma_slow"": 5485.9,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 5482.0 based on 1-minute recent data."",
+    ""Resistance updated to recent high of 5495.0 based on 1-minute recent data."",
+    ""Bollinger bands updated to reflect recent price levels with mid at 5485.9, upper at 5491.73, and lower at 5480.07."",
+    ""MACD histogram less negative at -0.50 indicating slight reduction in bearish momentum compared to historical data."",
+    ""Volume threshold retained as recent volume remains low but consistent with historical average volumes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:29:42,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5482.0,
+  ""resistance"": 5495.0,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5486.035714285715,
+    ""upper_band"": 5491.056589077369,
+    ""lower_band"": 5481.014839494061
+  },
+  ""macd"": {
+    ""signal_line"": -2.014242669349373,
+    ""histogram"": 0.026466905960846443,
+    ""ma_fast"": 5485.722222222223,
+    ""ma_slow"": 5486.035714285715,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 5482.0 based on recent 1-minute data lows."",
+    ""Resistance retained at 5495.0 based on recent 1-minute data highs."",
+    ""Bollinger bands updated to recent 1-minute data with mid at 5486.04, upper at 5491.06, and lower at 5481.01 reflecting tighter range."",
+    ""MACD histogram turned slightly positive at 0.0265 indicating a minor bullish momentum shift in recent data."",
+    ""Volume threshold retained at 1200000 as recent volume remains low and consistent with historical averages."",
+    ""ADX threshold retained at 20 as ADX remains below indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:35:35,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5480.0,
+  ""resistance"": 5495.0,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5485.575,
+    ""upper_band"": 5490.934804100898,
+    ""lower_band"": 5480.215195899102
+  },
+  ""macd"": {
+    ""signal_line"": -2.1791499373384795,
+    ""histogram"": -0.28738532124271843,
+    ""ma_fast"": 5485.111111111111,
+    ""ma_slow"": 5485.575,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 5480.0 based on recent 1-minute data lows showing a slight downward adjustment."",
+    ""Resistance retained at 5495.0 based on recent 1-minute data highs."",
+    ""Bollinger bands updated to recent 1-minute data with mid at 5485.575, upper at 5490.93, and lower at 5480.22 reflecting current tighter price range."",
+    ""MACD histogram turned negative at -0.287 indicating minor bearish momentum in recent data."",
+    ""Volume threshold retained at 1200000 as recent volume remains low and consistent with historical averages."",
+    ""ADX threshold retained at 20 as ADX remains below indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:39:52,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5478.5,
+  ""resistance"": 5492.5,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5484.25,
+    ""upper_band"": 5489.4797227459985,
+    ""lower_band"": 5479.0202772540015
+  },
+  ""macd"": {
+    ""signal_line"": -2.2524812543456525,
+    ""histogram"": -0.38135029202338533,
+    ""ma_fast"": 5482.222222222223,
+    ""ma_slow"": 5484.25,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 5478.5 based on recent 1-minute data lows indicating a slight downward shift."",
+    ""Resistance updated to 5492.5 based on recent 1-minute data highs showing a minor upward breakout."",
+    ""Bollinger bands adjusted to recent 1-minute data with mid at 5484.25, upper at 5489.48, and lower at 5479.02 reflecting current price compression."",
+    ""MACD histogram remains negative at -0.38 indicating continued minor bearish momentum."",
+    ""Volume threshold retained at 1200000 as recent volume remains consistent with historical averages."",
+    ""ADX threshold retained at 20 as ADX remains below indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:40:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:54:43,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5476.5,
+  ""resistance"": 5492.5,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5483.375,
+    ""upper_band"": 5489.161838515115,
+    ""lower_band"": 5477.588161484885
+  },
+  ""macd"": {
+    ""signal_line"": -2.3547710739949252,
+    ""histogram"": 0.01308793289920418,
+    ""ma_fast"": 5480.555555555556,
+    ""ma_slow"": 5483.375,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 5476.5 based on recent 1-minute data lows showing a slight downward shift from previous support."",
+    ""Bollinger bands adjusted to recent 1-minute data with mid at 5483.375, upper at 5489.16, and lower at 5477.59 reflecting current price compression."",
+    ""MACD histogram turned slightly positive at 0.013 indicating a minor bullish momentum shift."",
+    ""Resistance retained at 5492.5 as recent highs confirm previous resistance level."",
+    ""Volume threshold retained at 1200000 as recent volume remains consistent with historical averages."",
+    ""ADX threshold retained at 20 as ADX at 45 indicates a strong trend but no change in threshold needed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:53:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:04:29,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5357.5,
+  ""resistance"": 5484.5,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 5481.025,
+    ""upper_band"": 5484.467,
+    ""lower_band"": 5477.583
+  },
+  ""macd"": {
+    ""signal_line"": -1.494,
+    ""histogram"": 0.459,
+    ""ma_fast"": 5480.556,
+    ""ma_slow"": 5481.025,
+    ""ma_signal"": -1.954
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 5480.556,
+    ""ma_slow"": 5481.025
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near resistance with tight Bollinger bands."",
+    ""MACD histogram indicates slight bullish momentum but remains close to zero."",
+    ""ADX remains below 20, indicating weak trend strength."",
+    ""Support and resistance levels adjusted based on recent high and low points."",
+    ""Volume remains high, but no significant breakout confirmed.""
+  ],
+  ""last_updated"": ""2025-08-19 14:03:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:34,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5501.5,
+  ""resistance"": 5506.9,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5501.5,
+    ""upper_band"": 5506.9,
+    ""lower_band"": 5496.1
+  },
+  ""macd"": {
+    ""signal_line"": 4.15,
+    ""histogram"": -0.47,
+    ""ma_fast"": 5503.3,
+    ""ma_slow"": 5501.5,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 5501.5 based on recent 1-minute data low."",
+    ""Resistance updated to 5506.9 based on recent 1-minute data high and upper Bollinger band."",
+    ""Bollinger bands adjusted to recent price levels reflecting tighter range and slight upward shift."",
+    ""MACD histogram remains slightly negative indicating mild bearish momentum but MACD line positive suggesting potential bullish crossover."",
+    ""Volume threshold retained as recent volume remains below historical average, no significant spike detected."",
+    ""ADX threshold retained at 20 as ADX remains around this level indicating neutral trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:21:00,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5495.7,
+  ""resistance"": 5507.0,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 5501.4,
+    ""upper_band"": 5507.0,
+    ""lower_band"": 5495.7
+  },
+  ""macd"": {
+    ""signal_line"": 4.15,
+    ""histogram"": -0.47,
+    ""ma_fast"": 5503.3,
+    ""ma_slow"": 5501.5,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 5495.7 based on recent 1-minute data low and lower Bollinger band."",
+    ""Resistance updated to 5507.0 based on recent 1-minute data high and upper Bollinger band."",
+    ""Bollinger bands adjusted to recent price levels reflecting slightly wider range and minor upward shift."",
+    ""Volume threshold retained as recent volume remains below historical average, no significant spike detected."",
+    ""MACD histogram remains slightly negative indicating mild bearish momentum but MACD line positive suggesting potential bullish crossover."",
+    ""ADX threshold retained at 20 as ADX remains around this level indicating neutral trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:11:50,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""support"": 5461.5,
+  ""resistance"": 5480.0,
+  ""volume_threshold"": 7235,
+  ""bollinger"": {
+    ""mid_price"": 5471.175,
+    ""upper_band"": 5480.0,
+    ""lower_band"": 5461.5
+  },
+  ""macd"": {
+    ""signal_line"": 4.15,
+    ""histogram"": -0.9256,
+    ""ma_fast"": 5466.8333,
+    ""ma_slow"": 5471.175,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent Bollinger Bands lower and upper bands based on last 1-minute candles"",
+    ""Mid Bollinger price updated to recent mid price from 1-minute data"",
+    ""MACD histogram updated to recent value indicating slight bearish momentum"",
+    ""Moving averages for MACD updated to recent fast and slow MA from 1-minute data""
+  ],
+  ""last_updated"": ""2025-08-22 12:15:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""basic_algo""
+}"
+2025-09-01 14:46:20,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:42:00+00:00"",
+    ""open"": 5458.0,
+    ""high"": 5462.0,
+    ""low"": 5455.0,
+    ""close"": 5455.5,
+    ""volume"": 6134
+  },
+  ""support"": 5449.5,
+  ""resistance"": 5468.76,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5453.28,
+    ""upper_band"": 5457.16,
+    ""lower_band"": 5446.69
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger Bands to reflect recent data mid_price, upper_band, and lower_band"",
+    ""Latest close price stable near support with volume above threshold"",
+    ""ADX remains above threshold indicating trend strength"",
+    ""MACD histogram turned positive recently indicating bullish momentum""
+  ],
+  ""signal"": ""Buy"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 5466.41
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 5520.97
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 5703.98
+    }
+  }
+}"
+2025-09-01 14:54:22,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:50:00+00:00"",
+    ""open"": 5458.5,
+    ""high"": 5460.0,
+    ""low"": 5456.0,
+    ""close"": 5458.5,
+    ""volume"": 4746
+  },
+  ""support"": 5449.5,
+  ""resistance"": 5468.76,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5456.0,
+    ""upper_band"": 5463.40945342137,
+    ""lower_band"": 5448.59054657863
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger Bands to reflect recent 1-minute data"",
+    ""Latest close stable near support with volume slightly below threshold"",
+    ""ADX remains above threshold indicating sustained trend strength"",
+    ""MACD histogram slightly negative but recent momentum steady""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0015,
+      ""price"": 5466.68775
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 5502.868
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 5651.8475
+    }
+  }
+}"
+2025-09-01 15:00:56,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 5458.5,
+    ""high"": 5460.5,
+    ""low"": 5456.0,
+    ""close"": 5460.5,
+    ""volume"": 2517
+  },
+  ""support"": 5449.5,
+  ""resistance"": 5468.76,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5456.825,
+    ""upper_band"": 5464.2497895595,
+    ""lower_band"": 5449.4002104405
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refreshed Bollinger Bands from recent 1-minute data showing slight widening"",
+    ""Latest close stable near support level with volume below threshold"",
+    ""ADX remains above threshold indicating sustained trend strength"",
+    ""MACD histogram slightly negative but momentum steady, no reversal signal""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0015,
+      ""price"": 5468.19
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 5504.28
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 5653.12
+    }
+  }
+}"
+2025-09-02 11:05:00,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:01:00+00:00"",
+    ""open"": 5447.0,
+    ""high"": 5451.0,
+    ""low"": 5447.0,
+    ""close"": 5451.0,
+    ""volume"": 644
+  },
+  ""support"": 5449.5,
+  ""resistance"": 5468.76,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5450.474080013311,
+    ""upper_band"": 5450.474080013311 + 2.8870400066559005 * 2, 
+    ""lower_band"": 5438.925919986688
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar"",
+    ""Bollinger bands upper_band adjusted to recent data volatility"",
+    ""Signal remains No Action due to low ADX and neutral MACD histogram"",
+    ""Predicted targets estimated from recent close and moderate volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 5451.0 * 1.002
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 5451.0 * 1.008
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 5451.0 * 1.025
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 5451.0 * 1.002,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 5451.0 * 1.008,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 5451.0 * 1.025,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-02 11:13:44,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:10:00+00:00"",
+    ""open"": 5435.0,
+    ""high"": 5436.5,
+    ""low"": 5434.5,
+    ""close"": 5434.5,
+    ""volume"": 565
+  },
+  ""support"": 5449.5,
+  ""resistance"": 5468.76,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5459.13,
+    ""upper_band"": 5468.76,
+    ""lower_band"": 5450.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent close 5434.5 below support 5449.5 indicates weakening price"",
+    ""ADX stable around 18.6 below threshold 20 suggests weak trend"",
+    ""MACD histogram negative and declining in recent data indicates bearish momentum"",
+    ""Volume in recent 1-min bars low compared to threshold, no volume breakout"",
+    ""Bollinger Bands width moderate, price near lower band, potential mild oversold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5420.7
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5389.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5516.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 5420.7,
+      ""ret"": -0.0027
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 5389.0,
+      ""ret"": -0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 5516.0,
+      ""ret"": 0.015
+    }
+  }
+}"
+2025-09-02 11:22:25,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:19:00+00:00"",
+    ""open"": 5446.0,
+    ""high"": 5450.0,
+    ""low"": 5444.5,
+    ""close"": 5448.5,
+    ""volume"": 616
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5465.0,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.736,
+  ""sr_range_pct_1d"": 1.2145,
+  ""sr_range_pct_1w"": 4.8395,
+  ""sr_range_pct_3m"": 23.9856,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5438.175,
+    ""upper_band"": 5451.491437211198,
+    ""lower_band"": 5424.858562788802
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-min bar for accuracy"",
+    ""Bollinger Bands updated to recent values showing price near lower band indicating mild oversold"",
+    ""ADX remains below threshold 20 indicating weak trend"",
+    ""Volume remains below threshold, no breakout"",
+    ""Recent close slightly above prior support 5432, no strong breakout or breakdown"",
+    ""Predicted targets adjusted based on recent close 5448.5 and momentum indicators""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5433.7
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5404.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5529.2
+    }
+  }
+}"
+2025-09-02 11:30:58,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:28:00+00:00"",
+    ""open"": 5440.5,
+    ""high"": 5443.5,
+    ""low"": 5439.0,
+    ""close"": 5441.0,
+    ""volume"": 737
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5457.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.5968,
+  ""sr_range_pct_1d"": 1.2119,
+  ""sr_range_pct_1w"": 4.8292,
+  ""sr_range_pct_3m"": 23.935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5439.1,
+    ""upper_band"": 5447.705811989598,
+    ""lower_band"": 5430.4941880104025
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to most recent 1-min bar at 11:28 showing stable price near support"",
+    ""Bollinger Bands updated to recent values with price near mid band indicating neutral momentum"",
+    ""ADX remains below threshold 20 indicating weak trend continuation"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Price close stable around support 5432, no breakout or breakdown signal"",
+    ""Predicted targets adjusted using recent close 5441 and subdued momentum indicators""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5436.3
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5396.7
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5522.6
+    }
+  }
+}"
+2025-09-02 11:40:07,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:37:00+00:00"",
+    ""open"": 5445.5,
+    ""high"": 5449.0,
+    ""low"": 5445.0,
+    ""close"": 5446.0,
+    ""volume"": 3384
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5456.0,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.5698,
+  ""sr_range_pct_1d"": 1.2131,
+  ""sr_range_pct_1w"": 4.8341,
+  ""sr_range_pct_3m"": 23.9592,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5442.9,
+    ""upper_band"": 5448.761740355923,
+    ""lower_band"": 5437.038259644076
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to most recent 1-min bar at 11:37 showing stable price near support"",
+    ""Bollinger Bands mid, upper, and lower bands updated to recent values reflecting current volatility"",
+    ""ADX remains below threshold 20 indicating weak trend continuation"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Price close stable around support 5432, no breakout or breakdown signal"",
+    ""Predicted targets adjusted using recent close 5446 and subdued momentum indicators""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5431.3
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5397.2
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5529.7
+    }
+  }
+}"
+2025-09-02 11:49:12,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:46:00+00:00"",
+    ""open"": 5453.5,
+    ""high"": 5455.0,
+    ""low"": 5453.5,
+    ""close"": 5454.0,
+    ""volume"": 342
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5454.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.5418,
+  ""sr_range_pct_1d"": 1.2121,
+  ""sr_range_pct_1w"": 4.8301,
+  ""sr_range_pct_3m"": 23.9394,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5447.55,
+    ""upper_band"": 5457.6490098524555,
+    ""lower_band"": 5437.450990147545
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to most recent 1-min bar at 11:46 reflecting slight price increase and lower volume"",
+    ""Bollinger Bands updated to recent 1-min indicator values showing stable volatility around mid-price"",
+    ""ADX remains below threshold 20 indicating weak trend continuation"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Price close stable near support and resistance realtime levels, no breakout or breakdown signal"",
+    ""Predicted targets adjusted using recent close 5454 and subdued momentum indicators""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5439.3
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5409.6
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5535.3
+    }
+  }
+}"
+2025-09-02 11:58:06,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:56:00+00:00"",
+    ""open"": 5458.0,
+    ""high"": 5461.5,
+    ""low"": 5457.5,
+    ""close"": 5461.5,
+    ""volume"": 1955
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5458.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.6142,
+  ""sr_range_pct_1d"": 1.2101,
+  ""sr_range_pct_1w"": 4.8221,
+  ""sr_range_pct_3m"": 23.8999,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5454.075,
+    ""upper_band"": 5460.664954476325,
+    ""lower_band"": 5447.485045523675
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to most recent 1-min bar at 11:56 showing slight price increase and volume rise"",
+    ""Bollinger Bands updated to recent 1-min indicator values reflecting stable volatility near mid-price"",
+    ""ADX remains below threshold 20 indicating weak trend, no strong directional momentum"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Price close near resistance realtime level without breakout, signal remains neutral"",
+    ""Predicted targets adjusted using recent close 5461.5 and subdued momentum indicators""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5446.7
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5417.3
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5549.4
+    }
+  }
+}"
+2025-09-02 12:06:40,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:57:00+00:00"",
+    ""open"": 5463.0,
+    ""high"": 5464.0,
+    ""low"": 5461.0,
+    ""close"": 5462.0,
+    ""volume"": 1052
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5425.0,
+  ""resistance_realtime"": 5464.0,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.7144,
+  ""sr_range_pct_1d"": 1.209,
+  ""sr_range_pct_1w"": 4.8177,
+  ""sr_range_pct_3m"": 23.878,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5454.075,
+    ""upper_band"": 5460.664954476325,
+    ""lower_band"": 5447.485045523675
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest 1-min bar close stable at 5460 with low volume, no breakout above resistance 5464"",
+    ""Bollinger Bands stable, indicating low volatility around mid price 5457.55"",
+    ""ADX remains below 20, signaling weak trend momentum"",
+    ""Volume below threshold, no volume breakout confirmed"",
+    ""Price near resistance realtime but no breakout, signal remains neutral"",
+    ""Predicted targets adjusted based on recent close 5460 and subdued momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5445.42
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5415.68
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5547.9
+    }
+  }
+}"
+2025-09-02 12:15:19,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:05:00+00:00"",
+    ""open"": 5460.0,
+    ""high"": 5460.0,
+    ""low"": 5459.0,
+    ""close"": 5459.5,
+    ""volume"": 755
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5429.0,
+  ""resistance_realtime"": 5464.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.6502,
+  ""sr_range_pct_1d"": 1.2088,
+  ""sr_range_pct_1w"": 4.8168,
+  ""sr_range_pct_3m"": 23.8736,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5454.075,
+    ""upper_band"": 5460.664954476325,
+    ""lower_band"": 5447.485045523675
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest 1-min bar close stable at 5460.5 with low volume, no breakout above resistance 5464.5"",
+    ""Bollinger Bands stable, indicating low volatility around mid price 5454.075"",
+    ""ADX remains below 20, signaling weak trend momentum"",
+    ""Volume below threshold, no volume breakout confirmed"",
+    ""Price near resistance realtime but no breakout, signal remains neutral"",
+    ""Predicted targets adjusted based on recent close 5460.5 and subdued momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0027,
+      ""price"": 5445.42
+    },
+    ""1w"": {
+      ""ret"": -0.008,
+      ""price"": 5415.68
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 5547.9
+    }
+  }
+}"
+2025-09-02 14:10:24,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:14:00+00:00"",
+    ""open"": 5460.5,
+    ""high"": 5462.0,
+    ""low"": 5456.0,
+    ""close"": 5456.5,
+    ""volume"": 1365
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5434.0,
+  ""resistance_realtime"": 5464.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.5586,
+  ""sr_range_pct_1d"": 1.2087,
+  ""sr_range_pct_1w"": 4.8164,
+  ""sr_range_pct_3m"": 23.8714,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5454.075,
+    ""upper_band"": 5460.664954476325,
+    ""lower_band"": 5447.485045523675
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-min data shows price at 5390.0, below daily support and resistance levels, indicating short-term weakness"",
+    ""ADX at 24.79 above threshold 20 suggests emerging trend strength, unlike prior weak momentum"",
+    ""Bollinger Bands width stable but price below mid band, indicating mild bearish bias"",
+    ""Volume remains below threshold, no volume breakout to confirm strong move"",
+    ""No breakout above resistance 5464.5, support levels unchanged"",
+    ""Predicted targets adjusted downward for 1d and 1w due to recent momentum and price below key levels, slight positive bias for 3m based on historical context""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.012,
+      ""price"": 5390.0 * (1 - 0.012)
+    },
+    ""1w"": {
+      ""ret"": -0.025,
+      ""price"": 5390.0 * (1 - 0.025)
+    },
+    ""3m"": {
+      ""ret"": 0.018,
+      ""price"": 5390.0 * (1 + 0.018)
+    }
+  }
+}"
+2025-09-02 14:19:08,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:14:00+00:00"",
+    ""open"": 5460.5,
+    ""high"": 5462.0,
+    ""low"": 5456.0,
+    ""close"": 5456.5,
+    ""volume"": 1365
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5434.0,
+  ""resistance_realtime"": 5464.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.5586,
+  ""sr_range_pct_1d"": 1.2087,
+  ""sr_range_pct_1w"": 4.8164,
+  ""sr_range_pct_3m"": 23.8714,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5454.075,
+    ""upper_band"": 5460.664954476325,
+    ""lower_band"": 5447.485045523675
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-min data shows price dropped to 5400.5 from daily close 5456.5 indicating short-term weakness"",
+    ""ADX around 20 with recent slight increase but still weak trend momentum"",
+    ""Volume remains below threshold, no strong breakout confirmed"",
+    ""Bollinger Bands stable but recent close below mid price suggests mild bearish pressure"",
+    ""Support and resistance levels unchanged due to lack of confirmed breakout"",
+    ""Predicted targets adjusted downward for 1d and 1w reflecting recent momentum, slight positive for 3m based on historical recovery potential""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5411.6
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5373.7
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5519.2
+    }
+  }
+}"
+2025-09-02 14:26:02,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:23:00+00:00"",
+    ""open"": 5409.0,
+    ""high"": 5410.5,
+    ""low"": 5403.0,
+    ""close"": 5403.5,
+    ""volume"": 2272
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5386.0,
+  ""resistance_realtime"": 5441.0,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 1.0184,
+  ""sr_range_pct_1d"": 1.2221,
+  ""sr_range_pct_1w"": 4.8699,
+  ""sr_range_pct_3m"": 24.1367,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5399.25,
+    ""upper_band"": 5411.893179979676,
+    ""lower_band"": 5386.606820020324
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from recent 1-min data showing close at 5403.5"",
+    ""Bollinger Bands mid, upper, lower updated to recent values reflecting current volatility"",
+    ""Price below Bollinger mid price indicates mild bearish pressure"",
+    ""ADX at 30.29 shows slightly stronger but still moderate trend momentum"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Support and resistance levels unchanged due to lack of confirmed breakout"",
+    ""Predicted targets adjusted downward for 1d and 1w reflecting recent momentum, slight positive for 3m based on historical recovery potential""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5354.07
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5335.45
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5469.54
+    }
+  }
+}"
+2025-09-02 14:34:49,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:32:00+00:00"",
+    ""open"": 5391.0,
+    ""high"": 5399.0,
+    ""low"": 5391.0,
+    ""close"": 5399.0,
+    ""volume"": 740
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5386.0,
+  ""resistance_realtime"": 5429.0,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.7958,
+  ""sr_range_pct_1d"": 1.2214,
+  ""sr_range_pct_1w"": 4.8672,
+  ""sr_range_pct_3m"": 24.1233,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5398.2,
+    ""upper_band"": 5410.595160345874,
+    ""lower_band"": 5385.804839654125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 14:32 close at 5399.0 from recent 1-min data"",
+    ""Bollinger Bands updated to mid 5398.2, upper 5410.6, lower 5385.8 reflecting current volatility"",
+    ""Price slightly above Bollinger mid price indicates mild bullish bias"",
+    ""ADX at 26.86 shows moderate trend momentum"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Support and resistance levels unchanged due to lack of confirmed breakout"",
+    ""Predicted targets adjusted with slight negative short term returns and mild positive 3-month outlook based on historical recovery and recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5350.91
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5320.02
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5450.79
+    }
+  }
+}"
+2025-09-02 15:18:40,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:33:00+00:00"",
+    ""open"": 5399.5,
+    ""high"": 5403.0,
+    ""low"": 5398.0,
+    ""close"": 5398.5,
+    ""volume"": 335
+  },
+  ""support"": 5432.0,
+  ""resistance"": 5498.0,
+  ""support_realtime"": 5386.0,
+  ""resistance_realtime"": 5427.5,
+  ""support_1d"": 5432.0,
+  ""resistance_1d"": 5498.0,
+  ""support_1w"": 5360.0,
+  ""resistance_1w"": 5623.0,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.7687,
+  ""sr_range_pct_1d"": 1.2224,
+  ""sr_range_pct_1w"": 4.8713,
+  ""sr_range_pct_3m"": 24.1434,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5415.075,
+    ""upper_band"": 5425.934442895474,
+    ""lower_band"": 5404.215557104526
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger Bands to mid 5415.08, upper 5425.93, lower 5404.22 based on recent 1-min data volatility"",
+    ""Latest close 5398.5 is below Bollinger mid price indicating mild bearish bias"",
+    ""ADX at ~9.75 indicates weak trend momentum, below threshold 20"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Support and resistance levels unchanged due to lack of breakout or trend confirmation"",
+    ""Predicted targets adjusted with slight negative short term returns and mild positive 3-month outlook based on historical recovery and recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5349.59
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5320.52
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5454.28
+    }
+  }
+}"
+2025-09-02 15:27:12,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:17:00+00:00"",
+    ""open"": 5410.5,
+    ""high"": 5412.0,
+    ""low"": 5407.0,
+    ""close"": 5409.0,
+    ""volume"": 2870
+  },
+  ""support"": 5304.0,
+  ""resistance"": 5462.0,
+  ""support_realtime"": 5388.0,
+  ""resistance_realtime"": 5425.0,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.6835,
+  ""sr_range_pct_1d"": 2.9189,
+  ""sr_range_pct_1w"": 4.9972,
+  ""sr_range_pct_3m"": 24.0809,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5415.075,
+    ""upper_band"": 5425.934442895474,
+    ""lower_band"": 5404.215557104526
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger Bands to mid 5415.08, upper 5425.93, lower 5404.22 based on recent 1-min data volatility"",
+    ""Latest close 5405.5 is below Bollinger mid price indicating mild bearish bias"",
+    ""ADX at ~9.97 indicates weak trend momentum, below threshold 20"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""Support and resistance levels unchanged due to lack of breakout or trend confirmation"",
+    ""Predicted targets adjusted with slight negative short term returns and mild positive 3-month outlook based on historical recovery and recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5359.91
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5337.57
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5475.91
+    }
+  }
+}"
+2025-09-03 11:57:39,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:26:00+00:00"",
+    ""open"": 5405.0,
+    ""high"": 5407.5,
+    ""low"": 5401.5,
+    ""close"": 5401.5,
+    ""volume"": 1698
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5362.0,
+  ""resistance_realtime"": 5393.0,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.57,
+  ""sr_range_pct_1d"": 2.9229,
+  ""sr_range_pct_1w"": 5.0042,
+  ""sr_range_pct_3m"": 24.1143,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5378.0,
+    ""upper_band"": 5393.0,
+    ""lower_band"": 5363.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to 5362.0 and 5393.0 based on recent 1-min data lows and highs"",
+    ""Bollinger Bands adjusted to mid 5378.0, upper 5393.0, lower 5363.0 reflecting recent volatility"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX remains below threshold indicating weak trend momentum"",
+    ""Maintained daily, weekly, and 3-month support and resistance levels as no strong trend or breakout observed"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight negative short term returns and mild positive 3-month outlook based on historical recovery and recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5362.0,
+  ""target"": 5393.0,
+  ""stoploss"": 5350.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.009,
+      ""price"": 5352.38
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5322.98
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5465.32
+    }
+  }
+}"
+2025-09-03 12:07:21,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:04:00+00:00"",
+    ""open"": 5382.5,
+    ""high"": 5391.5,
+    ""low"": 5380.0,
+    ""close"": 5389.5,
+    ""volume"": 14684
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5362.0,
+  ""resistance_realtime"": 5391.5,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.537,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5375.6,
+    ""upper_band"": 5391.5,
+    ""lower_band"": 5360.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 2025-09-03 12:04:00 with close 5389.5"",
+    ""Adjusted resistance_realtime to 5391.5 based on recent 1-min high"",
+    ""Refined bollinger bands to mid 5375.6, upper 5391.5, lower 5360.0 reflecting recent volatility"",
+    ""sr_range_pct_realtime recalculated to 0.537 from updated realtime S/R"",
+    ""Maintained other support and resistance levels as no strong breakout observed"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, no signal change"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight positive short term returns and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5362.0,
+  ""target"": 5391.5,
+  ""stoploss"": 5350.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5394.8895
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5310.6575
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5454.974
+    }
+  }
+}"
+2025-09-03 12:17:05,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:14:00+00:00"",
+    ""open"": 5390.5,
+    ""high"": 5392.0,
+    ""low"": 5390.0,
+    ""close"": 5392.0,
+    ""volume"": 1006
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5368.0,
+  ""resistance_realtime"": 5393.6,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.462,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5383.3,
+    ""upper_band"": 5393.6,
+    ""lower_band"": 5373.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 2025-09-03 12:14:00 with close 5392.0"",
+    ""Adjusted support_realtime to 5368.0 and resistance_realtime to 5393.6 based on recent 1-min BB upper and VWAP"",
+    ""Refined bollinger bands to mid 5383.3, upper 5393.6, lower 5373.0 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.462 from updated realtime S/R"",
+    ""Maintained other support and resistance levels as no strong breakout observed"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, no signal change"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight positive short term returns and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5368.0,
+  ""target"": 5393.6,
+  ""stoploss"": 5355.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0018,
+      ""price"": 5392.0 * 1.0018
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5462.0 * 0.985
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 6261.0 * 1.012
+    }
+  }
+}"
+2025-09-03 12:25:59,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:23:00+00:00"",
+    ""open"": 5392.5,
+    ""high"": 5394.0,
+    ""low"": 5392.0,
+    ""close"": 5394.0,
+    ""volume"": 597
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5379.5,
+  ""resistance_realtime"": 5397.793095234626,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.334,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5389.65,
+    ""upper_band"": 5397.793095234626,
+    ""lower_band"": 5381.506904765373
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 2025-09-03 12:23:00 with close 5394.0"",
+    ""Refined support_realtime to 5379.5 and resistance_realtime to 5397.793 based on recent 1-min data"",
+    ""Adjusted bollinger bands to mid 5389.65, upper 5397.793, lower 5381.507 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.334 from updated realtime S/R levels"",
+    ""Maintained other support and resistance levels as no strong breakout observed"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, no signal change"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight positive short term returns and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5379.5,
+  ""target"": 5397.793095234626,
+  ""stoploss"": 5368.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5399.394,
+      ""method"": null
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5314.09,
+      ""method"": null
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5459.268,
+      ""method"": null
+    }
+  }
+}"
+2025-09-03 12:35:47,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:24:00+00:00"",
+    ""open"": 5392.5,
+    ""high"": 5396.0,
+    ""low"": 5392.5,
+    ""close"": 5396.0,
+    ""volume"": 1274
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5379.5,
+  ""resistance_realtime"": 5397.793095234626,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.334,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5389.65,
+    ""upper_band"": 5397.793095234626,
+    ""lower_band"": 5381.506904765373
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 2025-09-03 12:23:00 with close 5394.0"",
+    ""Refined support_realtime to 5379.5 and resistance_realtime to 5397.793 based on recent 1-min data"",
+    ""Adjusted bollinger bands to mid 5389.65, upper 5397.793, lower 5381.507 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.334 from updated realtime S/R levels"",
+    ""Maintained other support and resistance levels as no strong breakout observed"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, no signal change"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight positive short term returns and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5379.5,
+  ""target"": 5397.793095234626,
+  ""stoploss"": 5368.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5399.394
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5314.09
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5459.268
+    }
+  }
+}"
+2025-09-03 15:30:43,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:28:00+00:00"",
+    ""open"": 5476.5,
+    ""high"": 5476.5,
+    ""low"": 5470.0,
+    ""close"": 5470.0,
+    ""volume"": 1227
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5470.0,
+  ""resistance_realtime"": 5496.1182917572705,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.0048,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5480.05,
+    ""upper_band"": 5496.1182917572705,
+    ""lower_band"": 5463.98170824273
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 2025-09-03 15:28:00 with close 5470.0"",
+    ""Refined support_realtime to 5470.0 and resistance_realtime to 5496.118 based on recent 1-min data"",
+    ""Adjusted bollinger bands to mid 5480.05, upper 5496.118, lower 5463.982 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0048 from updated realtime S/R levels"",
+    ""Maintained other support and resistance levels as no strong breakout observed"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, no signal change"",
+    ""Trade levels set conservatively around realtime S/R with risk-reward ratios between 1.1 and 2.0"",
+    ""Predicted targets adjusted with slight positive short term returns and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5470.0,
+  ""target"": 5496.1182917572705,
+  ""stoploss"": 5455.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5475.47
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5397.7
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5535.64
+    }
+  }
+}"
+2025-09-04 11:14:05,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:29:00+00:00"",
+    ""open"": 5471.0,
+    ""high"": 5471.0,
+    ""low"": 5465.0,
+    ""close"": 5470.0,
+    ""volume"": 1651
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5644.0,
+  ""resistance_realtime"": 5656.856093791704,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.0022,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5633.725,
+    ""upper_band"": 5656.856093791704,
+    ""lower_band"": 5610.593906208297
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5644.0 and 5656.856 based on recent 1-min data showing higher price levels"",
+    ""Adjusted bollinger bands to mid 5633.725, upper 5656.856, lower 5610.594 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0022 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5644.0,
+  ""target"": 5656.856093791704,
+  ""stoploss"": 5637.0,
+  ""entry1"": 5304.0,
+  ""target1"": 5462.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5215.0,
+  ""target2"": 5485.5,
+  ""stoploss2"": 5180.0,
+  ""entry3"": 4957.5,
+  ""target3"": 6261.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5475.47
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5397.7
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5535.64
+    }
+  }
+}"
+2025-09-04 14:21:46,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:13:00+00:00"",
+    ""open"": 5649.5,
+    ""high"": 5652.0,
+    ""low"": 5646.0,
+    ""close"": 5647.0,
+    ""volume"": 2303
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5551.0,
+  ""resistance_realtime"": 5571.723,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00375,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5561.025,
+    ""upper_band"": 5571.723,
+    ""lower_band"": 5550.327
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5551.0 and 5571.723 based on recent 1-min data showing new higher price levels"",
+    ""Adjusted bollinger bands to mid 5561.025, upper 5571.723, lower 5550.327 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00375 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX at threshold indicates neutral trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5555.431,
+  ""target"": 5571.723,
+  ""stoploss"": 5544.739,
+  ""entry1"": 5398.8,
+  ""target1"": 5339.55,
+  ""stoploss1"": 5438.3,
+  ""entry2"": 5377.3,
+  ""target2"": 5275.8625,
+  ""stoploss2"": 5444.925,
+  ""entry3"": 5650.0,
+  ""target3"": 5161.1875,
+  ""stoploss3"": 5975.875,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5653.647
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5564.295
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5714.364
+    }
+  }
+}"
+2025-09-04 14:49:22,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:20:00+00:00"",
+    ""open"": 5552.5,
+    ""high"": 5558.0,
+    ""low"": 5552.0,
+    ""close"": 5558.0,
+    ""volume"": 1176
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5551.0,
+  ""resistance_realtime"": 5571.723,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00375,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5561.025,
+    ""upper_band"": 5571.723,
+    ""lower_band"": 5550.327
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5551.0 and 5571.723 based on recent 1-min data showing new higher price levels"",
+    ""Adjusted bollinger bands to mid 5561.025, upper 5571.723, lower 5550.327 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00375 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX at threshold indicates neutral trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5551.0,
+  ""target"": 5571.723,
+  ""stoploss"": 5536.75,
+  ""entry1"": 5462.0,
+  ""target1"": 5304.0,
+  ""stoploss1"": 5596.5,
+  ""entry2"": 5485.5,
+  ""target2"": 5215.0,
+  ""stoploss2"": 5756.25,
+  ""entry3"": 6261.0,
+  ""target3"": 4957.5,
+  ""stoploss3"": 6583.125,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5563.558,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5479.13,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5624.296,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 15:02:36,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:48:00+00:00"",
+    ""open"": 5548.0,
+    ""high"": 5548.5,
+    ""low"": 5545.5,
+    ""close"": 5548.0,
+    ""volume"": 1028
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5551.0,
+  ""resistance_realtime"": 5571.723,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00375,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5561.025,
+    ""upper_band"": 5571.723,
+    ""lower_band"": 5550.327
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5551.0 and 5571.723 based on recent 1-min data showing new higher price levels"",
+    ""Adjusted bollinger bands to mid 5561.025, upper 5571.723, lower 5550.327 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00375 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX at threshold indicates neutral trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5551.0,
+  ""target"": 5571.723,
+  ""stoploss"": 5537.31775,
+  ""entry1"": 5462.0,
+  ""target1"": 5304.0,
+  ""stoploss1"": 5596.5,
+  ""entry2"": 5485.5,
+  ""target2"": 5215.0,
+  ""stoploss2"": 5756.25,
+  ""entry3"": 6261.0,
+  ""target3"": 4957.5,
+  ""stoploss3"": 6583.125,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5553.548
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5398.07
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5614.576
+    }
+  }
+}"
+2025-09-04 15:14:27,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:01:00+00:00"",
+    ""open"": 5537.0,
+    ""high"": 5540.5,
+    ""low"": 5535.0,
+    ""close"": 5536.0,
+    ""volume"": 1597
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5551.0,
+  ""resistance_realtime"": 5571.723,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00375,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5561.025,
+    ""upper_band"": 5571.723,
+    ""lower_band"": 5550.327
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5551.0 and 5571.723 based on recent 1-min data showing new higher price levels"",
+    ""Adjusted bollinger bands to mid 5561.025, upper 5571.723, lower 5550.327 reflecting recent volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00375 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX at threshold indicates neutral trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5551.0,
+  ""target"": 5571.723,
+  ""stoploss"": 5537.317,
+  ""entry1"": 5462.0,
+  ""target1"": 5304.0,
+  ""stoploss1"": 5596.5,
+  ""entry2"": 5485.5,
+  ""target2"": 5215.0,
+  ""stoploss2"": 5756.25,
+  ""entry3"": 6261.0,
+  ""target3"": 4957.5,
+  ""stoploss3"": 6583.125,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5537.536
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 5453.04
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5602.432
+    }
+  }
+}"
+2025-09-05 13:37:11,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:13:00+00:00"",
+    ""open"": 5521.0,
+    ""high"": 5526.5,
+    ""low"": 5521.0,
+    ""close"": 5525.0,
+    ""volume"": 2290
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5501.0 and 5512.4383 based on recent 1-min data showing consolidation near upper Bollinger band"",
+    ""Adjusted bollinger bands to mid 5506.975, upper 5512.4383, lower 5501.5117 reflecting recent low volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00207 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Corrected trade levels to respect strict ordering stoploss < support < entry < target < resistance for all horizons"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5502.0,
+  ""target"": 5510.0,
+  ""stoploss"": 5499.0,
+  ""entry1"": 5330.0,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5290.0,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5200.0,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5530.525
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 0.0
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5589.3
+    }
+  }
+}"
+2025-09-05 14:25:36,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:36:00+00:00"",
+    ""open"": 5501.5,
+    ""high"": 5504.0,
+    ""low"": 5501.0,
+    ""close"": 5501.5,
+    ""volume"": 602
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 2.9789,
+  ""sr_range_pct_1w"": 5.187,
+  ""sr_range_pct_3m"": 26.2935,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5501.0 and 5512.4383 based on recent 1-min data showing consolidation near upper Bollinger band"",
+    ""Adjusted bollinger bands to mid 5506.975, upper 5512.4383, lower 5501.5117 reflecting recent low volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00207 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Corrected trade levels to respect strict ordering stoploss < support < entry < target < resistance for all horizons"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5377.0,
+  ""target"": 5385.0,
+  ""stoploss"": 5343.0,
+  ""entry1"": 5335.0,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5285.0,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5196.0,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4935.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5506.5
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 5501.5
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5577.5
+    }
+  }
+}"
+2025-09-05 14:42:29,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:24:00+00:00"",
+    ""open"": 5508.0,
+    ""high"": 5513.5,
+    ""low"": 5507.0,
+    ""close"": 5512.5,
+    ""volume"": 1624
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 2.8662,
+  ""sr_range_pct_1w"": 4.907,
+  ""sr_range_pct_3m"": 23.6463,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5501.0 and 5512.4383 based on recent 1-min data showing consolidation near upper Bollinger band"",
+    ""Adjusted bollinger bands to mid 5506.975, upper 5512.4383, lower 5501.5117 reflecting recent low volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00207 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Corrected trade levels to respect strict ordering stoploss < support < entry < target < resistance for all horizons"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5505.0,
+  ""target"": 5510.0,
+  ""stoploss"": 5495.0,
+  ""entry1"": 5335.824,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5285.0,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5196.0,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4935.811,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5518.0125
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 5512.5
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5580.65
+    }
+  }
+}"
+2025-09-05 14:54:48,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:41:00+00:00"",
+    ""open"": 5515.0,
+    ""high"": 5524.0,
+    ""low"": 5514.0,
+    ""close"": 5524.0,
+    ""volume"": 2395
+  },
+  ""support"": 5362.0,
+  ""resistance"": 5393.0,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 2.8602,
+  ""sr_range_pct_1w"": 4.8968,
+  ""sr_range_pct_3m"": 23.597,
+  ""volume_threshold"": 5776,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 5501.0 and 5512.4383 based on recent 1-min data showing consolidation near upper Bollinger band"",
+    ""Adjusted bollinger bands to mid 5506.975, upper 5512.4383, lower 5501.5117 reflecting recent low volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.00207 from updated realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal unchanged"",
+    ""Trade levels updated around new realtime S/R with risk-reward ratio ~1.5 and 25% risk of band width"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Corrected trade levels to respect strict ordering stoploss < support < entry < target < resistance for all horizons"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5505.0,
+  ""target"": 5509.0,
+  ""stoploss"": 5490.0,
+  ""entry1"": 5335.0,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5190.0,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4900.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5529.524
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 5524.0
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5589.288
+    }
+  }
+}"
+2025-09-05 15:09:06,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:53:00+00:00"",
+    ""open"": 5520.0,
+    ""high"": 5520.5,
+    ""low"": 5520.0,
+    ""close"": 5520.0,
+    ""volume"": 817
+  },
+  ""support"": 5501.0,
+  ""resistance"": 5512.4383,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 0.02862,
+  ""sr_range_pct_1w"": 0.04901,
+  ""sr_range_pct_3m"": 0.23614,
+  ""volume_threshold"": 5776.0,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance levels to recent realtime values 5501.0 and 5512.4383 reflecting consolidation near upper Bollinger band"",
+    ""Adjusted sr_range_pct_realtime to 0.00207 based on new realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal remains 'No Action'"",
+    ""Set trade levels within realtime S/R band with stoploss below support and risk-reward ratio ~1.5"",
+    ""Adjusted daily, weekly, and 3-month trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5505.0,
+  ""target"": 5510.0,
+  ""stoploss"": 5480.0,
+  ""entry1"": 5335.0,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5280.0,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5190.0,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4935.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5525.52
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 5520.0
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5585.64
+    }
+  }
+}"
+2025-09-05 15:21:15,"{
+  ""stock_code"": ""TRENT"",
+  ""instrument_token"": 502785,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:08:00+00:00"",
+    ""open"": 5527.0,
+    ""high"": 5530.0,
+    ""low"": 5526.0,
+    ""close"": 5526.5,
+    ""volume"": 2293
+  },
+  ""support"": 5501.0,
+  ""resistance"": 5512.4383,
+  ""support_realtime"": 5501.0,
+  ""resistance_realtime"": 5512.4383,
+  ""support_1d"": 5304.0,
+  ""resistance_1d"": 5462.0,
+  ""support_1w"": 5215.0,
+  ""resistance_1w"": 5485.5,
+  ""support_3m"": 4957.5,
+  ""resistance_3m"": 6261.0,
+  ""sr_range_pct_realtime"": 0.00207,
+  ""sr_range_pct_1d"": 0.02859,
+  ""sr_range_pct_1w"": 0.04945,
+  ""sr_range_pct_3m"": 0.23586,
+  ""volume_threshold"": 5776.0,
+  ""bollinger"": {
+    ""mid_price"": 5506.975,
+    ""upper_band"": 5512.4383,
+    ""lower_band"": 5501.5117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20.0
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance levels to recent realtime values 5501.0 and 5512.4383 reflecting consolidation near upper Bollinger band"",
+    ""Adjusted sr_range_pct_realtime to 0.00207 based on new realtime S/R levels"",
+    ""Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data"",
+    ""Volume remains below threshold, no breakout confirmed"",
+    ""ADX below threshold indicates weak trend momentum, signal remains 'No Action'"",
+    ""Set trade levels within realtime S/R band with stoploss below support and risk-reward ratio ~1.5"",
+    ""Adjusted daily, weekly, and 3-month trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum"",
+    ""Signal remains 'No Action' due to neutral momentum and volume conditions""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 5505.0,
+  ""target"": 5510.0,
+  ""stoploss"": 5495.0,
+  ""entry1"": 5335.824,
+  ""target1"": 5400.0,
+  ""stoploss1"": 5280.795,
+  ""entry2"": 5250.0,
+  ""target2"": 5400.0,
+  ""stoploss2"": 5192.184,
+  ""entry3"": 5100.0,
+  ""target3"": 6000.0,
+  ""stoploss3"": 4935.811,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 5531.0265
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 5526.5
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 5592.818
+    }
+  }
+}"

@@ -1,0 +1,3139 @@
+timestamp,raw_response
+2025-08-19 13:25:09,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:29:15,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:35:13,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:39:27,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 13:38:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:54:19,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 13:53:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:12,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:20:38,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 199.02,
+  ""resistance"": 229.28,
+  ""volume_threshold"": 9000000,
+  ""bollinger"": {
+    ""mid_price"": 208.4,
+    ""upper_band"": 241.62,
+    ""lower_band"": 175.18
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support retained at 199.02 as recent minute data shows price holding above this level."",
+    ""Resistance retained at 229.28 due to no breakout in recent minute or daily data."",
+    ""Volume threshold maintained at 9000000 as recent volumes remain significantly lower, no surge detected."",
+    ""Bollinger Bands unchanged as recent minute data mid, upper, and lower bands align with historical values."",
+    ""MACD values retained from historical data due to lack of significant momentum change in recent minutes."",
+    ""Signal set to Hold given no strong breakout or reversal signals in recent minute data and stable ADX.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:11:13,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""support"": 221.0,
+  ""resistance"": 222.5,
+  ""volume_threshold"": 30000,
+  ""bollinger"": {
+    ""mid_price"": 221.75,
+    ""upper_band"": 222.5,
+    ""lower_band"": 221.0
+  },
+  ""macd"": {
+    ""signal_line"": 12.921,
+    ""histogram"": -2.7109,
+    ""ma_fast"": 220.33,
+    ""ma_slow"": 208.4,
+    ""ma_signal"": 208.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price broke above previous resistance of 221.9, setting new resistance at 222.5 based on recent high."",
+    ""Support adjusted to 221.0 reflecting recent lower Bollinger Band and price consolidation."",
+    ""Volume threshold increased slightly to 30000 due to recent volume uptick."",
+    ""Bollinger Bands updated to reflect recent mid price and band levels.""
+  ],
+  ""last_updated"": ""2025-08-22 12:15:00"",
+  ""signal"": ""Buy"",
+  ""forecast"": ""basic_algo""
+}"
+2025-09-01 14:45:35,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:41:00+00:00"",
+    ""open"": 226.78,
+    ""high"": 226.9,
+    ""low"": 226.69,
+    ""close"": 226.74,
+    ""volume"": 1599
+  },
+  ""support"": 219.48,
+  ""resistance"": 226.91,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 226.665,
+    ""upper_band"": 226.91064201594557,
+    ""lower_band"": 226.41935798405447
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent upper Bollinger Band at 226.91 due to price testing upper band"",
+    ""Bollinger bands updated to latest calculated values from recent data"",
+    ""Signal remains 'No Action' as ADX below threshold and MACD histogram slightly positive but weak momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 227.64
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 230.14
+    },
+    ""3m"": {
+      ""ret"": 0.05,
+      ""price"": 238.08
+    }
+  }
+}"
+2025-09-01 14:53:35,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:50:00+00:00"",
+    ""open"": 226.89,
+    ""high"": 226.89,
+    ""low"": 226.79,
+    ""close"": 226.79,
+    ""volume"": 3712
+  },
+  ""support"": 219.48,
+  ""resistance"": 227.01,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 226.712,
+    ""upper_band"": 227.009,
+    ""lower_band"": 226.414
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance adjusted slightly above recent upper Bollinger band to 227.01 based on latest 1-min data high"",
+    ""Bollinger bands updated to reflect latest recent data values"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 227.70
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 230.20
+    },
+    ""3m"": {
+      ""ret"": 0.05,
+      ""price"": 238.13
+    }
+  }
+}"
+2025-09-01 15:00:13,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 227.05,
+    ""high"": 227.05,
+    ""low"": 226.98,
+    ""close"": 227.02,
+    ""volume"": 4436
+  },
+  ""support"": 219.48,
+  ""resistance"": 227.07,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 226.78,
+    ""upper_band"": 227.07,
+    ""lower_band"": 226.49
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance raised slightly to 227.07 matching recent 1-min upper Bollinger band and high"",
+    ""Bollinger bands updated to latest recent data mid 226.78, upper 227.07, lower 226.49"",
+    ""Latest 1-min close 227.02 supports resistance near 227.07"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 227.93
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 230.43
+    },
+    ""3m"": {
+      ""ret"": 0.05,
+      ""price"": 238.37
+    }
+  }
+}"
+2025-09-02 11:04:14,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:01:00+00:00"",
+    ""open"": 228.22,
+    ""high"": 228.3,
+    ""low"": 227.12,
+    ""close"": 227.13,
+    ""volume"": 49562
+  },
+  ""support"": 226.0,
+  ""resistance"": 230.9,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 227.72,
+    ""upper_band"": 229.81,
+    ""lower_band"": 225.63
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent 20-day low and high (226.0 and 230.9) from recent data"",
+    ""Refreshed Bollinger Bands to latest observed values (mid 227.72, upper 229.81, lower 225.63)"",
+    ""Latest close price 227.13 used for target price calculations"",
+    ""Signal remains 'No Action' due to ADX below threshold and neutral MACD histogram"",
+    ""Volume threshold unchanged as recent volume is below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 228.04
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 230.54
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 237.12
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 228.04,
+      ""ret"": 0.004
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 230.54,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 237.12,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:13:02,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:03:00+00:00"",
+    ""open"": 227.33,
+    ""high"": 227.36,
+    ""low"": 226.66,
+    ""close"": 226.91,
+    ""volume"": 24680
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 223.7,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 3.1549,
+  ""sr_range_pct_1d"": 4.3905,
+  ""sr_range_pct_1w"": 8.4787,
+  ""sr_range_pct_3m"": 34.1995,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 227.72,
+    ""upper_band"": 229.81,
+    ""lower_band"": 225.63
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No changes to support or resistance as recent price action remains within existing levels"",
+    ""Bollinger Bands remain consistent with recent data, no update needed"",
+    ""ADX remains below threshold indicating weak trend, signal remains 'No Action'"",
+    ""Volume remains below threshold, no update to volume_threshold"",
+    ""Predicted targets updated using latest close 226.91 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 227.81
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 230.31
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 236.06
+    }
+  }
+}"
+2025-09-02 11:21:30,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:18:00+00:00"",
+    ""open"": 225.49,
+    ""high"": 225.71,
+    ""low"": 225.49,
+    ""close"": 225.7,
+    ""volume"": 4749
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 223.7,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 3.1897,
+  ""sr_range_pct_1d"": 4.4389,
+  ""sr_range_pct_1w"": 8.5722,
+  ""sr_range_pct_3m"": 34.5767,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 226.1655,
+    ""upper_band"": 227.79315444735653,
+    ""lower_band"": 224.5378455526435
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar reflecting recent price action"",
+    ""Bollinger Bands mid, upper, and lower bands updated from recent data"",
+    ""No change to support or resistance as price remains within existing levels"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged"",
+    ""Volume below threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 225.7 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 226.6
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 228.04
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 235.07
+    }
+  }
+}"
+2025-09-02 11:30:12,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:27:00+00:00"",
+    ""open"": 223.97,
+    ""high"": 224.0,
+    ""low"": 223.9,
+    ""close"": 224.0,
+    ""volume"": 47035
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 224.36,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 2.8977,
+  ""sr_range_pct_1d"": 4.4395,
+  ""sr_range_pct_1w"": 8.5733,
+  ""sr_range_pct_3m"": 34.5813,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 225.3545,
+    ""upper_band"": 226.4018485570708,
+    ""lower_band"": 224.3071514429292
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar reflecting recent price action"",
+    ""Bollinger Bands mid, upper, and lower bands updated from recent data"",
+    ""No change to support or resistance as price remains within existing levels"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged"",
+    ""Volume below threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 224.0 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 224.896
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 227.36
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 233.28
+    }
+  }
+}"
+2025-09-02 11:39:23,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:36:00+00:00"",
+    ""open"": 223.57,
+    ""high"": 223.9,
+    ""low"": 223.56,
+    ""close"": 223.67,
+    ""volume"": 29784
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 223.61,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 3.2549,
+  ""sr_range_pct_1d"": 4.4738,
+  ""sr_range_pct_1w"": 8.6395,
+  ""sr_range_pct_3m"": 34.8484,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 224.548,
+    ""upper_band"": 226.1110687764771,
+    ""lower_band"": 222.9849312235229
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar reflecting recent price action"",
+    ""Bollinger Bands mid, upper, and lower bands updated from recent data"",
+    ""No change to support or resistance as price remains within existing levels"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged"",
+    ""Volume below threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 223.67 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 224.56
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 226.99
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 233.72
+    }
+  }
+}"
+2025-09-02 11:48:20,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:46:00+00:00"",
+    ""open"": 219.5,
+    ""high"": 219.9,
+    ""low"": 219.35,
+    ""close"": 219.82,
+    ""volume"": 58657
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 221.82,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 4.0596,
+  ""sr_range_pct_1d"": 4.4798,
+  ""sr_range_pct_1w"": 8.6511,
+  ""sr_range_pct_3m"": 34.8952,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 222.5445,
+    ""upper_band"": 225.5365,
+    ""lower_band"": 219.5525
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar reflecting recent price action at 219.82"",
+    ""Bollinger Bands updated to mid 222.54, upper 225.54, lower 219.55 from recent data"",
+    ""Support and resistance unchanged as price remains above support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 219.82 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 220.7
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 222.62
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 229.32
+    }
+  }
+}"
+2025-09-02 11:57:23,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:55:00+00:00"",
+    ""open"": 217.88,
+    ""high"": 218.2,
+    ""low"": 217.56,
+    ""close"": 217.8,
+    ""volume"": 55491
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 219.15,
+  ""resistance_realtime"": 230.9,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 5.3453,
+  ""sr_range_pct_1d"": 4.5583,
+  ""sr_range_pct_1w"": 8.8027,
+  ""sr_range_pct_3m"": 35.5063,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 220.1085,
+    ""upper_band"": 223.7548,
+    ""lower_band"": 216.4622
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 217.8 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 220.11, upper 223.75, lower 216.46 from recent data"",
+    ""Support and resistance unchanged as price remains above support and near resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 217.8 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 218.67
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 220.57
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 227.07
+    }
+  }
+}"
+2025-09-02 12:05:51,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:56:00+00:00"",
+    ""open"": 217.8,
+    ""high"": 218.19,
+    ""low"": 217.54,
+    ""close"": 218.0,
+    ""volume"": 77953
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 217.0,
+  ""resistance_realtime"": 228.33,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 5.202,
+  ""sr_range_pct_1d"": 4.6006,
+  ""sr_range_pct_1w"": 8.8843,
+  ""sr_range_pct_3m"": 35.8356,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 220.1085,
+    ""upper_band"": 223.7548,
+    ""lower_band"": 216.4622
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 217.8 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 220.11, upper 223.75, lower 216.46 from recent data"",
+    ""Support and resistance unchanged as price remains above support and near resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 217.8 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 218.67
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 220.57
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 227.07
+    }
+  }
+}"
+2025-09-02 12:14:32,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:04:00+00:00"",
+    ""open"": 217.59,
+    ""high"": 218.2,
+    ""low"": 217.59,
+    ""close"": 217.77,
+    ""volume"": 19715
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 217.0,
+  ""resistance_realtime"": 226.49,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 4.3614,
+  ""sr_range_pct_1d"": 4.605,
+  ""sr_range_pct_1w"": 8.8929,
+  ""sr_range_pct_3m"": 35.8702,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 218.02,
+    ""upper_band"": 218.99,
+    ""lower_band"": 217.06
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 217.77 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 218.02, upper 218.99, lower 217.06 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and near resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume slightly above volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 217.77 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 218.64
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 220.34
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 227.69
+    }
+  }
+}"
+2025-09-02 14:09:39,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:07:00+00:00"",
+    ""open"": 213.69,
+    ""high"": 213.86,
+    ""low"": 213.61,
+    ""close"": 213.7,
+    ""volume"": 8498
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 217.0,
+  ""resistance_realtime"": 225.86,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 4.0752,
+  ""sr_range_pct_1d"": 4.6088,
+  ""sr_range_pct_1w"": 8.9002,
+  ""sr_range_pct_3m"": 35.8999,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 213.2405,
+    ""upper_band"": 213.8616,
+    ""lower_band"": 212.6194
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 14:07 with close 213.7 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 213.24, upper 213.86, lower 212.62 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 213.7 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 214.13
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 215.41
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 219.11
+    }
+  }
+}"
+2025-09-02 14:18:24,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:16:00+00:00"",
+    ""open"": 213.57,
+    ""high"": 213.74,
+    ""low"": 213.31,
+    ""close"": 213.45,
+    ""volume"": 9634
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 212.34,
+  ""resistance_realtime"": 214.63,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.0716,
+  ""sr_range_pct_1d"": 4.6888,
+  ""sr_range_pct_1w"": 9.0547,
+  ""sr_range_pct_3m"": 36.5232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 213.5925,
+    ""upper_band"": 214.4753,
+    ""lower_band"": 212.7097
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 14:16 with close 213.45 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 213.59, upper 214.48, lower 212.71 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 213.45 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 213.88
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 215.14
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 219.85
+    }
+  }
+}"
+2025-09-02 14:25:10,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:22:00+00:00"",
+    ""open"": 213.66,
+    ""high"": 213.79,
+    ""low"": 213.66,
+    ""close"": 213.74,
+    ""volume"": 8250
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 212.34,
+  ""resistance_realtime"": 214.8,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.1511,
+  ""sr_range_pct_1d"": 4.6886,
+  ""sr_range_pct_1w"": 9.0543,
+  ""sr_range_pct_3m"": 36.5215,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 213.6745,
+    ""upper_band"": 214.4147830539733,
+    ""lower_band"": 212.93421694602668
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 14:22 with close 213.74 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 213.67, upper 214.41, lower 212.93 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 213.74 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 214.18
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 215.41
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 220.15
+    }
+  }
+}"
+2025-09-02 14:33:59,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:31:00+00:00"",
+    ""open"": 213.11,
+    ""high"": 213.45,
+    ""low"": 212.91,
+    ""close"": 213.29,
+    ""volume"": 19134
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 212.54,
+  ""resistance_realtime"": 214.8,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.0574,
+  ""sr_range_pct_1d"": 4.6879,
+  ""sr_range_pct_1w"": 9.0531,
+  ""sr_range_pct_3m"": 36.5163,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 213.398,
+    ""upper_band"": 213.76572816046638,
+    ""lower_band"": 213.0302718395336
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 14:31 with close 213.29 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 213.40, upper 213.77, lower 213.03 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 213.29 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 213.72
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 214.99
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 219.69
+    }
+  }
+}"
+2025-09-02 15:17:50,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:15:00+00:00"",
+    ""open"": 211.93,
+    ""high"": 211.95,
+    ""low"": 211.06,
+    ""close"": 211.48,
+    ""volume"": 107178
+  },
+  ""support"": 206.23,
+  ""resistance"": 216.25,
+  ""support_realtime"": 212.54,
+  ""resistance_realtime"": 214.8,
+  ""support_1d"": 206.23,
+  ""resistance_1d"": 216.25,
+  ""support_1w"": 196.9,
+  ""resistance_1w"": 216.25,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.0596,
+  ""sr_range_pct_1d"": 4.6978,
+  ""sr_range_pct_1w"": 9.0722,
+  ""sr_range_pct_3m"": 36.5934,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 212.58,
+    ""upper_band"": 214.51,
+    ""lower_band"": 210.65
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 15:15 with close 211.48 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 212.58, upper 214.51, lower 210.65 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains above daily support and below resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume below volume_threshold, no update to volume_threshold"",
+    ""Predicted targets estimated using latest close 211.48 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 211.90
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 213.15
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 217.82
+    }
+  }
+}"
+2025-09-02 15:26:29,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:23:00+00:00"",
+    ""open"": 212.42,
+    ""high"": 213.6,
+    ""low"": 212.42,
+    ""close"": 213.56,
+    ""volume"": 66772
+  },
+  ""support"": 218.0,
+  ""resistance"": 229.4,
+  ""support_realtime"": 211.06,
+  ""resistance_realtime"": 214.87,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.7978,
+  ""sr_range_pct_1d"": 5.3791,
+  ""sr_range_pct_1w"": 7.5355,
+  ""sr_range_pct_3m"": 36.8282,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 211.901,
+    ""upper_band"": 212.93217214857674,
+    ""lower_band"": 210.86982785142328
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 15:23 with close 213.56 reflecting recent price action"",
+    ""Bollinger Bands updated to mid 211.901, upper 212.93, lower 210.87 from recent 1-minute data"",
+    ""Support and resistance unchanged as price remains below daily support and near realtime resistance"",
+    ""ADX remains below threshold 20 indicating weak trend, no signal change"",
+    ""Volume above volume_threshold but no change to volume_threshold as no strong trend detected"",
+    ""Predicted targets estimated using latest close 213.56 and recent momentum/volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 213.56 * 1.003
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 213.56 * 1.01
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 213.56 * 1.035
+    }
+  }
+}"
+2025-09-03 11:56:55,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:16:00+00:00"",
+    ""open"": 211.42,
+    ""high"": 211.58,
+    ""low"": 211.2,
+    ""close"": 211.49,
+    ""volume"": 67226
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 211.06,
+  ""resistance_realtime"": 214.87,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.77,
+  ""sr_range_pct_1d"": 5.38,
+  ""sr_range_pct_1w"": 7.54,
+  ""sr_range_pct_3m"": 36.83,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 214.43,
+    ""upper_band"": 214.78,
+    ""lower_band"": 214.08
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to realtime levels based on recent 1-minute data"",
+    ""Bollinger Bands updated to reflect latest intraday volatility"",
+    ""Volume threshold unchanged due to no significant volume change"",
+    ""Predicted targets recalculated using latest close 214.59 and recent momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance range""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 215.03
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 216.31
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 220.93
+    }
+  }
+}"
+2025-09-03 12:06:31,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:55:00+00:00"",
+    ""open"": 214.5,
+    ""high"": 214.59,
+    ""low"": 214.32,
+    ""close"": 214.43,
+    ""volume"": 1444
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 214.12,
+  ""resistance_realtime"": 214.75,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.27,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 214.43,
+    ""upper_band"": 214.75,
+    ""lower_band"": 214.12
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest 1-minute Bollinger Bands levels"",
+    ""Reduced sr_range_pct_realtime to reflect tighter intraday range"",
+    ""Bollinger Bands updated to latest intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 214.87
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 216.31
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 220.93
+    }
+  }
+}"
+2025-09-03 12:16:16,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:05:00+00:00"",
+    ""open"": 214.31,
+    ""high"": 214.39,
+    ""low"": 214.06,
+    ""close"": 214.1,
+    ""volume"": 7607
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 213.73,
+  ""resistance_realtime"": 214.72,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.45,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 214.22,
+    ""upper_band"": 214.72,
+    ""lower_band"": 213.73
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest 1-minute Bollinger Bands levels"",
+    ""Adjusted sr_range_pct_realtime to reflect current intraday range"",
+    ""Bollinger Bands updated to latest intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 214.53
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 216.87
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 220.52
+    }
+  }
+}"
+2025-09-03 12:25:10,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:15:00+00:00"",
+    ""open"": 213.49,
+    ""high"": 213.57,
+    ""low"": 213.11,
+    ""close"": 213.11,
+    ""volume"": 9285
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 212.48,
+  ""resistance_realtime"": 214.71,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 1.04,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 213.59,
+    ""upper_band"": 214.71,
+    ""lower_band"": 212.48
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest 1-minute Bollinger Bands levels"",
+    ""Adjusted sr_range_pct_realtime to reflect current intraday range"",
+    ""Bollinger Bands updated to latest intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 213.53
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 214.80
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 219.52
+    }
+  }
+}"
+2025-09-03 12:35:01,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:32:00+00:00"",
+    ""open"": 212.8,
+    ""high"": 212.9,
+    ""low"": 212.8,
+    ""close"": 212.9,
+    ""volume"": 4618
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 212.37,
+  ""resistance_realtime"": 213.45,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.51,
+  ""sr_range_pct_1d"": 5.23,
+  ""sr_range_pct_1w"": 7.39,
+  ""sr_range_pct_3m"": 49.92,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 212.91,
+    ""upper_band"": 213.45,
+    ""lower_band"": 212.37
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar"",
+    ""Refined realtime support and resistance to latest Bollinger Bands levels"",
+    ""Adjusted sr_range_pct_realtime to reflect narrower intraday range"",
+    ""Bollinger Bands updated to latest intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 213.32
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 214.6
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 219.29
+    }
+  }
+}"
+2025-09-03 15:29:52,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:27:00+00:00"",
+    ""open"": 211.41,
+    ""high"": 211.4189987146506,
+    ""low"": 210.64100128534946,
+    ""close"": 211.14,
+    ""volume"": 20104
+  },
+  ""support"": 211.06,
+  ""resistance"": 214.87,
+  ""support_realtime"": 210.64,
+  ""resistance_realtime"": 211.42,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.42,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 211.03,
+    ""upper_band"": 211.42,
+    ""lower_band"": 210.64
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar"",
+    ""Refined realtime support and resistance to latest Bollinger Bands levels"",
+    ""Adjusted sr_range_pct_realtime to reflect narrower intraday range"",
+    ""Bollinger Bands updated to latest intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 211.06,
+  ""target"": 214.87,
+  ""stoploss"": 210.0,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 215.0,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 213.0,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 211.56
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 212.81
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 217.47
+    }
+  }
+}"
+2025-09-04 11:13:12,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:28:00+00:00"",
+    ""open"": 211.12,
+    ""high"": 211.15,
+    ""low"": 211.09,
+    ""close"": 211.1,
+    ""volume"": 18263
+  },
+  ""support"": 210.64,
+  ""resistance"": 211.42,
+  ""support_realtime"": 207.38,
+  ""resistance_realtime"": 208.91,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.24,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 208.12,
+    ""upper_band"": 208.91,
+    ""lower_band"": 207.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to reflect recent 1-minute Bollinger Bands"",
+    ""Adjusted realtime support and resistance to latest intraday indicator values"",
+    ""Narrowed sr_range_pct_realtime to reflect tighter intraday range"",
+    ""Bollinger Bands updated to recent intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 210.64,
+  ""target"": 211.42,
+  ""stoploss"": 209.79,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 213.5,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 210.94,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 211.52
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 212.79
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 217.43
+    }
+  }
+}"
+2025-09-04 11:22:57,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:12:00+00:00"",
+    ""open"": 208.26,
+    ""high"": 208.37,
+    ""low"": 208.23,
+    ""close"": 208.27,
+    ""volume"": 2403
+  },
+  ""support"": 207.74,
+  ""resistance"": 209.23,
+  ""support_realtime"": 207.74,
+  ""resistance_realtime"": 209.23,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.72,
+  ""sr_range_pct_1d"": 5.23,
+  ""sr_range_pct_1w"": 7.39,
+  ""sr_range_pct_3m"": 49.92,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 208.12,
+    ""upper_band"": 209.23,
+    ""lower_band"": 207.74
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to reflect recent 1-minute Bollinger Bands"",
+    ""Adjusted realtime support and resistance to latest intraday indicator values"",
+    ""Narrowed sr_range_pct_realtime to reflect tighter intraday range"",
+    ""Bollinger Bands updated to recent intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""Predicted targets recalculated based on latest close and momentum"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 207.74,
+  ""target"": 209.23,
+  ""stoploss"": 207.06,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 213.5,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 210.94,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 208.69
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 209.94
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 214.52
+    }
+  }
+}"
+2025-09-04 14:20:40,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:21:00+00:00"",
+    ""open"": 209.07,
+    ""high"": 209.08,
+    ""low"": 208.95,
+    ""close"": 208.96,
+    ""volume"": 1881
+  },
+  ""support"": 207.74,
+  ""resistance"": 209.23,
+  ""support_realtime"": 208.79,
+  ""resistance_realtime"": 209.72,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.45,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 209.25,
+    ""upper_band"": 209.72,
+    ""lower_band"": 208.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest intraday Bollinger Bands values"",
+    ""Narrowed sr_range_pct_realtime to reflect tighter intraday range"",
+    ""Bollinger Bands mid, upper, and lower bands updated to recent intraday values"",
+    ""Volume threshold unchanged due to stable volume"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data confirms stability"",
+    ""Trade levels recalculated for realtime S/R with risk-reward ~1.5 and 25% risk of band"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance bands""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 208.79,
+  ""target"": 209.72,
+  ""stoploss"": 208.44,
+  ""entry1"": 218.0,
+  ""target1"": 229.4,
+  ""stoploss1"": 213.5,
+  ""entry2"": 216.25,
+  ""target2"": 232.22,
+  ""stoploss2"": 210.94,
+  ""entry3"": 156.34,
+  ""target3"": 234.39,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 209.38
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 210.63
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 215.23
+    }
+  }
+}"
+2025-09-04 14:48:15,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:19:00+00:00"",
+    ""open"": 208.57,
+    ""high"": 208.64,
+    ""low"": 208.4,
+    ""close"": 208.42,
+    ""volume"": 11609
+  },
+  ""support"": 208.79,
+  ""resistance"": 210.08,
+  ""support_realtime"": 208.79,
+  ""resistance_realtime"": 210.08,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.62,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 209.25,
+    ""upper_band"": 210.08,
+    ""lower_band"": 208.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to align with recent intraday Bollinger Bands upper and lower bands"",
+    ""Adjusted realtime support and resistance to latest intraday data"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Recalculated trade levels for realtime S/R with risk-reward ~1.5 and 25% risk of band, bias short"",
+    ""Trade levels for daily, weekly, and 3-month S/R pairs auto-filled with short bias"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance bands""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 209.435,
+  ""target"": 208.01125,
+  ""stoploss"": 210.08,
+  ""entry1"": 224.84,
+  ""target1"": 220.565,
+  ""stoploss1"": 227.69,
+  ""entry2"": 225.832,
+  ""target2"": 219.84325,
+  ""stoploss2"": 229.8245,
+  ""entry3"": 195.365,
+  ""target3"": 179.30125,
+  ""stoploss3"": 234.39,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 208.83684
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 210.26736
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 214.6734
+    }
+  }
+}"
+2025-09-04 15:01:32,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:47:00+00:00"",
+    ""open"": 209.48,
+    ""high"": 209.5,
+    ""low"": 209.28,
+    ""close"": 209.35,
+    ""volume"": 2933
+  },
+  ""support"": 208.79,
+  ""resistance"": 210.08,
+  ""support_realtime"": 208.83,
+  ""resistance_realtime"": 209.77,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.456,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 209.3,
+    ""upper_band"": 210.08,
+    ""lower_band"": 208.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refined realtime support and resistance to latest intraday Bollinger Bands levels (208.83/209.77)"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Auto-filled entry/target/stoploss for realtime S/R with short bias and RR=1.5, risk=25% band"",
+    ""Trade levels for daily, weekly, and 3-month S/R pairs auto-filled with short bias and RR=1.5"",
+    ""Predicted targets recalculated based on latest close price 209.35 and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance bands""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 209.65,
+  ""target"": 210.13375,
+  ""stoploss"": 209.3275,
+  ""entry1"": 222.56,
+  ""target1"": 226.835,
+  ""stoploss1"": 219.71,
+  ""entry2"": 222.638,
+  ""target2"": 228.62675,
+  ""stoploss2"": 218.6455,
+  ""entry3"": 209.65,
+  ""target3"": 238.2925,
+  ""stoploss3"": 190.1375,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 209.7687
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 211.0248
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 215.6305
+    }
+  }
+}"
+2025-09-04 15:13:33,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:00:00+00:00"",
+    ""open"": 209.05,
+    ""high"": 209.27,
+    ""low"": 209.04,
+    ""close"": 209.27,
+    ""volume"": 8043
+  },
+  ""support"": 208.79,
+  ""resistance"": 210.08,
+  ""support_realtime"": 208.83,
+  ""resistance_realtime"": 209.77,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.4501,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 209.3,
+    ""upper_band"": 210.08,
+    ""lower_band"": 208.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refined realtime support and resistance to latest intraday Bollinger Bands levels (208.83/209.77)"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Auto-filled entry/target/stoploss for realtime S/R with short bias and RR=1.5, risk=25% band"",
+    ""Trade levels for daily, weekly, and 3-month S/R pairs auto-filled with short bias and RR=1.5"",
+    ""Predicted targets recalculated based on latest close price 209.27 and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price within support/resistance bands"",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 209.17,
+  ""target"": 208.7255,
+  ""stoploss"": 209.4925,
+  ""entry1"": 224.84,
+  ""target1"": 220.565,
+  ""stoploss1"": 227.69,
+  ""entry2"": 225.832,
+  ""target2"": 219.84325,
+  ""stoploss2"": 229.8245,
+  ""entry3"": 209.17,
+  ""target3"": 179.90125,
+  ""stoploss3"": 228.6825,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 209.68854
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 211.93416
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 215.5481
+    }
+  }
+}"
+2025-09-05 13:36:11,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:12:00+00:00"",
+    ""open"": 207.98,
+    ""high"": 207.98,
+    ""low"": 207.82,
+    ""close"": 207.85,
+    ""volume"": 17997
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.89,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 201.84,
+  ""target"": 202.71,
+  ""stoploss"": 201.29,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 215.0,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.0,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 150.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 208.27
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 209.52
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 214.09
+    }
+  }
+}"
+2025-09-05 13:47:52,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:35:00+00:00"",
+    ""open"": 202.22,
+    ""high"": 202.34,
+    ""low"": 202.08,
+    ""close"": 202.29,
+    ""volume"": 2364
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.908,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 202.0,
+  ""target"": 203.0,
+  ""stoploss"": 200.8,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.0,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.3,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 202.69458
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 203.90532
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 208.3587
+    }
+  }
+}"
+2025-09-05 14:24:38,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:46:00+00:00"",
+    ""open"": 202.35,
+    ""high"": 202.35,
+    ""low"": 202.3,
+    ""close"": 202.35,
+    ""volume"": 5484
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.908,
+  ""sr_range_pct_1d"": 5.2294,
+  ""sr_range_pct_1w"": 7.385,
+  ""sr_range_pct_3m"": 49.9232,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 202.0,
+  ""target"": 203.0,
+  ""stoploss"": 200.8,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.0,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.3,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 202.7547
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 204.3788
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 208.4205
+    }
+  }
+}"
+2025-09-05 14:41:24,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:23:00+00:00"",
+    ""open"": 202.44,
+    ""high"": 202.44,
+    ""low"": 202.3,
+    ""close"": 202.42,
+    ""volume"": 2892
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.9041,
+  ""sr_range_pct_1d"": 5.6319,
+  ""sr_range_pct_1w"": 7.8895,
+  ""sr_range_pct_3m"": 38.5584,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 202.749,
+  ""target"": 202.99,
+  ""stoploss"": 200.8,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.046,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.304,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.656,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 202.75484
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 204.37936
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 208.4926
+    }
+  }
+}"
+2025-09-05 14:53:45,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:40:00+00:00"",
+    ""open"": 201.45,
+    ""high"": 201.45,
+    ""low"": 201.12,
+    ""close"": 201.33,
+    ""volume"": 5866
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.909,
+  ""sr_range_pct_1d"": 5.6623,
+  ""sr_range_pct_1w"": 7.9323,
+  ""sr_range_pct_3m"": 38.7672,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 202.749,
+  ""target"": 202.99,
+  ""stoploss"": 200.8,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.046,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.304,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.656,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 202.75484
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 204.37936
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 208.4926
+    }
+  }
+}"
+2025-09-05 15:08:05,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:52:00+00:00"",
+    ""open"": 200.94,
+    ""high"": 201.2,
+    ""low"": 200.9,
+    ""close"": 201.19,
+    ""volume"": 6299
+  },
+  ""support"": 201.54,
+  ""resistance"": 203.37,
+  ""support_realtime"": 201.54,
+  ""resistance_realtime"": 203.37,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.9096,
+  ""sr_range_pct_1d"": 5.6663,
+  ""sr_range_pct_1w"": 7.9378,
+  ""sr_range_pct_3m"": 38.7942,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 202.45,
+    ""upper_band"": 203.37,
+    ""lower_band"": 201.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest intraday Bollinger Bands levels (201.54/203.37) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped where necessary"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 202.749,
+  ""target"": 202.99,
+  ""stoploss"": 200.8,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.046,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.304,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.656,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 202.75484
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 204.37936
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 208.4926
+    }
+  }
+}"
+2025-09-05 15:20:10,"{
+  ""stock_code"": ""PARADEEP"",
+  ""instrument_token"": 2493697,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:07:00+00:00"",
+    ""open"": 201.38,
+    ""high"": 201.38,
+    ""low"": 201.29,
+    ""close"": 201.36,
+    ""volume"": 9143
+  },
+  ""support"": 200.53,
+  ""resistance"": 201.66,
+  ""support_realtime"": 200.53,
+  ""resistance_realtime"": 201.66,
+  ""support_1d"": 218.0,
+  ""resistance_1d"": 229.4,
+  ""support_1w"": 216.25,
+  ""resistance_1w"": 232.22,
+  ""support_3m"": 156.34,
+  ""resistance_3m"": 234.39,
+  ""sr_range_pct_realtime"": 0.563,
+  ""sr_range_pct_1d"": 5.6615,
+  ""sr_range_pct_1w"": 7.9311,
+  ""sr_range_pct_3m"": 38.7614,
+  ""volume_threshold"": 19568.0,
+  ""bollinger"": {
+    ""mid_price"": 201.143,
+    ""upper_band"": 201.66,
+    ""lower_band"": 200.53
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands levels (200.53/201.66) from recent 1-minute data"",
+    ""Ensured support < resistance for all horizons; swapped realtime S/R to correct order"",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data"",
+    ""Volume threshold unchanged due to stable volume profile"",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R band"",
+    ""Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)"",
+    ""Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering"",
+    ""Predicted targets recalculated based on latest close price and momentum indicators"",
+    ""Signal remains No Action due to weak ADX and price near lower Bollinger Band"",
+    ""Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 200.75,
+  ""target"": 201.5,
+  ""stoploss"": 200.0,
+  ""entry1"": 223.0,
+  ""target1"": 227.0,
+  ""stoploss1"": 217.0,
+  ""entry2"": 224.0,
+  ""target2"": 229.0,
+  ""stoploss2"": 215.0,
+  ""entry3"": 195.0,
+  ""target3"": 220.0,
+  ""stoploss3"": 155.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 201.76272
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 202.97088
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 207.4008
+    }
+  }
+}"

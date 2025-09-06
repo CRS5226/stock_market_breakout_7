@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:31:36,"{
+  ""stock_code"": ""HIKAL"",
+  ""instrument_token"": 2475009,
+  ""support"": 254.05,
+  ""resistance"": 268.2,
+  ""volume_threshold"": 400000,
+  ""bollinger"": {
+    ""mid_price"": 261.6075,
+    ""upper_band"": 262.1699,
+    ""lower_band"": 261.0451
+  },
+  ""macd"": {
+    ""signal_line"": 0.2385,
+    ""histogram"": -0.014,
+    ""ma_fast"": 261.86,
+    ""ma_slow"": 261.61,
+    ""ma_signal"": 262.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 261.86,
+    ""ma_slow"": 261.61
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with low volatility, indicating potential breakout zone."",
+    ""MACD histogram slightly negative but close to zero, suggesting weakening bearish momentum."",
+    ""ADX remains above 20, confirming trend strength but with recent sideways movement."",
+    ""Support adjusted downward to recent low of 254.05 due to short-term price action."",
+    ""Volume threshold increased to 400,000 to account for recent volume spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

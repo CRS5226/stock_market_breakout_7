@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:14:48,"{
+  ""stock_code"": ""GRINDWELL"",
+  ""instrument_token"": 3471361,
+  ""support"": 1468.0,
+  ""resistance"": 1499.9,
+  ""volume_threshold"": 40000,
+  ""bollinger"": {
+    ""mid_price"": 1483.1267,
+    ""upper_band"": 1483.7611,
+    ""lower_band"": 1482.4922
+  },
+  ""macd"": {
+    ""signal_line"": 0.2137,
+    ""histogram"": 0.0008,
+    ""ma_fast"": 1483.1444,
+    ""ma_slow"": 1483.1267,
+    ""ma_signal"": 0.2137
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1483.1444,
+    ""ma_slow"": 1483.1267
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with very tight range, indicating potential breakout."",
+    ""Price is near support level but with no clear breakout yet."",
+    ""Volume remains low but recent activity suggests increased volatility.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

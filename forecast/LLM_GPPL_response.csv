@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:26:52,"{
+  ""stock_code"": ""GPPL"",
+  ""instrument_token"": 5051137,
+  ""support"": 153.5,
+  ""resistance"": 160.4,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 153.8255,
+    ""upper_band"": 154.1241,
+    ""lower_band"": 153.5269
+  },
+  ""macd"": {
+    ""signal_line"": 0.0284,
+    ""histogram"": 0.0343,
+    ""ma_fast"": 0.0627,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to 153.5 based on recent lows near 153.43-153.86."",
+    ""Updated resistance to 160.4 based on recent high on 2025-08-13."",
+    ""Set Bollinger Bands to recent values from last daily and recent 1-minute data."",
+    ""Updated MACD parameters to recent values reflecting slight bullish momentum."",
+    ""Support level raised significantly from 1000 to 153.5 reflecting actual price range."",
+    ""Resistance lowered from 2000 to 160.4 reflecting recent price ceiling.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

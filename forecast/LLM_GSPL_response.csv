@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:15:01,"{
+  ""stock_code"": ""GSPL"",
+  ""instrument_token"": 3378433,
+  ""support"": 300.0,
+  ""resistance"": 310.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 306.94,
+    ""upper_band"": 307.97,
+    ""lower_band"": 305.91
+  },
+  ""macd"": {
+    ""signal_line"": -0.28,
+    ""histogram"": 0.05,
+    ""ma_fast"": 306.93,
+    ""ma_slow"": 306.94,
+    ""ma_signal"": -0.28
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent price range between 300 and 310 based on last week daily closes around 301-307."",
+    ""Bollinger Bands updated to reflect recent 1-minute data mid, upper, and lower bands around 306.94, 307.97, and 305.91 respectively."",
+    ""MACD parameters updated to recent values from 1-minute data showing slight negative signal line and small positive histogram indicating weak momentum."",
+    ""Signal set to Hold due to lack of strong breakout or trend confirmation in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

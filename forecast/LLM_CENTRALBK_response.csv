@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:33:03,"{
+  ""stock_code"": ""CENTRALBK"",
+  ""instrument_token"": 3812865,
+  ""support"": 1000.0,
+  ""resistance"": 2000.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 36.657,
+    ""upper_band"": 36.693386810797314,
+    ""lower_band"": 36.62061318920268
+  },
+  ""macd"": {
+    ""signal_line"": 0.01265726633996331,
+    ""histogram"": 0.01083914451007928,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger Bands to reflect recent 1-minute data mid, upper, and lower bands."",
+    ""Updated MACD signal line and histogram based on recent positive MACD histogram indicating slight bullish momentum."",
+    ""No change in support, resistance, or volume threshold as no breakout or significant volume change observed."",
+    ""ADX threshold and period unchanged due to stable ADX values around 20 indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:31:00"",
+  ""signal"": ""Hold""
+}"

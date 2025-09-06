@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:09:08,"{
+  ""stock_code"": ""SBICARD"",
+  ""instrument_token"": 4600577,
+  ""support"": 783.6,
+  ""resistance"": 820.0,
+  ""volume_threshold"": 900000,
+  ""bollinger"": {
+    ""mid_price"": 819.31,
+    ""upper_band"": 819.75,
+    ""lower_band"": 818.87
+  },
+  ""macd"": {
+    ""signal_line"": -0.0301,
+    ""histogram"": -0.0527,
+    ""ma_fast"": 819.29,
+    ""ma_slow"": 819.31,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 783.6 from historical data reflecting stronger recent lows."",
+    ""Resistance updated to 820.0 based on recent high and proximity to upper Bollinger Band."",
+    ""Volume threshold lowered to 900000 reflecting recent volume trends below previous threshold."",
+    ""Bollinger Bands updated to recent values from 1-minute data indicating current price range."",
+    ""MACD parameters updated to latest values from recent data indicating bearish momentum."",
+    ""ADX threshold increased to 25 due to rising ADX values signaling stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

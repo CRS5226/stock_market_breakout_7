@@ -1,0 +1,20 @@
+timestamp,raw_response
+2025-08-19 14:25:27,"{
+  ""stock_code"": ""MAHSEAMLES"",
+  ""instrument_token"": 534529,
+  ""support"": 673.4222,
+  ""resistance"": 695.0,
+  ""volume_threshold"": 591628,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout beyond previous resistance at 693.78, reaching 695.0."",
+    ""Support adjusted to recent low at 673.4222, aligning with recent lows."",
+    ""Volume has significantly increased, confirming breakout strength."",
+    ""ADX remains above 20, indicating a trending market.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Buy""
+}"

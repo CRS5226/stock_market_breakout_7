@@ -1,0 +1,40 @@
+timestamp,raw_response
+2025-08-19 14:18:17,"{
+  ""stock_code"": ""JSL"",
+  ""instrument_token"": 2876417,
+  ""support"": 676.0,
+  ""resistance"": 732.9,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 757.4611,
+    ""upper_band"": 758.5248,
+    ""lower_band"": 756.7307
+  },
+  ""macd"": {
+    ""signal_line"": 6.5934,
+    ""histogram"": 1.5128,
+    ""ma_fast"": 712.7722,
+    ""ma_slow"": 693.2975,
+    ""ma_signal"": 6.5934
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 757.4611,
+    ""ma_slow"": 757.6278
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands and stable moving averages, indicating no clear breakout or breakdown."",
+    ""No significant trend change or breakout detected in recent data; support and resistance levels remain valid.""
+  ],
+  ""last_updated"": ""2025-08-19 14:16:00"",
+  ""signal"": ""Hold""
+}"

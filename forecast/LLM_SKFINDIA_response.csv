@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:19:58,"{
+  ""stock_code"": ""SKFINDIA"",
+  ""instrument_token"": 815617,
+  ""support"": 4482.6,
+  ""resistance"": 4537.6,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 4536.3,
+    ""upper_band"": 4538.08,
+    ""lower_band"": 4534.21
+  },
+  ""macd"": {
+    ""signal_line"": 0.3969431273681039,
+    ""histogram"": 0.15874489011516268,
+    ""ma_fast"": 4536.3,
+    ""ma_slow"": 4536.1449999999995,
+    ""ma_signal"": 4536.1449999999995
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 4536.3,
+    ""ma_slow"": 4536.1449999999995
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout, maintaining current support level."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Support adjusted slightly to recent low close, resistance remains at recent high.""
+  ],
+  ""last_updated"": ""2025-08-19 14:18:00"",
+  ""signal"": ""Hold""
+}"

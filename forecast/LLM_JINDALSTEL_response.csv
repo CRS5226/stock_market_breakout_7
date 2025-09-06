@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:15:25,"{
+  ""stock_code"": ""JINDALSTEL"",
+  ""instrument_token"": 1723649,
+  ""support"": 975.4,
+  ""resistance"": 1021.75,
+  ""volume_threshold"": 1200000,
+  ""bollinger"": {
+    ""mid_price"": 1001.3764705882354,
+    ""upper_band"": 1002.4281458048522,
+    ""lower_band"": 1000.3247953716186
+  },
+  ""macd"": {
+    ""signal_line"": 0.20742678180636176,
+    ""histogram"": 0.04070967371996578,
+    ""ma_fast"": 0.21860871388753367,
+    ""ma_slow"": 0.15653968965640452,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 975.4 from 2025-08-14 candle."",
+    ""Resistance updated to recent high of 1021.75 from 2025-08-13 candle."",
+    ""Volume threshold increased to 1,200,000 to reflect recent higher volumes."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values from latest 1-minute data."",
+    ""MACD parameters updated to recent values indicating slight bullish momentum."",
+    ""Signal set to Hold due to price near upper Bollinger Band but no strong breakout confirmed.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

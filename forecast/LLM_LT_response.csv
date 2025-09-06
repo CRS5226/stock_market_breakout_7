@@ -1,0 +1,20 @@
+timestamp,raw_response
+2025-08-19 15:24:20,"{
+  ""stock_code"": ""LT"",
+  ""instrument_token"": 2939649,
+  ""support"": 3619.39,
+  ""resistance"": 3624.13,
+  ""volume_threshold"": 10736,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support around 3619.39 and resistance at 3624.13 with low volatility and no clear breakout signals."",
+    ""Volume has increased slightly but remains below previous high levels, indicating no strong breakout."",
+    ""MACD remains neutral with no significant divergence; ADX stays below 20, indicating weak trend strength."",
+    ""Recent price action suggests sideways movement, supporting a hold signal.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,479 @@
+timestamp,raw_response
+2025-08-19 13:01:12,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""bollinger"": {
+    ""mid_price"": 1414.33,
+    ""upper_band"": 1415.63,
+    ""lower_band"": 1413.03
+  },
+  ""macd"": {
+    ""signal_line"": -0.040406880865507935,
+    ""histogram"": -0.08515849100191596,
+    ""ma_fast"": 1414.3111111111111,
+    ""ma_slow"": 1414.33,
+    ""ma_signal"": -0.040406880865507935
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 1415.6 based on recent 1-minute candle high breaking previous resistance of 1395.0."",
+    ""Bollinger bands updated to reflect recent price consolidation around 1414.33 mid price with tight upper and lower bands."",
+    ""MACD values updated to reflect recent negative histogram and signal line indicating weakening momentum."",
+    ""Support remains at 1382.9 as recent lows have not breached this level."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent data."",
+    ""ADX threshold and period unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price broke resistance but momentum indicators show weakening strength and volume is low.""
+  ],
+  ""last_updated"": ""2025-08-19 13:05:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:01:37,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""bollinger"": {
+    ""mid_price"": 1414.33,
+    ""upper_band"": 1415.63,
+    ""lower_band"": 1413.03
+  },
+  ""macd"": {
+    ""signal_line"": -0.040406880865507935,
+    ""histogram"": -0.08515849100191596,
+    ""ma_fast"": 1414.3111111111111,
+    ""ma_slow"": 1414.33,
+    ""ma_signal"": -0.040406880865507935
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 1415.6 based on recent 1-minute candle high breaking previous resistance of 1395.0."",
+    ""Bollinger bands updated to reflect recent price consolidation around 1414.33 mid price with tight upper and lower bands."",
+    ""MACD values updated to reflect recent negative histogram and signal line indicating weakening momentum."",
+    ""Support remains at 1382.9 as recent lows have not breached this level."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent data."",
+    ""ADX threshold and period unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price broke resistance but momentum indicators show weakening strength and volume is low.""
+  ],
+  ""last_updated"": ""2025-08-19 13:05:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:01:59,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high confirms previous breakout level."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price broke resistance but momentum indicators (MACD histogram negative) show weakening strength and volume is low.""
+  ],
+  ""last_updated"": ""2025-08-19 13:05:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:02:18,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high (1414.5) is just below resistance, showing no breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volume 712 is low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is below resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:02:41,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high (1414.5) is just below resistance, showing no breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volume 712 is low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is below resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:03:07,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high (1414.5) is just below resistance, showing no breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volume 712 is low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is below resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:03:29,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high (1414.5) is just below resistance, showing no breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volume 28 is very low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is below resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:03:51,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.6,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.6 as recent 1-minute candle high (1414.5) is just below resistance, showing no breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volume 28 is very low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is below resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:13,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.7,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance updated to 1415.7 based on recent 1-minute candle high breakout at 1414.5 and 1415.4 levels, indicating a new short-term resistance."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volumes remain low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is near resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:32,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.7,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.7 as recent 1-minute candles show prices testing but not breaking above this level."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volumes remain low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is near resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:54,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.7,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.7 as recent 1-minute candles show prices testing but not breaking above this level."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volumes remain low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is near resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:06:03,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.7,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.7 as recent 1-minute candles show prices testing but not breaking above this level."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volumes remain low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is near resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:06:23,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1415.7,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1415.7 as recent 1-minute candles show prices testing but not breaking above this level."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged due to no significant volume breakout in recent 1-minute candles (volumes remain very low)."",
+    ""ADX parameters unchanged as ADX remains above threshold indicating trend presence but no major change."",
+    ""Signal set to Hold as price is near resistance with weakening MACD histogram and low volume, indicating no strong buy or sell momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:59:15,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 738561,
+  ""support"": 1360.0,
+  ""resistance"": 1420.0,
+  ""volume_threshold"": 8000000,
+  ""bollinger"": {
+    ""mid_price"": 1414.21,
+    ""upper_band"": 1415.39,
+    ""lower_band"": 1413.04
+  },
+  ""macd"": {
+    ""signal_line"": -0.11,
+    ""histogram"": -0.05,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1360 based on recent lows around 1361-1365 in last week."",
+    ""Resistance updated to 1420 reflecting recent highs and 20-day high around 1420."",
+    ""Volume threshold lowered to 8,000,000 reflecting recent average volumes around 7-12 million."",
+    ""Bollinger Bands updated to recent 1-minute data mid, upper, and lower bands around 1414.21, 1415.39, 1413.04."",
+    ""MACD signal and histogram updated to recent slight negative values indicating weak bearish momentum."",
+    ""ADX threshold increased to 30 indicating stronger trend confirmation needed for signals."",
+    ""Signal set to Hold due to price near resistance but weak momentum and volume.""
+  ],
+  ""last_updated"": ""2025-08-19 13:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:42:40,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 738561,
+  ""support"": 1360.0,
+  ""resistance"": 1420.0,
+  ""volume_threshold"": 8000000,
+  ""bollinger"": {
+    ""mid_price"": 1416.53,
+    ""upper_band"": 1418.44,
+    ""lower_band"": 1414.62
+  },
+  ""macd"": {
+    ""signal_line"": 0.56,
+    ""histogram"": 0.18,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data with mid at 1416.53, upper at 1418.44, and lower at 1414.62 indicating a slight upward shift."",
+    ""MACD signal line and histogram updated to positive values (0.56 and 0.18) from recent 1-minute data indicating improving bullish momentum."",
+    ""Support and resistance levels retained as recent price action respects 1360 support and 1420 resistance."",
+    ""Volume threshold retained at 8,000,000 as recent volumes remain consistent with historical averages."",
+    ""ADX threshold retained at 30 indicating strong trend confirmation requirement remains valid."",
+    ""Signal updated to Buy due to price breaking near upper Bollinger band with positive MACD momentum and ADX above threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:23:21,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 738561,
+  ""support"": 1360.0,
+  ""resistance"": 1420.0,
+  ""volume_threshold"": 8000000,
+  ""bollinger"": {
+    ""mid_price"": 1416.53,
+    ""upper_band"": 1418.44,
+    ""lower_band"": 1414.62
+  },
+  ""macd"": {
+    ""signal_line"": 0.56,
+    ""histogram"": 0.18,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data with mid at 1416.53, upper at 1418.44, and lower at 1414.62 indicating a slight upward shift."",
+    ""MACD signal line and histogram updated to positive values (0.56 and 0.18) from recent 1-minute data indicating improving bullish momentum."",
+    ""Support and resistance levels retained as recent price action respects 1360 support and 1420 resistance."",
+    ""Volume threshold retained at 8,000,000 as recent volumes remain consistent with historical averages."",
+    ""ADX threshold retained at 30 indicating strong trend confirmation requirement remains valid."",
+    ""Signal updated to Buy due to price breaking near upper Bollinger band with positive MACD momentum and ADX above threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-20 13:02:57,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1421.0,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance updated to 1421.0 due to recent 1-minute candles breaking above previous resistance of 1415.7 and closing near 1420.6, indicating a breakout."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged as recent volumes, although higher near breakout, do not show a sustained significant volume breakout beyond historical threshold."",
+    ""ADX parameters unchanged as ADX remains around 18.5-20, slightly below threshold, indicating weakening trend strength."",
+    ""Signal set to Hold as breakout is recent but volume and ADX do not strongly confirm sustained momentum yet.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-20 13:03:15,"{
+  ""stock_code"": ""RELIANCE"",
+  ""instrument_token"": 128083204,
+  ""support"": 1382.9,
+  ""resistance"": 1421.0,
+  ""volume_threshold"": 9315972,
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""reason"": [
+    ""Resistance remains at 1421.0 as recent 1-minute candles are closing near this level but have not decisively broken above it."",
+    ""Support remains at 1382.9 as recent lows have not breached this level in both historical and recent data."",
+    ""Volume threshold unchanged as recent volumes remain very low compared to historical average, showing no sustained volume breakout."",
+    ""ADX threshold remains at 20 as recent ADX values are below threshold (~17.3), indicating weak trend strength."",
+    ""Signal set to Hold as price is near resistance without strong volume or ADX confirmation for breakout.""
+  ],
+  ""last_updated"": ""2025-08-20 13:05:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:29:32,"{
+  ""stock_code"": ""NESCO"",
+  ""instrument_token"": 3944705,
+  ""support"": 1340.0,
+  ""resistance"": 1420.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1364.0,
+    ""upper_band"": 1420.0,
+    ""lower_band"": 1348.0
+  },
+  ""macd"": {
+    ""signal_line"": 55.0,
+    ""histogram"": -4.0,
+    ""ma_fast"": 1418.0,
+    ""ma_slow"": 1417.0,
+    ""ma_signal"": 55.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1418,
+    ""ma_slow"": 1417
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout with increased volume and positive MACD histogram, indicating bullish momentum."",
+    ""Support adjusted upward to 1340 based on recent lows, resistance increased to 1420 due to recent high breakouts."",
+    ""Volatility has increased as shown by wider Bollinger Bands, suggesting potential for further movement.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Buy""
+}"

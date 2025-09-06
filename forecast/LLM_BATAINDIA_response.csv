@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:13:49,"{
+  ""stock_code"": ""BATAINDIA"",
+  ""instrument_token"": 94977,
+  ""support"": 1025.1,
+  ""resistance"": 1133.5,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1132.9266666666667,
+    ""upper_band"": 1133.4505835387838,
+    ""lower_band"": 1132.4027497945497
+  },
+  ""macd"": {
+    ""signal_line"": 0.09348628318745271,
+    ""histogram"": -0.015916289459632235,
+    ""ma_fast"": 0.07756999372782047,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 1025.1 from 2025-08-14 daily candle reflecting recent downtrend low."",
+    ""Resistance updated to recent upper Bollinger Band and high of 1133.5 from recent 1-minute candles indicating short-term resistance."",
+    ""Bollinger Bands updated to recent values from 1-minute data for short-term accuracy."",
+    ""MACD parameters updated to recent values reflecting current momentum."",
+    ""Signal set to Hold due to price near resistance and no strong breakout or volume surge.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

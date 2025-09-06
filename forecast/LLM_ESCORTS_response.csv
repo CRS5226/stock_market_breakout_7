@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:10:09,"{
+  ""stock_code"": ""ESCORTS"",
+  ""instrument_token"": 245249,
+  ""support"": 3363.2,
+  ""resistance"": 3420.2,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 3379.9333,
+    ""upper_band"": 3491.7086,
+    ""lower_band"": 3250.7
+  },
+  ""macd"": {
+    ""signal_line"": 8.8949,
+    ""histogram"": -4.2104,
+    ""ma_fast"": 3379.9333,
+    ""ma_slow"": 3400.925,
+    ""ma_signal"": 8.8949
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 3582.2556,
+    ""ma_slow"": 3581.5909
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout signals."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Support and resistance levels remain stable; no adjustment justified.""
+  ],
+  ""last_updated"": ""2025-08-19 14:08:00"",
+  ""signal"": ""Hold""
+}"

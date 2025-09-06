@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:22:27,"{
+  ""stock_code"": ""KPITTECH"",
+  ""instrument_token"": 2478849,
+  ""support"": 1180.0,
+  ""resistance"": 1300.9,
+  ""volume_threshold"": 700000,
+  ""bollinger"": {
+    ""mid_price"": 1230.725,
+    ""upper_band"": 1288.6235,
+    ""lower_band"": 1172.8265
+  },
+  ""macd"": {
+    ""signal_line"": -20.7133,
+    ""histogram"": 1.1161,
+    ""ma_fast"": 1208.6222,
+    ""ma_slow"": 1230.725,
+    ""ma_signal"": -19.5972
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 19
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1180.0 based on recent lows and historical LL20."",
+    ""Resistance updated to 1300.9 based on recent highs and historical HH20."",
+    ""Volume threshold lowered to 700000 due to recent average volume decline."",
+    ""Bollinger bands updated to recent mid, upper, and lower values."",
+    ""MACD parameters updated to reflect recent values indicating slight bullish momentum."",
+    ""ADX threshold slightly lowered to 19 due to recent ADX values trending below previous threshold."",
+    ""Signal set to Hold due to consolidation near support with no strong breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

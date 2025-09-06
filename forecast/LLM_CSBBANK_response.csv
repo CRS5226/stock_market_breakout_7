@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:33:35,"{
+  ""stock_code"": ""CSBBANK"",
+  ""instrument_token"": 3831297,
+  ""support"": 375.0,
+  ""resistance"": 445.35,
+  ""volume_threshold"": 1500000,
+  ""bollinger"": {
+    ""mid_price"": 395.415,
+    ""upper_band"": 395.825,
+    ""lower_band"": 395.005
+  },
+  ""macd"": {
+    ""signal_line"": 0.0805,
+    ""histogram"": 0.0218,
+    ""ma_fast"": 395.606,
+    ""ma_slow"": 395.415,
+    ""ma_signal"": 0.0805
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 375.0 based on recent daily low on 2025-08-14."",
+    ""Resistance updated to 445.35 based on recent daily high on 2025-08-13."",
+    ""Volume threshold increased to 1,500,000 reflecting higher recent daily volumes."",
+    ""Bollinger bands updated to recent 1-minute data levels."",
+    ""MACD parameters updated to recent 1-minute data values."",
+    ""Signal set to Hold due to price consolidation near Bollinger mid and no strong breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:32:00"",
+  ""signal"": ""Hold""
+}"

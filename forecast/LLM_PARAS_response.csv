@@ -1,0 +1,3899 @@
+timestamp,raw_response
+2025-08-19 13:28:44,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 644.0,
+  ""resistance"": 672.8,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 670.23,
+    ""upper_band"": 670.89,
+    ""lower_band"": 669.57
+  },
+  ""macd"": {
+    ""signal_line"": 0.0558,
+    ""histogram"": 0.0447,
+    ""ma_fast"": 680.34,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near support at 644.0 with low volatility and no clear breakout signals."",
+    ""MACD remains near zero, indicating neutral momentum, and ADX is stable below the threshold for a strong trend."",
+    ""Volume has not significantly increased compared to recent days, suggesting no breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 13:27:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:34:38,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 644.0,
+  ""resistance"": 672.8,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 679.4,
+    ""upper_band"": 681.36,
+    ""lower_band"": 677.76
+  },
+  ""macd"": {
+    ""signal_line"": 0.068,
+    ""histogram"": -0.207,
+    ""ma_fast"": 679.4,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate a strong upward momentum with the close near the upper Bollinger band, suggesting potential breakout."",
+    ""MACD has crossed above zero and shows increasing positive histogram, indicating bullish momentum."",
+    ""ADX remains below the threshold, indicating a developing trend rather than a strong trend yet."",
+    ""Volume remains stable but recent price action suggests a possible breakout above resistance at 672.8.""
+  ],
+  ""last_updated"": ""2025-08-19 13:33:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:38:54,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 644.0,
+  ""resistance"": 672.8,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 679.4,
+    ""upper_band"": 681.36,
+    ""lower_band"": 677.76
+  },
+  ""macd"": {
+    ""signal_line"": 0.068,
+    ""histogram"": -0.207,
+    ""ma_fast"": 679.4,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near support with minimal volatility, indicating no strong breakout signals."",
+    ""MACD remains negative with no significant upward momentum observed in recent candles."",
+    ""ADX continues below threshold, suggesting a weak trend or sideways movement."",
+    ""Volume remains stable, and recent price action does not indicate a breakout or breakdown.""
+  ],
+  ""last_updated"": ""2025-08-19 13:37:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:53:45,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 644.0,
+  ""resistance"": 672.8,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 679.4,
+    ""upper_band"": 681.36,
+    ""lower_band"": 677.76
+  },
+  ""macd"": {
+    ""signal_line"": 0.068,
+    ""histogram"": -0.207,
+    ""ma_fast"": 679.4,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward breakout above resistance with increased volume, indicating potential bullish momentum."",
+    ""MACD remains negative but shows signs of convergence towards zero, suggesting a possible trend reversal."",
+    ""ADX has increased slightly above threshold, indicating strengthening trend activity."",
+    ""Volume has increased notably in recent candles, supporting the breakout signal.""
+  ],
+  ""last_updated"": ""2025-08-19 13:37:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:15:39,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 679.12,
+  ""resistance"": 681.13,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 679.12,
+    ""upper_band"": 681.13,
+    ""lower_band"": 677.11
+  },
+  ""macd"": {
+    ""signal_line"": 0.3692,
+    ""histogram"": 0.2423,
+    ""ma_fast"": 679.7,
+    ""ma_slow"": 679.12,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 679.12 with low volatility and no clear breakout signals."",
+    ""MACD remains positive but shows signs of flattening, indicating potential sideways movement."",
+    ""No significant volume or trend change observed in recent data to justify adjustment.""
+  ],
+  ""last_updated"": ""2025-08-19 15:14:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:19:59,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 679.12,
+  ""resistance"": 681.13,
+  ""volume_threshold"": 989027,
+  ""bollinger"": {
+    ""mid_price"": 679.12,
+    ""upper_band"": 681.13,
+    ""lower_band"": 677.11
+  },
+  ""macd"": {
+    ""signal_line"": 0.3692,
+    ""histogram"": 0.2423,
+    ""ma_fast"": 679.7,
+    ""ma_slow"": 679.12,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show slight upward momentum with close near resistance at 681.13, indicating potential for a breakout."",
+    ""MACD remains positive and slightly increasing, supporting bullish sentiment."",
+    ""Vwap difference and ATR suggest increased volatility, which may lead to a breakout."",
+    ""Support remains stable, but resistance is being tested with recent high activity.""
+  ],
+  ""last_updated"": ""2025-08-19 15:18:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-22 12:05:05,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 678.54,
+  ""resistance"": 692.01,
+  ""volume_threshold"": 657,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""macd"": {
+    ""signal_line"": 0.3692,
+    ""histogram"": 0.2423,
+    ""ma_fast"": 679.7,
+    ""ma_slow"": 679.12,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with MACD crossing above signal line, indicating bullish momentum."",
+    ""Price is approaching resistance level, but recent volume and ADX suggest trend strength remains high."",
+    ""No significant breakouts or breakdowns observed in recent data, support remains unchanged.""
+  ],
+  ""last_updated"": ""2025-08-21 14:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:10:22,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""support"": 678.54,
+  ""resistance"": 692.01,
+  ""volume_threshold"": 657,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""macd"": {
+    ""signal_line"": 0.3692,
+    ""histogram"": 0.2423,
+    ""ma_fast"": 679.7,
+    ""ma_slow"": 679.12,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with MACD crossing above signal line, indicating bullish momentum."",
+    ""Price is approaching resistance level, but recent volume and ADX suggest trend strength remains high."",
+    ""No significant breakouts or breakdowns observed in recent data, support remains unchanged.""
+  ],
+  ""last_updated"": ""2025-08-21 14:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:35:55,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 647.0,
+  ""resistance"": 649.35,
+  ""volume_threshold"": 463,
+  ""bollinger"": {
+    ""mid_price"": 648.17,
+    ""upper_band"": 649.22,
+    ""lower_band"": 647.51
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show upward momentum with higher lows and highs."",
+    ""Current close near support level with bullish indicators in recent indicator data."",
+    ""Bollinger bands slightly expanding, indicating increased volatility but still within range."",
+    ""ADX remains above threshold, confirming trend strength."",
+    ""Recent momentum suggests potential for short-term upward movement.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 658.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 673.0
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 704.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 658.4,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 673.0,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 704.0,
+      ""ret"": 0.085
+    }
+  }
+}"
+2025-09-01 14:44:38,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:34:00+00:00"",
+    ""open"": 667.5,
+    ""high"": 669.0,
+    ""low"": 667.5,
+    ""close"": 668.95,
+    ""volume"": 4448
+  },
+  ""support"": 647.0,
+  ""resistance"": 649.35,
+  ""volume_threshold"": 463,
+  ""bollinger"": {
+    ""mid_price"": 648.17,
+    ""upper_band"": 649.22,
+    ""lower_band"": 647.51
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show upward momentum with higher lows and highs."",
+    ""Current close near support level with bullish indicators in recent indicator data."",
+    ""Bollinger bands slightly expanding, indicating increased volatility but still within range."",
+    ""ADX remains above threshold, confirming trend strength."",
+    ""Recent momentum suggests potential for short-term upward movement.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 681.3
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 689.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 727.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 681.3,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 689.4,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 727.4,
+      ""ret"": 0.085
+    }
+  }
+}"
+2025-09-01 14:52:34,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:43:00+00:00"",
+    ""open"": 663.0,
+    ""high"": 663.4,
+    ""low"": 662.0,
+    ""close"": 662.0,
+    ""volume"": 1134
+  },
+  ""support"": 647.0,
+  ""resistance"": 649.35,
+  ""volume_threshold"": 463,
+  ""bollinger"": {
+    ""mid_price"": 648.17,
+    ""upper_band"": 649.22,
+    ""lower_band"": 647.51
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show upward momentum with higher lows and highs."",
+    ""Current close near support level with bullish indicators in recent indicator data."",
+    ""Bollinger bands slightly expanding, indicating increased volatility but still within range."",
+    ""ADX remains above threshold, confirming trend strength."",
+    ""Recent momentum suggests potential for short-term upward movement.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 674.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 689.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 727.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 674.4,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 689.4,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 727.4,
+      ""ret"": 0.085
+    }
+  }
+}"
+2025-09-01 14:59:04,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:51:00+00:00"",
+    ""open"": 660.0,
+    ""high"": 660.3,
+    ""low"": 660.0,
+    ""close"": 660.2,
+    ""volume"": 782
+  },
+  ""support"": 647.0,
+  ""resistance"": 649.35,
+  ""volume_threshold"": 463,
+  ""bollinger"": {
+    ""mid_price"": 648.17,
+    ""upper_band"": 649.22,
+    ""lower_band"": 647.51
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent recent indicator momentum remains bullish with positive MACD and +DI."",
+    ""Price remains near support with no significant breakdown signals."",
+    ""Bollinger bands are stable with slight expansion, indicating moderate volatility."",
+    ""ADX remains above threshold, confirming trend strength."",
+    ""Recent momentum suggests potential for short-term upward movement.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 674.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 689.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 727.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 674.4,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 689.4,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 727.4,
+      ""ret"": 0.085
+    }
+  }
+}"
+2025-09-02 11:03:09,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:00:00+00:00"",
+    ""open"": 667.8,
+    ""high"": 668.05,
+    ""low"": 667.2,
+    ""close"": 668.05,
+    ""volume"": 176
+  },
+  ""support"": 678.54,
+  ""resistance"": 692.01,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price is near support level but within Bollinger bands, indicating potential consolidation."",
+    ""ADX is below threshold, suggesting weak trend strength."",
+    ""Recent momentum shows slight upward movement but lacks strong breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:11:53,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:02:00+00:00"",
+    ""open"": 666.8,
+    ""high"": 667.8,
+    ""low"": 666.8,
+    ""close"": 667.35,
+    ""volume"": 44
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 648.15,
+  ""resistance_realtime"": 669.0,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 3.122,
+  ""sr_range_pct_1d"": 2.246,
+  ""sr_range_pct_1w"": 5.2108,
+  ""sr_range_pct_3m"": 49.9214,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price is near support level but within Bollinger bands, indicating potential consolidation."",
+    ""ADX is below threshold, suggesting weak trend strength."",
+    ""Recent momentum shows slight upward movement but lacks strong breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  },
+  ""last_updated"": ""2025-09-02 11:03:09"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.246
+}"
+2025-09-02 11:20:22,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:10:00+00:00"",
+    ""open"": 666.8,
+    ""high"": 667.45,
+    ""low"": 666.8,
+    ""close"": 667.45,
+    ""volume"": 387
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 654.55,
+  ""resistance_realtime"": 669.0,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 2.1661,
+  ""sr_range_pct_1d"": 2.2485,
+  ""sr_range_pct_1w"": 5.2166,
+  ""sr_range_pct_3m"": 49.9775,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:29:06,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:19:00+00:00"",
+    ""open"": 669.05,
+    ""high"": 669.05,
+    ""low"": 667.75,
+    ""close"": 667.85,
+    ""volume"": 414
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 655.55,
+  ""resistance_realtime"": 669.3,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 2.0544,
+  ""sr_range_pct_1d"": 2.2411,
+  ""sr_range_pct_1w"": 5.1995,
+  ""sr_range_pct_3m"": 49.8132,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:38:09,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:28:00+00:00"",
+    ""open"": 668.1,
+    ""high"": 668.9,
+    ""low"": 668.1,
+    ""close"": 668.1,
+    ""volume"": 469
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 659.55,
+  ""resistance_realtime"": 669.3,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.4607,
+  ""sr_range_pct_1d"": 2.2472,
+  ""sr_range_pct_1w"": 5.2135,
+  ""sr_range_pct_3m"": 49.9476,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:47:09,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:37:00+00:00"",
+    ""open"": 671.0,
+    ""high"": 671.0,
+    ""low"": 669.15,
+    ""close"": 669.15,
+    ""volume"": 2260
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 659.55,
+  ""resistance_realtime"": 671.0,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.7081,
+  ""sr_range_pct_1d"": 2.2376,
+  ""sr_range_pct_1w"": 5.1913,
+  ""sr_range_pct_3m"": 49.7352,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:56:13,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:46:00+00:00"",
+    ""open"": 668.65,
+    ""high"": 669.2,
+    ""low"": 668.65,
+    ""close"": 669.2,
+    ""volume"": 121
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 660.0,
+  ""resistance_realtime"": 671.0,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6442,
+  ""sr_range_pct_1d"": 2.2422,
+  ""sr_range_pct_1w"": 5.2018,
+  ""sr_range_pct_3m"": 49.8356,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 12:04:45,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:55:00+00:00"",
+    ""open"": 670.2,
+    ""high"": 670.2,
+    ""low"": 670.0,
+    ""close"": 670.0,
+    ""volume"": 376
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 660.75,
+  ""resistance_realtime"": 672.35,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.7301,
+  ""sr_range_pct_1d"": 2.2371,
+  ""sr_range_pct_1w"": 5.1902,
+  ""sr_range_pct_3m"": 49.7241,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 12:13:21,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:03:00+00:00"",
+    ""open"": 671.5,
+    ""high"": 672.35,
+    ""low"": 671.5,
+    ""close"": 672.0,
+    ""volume"": 1271
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 666.3,
+  ""resistance_realtime"": 672.35,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 0.9011,
+  ""sr_range_pct_1d"": 2.2341,
+  ""sr_range_pct_1w"": 5.1832,
+  ""sr_range_pct_3m"": 49.6574,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 14:08:29,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:12:00+00:00"",
+    ""open"": 671.55,
+    ""high"": 676.95,
+    ""low"": 671.55,
+    ""close"": 676.95,
+    ""volume"": 10501
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 666.3,
+  ""resistance_realtime"": 676.95,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.5859,
+  ""sr_range_pct_1d"": 2.2336,
+  ""sr_range_pct_1w"": 5.182,
+  ""sr_range_pct_3m"": 49.6463,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 14:17:16,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 671.41
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.07
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.51
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:07:00+00:00"",
+    ""open"": 668.0,
+    ""high"": 668.6,
+    ""low"": 667.4,
+    ""close"": 668.6,
+    ""volume"": 767
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 667.1,
+  ""resistance_realtime"": 677.55,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.5644,
+  ""sr_range_pct_1d"": 2.2455,
+  ""sr_range_pct_1w"": 5.2096,
+  ""sr_range_pct_3m"": 49.9102,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 671.41,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.07,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.51,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 14:24:02,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 668.4 * (1 + 0.005),
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 668.4 * (1 + 0.015),
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 668.4 * (1 + 0.045),
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:32:52,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 668.35
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.00
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.00
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:16:00+00:00"",
+    ""open"": 668.0,
+    ""high"": 668.0,
+    ""low"": 668.0,
+    ""close"": 668.0,
+    ""volume"": 231
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 667.1,
+  ""resistance_realtime"": 675.3,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.2276,
+  ""sr_range_pct_1d"": 2.2457,
+  ""sr_range_pct_1w"": 5.21,
+  ""sr_range_pct_3m"": 49.9139,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 668.35,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.00,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.00,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 15:16:32,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 669.55
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:32:52+00:00"",
+    ""open"": 665.35,
+    ""high"": 666.0,
+    ""low"": 665.3,
+    ""close"": 665.4,
+    ""volume"": 1100
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 665.3,
+  ""resistance_realtime"": 675.3,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.503,
+  ""sr_range_pct_1d"": 2.2545,
+  ""sr_range_pct_1w"": 5.2303,
+  ""sr_range_pct_3m"": 50.109,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 668.35,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.0,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.0,
+      ""ret"": 0.045
+    }
+  ],
+  ""last_updated"": ""2025-09-02 14:32:52"",
+  ""forecast"": ""AI""
+}"
+2025-09-02 15:25:14,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 669.65
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:31:00+00:00"",
+    ""open"": 665.35,
+    ""high"": 666.0,
+    ""low"": 665.3,
+    ""close"": 665.4,
+    ""volume"": 1100
+  },
+  ""support"": 675.0,
+  ""resistance"": 690.0,
+  ""support_realtime"": 665.3,
+  ""resistance_realtime"": 675.3,
+  ""support_1d"": 675.0,
+  ""resistance_1d"": 690.0,
+  ""support_1w"": 655.2,
+  ""resistance_1w"": 690.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.503,
+  ""sr_range_pct_1d"": 2.2545,
+  ""sr_range_pct_1w"": 5.2303,
+  ""sr_range_pct_3m"": 50.109,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-03 11:00:00+00:00"",
+      ""price"": 668.35,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": ""2025-09-09 11:00:00+00:00"",
+      ""price"": 680.0,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": ""2025-11-02 11:00:00+00:00"",
+      ""price"": 695.0,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 15:33:54,"{
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data confirms current levels."",
+    ""No significant trend strength indicated by ADX below threshold."",
+    ""Price continues to hover near support, suggesting consolidation."",
+    ""Recent momentum shows minimal change, no breakout signals.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:24:00+00:00"",
+    ""open"": 669.25,
+    ""high"": 670.25,
+    ""low"": 669.2,
+    ""close"": 670.25,
+    ""volume"": 3137
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 671.45,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 0.9333,
+  ""sr_range_pct_1d"": 4.032,
+  ""sr_range_pct_1w"": 8.6762,
+  ""sr_range_pct_3m"": 49.7872,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-03 11:55:35,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 672.9,
+    ""high"": 672.9,
+    ""low"": 672.9,
+    ""close"": 672.9,
+    ""volume"": 0
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6421,
+  ""sr_range_pct_1d"": 4.0125,
+  ""sr_range_pct_1w"": 8.6343,
+  ""sr_range_pct_3m"": 49.5467,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Volume threshold remains unchanged at 241 due to consistent volume patterns."",
+    ""Bollinger bands slightly adjusted, mid at 685.28, upper at 692.01, lower at 678.54, indicating current volatility."",
+    ""ADX remains at 26.6, indicating a moderate trend strength."",
+    ""Moving averages (9 and 20) are stable, confirming current trend direction."",
+    ""Inside bar lookback remains at 1, indicating recent consolidation."",
+    ""Candle body percent threshold unchanged at 0.7.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-03 12:05:18,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:15:00,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:04:00+00:00"",
+    ""open"": 667.85,
+    ""high"": 667.85,
+    ""low"": 667.15,
+    ""close"": 667.8,
+    ""volume"": 802
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-03 12:23:56,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:13:00+00:00"",
+    ""open"": 667.8,
+    ""high"": 668.0,
+    ""low"": 667.3,
+    ""close"": 667.3,
+    ""volume"": 402
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ]
+}"
+2025-09-03 12:33:37,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:22:00+00:00"",
+    ""open"": 667.95,
+    ""high"": 667.95,
+    ""low"": 667.2,
+    ""close"": 667.25,
+    ""volume"": 39
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ]
+}"
+2025-09-03 15:28:34,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:32:00+00:00"",
+    ""open"": 666.0,
+    ""high"": 666.2,
+    ""low"": 666.0,
+    ""close"": 666.2,
+    ""volume"": 317
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ]
+}"
+2025-09-03 15:38:47,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:27:00+00:00"",
+    ""open"": 664.0,
+    ""high"": 664.65,
+    ""low"": 664.0,
+    ""close"": 664.05,
+    ""volume"": 1104
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ]
+}"
+2025-09-04 11:11:59,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:31:00+00:00"",
+    ""open"": 664.4,
+    ""high"": 664.4,
+    ""low"": 664.4,
+    ""close"": 664.4,
+    ""volume"": 0
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ]
+}"
+2025-09-04 11:21:44,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:10:00+00:00"",
+    ""open"": 669.0,
+    ""high"": 669.35,
+    ""low"": 669.0,
+    ""close"": 669.0,
+    ""volume"": 593
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data."",
+    ""Revised support at 642.0 and resistance at 669.0 from historical data."",
+    ""Realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility."",
+    ""No significant change in volume threshold; remains at 241 due to stable volume patterns."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.9300000000001,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""reason_for_changes"": [
+    ""Updated support and resistance levels based on recent daily and weekly data."",
+    ""Adjusted realtime support and resistance to reflect latest indicator readings."",
+    ""Revised predicted targets to align with recent trend and volatility patterns.""
+  ],
+  ""last_updated"": ""2025-09-04 11:11:59"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 4.2056,
+  ""respected_S"": 4,
+  ""respected_R"": 8,
+  ""respected_S1"": 5,
+  ""respected_R1"": 8,
+  ""respected_S2"": 5,
+  ""respected_R2"": 7,
+  ""respected_S3"": 3,
+  ""respected_R3"": 2
+}"
+2025-09-04 14:19:08,"{
+  ""reason"": ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns."",
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7
+}"
+2025-09-04 14:46:34,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:18:00+00:00"",
+    ""open"": 659.8,
+    ""high"": 659.85,
+    ""low"": 659.05,
+    ""close"": 659.75,
+    ""volume"": 2042
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-04 14:59:53,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:45:00+00:00"",
+    ""open"": 664.2,
+    ""high"": 664.25,
+    ""low"": 663.9,
+    ""close"": 664.2,
+    ""volume"": 216
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ]
+}"
+2025-09-04 15:12:01,"{
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:58:00+00:00"",
+    ""open"": 665.3,
+    ""high"": 666.4,
+    ""low"": 665.25,
+    ""close"": 665.35,
+    ""volume"": 5072
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ]
+}"
+2025-09-05 12:10:28,"{
+  ""reason"": [
+    ""Support and resistance levels updated based on recent daily and weekly data. Recalculated support at 642.0 and resistance at 669.0 from historical data; realtime support and resistance adjusted to 665.2 and 676.25 based on latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Auto-filled trade levels from support/resistance with a short bias, maintaining risk-reward ratio around 1.5. No significant change in volume threshold; remains at 241 due to stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:10:00+00:00"",
+    ""open"": 668.75,
+    ""high"": 668.75,
+    ""low"": 667.45,
+    ""close"": 667.45,
+    ""volume"": 4865
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-05 13:34:29,"{
+  ""reason"": [
+    ""Support and resistance levels have been refined based on recent daily and weekly data, confirming support at 642.0 and resistance at 669.0. Realtime levels adjusted to 665.2 and 676.25 due to latest indicator data. Predicted targets slightly adjusted, reflecting recent trend and volatility. Trade levels set with a conservative long bias, maintaining risk-reward ratio around 1.5, ensuring levels stay within the S–R bands. Volume threshold remains unchanged at 241, consistent with stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:09:00+00:00"",
+    ""open"": 657.3,
+    ""high"": 657.4,
+    ""low"": 657.25,
+    ""close"": 657.25,
+    ""volume"": 45
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 648.075,
+  ""stoploss"": 664.95,
+  ""entry1"": 658.2,
+  ""target1"": 648.075,
+  ""stoploss1"": 664.95,
+  ""entry2"": 669.35,
+  ""target2"": 647.5625,
+  ""stoploss2"": 683.875,
+  ""entry3"": 669.35,
+  ""target3"": 591.93,
+  ""stoploss3"": 752.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 672.75
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-05 13:46:21,"{
+  ""reason"": [
+    ""Recent data indicates market is consolidating near support with no clear bullish breakout, maintaining a cautious long bias."",
+    ""Support and resistance levels have been refined based on recent daily and weekly data, confirming support at 642.0 and resistance at 669.0. Realtime levels adjusted to 665.2 and 676.25 due to latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility. Trade levels set with a conservative long bias, maintaining risk-reward ratio around 1.5, ensuring levels stay within the S–R bands."",
+    ""Volume threshold remains unchanged at 241, consistent with stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:33:00+00:00"",
+    ""open"": 659.8,
+    ""high"": 661.6,
+    ""low"": 660.8,
+    ""close"": 661.05,
+    ""volume"": 157
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 660.504,
+  ""stoploss"": 639.753,
+  ""entry1"": 658.2,
+  ""target1"": 660.504,
+  ""stoploss1"": 639.753,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""last_updated"": ""2025-09-05 13:34:29"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 4.2056,
+  ""respected_S"": 4,
+  ""respected_R"": 8,
+  ""respected_S1"": 5,
+  ""respected_R1"": 8,
+  ""respected_S2"": 5,
+  ""respected_R2"": 7,
+  ""respected_S3"": 3,
+  ""respected_R3"": 2
+}"
+2025-09-05 14:23:04,"{
+  ""reason"": [
+    ""Market is consolidating near support with no clear bullish breakout, maintaining a cautious long bias."",
+    ""Support and resistance levels have been refined based on recent daily and weekly data, confirming support at 642.0 and resistance at 669.0. Realtime levels adjusted to 665.2 and 676.25 due to latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility. Trade levels set with a conservative long bias, maintaining risk-reward ratio around 1.5, ensuring levels stay within the S–R bands."",
+    ""Volume threshold remains unchanged at 241, consistent with stable volume patterns.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:45:00+00:00"",
+    ""open"": 661.35,
+    ""high"": 661.55,
+    ""low"": 661.35,
+    ""close"": 661.4,
+    ""volume"": 252
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 642.0,
+  ""resistance_1d"": 669.0,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6612,
+  ""sr_range_pct_1d"": 4.2056,
+  ""sr_range_pct_1w"": 9.1655,
+  ""sr_range_pct_3m"": 54.7815,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 660.504,
+  ""stoploss"": 639.753,
+  ""entry1"": 658.2,
+  ""target1"": 660.504,
+  ""stoploss1"": 639.753,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-05 14:34:51,"{
+  ""reason"": [
+    ""Market is consolidating near support with no clear bullish breakout, maintaining a cautious long bias."",
+    ""Support and resistance levels have been refined based on recent daily and weekly data, confirming support at 642.0 and resistance at 669.0. Realtime levels adjusted to 665.2 and 676.25 due to latest indicator data."",
+    ""Predicted targets slightly adjusted, reflecting recent trend and volatility. Trade levels set with a conservative long bias, maintaining risk-reward ratio around 1.5, ensuring levels stay within the S–R bands."",
+    ""Volume threshold remains unchanged at 241, consistent with stable volume patterns."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1).""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:22:00+00:00"",
+    ""open"": 662.45,
+    ""high"": 662.45,
+    ""low"": 661.55,
+    ""close"": 662.4,
+    ""volume"": 176
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6682,
+  ""sr_range_pct_1d"": 9.3886,
+  ""sr_range_pct_1w"": 8.7711,
+  ""sr_range_pct_3m"": 50.3321,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 660.504,
+  ""stoploss"": 639.753,
+  ""entry1"": 658.2,
+  ""target1"": 660.504,
+  ""stoploss1"": 628.064,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""last_updated"": ""2025-09-05 14:23:04"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 4.2056,
+  ""respected_S"": 4,
+  ""respected_R"": 8,
+  ""respected_S1"": 5,
+  ""respected_R1"": 7,
+  ""respected_S2"": 5,
+  ""respected_R2"": 7,
+  ""respected_S3"": 3,
+  ""respected_R3"": 2
+}"
+2025-09-05 14:39:40,"{
+  ""reason"": [
+    ""Market is showing a slight bullish bias with recent close above support levels and positive indicator signals, prompting a slight upward adjustment of support and resistance levels."",
+    ""Realtime support and resistance levels have been refined based on recent intraday data, confirming support at 665.2 and resistance at 676.25, aligning with recent price action."",
+    ""Trade levels have been adjusted to maintain proper order and risk-reward ratios within the updated S–R bands, ensuring no violation of the order: stoploss < support < entry < target < resistance."",
+    ""Predicted targets have been slightly increased reflecting recent upward momentum, with forward estimates adjusted accordingly.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:33:00+00:00"",
+    ""open"": 662.0,
+    ""high"": 662.55,
+    ""low"": 662.0,
+    ""close"": 662.1,
+    ""volume"": 63
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6689,
+  ""sr_range_pct_1d"": 9.3928,
+  ""sr_range_pct_1w"": 8.7751,
+  ""sr_range_pct_3m"": 50.3549,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 660.504,
+  ""stoploss"": 639.753,
+  ""entry1"": 658.2,
+  ""target1"": 660.504,
+  ""stoploss1"": 628.064,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""last_updated"": ""2025-09-05 14:34:51"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 4.2056,
+  ""respected_S"": 4,
+  ""respected_R"": 8,
+  ""respected_S1"": 5,
+  ""respected_R1"": 7,
+  ""respected_S2"": 5,
+  ""respected_R2"": 7,
+  ""respected_S3"": 3,
+  ""respected_R3"": 2
+}"
+2025-09-05 14:52:19,"{
+  ""reason"": [
+    ""Market is showing a slight bullish bias with recent close above support levels and positive indicator signals, prompting a slight upward adjustment of support and resistance levels."",
+    ""Realtime support and resistance levels have been refined based on recent intraday data, confirming support at 665.2 and resistance at 676.25, aligning with recent price action."",
+    ""Trade levels have been adjusted to maintain proper order and risk-reward ratios within the updated S–R bands, ensuring no violation of the order: stoploss < support < entry < target < resistance."",
+    ""Predicted targets have been slightly increased reflecting recent upward momentum, with forward estimates adjusted accordingly.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:38:00+00:00"",
+    ""open"": 662.75,
+    ""high"": 662.75,
+    ""low"": 662.4,
+    ""close"": 662.4,
+    ""volume"": 149
+  },
+  ""support"": 642.0,
+  ""resistance"": 669.0,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6682,
+  ""sr_range_pct_1d"": 9.3886,
+  ""sr_range_pct_1w"": 8.7711,
+  ""sr_range_pct_3m"": 50.3321,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 658.2,
+  ""target"": 660.504,
+  ""stoploss"": 639.753,
+  ""entry1"": 658.2,
+  ""target1"": 660.504,
+  ""stoploss1"": 628.064,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 660.504
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 680.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 695.0
+    }
+  }
+}"
+2025-09-05 15:06:28,"{
+  ""reason"": [
+    ""Market is showing a slight bullish bias with recent close above support levels and positive indicator signals, prompting a slight upward adjustment of support and resistance levels."",
+    ""Realtime support and resistance levels have been refined based on recent intraday data, confirming support at 665.2 and resistance at 676.25, aligning with recent price action."",
+    ""Trade levels have been adjusted to maintain proper order and risk-reward ratios within the updated S–R bands, ensuring no violation of the order: stoploss < support < entry < target < resistance."",
+    ""Predicted targets have been slightly increased reflecting recent upward momentum, with forward estimates adjusted accordingly.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 663.15,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 679.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 684.45,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:51:00+00:00"",
+    ""open"": 660.6,
+    ""high"": 660.9,
+    ""low"": 660.4,
+    ""close"": 660.9,
+    ""volume"": 5
+  },
+  ""support"": 665.2,
+  ""resistance"": 676.25,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.672,
+  ""sr_range_pct_1d"": 9.4099,
+  ""sr_range_pct_1w"": 8.791,
+  ""sr_range_pct_3m"": 50.4464,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 668.0,
+  ""target"": 676.25,
+  ""stoploss"": 665.2,
+  ""entry1"": 668.0,
+  ""target1"": 676.25,
+  ""stoploss1"": 665.2,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 665.2,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 665.2,
+  ""last_updated"": ""2025-09-05 14:52:19"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 4.2056,
+  ""respected_S"": 4,
+  ""respected_R"": 8,
+  ""respected_S1"": 5,
+  ""respected_R1"": 7,
+  ""respected_S2"": 5,
+  ""respected_R2"": 7,
+  ""respected_S3"": 3,
+  ""respected_R3"": 2
+}"
+2025-09-05 15:18:29,"{
+  ""reason"": [
+    ""Market sentiment remains cautious with recent data indicating sideways movement and limited volatility, prompting a conservative signal of 'No Action'."",
+    ""Support and resistance levels have been confirmed from recent daily and intraday data, with support at 665.2 and resistance at 676.25, maintaining the order support < entry < target < resistance."",
+    ""Trade levels have been adjusted slightly to ensure proper order and risk-reward ratios within the updated S–R bands, with stoploss below support at 662.872 and targets within resistance levels."",
+    ""Predicted forward targets reflect slight upward momentum, with 1d, 1w, and 3m returns adjusted accordingly.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 663.15,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 679.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 684.45,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:05:00+00:00"",
+    ""open"": 659.8,
+    ""high"": 660.6,
+    ""low"": 659.8,
+    ""close"": 660.35,
+    ""volume"": 406
+  },
+  ""support"": 665.2,
+  ""resistance"": 676.25,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6734,
+  ""sr_range_pct_1d"": 9.4177,
+  ""sr_range_pct_1w"": 8.7984,
+  ""sr_range_pct_3m"": 50.4884,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 669.191,
+  ""target"": 672.192,
+  ""stoploss"": 662.872,
+  ""entry1"": 668.0,
+  ""target1"": 676.25,
+  ""stoploss1"": 628.064,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 663.15
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 679.55
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 684.45
+    }
+  }
+}"
+2025-09-05 15:30:36,"{
+  ""reason"": [
+    ""Market sentiment remains cautious with recent data indicating sideways movement and limited volatility, prompting a conservative signal of 'No Action'."",
+    ""Support and resistance levels have been confirmed from recent daily and intraday data, with support at 665.2 and resistance at 676.25, maintaining the order support < entry < target < resistance."",
+    ""Trade levels have been adjusted slightly to ensure proper order and risk-reward ratios within the updated S–R bands, with stoploss below support at 662.872 and targets within resistance levels."",
+    ""Predicted forward targets reflect slight upward momentum, with 1d, 1w, and 3m returns adjusted accordingly.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 663.15,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 679.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 684.45,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""PARAS"",
+  ""instrument_token"": 1513217,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:17:00+00:00"",
+    ""open"": 661.95,
+    ""high"": 661.95,
+    ""low"": 661.2,
+    ""close"": 661.2,
+    ""volume"": 114
+  },
+  ""support"": 665.2,
+  ""resistance"": 676.25,
+  ""support_realtime"": 665.2,
+  ""resistance_realtime"": 676.25,
+  ""support_1d"": 630.27,
+  ""resistance_1d"": 692.46,
+  ""support_1w"": 633.9,
+  ""resistance_1w"": 692.0,
+  ""support_3m"": 608.6,
+  ""resistance_3m"": 942.0,
+  ""sr_range_pct_realtime"": 1.6712,
+  ""sr_range_pct_1d"": 9.4056,
+  ""sr_range_pct_1w"": 8.7871,
+  ""sr_range_pct_3m"": 50.4235,
+  ""volume_threshold"": 241,
+  ""bollinger"": {
+    ""mid_price"": 685.28,
+    ""upper_band"": 692.01,
+    ""lower_band"": 678.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 669.191,
+  ""target"": 672.192,
+  ""stoploss"": 662.872,
+  ""entry1"": 668.0,
+  ""target1"": 676.25,
+  ""stoploss1"": 628.064,
+  ""entry2"": 669.35,
+  ""target2"": 671.693,
+  ""stoploss2"": 631.681,
+  ""entry3"": 669.35,
+  ""target3"": 671.693,
+  ""stoploss3"": 606.47,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 663.15
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 679.55
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 684.45
+    }
+  }
+}"

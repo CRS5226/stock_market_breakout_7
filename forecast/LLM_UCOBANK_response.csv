@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:32:51,"{
+  ""stock_code"": ""UCOBANK"",
+  ""instrument_token"": 2873089,
+  ""support"": 28.0,
+  ""resistance"": 29.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 29.02,
+    ""upper_band"": 29.096,
+    ""lower_band"": 28.945
+  },
+  ""macd"": {
+    ""signal_line"": 0.0092,
+    ""histogram"": 0.005,
+    ""ma_fast"": 29.05,
+    ""ma_slow"": 29.02,
+    ""ma_signal"": 0.0092
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 29,
+    ""ma_slow"": 29
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with minimal volatility."",
+    ""No significant breakout or breakdown signals detected in recent data."",
+    ""Indicators remain stable; support and resistance levels adjusted slightly based on recent close prices."",
+    ""Volume remains consistent; no major volume spikes indicating breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:31:00"",
+  ""signal"": ""Hold""
+}"

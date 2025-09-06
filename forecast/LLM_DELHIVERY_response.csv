@@ -1,0 +1,3791 @@
+timestamp,raw_response
+2025-08-19 13:28:34,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 458.75,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 462.9,
+    ""upper_band"": 474.1,
+    ""lower_band"": 458.75
+  },
+  ""macd"": {
+    ""signal_line"": 0.0,
+    ""histogram"": 0.0,
+    ""ma_fast"": 462.9,
+    ""ma_slow"": 462.9,
+    ""ma_signal"": 462.9
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level retained at 458.75 as recent 1-minute lows confirm this level."",
+    ""Resistance level retained at 474.1 from historical highs with no breakout in recent data."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent 1-minute data."",
+    ""Bollinger bands mid, upper, and lower levels remain consistent with historical and recent data."",
+    ""MACD values remain reset to zero due to lack of MACD signal in recent 1-minute candles."",
+    ""ADX threshold and period unchanged as ADX remains stable without strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:34:28,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 458.75,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 469.73,
+    ""upper_band"": 470.32,
+    ""lower_band"": 469.14
+  },
+  ""macd"": {
+    ""signal_line"": -0.1348,
+    ""histogram"": -0.0190,
+    ""ma_fast"": 469.46,
+    ""ma_slow"": 469.73,
+    ""ma_signal"": 469.73
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger bands updated to reflect recent 1-minute data mid, upper, and lower bands around 469.73, 470.32, and 469.14 respectively."",
+    ""MACD values updated from recent 1-minute data showing slight negative histogram and signal line indicating weak bearish momentum."",
+    ""Moving averages ma_fast and ma_slow updated to recent 1-minute averages around 469.46 and 469.73 respectively."",
+    ""Support and resistance levels retained as recent data does not show breakout beyond historical levels."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent data."",
+    ""ADX threshold and period unchanged as ADX remains below strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:38:43,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 458.75,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 469.59,
+    ""upper_band"": 470.19,
+    ""lower_band"": 468.99
+  },
+  ""macd"": {
+    ""signal_line"": -0.1601,
+    ""histogram"": -0.0116,
+    ""ma_fast"": 469.41,
+    ""ma_slow"": 469.59,
+    ""ma_signal"": 469.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger bands updated to reflect recent 1-minute data mid, upper, and lower bands around 469.59, 470.19, and 468.99 respectively."",
+    ""MACD values updated from recent 1-minute data showing slight negative histogram and signal line indicating weak bearish momentum."",
+    ""Moving averages ma_fast and ma_slow updated to recent 1-minute averages around 469.41 and 469.59 respectively."",
+    ""Support and resistance levels retained as recent data does not show breakout beyond historical levels."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent data."",
+    ""ADX threshold and period unchanged as ADX remains below strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 13:40:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:53:33,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 458.75,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 469.52,
+    ""upper_band"": 469.93,
+    ""lower_band"": 469.11
+  },
+  ""macd"": {
+    ""signal_line"": -0.1251,
+    ""histogram"": 0.0587,
+    ""ma_fast"": 469.48,
+    ""ma_slow"": 469.52,
+    ""ma_signal"": 469.52
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger bands updated to reflect recent 1-minute data mid, upper, and lower bands around 469.52, 469.93, and 469.11 respectively."",
+    ""MACD values updated from recent 1-minute data showing histogram turning positive indicating potential bullish momentum."",
+    ""Moving averages ma_fast and ma_slow updated to recent 1-minute averages around 469.48 and 469.52 respectively."",
+    ""Support and resistance levels retained as recent data does not show breakout beyond historical levels."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent data."",
+    ""ADX threshold and period unchanged as ADX remains below strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 13:52:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:45:25,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 467.9,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 469.85,
+    ""upper_band"": 471.79,
+    ""lower_band"": 467.91
+  },
+  ""macd"": {
+    ""signal_line"": 0.08,
+    ""histogram"": 0.34,
+    ""ma_fast"": 470.42,
+    ""ma_slow"": 469.85,
+    ""ma_signal"": 469.85
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level raised from 458.75 to 467.9 based on recent 1-minute lows around 467.9 confirming stronger short-term support."",
+    ""Resistance level retained at 474.1 as recent highs have not broken this level."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent 1-minute data."",
+    ""Bollinger bands updated to reflect recent 1-minute data with mid price at 469.85, upper band at 471.79, and lower band at 467.91."",
+    ""MACD values updated from zero to reflect recent positive MACD histogram and signal line indicating mild bullish momentum."",
+    ""ADX threshold and period unchanged as ADX remains stable without strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 14:45:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:15:27,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 467.9,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 470.07,
+    ""upper_band"": 472.19,
+    ""lower_band"": 467.95
+  },
+  ""macd"": {
+    ""signal_line"": 0.22,
+    ""histogram"": 0.28,
+    ""ma_fast"": 470.83,
+    ""ma_slow"": 470.07,
+    ""ma_signal"": 470.07
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level retained at 467.9 as recent 1-minute lows confirm this level as strong short-term support."",
+    ""Resistance level retained at 474.1 as recent highs have not broken this level."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent 1-minute data."",
+    ""Bollinger bands updated to reflect recent 1-minute data with mid price at 470.07, upper band at 472.19, and lower band at 467.95."",
+    ""MACD values updated to reflect recent positive MACD histogram and signal line indicating mild bullish momentum."",
+    ""ADX threshold and period unchanged as ADX remains stable without strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:19:47,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 468.08,
+  ""resistance"": 474.1,
+  ""volume_threshold"": 1205382,
+  ""bollinger"": {
+    ""mid_price"": 470.54,
+    ""upper_band"": 472.99,
+    ""lower_band"": 468.08
+  },
+  ""macd"": {
+    ""signal_line"": 0.44,
+    ""histogram"": 0.17,
+    ""ma_fast"": 471.76,
+    ""ma_slow"": 470.54,
+    ""ma_signal"": 470.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level updated to 468.08 based on recent 1-minute Bollinger lower band and lows confirming stronger short-term support above previous 467.9."",
+    ""Resistance level retained at 474.1 as recent highs have not broken this level."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent 1-minute data."",
+    ""Bollinger bands updated to reflect recent 1-minute data with mid price at 470.54, upper band at 472.99, and lower band at 468.08."",
+    ""MACD values updated to reflect recent positive MACD histogram and signal line indicating mild bullish momentum with faster moving averages."",
+    ""ADX threshold and period unchanged as ADX remains stable without strong trend indication.""
+  ],
+  ""last_updated"": ""2025-08-19 15:18:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-22 12:04:50,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 468.92,
+  ""resistance"": 474.0,
+  ""volume_threshold"": 10041,
+  ""bollinger"": {
+    ""mid_price"": 473.32,
+    ""upper_band"": 473.96,
+    ""lower_band"": 472.68
+  },
+  ""macd"": {
+    ""signal_line"": 0.48,
+    ""histogram"": 0.48,
+    ""ma_fast"": 473.58,
+    ""ma_slow"": 473.32,
+    ""ma_signal"": 473.32
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent upper Bollinger Band and recent high of 474.0 indicating breakout potential."",
+    ""Bollinger Bands updated to reflect recent tighter range and mid price shift."",
+    ""MACD histogram and signal line increased, indicating strengthening bullish momentum."",
+    ""Moving averages updated to recent values from 1-minute data for short-term accuracy."",
+    ""Signal changed to Hold due to consolidation near resistance with volume not significantly above threshold.""
+  ],
+  ""last_updated"": ""2025-08-22 12:10:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""basic_algo""
+}"
+2025-08-22 12:10:08,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""support"": 468.92,
+  ""resistance"": 474.0,
+  ""volume_threshold"": 10041,
+  ""bollinger"": {
+    ""mid_price"": 473.41,
+    ""upper_band"": 473.99,
+    ""lower_band"": 472.82
+  },
+  ""macd"": {
+    ""signal_line"": 0.32,
+    ""histogram"": 0.32,
+    ""ma_fast"": 473.63,
+    ""ma_slow"": 473.41,
+    ""ma_signal"": 473.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data showing slightly higher upper band and adjusted mid and lower bands."",
+    ""MACD values updated to recent 1-minute data indicating a slight decrease in bullish momentum but still positive histogram."",
+    ""Moving averages ma_fast and ma_slow updated to recent 1-minute averages for short-term accuracy."",
+    ""Support and resistance levels remain unchanged as recent data consolidates below resistance without breakout."",
+    ""Volume threshold unchanged due to low volume in recent 1-minute candles and no significant volume spike.""
+  ],
+  ""last_updated"": ""2025-08-22 12:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:35:36,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T11:23:00+00:00"",
+    ""open"": 475.95,
+    ""high"": 476.0,
+    ""low"": 475.8,
+    ""close"": 475.95,
+    ""volume"": 3845
+  },
+  ""support"": 474.45,
+  ""resistance"": 476.08,
+  ""volume_threshold"": 6868,
+  ""bollinger"": {
+    ""mid_price"": 475.3,
+    ""upper_band"": 476.14,
+    ""lower_band"": 474.46
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent data"",
+    ""Bollinger mid_price and upper_band adjusted slightly to recent values"",
+    ""Price closed near resistance with volume below threshold, indicating potential resistance test"",
+    ""ADX remains above threshold indicating trend strength"",
+    ""MACD histogram positive but decreasing, suggesting weakening momentum""
+  ],
+  ""signal"": ""Watch"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 476.85
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 479.79
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 490.23
+    }
+  }
+}"
+2025-09-01 14:44:20,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:34:00+00:00"",
+    ""open"": 473.6,
+    ""high"": 473.6,
+    ""low"": 473.45,
+    ""close"": 473.6,
+    ""volume"": 1569
+  },
+  ""support"": 474.45,
+  ""resistance"": 476.08,
+  ""volume_threshold"": 6868,
+  ""bollinger"": {
+    ""mid_price"": 473.98,
+    ""upper_band"": 474.90,
+    ""lower_band"": 473.07
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV confirmed from recent 1-min data"",
+    ""Bollinger bands adjusted to recent minute-level mid_price and upper_band"",
+    ""Price closed just below resistance with volume below threshold, indicating resistance test"",
+    ""ADX remains below threshold indicating weak trend momentum"",
+    ""MACD histogram negative and decreasing, suggesting bearish momentum""
+  ],
+  ""signal"": ""Watch"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 472.65
+    },
+    ""1w"": {
+      ""ret"": -0.005,
+      ""price"": 471.23
+    },
+    ""3m"": {
+      ""ret"": 0.01,
+      ""price"": 478.34
+    }
+  }
+}"
+2025-09-01 14:52:11,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:48:00+00:00"",
+    ""open"": 473.0,
+    ""high"": 473.6,
+    ""low"": 473.0,
+    ""close"": 473.3,
+    ""volume"": 5311
+  },
+  ""support"": 474.45,
+  ""resistance"": 476.08,
+  ""volume_threshold"": 6868,
+  ""bollinger"": {
+    ""mid_price"": 473.22,
+    ""upper_band"": 473.72,
+    ""lower_band"": 472.73
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV to most recent 1-min bar"",
+    ""Refreshed Bollinger bands to recent minute-level mid_price and upper_band"",
+    ""Price remains below resistance with volume below threshold, confirming resistance test"",
+    ""ADX remains below threshold indicating weak trend momentum"",
+    ""MACD histogram negative and slightly decreasing, suggesting bearish momentum""
+  ],
+  ""signal"": ""Watch"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 472.35
+    },
+    ""1w"": {
+      ""ret"": -0.005,
+      ""price"": 470.93
+    },
+    ""3m"": {
+      ""ret"": 0.01,
+      ""price"": 478.03
+    }
+  }
+}"
+2025-09-01 14:58:47,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 473.3,
+    ""high"": 473.3,
+    ""low"": 473.0,
+    ""close"": 473.0,
+    ""volume"": 1921
+  },
+  ""support"": 474.45,
+  ""resistance"": 476.08,
+  ""volume_threshold"": 6868,
+  ""bollinger"": {
+    ""mid_price"": 473.145,
+    ""upper_band"": 473.5596082488288,
+    ""lower_band"": 472.73039175117117
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV to most recent 1-min bar"",
+    ""Refreshed Bollinger bands to recent minute-level mid_price and upper_band"",
+    ""Price remains below resistance with volume below threshold, confirming resistance test"",
+    ""ADX remains below threshold indicating weak trend momentum"",
+    ""MACD histogram negative and slightly decreasing, suggesting bearish momentum""
+  ],
+  ""signal"": ""Watch"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 472.054
+    },
+    ""1w"": {
+      ""ret"": -0.005,
+      ""price"": 470.635
+    },
+    ""3m"": {
+      ""ret"": 0.01,
+      ""price"": 477.73
+    }
+  }
+}"
+2025-09-02 11:02:48,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T10:59:00+00:00"",
+    ""open"": 474.15,
+    ""high"": 474.35,
+    ""low"": 473.5,
+    ""close"": 473.5,
+    ""volume"": 1439
+  },
+  ""support"": 469.19,
+  ""resistance"": 474.16,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.24,
+    ""upper_band"": 474.16,
+    ""lower_band"": 472.32
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent upper Bollinger Band level 474.16 due to price testing upper band at 474.16"",
+    ""Bollinger bands updated to recent minute data: mid 473.24, upper 474.16, lower 472.32"",
+    ""Signal remains No Action as ADX is below threshold and MACD histogram near zero indicating no strong trend""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0035,
+      ""price"": 475.15
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 479.14
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 494.08
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 475.15,
+      ""ret"": 0.0035
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 479.14,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 494.08,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:11:32,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:01:00+00:00"",
+    ""open"": 473.55,
+    ""high"": 473.7,
+    ""low"": 473.3,
+    ""close"": 473.5,
+    ""volume"": 2438
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.14,
+  ""support_realtime"": 472.2,
+  ""resistance_realtime"": 475.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.6653,
+  ""sr_range_pct_1d"": 1.6367,
+  ""sr_range_pct_1w"": 4.0549,
+  ""sr_range_pct_3m"": 28.49,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.36,
+    ""upper_band"": 474.14,
+    ""lower_band"": 472.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent minute Bollinger upper band 474.14 reflecting latest volatility"",
+    ""Bollinger bands updated to recent minute data: mid 473.36, upper 474.14, lower 472.58"",
+    ""Signal remains No Action as ADX at 22.5 slightly above threshold but MACD histogram negative and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 474.92
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 478.23
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 492.44
+    }
+  }
+}"
+2025-09-02 11:20:03,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:17:00+00:00"",
+    ""open"": 473.45,
+    ""high"": 473.85,
+    ""low"": 473.4,
+    ""close"": 473.8,
+    ""volume"": 891
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.1343973715895,
+  ""support_realtime"": 472.2,
+  ""resistance_realtime"": 475.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.6662,
+  ""sr_range_pct_1d"": 1.639,
+  ""sr_range_pct_1w"": 4.0605,
+  ""sr_range_pct_3m"": 28.5291,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.305,
+    ""upper_band"": 474.1343973715895,
+    ""lower_band"": 472.4756026284105
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent minute Bollinger upper band 474.13 reflecting latest volatility"",
+    ""Bollinger bands updated to recent minute data: mid 473.31, upper 474.13, lower 472.48"",
+    ""Latest close 473.8 above previous close 473.3 indicating slight upward momentum"",
+    ""Signal remains No Action as ADX near threshold but MACD histogram slightly positive and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 474.24
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 478.54
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 492.75
+    }
+  }
+}"
+2025-09-02 11:28:45,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:25:00+00:00"",
+    ""open"": 473.7,
+    ""high"": 473.7,
+    ""low"": 473.5,
+    ""close"": 473.6,
+    ""volume"": 1026
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.23,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 475.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.697,
+  ""sr_range_pct_1d"": 1.6369,
+  ""sr_range_pct_1w"": 4.0553,
+  ""sr_range_pct_3m"": 28.493,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.36,
+    ""upper_band"": 474.23,
+    ""lower_band"": 472.49
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent minute Bollinger upper band 474.23 reflecting latest volatility"",
+    ""Bollinger bands updated to recent minute data: mid 473.36, upper 474.23, lower 472.49"",
+    ""Latest close 473.6 slightly below previous close 474.0 indicating minor pullback"",
+    ""Signal remains No Action as ADX below threshold and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 474.03
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 478.34
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 492.54
+    }
+  }
+}"
+2025-09-02 11:37:45,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:34:00+00:00"",
+    ""open"": 473.75,
+    ""high"": 473.95,
+    ""low"": 473.6,
+    ""close"": 473.8,
+    ""volume"": 1920
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.07,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4856,
+  ""sr_range_pct_1d"": 1.6364,
+  ""sr_range_pct_1w"": 4.0541,
+  ""sr_range_pct_3m"": 28.484,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.54,
+    ""upper_band"": 474.07,
+    ""lower_band"": 473.00
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-minute bar at 11:34 with close 473.8"",
+    ""Resistance adjusted to recent minute Bollinger upper band 474.07 reflecting updated volatility"",
+    ""Bollinger bands updated to recent minute data: mid 473.54, upper 474.07, lower 473.00"",
+    ""Signal remains No Action as ADX below threshold and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 474.24
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 478.54
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 492.75
+    }
+  }
+}"
+2025-09-02 11:46:43,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:44:00+00:00"",
+    ""open"": 472.5,
+    ""high"": 472.85,
+    ""low"": 472.5,
+    ""close"": 472.75,
+    ""volume"": 549
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.18,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4854,
+  ""sr_range_pct_1d"": 1.6357,
+  ""sr_range_pct_1w"": 4.0523,
+  ""sr_range_pct_3m"": 28.4719,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 473.235,
+    ""upper_band"": 474.179,
+    ""lower_band"": 472.291
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-minute bar at 11:44 with close 472.75"",
+    ""Resistance adjusted to recent minute Bollinger upper band 474.179 reflecting updated volatility"",
+    ""Bollinger bands updated to recent minute data: mid 473.235, upper 474.179, lower 472.291"",
+    ""Signal remains No Action as ADX below threshold and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 473.17
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 477.48
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 491.86
+    }
+  }
+}"
+2025-09-02 11:55:51,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:53:00+00:00"",
+    ""open"": 472.85,
+    ""high"": 473.0,
+    ""low"": 472.65,
+    ""close"": 472.75,
+    ""volume"": 281
+  },
+  ""support"": 470.0,
+  ""resistance"": 474.0,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4865,
+  ""sr_range_pct_1d"": 1.6393,
+  ""sr_range_pct_1w"": 4.0613,
+  ""sr_range_pct_3m"": 28.5352,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 472.9375,
+    ""upper_band"": 473.839650209223,
+    ""lower_band"": 472.035349790777
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-minute bar at 11:53 with close 472.75"",
+    ""Resistance adjusted slightly down to recent minute Bollinger upper band 473.84 reflecting updated volatility"",
+    ""Bollinger bands updated to recent minute data: mid 472.94, upper 473.84, lower 472.04"",
+    ""Signal remains No Action as ADX below threshold and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 473.17
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 477.48
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 491.86
+    }
+  }
+}"
+2025-09-02 12:04:24,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:54:00+00:00"",
+    ""open"": 472.75,
+    ""high"": 472.9,
+    ""low"": 472.6,
+    ""close"": 472.8,
+    ""volume"": 580
+  },
+  ""support"": 470.0,
+  ""resistance"": 473.02,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.35,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4865,
+  ""sr_range_pct_1d"": 1.6393,
+  ""sr_range_pct_1w"": 4.0613,
+  ""sr_range_pct_3m"": 28.5352,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 472.68,
+    ""upper_band"": 473.02,
+    ""lower_band"": 472.34
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated Bollinger bands to recent 1-minute data: mid 472.68, upper 473.02, lower 472.34"",
+    ""Resistance adjusted down to Bollinger upper band 473.02 reflecting recent volatility compression"",
+    ""Signal remains No Action as ADX (28.89) is below threshold 20 and volume below threshold"",
+    ""Latest ohlcv retained from last known 1-minute bar at 11:54 with close 472.8""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 473.24
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 477.53
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 491.71
+    }
+  }
+}"
+2025-09-02 12:13:00,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:10:00+00:00"",
+    ""open"": 472.8,
+    ""high"": 472.8,
+    ""low"": 472.25,
+    ""close"": 472.65,
+    ""volume"": 605
+  },
+  ""support"": 470.0,
+  ""resistance"": 473.02,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.15,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4446,
+  ""sr_range_pct_1d"": 1.6407,
+  ""sr_range_pct_1w"": 4.0648,
+  ""sr_range_pct_3m"": 28.5593,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 472.595,
+    ""upper_band"": 473.0168,
+    ""lower_band"": 472.1732
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to most recent 1-minute bar at 12:10 with close 472.65"",
+    ""Resistance adjusted down to Bollinger upper band 473.0168 reflecting recent volatility compression"",
+    ""Bollinger bands updated to recent 1-minute data: mid 472.595, upper 473.0168, lower 472.1732"",
+    ""Signal remains No Action as ADX (26.05) is above threshold but volume (605) is below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 473.07
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 477.38
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 491.56
+    }
+  }
+}"
+2025-09-02 14:08:06,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:05:00+00:00"",
+    ""open"": 470.05,
+    ""high"": 470.75,
+    ""low"": 470.05,
+    ""close"": 470.7,
+    ""volume"": 6549
+  },
+  ""support"": 470.0,
+  ""resistance"": 471.91,
+  ""support_realtime"": 472.05,
+  ""resistance_realtime"": 474.15,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 477.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.4443,
+  ""sr_range_pct_1d"": 1.6397,
+  ""sr_range_pct_1w"": 4.0622,
+  ""sr_range_pct_3m"": 28.5412,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.03,
+    ""upper_band"": 471.91,
+    ""lower_band"": 470.15
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-minute bar at 14:05 with close 470.7 and volume 6549"",
+    ""Resistance adjusted down to recent Bollinger upper band 471.91 reflecting volatility compression"",
+    ""Bollinger bands updated to recent 1-minute data: mid 471.03, upper 471.91, lower 470.15"",
+    ""Signal remains No Action as ADX (26.7) is above threshold but volume (6549) is below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.003,
+      ""price"": 471.11
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 475.41
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 489.53
+    }
+  }
+}"
+2025-09-02 14:16:57,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:14:00+00:00"",
+    ""open"": 471.0,
+    ""high"": 471.25,
+    ""low"": 470.85,
+    ""close"": 471.15,
+    ""volume"": 2491
+  },
+  ""support"": 470.0,
+  ""resistance"": 471.75,
+  ""support_realtime"": 469.75,
+  ""resistance_realtime"": 471.75,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 471.75,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 471.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 471.75,
+  ""sr_range_pct_realtime"": 0.425,
+  ""sr_range_pct_1d"": 0.425,
+  ""sr_range_pct_1w"": 2.86,
+  ""sr_range_pct_3m"": 27.9,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.02,
+    ""upper_band"": 471.75,
+    ""lower_band"": 470.29
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to recent 1-minute bar at 14:14 with close 471.15 and volume 2491"",
+    ""Resistance and Bollinger upper band adjusted down to 471.75 reflecting recent compression and lower volatility"",
+    ""Support and resistance levels tightened to reflect recent price range contraction"",
+    ""Signal remains No Action as ADX (29.6) is above threshold but volume (2491) remains below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0025,
+      ""price"": 472.29
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 474.92
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 488.04
+    }
+  }
+}"
+2025-09-02 14:23:45,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:21:00+00:00"",
+    ""open"": 472.5,
+    ""high"": 472.5,
+    ""low"": 472.4,
+    ""close"": 472.5,
+    ""volume"": 525
+  },
+  ""support"": 470.0,
+  ""resistance"": 472.3,
+  ""support_realtime"": 469.75,
+  ""resistance_realtime"": 472.3,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 472.3,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 472.3,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 472.3,
+  ""sr_range_pct_realtime"": 0.34,
+  ""sr_range_pct_1d"": 0.49,
+  ""sr_range_pct_1w"": 2.92,
+  ""sr_range_pct_3m"": 28.63,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.15,
+    ""upper_band"": 472.29,
+    ""lower_band"": 469.75
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 14:21 close 472.5 and volume 525 from recent 1-minute data"",
+    ""Resistance and Bollinger upper band adjusted down to 472.29 reflecting recent price compression"",
+    ""Support and resistance levels tightened to recent intraday range narrowing"",
+    ""Volume remains below threshold; signal remains No Action despite ADX above threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0025,
+      ""price"": 473.68
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 476.26
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 489.79
+    }
+  }
+}"
+2025-09-02 14:32:28,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:29:00+00:00"",
+    ""open"": 471.3,
+    ""high"": 471.4,
+    ""low"": 471.15,
+    ""close"": 471.35,
+    ""volume"": 1024
+  },
+  ""support"": 470.0,
+  ""resistance"": 472.6,
+  ""support_realtime"": 469.75,
+  ""resistance_realtime"": 472.6,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 472.6,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.6032,
+  ""sr_range_pct_1d"": 0.5531,
+  ""sr_range_pct_1w"": 4.0635,
+  ""sr_range_pct_3m"": 28.5503,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.54,
+    ""upper_band"": 472.59,
+    ""lower_band"": 470.50
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 14:29 close 471.35 and volume 1024 from recent 1-minute data"",
+    ""Resistance adjusted down to 472.6 reflecting recent intraday high and Bollinger upper band"",
+    ""Bollinger bands updated to recent mid 471.54, upper 472.59, lower 470.50 from recent data"",
+    ""Support and resistance 1d tightened to recent intraday range narrowing"",
+    ""Volume remains below threshold; ADX near threshold but no strong momentum; signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 472.29
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 474.60
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 485.49
+    }
+  }
+}"
+2025-09-02 15:16:11,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:13:00+00:00"",
+    ""open"": 471.85,
+    ""high"": 471.9,
+    ""low"": 471.8,
+    ""close"": 471.8,
+    ""volume"": 1189
+  },
+  ""support"": 470.0,
+  ""resistance"": 472.2,
+  ""support_realtime"": 469.75,
+  ""resistance_realtime"": 472.2,
+  ""support_1d"": 470.0,
+  ""resistance_1d"": 472.2,
+  ""support_1w"": 458.55,
+  ""resistance_1w"": 477.75,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 477.75,
+  ""sr_range_pct_realtime"": 0.31,
+  ""sr_range_pct_1d"": 0.47,
+  ""sr_range_pct_1w"": 4.0734,
+  ""sr_range_pct_3m"": 28.6199,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.8,
+    ""upper_band"": 472.2,
+    ""lower_band"": 471.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 15:13 close 471.8 and volume 1189 from recent 1-minute data"",
+    ""Resistance and resistance_realtime adjusted down to 472.2 aligning with recent upper Bollinger band and intraday high"",
+    ""Bollinger bands updated to mid 471.8, upper 472.2, lower 471.4 reflecting recent volatility contraction"",
+    ""Support and resistance 1d tightened to recent intraday range narrowing"",
+    ""Volume remains below threshold; ADX below threshold indicating weak momentum; signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 472.74
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 475.11
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 485.95
+    }
+  }
+}"
+2025-09-02 15:24:50,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:22:00+00:00"",
+    ""open"": 472.45,
+    ""high"": 472.85,
+    ""low"": 472.45,
+    ""close"": 472.85,
+    ""volume"": 12412
+  },
+  ""support"": 470.8,
+  ""resistance"": 472.6,
+  ""support_realtime"": 470.8,
+  ""resistance_realtime"": 472.6,
+  ""support_1d"": 470.8,
+  ""resistance_1d"": 472.6,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.3815,
+  ""sr_range_pct_1d"": 0.3815,
+  ""sr_range_pct_1w"": 4.5888,
+  ""sr_range_pct_3m"": 29.2179,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 471.865,
+    ""upper_band"": 472.561,
+    ""lower_band"": 471.169
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 15:22 close 472.85 and volume 12412 from recent 1-minute data"",
+    ""Support and resistance realtime and 1d adjusted to 470.8 and 472.6 matching recent intraday range and Bollinger bands"",
+    ""Bollinger bands updated to mid 471.865, upper 472.561, lower 471.169 reflecting recent volatility"",
+    ""Volume above threshold indicating increased activity; ADX near threshold at 20.36 suggesting potential momentum build"",
+    ""Signal remains No Action due to lack of strong directional confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.79
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 476.15
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 487.04
+    }
+  }
+}"
+2025-09-02 15:33:31,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:29:00+00:00"",
+    ""open"": 472.5,
+    ""high"": 473.0,
+    ""low"": 471.1,
+    ""close"": 472.95,
+    ""volume"": 8959
+  },
+  ""support"": 470.8,
+  ""resistance"": 473.15,
+  ""support_realtime"": 470.8,
+  ""resistance_realtime"": 473.15,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.497,
+  ""sr_range_pct_1d"": 3.8701,
+  ""sr_range_pct_1w"": 4.5786,
+  ""sr_range_pct_3m"": 29.153,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 472.2375,
+    ""upper_band"": 473.2533124826955,
+    ""lower_band"": 471.22168751730453
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 15:29 close 472.95 and volume 8959 from recent 1-minute data"",
+    ""Support and resistance realtime maintained at 470.8 and 473.15 matching recent intraday range"",
+    ""Bollinger bands updated to mid 472.2375, upper 473.2533, lower 471.2217 reflecting latest volatility"",
+    ""ADX slightly below threshold at 19.77 indicating momentum is not strong yet"",
+    ""Volume above threshold indicating sustained activity; signal remains No Action due to lack of strong directional confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.8959
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 476.25465
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 487.2385
+    }
+  }
+}"
+2025-09-03 11:55:10,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:29:00+00:00"",
+    ""open"": 472.5,
+    ""high"": 473.0,
+    ""low"": 471.1,
+    ""close"": 472.95,
+    ""volume"": 8959
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 480.3,
+  ""resistance_realtime"": 481.53,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.254,
+  ""sr_range_pct_1d"": 3.8693,
+  ""sr_range_pct_1w"": 4.5777,
+  ""sr_range_pct_3m"": 29.1468,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 480.96,
+    ""upper_band"": 481.5341080037768,
+    ""lower_band"": 480.3858919962233
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance realtime to 480.3 and 481.53 based on recent 1-minute data high/low"",
+    ""Resistance updated to 481.7 reflecting recent daily high from historical data"",
+    ""Bollinger bands updated to mid 480.96, upper 481.53, lower 480.39 reflecting latest intraday volatility"",
+    ""Volume threshold maintained at 7650; volume in recent data above threshold indicating active trading"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Predicted targets recalculated based on latest close 472.95 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.8959
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 476.25465
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 487.2385
+    }
+  }
+}"
+2025-09-03 12:04:57,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:54:00+00:00"",
+    ""open"": 481.35,
+    ""high"": 481.45,
+    ""low"": 481.3,
+    ""close"": 481.3,
+    ""volume"": 2416
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 480.0,
+  ""resistance_realtime"": 481.63,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.3375,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 480.96,
+    ""upper_band"": 481.63,
+    ""lower_band"": 480.29
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 480.0 and 481.63 based on recent 1-minute data high/low"",
+    ""Bollinger bands upper and lower bands adjusted to 481.63 and 480.29 reflecting latest intraday volatility"",
+    ""SR range realtime recalculated to 0.3375%"",
+    ""Maintained volume_threshold at 7650; recent volume below threshold indicating lower intraday activity"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Predicted targets recalculated based on latest close 481.3 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 482.2626
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 484.5691
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 495.739
+    }
+  }
+}"
+2025-09-03 12:14:39,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:03:00+00:00"",
+    ""open"": 480.15,
+    ""high"": 480.15,
+    ""low"": 479.65,
+    ""close"": 479.75,
+    ""volume"": 4762
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 480.0,
+  ""resistance_realtime"": 481.63,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.3375,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 480.96,
+    ""upper_band"": 481.63,
+    ""lower_band"": 480.29
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 480.0 and 481.63 based on recent 1-minute data high/low"",
+    ""Bollinger bands upper and lower bands adjusted to 481.63 and 480.29 reflecting latest intraday volatility"",
+    ""SR range realtime recalculated to 0.3375%"",
+    ""Maintained volume_threshold at 7650; recent volume below threshold indicating lower intraday activity"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Predicted targets recalculated based on latest close 479.75 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 480.7095
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 483.14825
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 493.1425
+    }
+  }
+}"
+2025-09-03 12:23:35,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:13:00+00:00"",
+    ""open"": 479.9,
+    ""high"": 480.85,
+    ""low"": 479.15,
+    ""close"": 480.85,
+    ""volume"": 15021
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 480.45,
+  ""resistance_realtime"": 481.13816868676247,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.355,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 480.32,
+    ""upper_band"": 481.13816868676247,
+    ""lower_band"": 479.50183131323763
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv close and high to 480.85 and 480.85 based on recent 1-minute data"",
+    ""Refreshed support_realtime to 480.45 and resistance_realtime to 481.138 reflecting latest intraday low/high"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 480.32, 481.138, and 479.502 based on recent data"",
+    ""Recalculated sr_range_pct_realtime to 0.355% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Trade levels preserved with stoploss below entry and target above entry for long bias"",
+    ""Predicted targets recalculated based on latest close 480.85 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 481.8117
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 484.17595
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 495.2755
+    }
+  }
+}"
+2025-09-03 12:33:14,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:22:00+00:00"",
+    ""open"": 480.85,
+    ""high"": 481.9,
+    ""low"": 480.85,
+    ""close"": 481.65,
+    ""volume"": 43022
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 480.45,
+  ""resistance_realtime"": 481.13816868676247,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.355,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 480.32,
+    ""upper_band"": 481.13816868676247,
+    ""lower_band"": 479.50183131323763
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv close and high to 480.85 and 480.85 based on recent 1-minute data"",
+    ""Refreshed support_realtime to 480.45 and resistance_realtime to 481.138 reflecting latest intraday low/high"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 480.32, 481.138, and 479.502 based on recent data"",
+    ""Recalculated sr_range_pct_realtime to 0.355% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Trade levels preserved with stoploss below entry and target above entry for long bias"",
+    ""Predicted targets recalculated based on latest close 480.85 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 482.8117
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 484.17595
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 495.2755
+    }
+  }
+}"
+2025-09-03 15:28:10,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:32:00+00:00"",
+    ""open"": 480.55,
+    ""high"": 481.0,
+    ""low"": 479.85,
+    ""close"": 481.0,
+    ""volume"": 5018
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 477.65,
+  ""resistance_realtime"": 478.4,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.156,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 478.015,
+    ""upper_band"": 478.39853617821336,
+    ""lower_band"": 477.6314638217866
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 477.65 and resistance_realtime to 478.4 based on recent 1-minute high/low data"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 478.015, 478.399, and 477.631 reflecting latest intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.156% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Trade levels preserved with stoploss below entry and target above entry for long bias"",
+    ""Predicted targets recalculated based on latest close 477.9 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 478.7558
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 481.2453
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 492.237
+    }
+  }
+}"
+2025-09-03 15:38:26,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:27:00+00:00"",
+    ""open"": 477.65,
+    ""high"": 478.8,
+    ""low"": 477.6,
+    ""close"": 478.0,
+    ""volume"": 94566
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 477.65,
+  ""resistance_realtime"": 478.4,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.156,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 478.015,
+    ""upper_band"": 478.399,
+    ""lower_band"": 477.631
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 477.65 and resistance_realtime to 478.4 based on recent 1-minute high/low data"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 478.015, 478.399, and 477.631 reflecting latest intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.156% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Trade levels preserved with stoploss below entry and target above entry for long bias"",
+    ""Predicted targets recalculated based on latest close 478.0 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 478.956
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 481.346
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 492.34
+    }
+  }
+}"
+2025-09-04 10:41:20,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:35:00+00:00"",
+    ""open"": 478.0,
+    ""high"": 478.0,
+    ""low"": 478.0,
+    ""close"": 478.0,
+    ""volume"": 0
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 477.65,
+  ""resistance_realtime"": 478.4,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.156,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 478.015,
+    ""upper_band"": 478.399,
+    ""lower_band"": 477.631
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 477.65 and resistance_realtime to 478.4 based on recent 1-minute high/low data"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 478.015, 478.399, and 477.631 reflecting latest intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.156% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Trade levels preserved with stoploss below entry and target above entry for long bias"",
+    ""Predicted targets recalculated based on latest close 478.0 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 459.05,
+  ""target"": 481.7,
+  ""stoploss"": 455.0,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 455.0,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 455.0,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 478.956
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 481.346
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 492.34
+    }
+  }
+}"
+2025-09-04 11:11:35,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:40:00+00:00"",
+    ""open"": 476.55,
+    ""high"": 476.65,
+    ""low"": 476.25,
+    ""close"": 476.25,
+    ""volume"": 3155
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 475.0,
+  ""resistance_realtime"": 477.8,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.6,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650,
+  ""bollinger"": {
+    ""mid_price"": 476.3175,
+    ""upper_band"": 477.8133,
+    ""lower_band"": 474.8217
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 475.0 and resistance_realtime to 477.8 based on latest 1-minute high/low data"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 476.3175, 477.8133, and 474.8217 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.6% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry/target/stoploss from realtime support/resistance with bias=short and RR=1.5"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short and RR=1.5"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short and RR=1.5"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 476.25 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 476.4,
+  ""target"": 468.8,
+  ""stoploss"": 480.9,
+  ""entry1"": 477.35,
+  ""target1"": 469.25,
+  ""stoploss1"": 481.45,
+  ""entry2"": 480.7,
+  ""target2"": 472.9,
+  ""stoploss2"": 485.05,
+  ""entry3"": 480.7,
+  ""target3"": 425.7,
+  ""stoploss3"": 487.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 477.2025
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 479.53375
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 490.5375
+    }
+  }
+}"
+2025-09-04 11:21:20,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:10:00+00:00"",
+    ""open"": 475.3,
+    ""high"": 475.3,
+    ""low"": 475.0,
+    ""close"": 475.05,
+    ""volume"": 5130.0
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 475.0,
+  ""resistance_realtime"": 477.8,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.5895,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 476.3175,
+    ""upper_band"": 477.8133,
+    ""lower_band"": 474.8217
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 475.0 and resistance_realtime to 477.8 based on latest 1-minute high/low data"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 476.3175, 477.8133, and 474.8217 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.6% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry/target/stoploss from realtime support/resistance with bias=short and RR=1.5"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short and RR=1.5"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short and RR=1.5"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 476.25 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 476.4,
+  ""target"": 468.8,
+  ""stoploss"": 480.9,
+  ""entry1"": 477.35,
+  ""target1"": 469.25,
+  ""stoploss1"": 481.45,
+  ""entry2"": 480.7,
+  ""target2"": 472.9,
+  ""stoploss2"": 485.05,
+  ""entry3"": 480.7,
+  ""target3"": 425.7,
+  ""stoploss3"": 487.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 477.2025
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 479.53375
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 490.5375
+    }
+  }
+}"
+2025-09-04 14:18:40,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:20:00+00:00"",
+    ""open"": 475.8,
+    ""high"": 475.8,
+    ""low"": 475.2,
+    ""close"": 475.35,
+    ""volume"": 1974
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 471.45,
+  ""resistance_realtime"": 474.15,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.58,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 473.07,
+    ""upper_band"": 474.4218,
+    ""lower_band"": 471.7182
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 471.45 and resistance_realtime to 474.15 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 473.07, 474.4218, and 471.7182 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.58% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry/target/stoploss from realtime support/reistance with bias=short and RR=1.5"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short and RR=1.5"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short and RR=1.5"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 475.35 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 474.15,
+  ""target"": 467.45,
+  ""stoploss"": 476.85,
+  ""entry1"": 477.35,
+  ""target1"": 469.25,
+  ""stoploss1"": 481.45,
+  ""entry2"": 480.7,
+  ""target2"": 472.9,
+  ""stoploss2"": 485.05,
+  ""entry3"": 480.7,
+  ""target3"": 425.7,
+  ""stoploss3"": 487.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 476.2507
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 478.9775
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 489.6105
+    }
+  }
+}"
+2025-09-04 14:46:08,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:17:00+00:00"",
+    ""open"": 471.85,
+    ""high"": 472.7,
+    ""low"": 471.75,
+    ""close"": 472.7,
+    ""volume"": 5280
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 472.15,
+  ""resistance_realtime"": 472.45,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.0635,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 472.005,
+    ""upper_band"": 473.2256,
+    ""lower_band"": 470.7844
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 472.15 and resistance_realtime to 472.45 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 472.005, 473.2256, and 470.7844 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0635% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry/target/stoploss from realtime support/reistance with bias=short and RR=1.5"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short and RR=1.5"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short and RR=1.5"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 472.7 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 472.45,
+  ""target"": 471.05,
+  ""stoploss"": 473.95,
+  ""entry1"": 477.35,
+  ""target1"": 469.25,
+  ""stoploss1"": 481.45,
+  ""entry2"": 480.7,
+  ""target2"": 472.9,
+  ""stoploss2"": 485.05,
+  ""entry3"": 480.7,
+  ""target3"": 425.7,
+  ""stoploss3"": 487.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.9454
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 476.0109
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 486.881
+    }
+  }
+}"
+2025-09-04 14:59:24,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:45:00+00:00"",
+    ""open"": 472.85,
+    ""high"": 472.85,
+    ""low"": 472.55,
+    ""close"": 472.7,
+    ""volume"": 1258
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 472.15,
+  ""resistance_realtime"": 472.45,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.0635,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 472.005,
+    ""upper_band"": 473.2256,
+    ""lower_band"": 470.7844
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 472.15 and resistance_realtime to 472.45 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 472.005, 473.2256, and 470.7844 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0635% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry, target, stoploss from default support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry1, target1, stoploss1 from 1d support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry2, target2, stoploss2 from 1w support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry3, target3, stoploss3 from 3m support/resistance with bias=long and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 472.7 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 472.15,
+  ""target"": 480.94375,
+  ""stoploss"": 466.7875,
+  ""entry1"": 459.05,
+  ""target1"": 477.35,
+  ""stoploss1"": 466.7875,
+  ""entry2"": 459.05,
+  ""target2"": 480.7,
+  ""stoploss2"": 466.7875,
+  ""entry3"": 342.85,
+  ""target3"": 480.7,
+  ""stoploss3"": 437.9875,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.6454
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 476.9289
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 486.881
+    }
+  }
+}"
+2025-09-04 15:11:28,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:58:00+00:00"",
+    ""open"": 472.3,
+    ""high"": 472.35,
+    ""low"": 472.1,
+    ""close"": 472.1,
+    ""volume"": 3764
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 472.15,
+  ""resistance_realtime"": 472.45,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.0635,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 472.005,
+    ""upper_band"": 473.2256,
+    ""lower_band"": 470.7844
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 472.15 and resistance_realtime to 472.45 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 472.005, 473.2256, and 470.7844 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0635% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry, target, stoploss from default support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry1, target1, stoploss1 from 1d support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry2, target2, stoploss2 from 1w support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry3, target3, stoploss3 from 3m support/resistance with bias=long and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 472.1 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 472.15,
+  ""target"": 480.94375,
+  ""stoploss"": 466.7875,
+  ""entry1"": 472.4,
+  ""target1"": 478.265,
+  ""stoploss1"": 467.825,
+  ""entry2"": 472.4,
+  ""target2"": 480.51875,
+  ""stoploss2"": 466.9875,
+  ""entry3"": 472.4,
+  ""target3"": 487.5925,
+  ""stoploss3"": 437.9375,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 473.0442
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 475.4047
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 486.263
+    }
+  }
+}"
+2025-09-05 12:10:01,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:10:00+00:00"",
+    ""open"": 470.6,
+    ""high"": 470.8,
+    ""low"": 470.35,
+    ""close"": 470.65,
+    ""volume"": 15619
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 472.15,
+  ""resistance_realtime"": 472.45,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.0635,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 472.005,
+    ""upper_band"": 473.2256,
+    ""lower_band"": 470.7844
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 472.15 and resistance_realtime to 472.45 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 472.005, 473.2256, and 470.7844 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.0635% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Auto-filled entry, target, stoploss from default support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry1, target1, stoploss1 from 1d support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry2, target2, stoploss2 from 1w support/resistance with bias=long and RR=1.5"",
+    ""Auto-filled entry3, target3, stoploss3 from 3m support/resistance with bias=long and RR=1.5"",
+    ""Predicted targets recalculated based on latest close 470.65 and recent trend indications""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 474.3,
+  ""target"": 481.7,
+  ""stoploss"": 466.75,
+  ""entry1"": 468.2,
+  ""target1"": 477.35,
+  ""stoploss1"": 459.05,
+  ""entry2"": 470.875,
+  ""target2"": 480.7,
+  ""stoploss2"": 459.05,
+  ""entry3"": 411.775,
+  ""target3"": 480.7,
+  ""stoploss3"": 342.85,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 475.9878
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 478.70975
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 484.7695
+    }
+  }
+}"
+2025-09-05 12:28:10,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:08:00+00:00"",
+    ""open"": 466.05,
+    ""high"": 466.5,
+    ""low"": 465.75,
+    ""close"": 466.4,
+    ""volume"": 656
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.340,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 465.05 and resistance_realtime to 466.7 based on latest 1-minute indicator lows and highs"",
+    ""Adjusted Bollinger bands mid, upper, and lower to 465.9725, 466.6657, and 465.2793 reflecting recent intraday volatility"",
+    ""Recalculated sr_range_pct_realtime to 0.34% from updated realtime S/R levels"",
+    ""Maintained volume_threshold at 7650; recent volume remains below threshold indicating low intraday activity"",
+    ""No change in daily, weekly, and 3-month support/resistance levels as historical data supports current values"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong directional momentum"",
+    ""Set trade levels for default S/R: stoploss 457.15 < support 459.05 < entry 462.0 < target 471.0 < resistance 481.7"",
+    ""Set trade levels for 1d S/R: stoploss1 451.15 < support_1d 459.05 < entry1 462.0 < target1 471.0 < resistance_1d 477.35"",
+    ""Set trade levels for 1w S/R: stoploss2 451.15 < support_1w 459.05 < entry2 462.0 < target2 471.0 < resistance_1w 480.7"",
+    ""Set trade levels for 3m S/R: stoploss3 335.85 < support_3m 342.85 < entry3 350.0 < target3 400.0 < resistance_3m 480.7"",
+    ""Predicted targets recalculated based on latest close 466.4 and recent trend indications with positive returns""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 462.0,
+  ""target"": 471.0,
+  ""stoploss"": 457.15,
+  ""entry1"": 462.0,
+  ""target1"": 471.0,
+  ""stoploss1"": 451.15,
+  ""entry2"": 462.0,
+  ""target2"": 471.0,
+  ""stoploss2"": 451.15,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 335.85,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 471.9968
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 473.396
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 480.392
+    }
+  }
+}"
+2025-09-05 13:34:02,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:27:00+00:00"",
+    ""open"": 464.7,
+    ""high"": 465.25,
+    ""low"": 464.7,
+    ""close"": 464.95,
+    ""volume"": 3103
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 464.95 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 460.0,
+  ""target"": 475.0,
+  ""stoploss"": 457.0,
+  ""entry1"": 460.0,
+  ""target1"": 470.0,
+  ""stoploss1"": 456.0,
+  ""entry2"": 460.0,
+  ""target2"": 475.0,
+  ""stoploss2"": 456.0,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 335.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 470.5394
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 471.92325
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 478.8985
+    }
+  }
+}"
+2025-09-05 13:45:54,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:32:00+00:00"",
+    ""open"": 464.0,
+    ""high"": 464.0,
+    ""low"": 463.9,
+    ""close"": 463.95,
+    ""volume"": 1090
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 463.95 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 469.4274
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 470.90925
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 477.8685
+    }
+  }
+}"
+2025-09-05 14:22:34,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:44:00+00:00"",
+    ""open"": 464.45,
+    ""high"": 464.6,
+    ""low"": 464.35,
+    ""close"": 464.35,
+    ""volume"": 2065
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9865,
+  ""sr_range_pct_1w"": 4.7163,
+  ""sr_range_pct_3m"": 40.2071,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 464.35 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 470.0212
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 471.80525
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 478.2805
+    }
+  }
+}"
+2025-09-05 14:34:21,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:21:00+00:00"",
+    ""open"": 468.9,
+    ""high"": 468.9,
+    ""low"": 468.8,
+    ""close"": 468.8,
+    ""volume"": 190
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9036,
+  ""sr_range_pct_1w"": 4.6182,
+  ""sr_range_pct_3m"": 29.4049,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.8 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 474.8656
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.832
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.864
+    }
+  }
+}"
+2025-09-05 14:39:10,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:33:00+00:00"",
+    ""open"": 468.7,
+    ""high"": 468.7,
+    ""low"": 468.6,
+    ""close"": 468.7,
+    ""volume"": 239
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9044,
+  ""sr_range_pct_1w"": 4.6192,
+  ""sr_range_pct_3m"": 29.4111,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.7 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 474.864,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.7305,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.761,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 14:51:46,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:38:00+00:00"",
+    ""open"": 468.2,
+    ""high"": 468.2,
+    ""low"": 468.0,
+    ""close"": 468.1,
+    ""volume"": 15877
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9094,
+  ""sr_range_pct_1w"": 4.6251,
+  ""sr_range_pct_3m"": 29.4488,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.1 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 473.9372
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.1215
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.143
+    }
+  }
+}"
+2025-09-05 15:05:58,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:50:00+00:00"",
+    ""open"": 468.35,
+    ""high"": 468.6,
+    ""low"": 468.2,
+    ""close"": 468.55,
+    ""volume"": 1144
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9057,
+  ""sr_range_pct_1w"": 4.6206,
+  ""sr_range_pct_3m"": 29.4206,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.55 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 473.9226
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.57825
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.6065
+    }
+  }
+}"
+2025-09-05 15:18:01,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:04:00+00:00"",
+    ""open"": 467.0,
+    ""high"": 467.65,
+    ""low"": 467.0,
+    ""close"": 467.5,
+    ""volume"": 6673
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9144,
+  ""sr_range_pct_1w"": 4.631,
+  ""sr_range_pct_3m"": 29.4866,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.55 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.804,
+  ""target"": 475.0,
+  ""stoploss"": 457.042,
+  ""entry1"": 461.804,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.042,
+  ""entry2"": 461.804,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.042,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 473.9226
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.57825
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.6065
+    }
+  }
+}"
+2025-09-05 15:30:07,"{
+  ""stock_code"": ""DELHIVERY"",
+  ""instrument_token"": 2457345,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:17:00+00:00"",
+    ""open"": 467.4,
+    ""high"": 467.4,
+    ""low"": 467.15,
+    ""close"": 467.4,
+    ""volume"": 2014
+  },
+  ""support"": 459.05,
+  ""resistance"": 481.7,
+  ""support_realtime"": 465.05,
+  ""resistance_realtime"": 466.7,
+  ""support_1d"": 459.05,
+  ""resistance_1d"": 477.35,
+  ""support_1w"": 459.05,
+  ""resistance_1w"": 480.7,
+  ""support_3m"": 342.85,
+  ""resistance_3m"": 480.7,
+  ""sr_range_pct_realtime"": 0.344,
+  ""sr_range_pct_1d"": 3.9153,
+  ""sr_range_pct_1w"": 4.632,
+  ""sr_range_pct_3m"": 29.4929,
+  ""volume_threshold"": 7650.0,
+  ""bollinger"": {
+    ""mid_price"": 465.9725,
+    ""upper_band"": 466.6657,
+    ""lower_band"": 465.2793
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands"",
+    ""Maintained support and resistance levels across all horizons based on historical and recent data"",
+    ""Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels"",
+    ""Volume threshold remains at 7650 due to low recent volume activity"",
+    ""Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793"",
+    ""ADX below threshold indicates lack of strong momentum, signal remains No Action"",
+    ""Predicted targets recalculated based on latest close 468.55 with positive returns for 1d, 1w, and 3m horizons""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 461.8,
+  ""target"": 475.0,
+  ""stoploss"": 457.04,
+  ""entry1"": 461.8,
+  ""target1"": 470.0,
+  ""stoploss1"": 457.04,
+  ""entry2"": 461.8,
+  ""target2"": 475.0,
+  ""stoploss2"": 457.04,
+  ""entry3"": 350.0,
+  ""target3"": 400.0,
+  ""stoploss3"": 341.35,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 473.92
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 475.58
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 482.61
+    }
+  }
+}"

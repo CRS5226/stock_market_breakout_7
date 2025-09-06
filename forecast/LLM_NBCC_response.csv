@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:21:09,"{
+  ""stock_code"": ""NBCC"",
+  ""instrument_token"": 8042241,
+  ""support"": 105.75,
+  ""resistance"": 105.97,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 105.88,
+    ""upper_band"": 105.94,
+    ""lower_band"": 105.82
+  },
+  ""macd"": {
+    ""signal_line"": 0.0107,
+    ""histogram"": 0.00999,
+    ""ma_fast"": 105.89,
+    ""ma_slow"": 105.88,
+    ""ma_signal"": 105.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 105.89,
+    ""ma_slow"": 105.88
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with tight Bollinger bands, indicating low volatility and sideways movement."",
+    ""No significant breakout or breakdown signals observed in recent data."",
+    ""Volume remains stable, not indicating strong buying or selling pressure."",
+    ""ADX remains below 20, suggesting weak trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

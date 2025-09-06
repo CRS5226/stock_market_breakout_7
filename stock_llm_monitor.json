@@ -1,0 +1,1614 @@
+{
+  "RELIANCE": {
+    "total_input_tokens": 58697,
+    "total_output_tokens": 5221,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 58697,
+        "output": 5221
+      }
+    }
+  },
+  "JIOFIN": {
+    "total_input_tokens": 432237,
+    "total_output_tokens": 51997,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 42349,
+        "output": 4352
+      },
+      "gpt-4.1-mini": {
+        "input": 389888,
+        "output": 47645
+      }
+    }
+  },
+  "PARADEEP": {
+    "total_input_tokens": 247797,
+    "total_output_tokens": 28607,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 247797,
+        "output": 28607
+      }
+    }
+  },
+  "COCHINSHIP": {
+    "total_input_tokens": 250144,
+    "total_output_tokens": 29265,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 250144,
+        "output": 29265
+      }
+    }
+  },
+  "TRENT": {
+    "total_input_tokens": 233218,
+    "total_output_tokens": 29899,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 230082,
+        "output": 29554
+      },
+      "gpt-4.1-nano": {
+        "input": 3136,
+        "output": 345
+      }
+    }
+  },
+  "POWERINDIA": {
+    "total_input_tokens": 224473,
+    "total_output_tokens": 24596,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 224473,
+        "output": 24596
+      }
+    }
+  },
+  "KAJARIACER": {
+    "total_input_tokens": 239056,
+    "total_output_tokens": 28257,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 239056,
+        "output": 28257
+      }
+    }
+  },
+  "FORCEMOT": {
+    "total_input_tokens": 219506,
+    "total_output_tokens": 26007,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 219506,
+        "output": 26007
+      }
+    }
+  },
+  "POLYCAB": {
+    "total_input_tokens": 216693,
+    "total_output_tokens": 26495,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 216693,
+        "output": 26495
+      }
+    }
+  },
+  "ANANDRATHI": {
+    "total_input_tokens": 208836,
+    "total_output_tokens": 25752,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 205594,
+        "output": 25376
+      },
+      "gpt-4.1-mini": {
+        "input": 3242,
+        "output": 376
+      }
+    }
+  },
+  "CHOLAHLDNG": {
+    "total_input_tokens": 207195,
+    "total_output_tokens": 24795,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 207195,
+        "output": 24795
+      }
+    }
+  },
+  "NATCOPHARM": {
+    "total_input_tokens": 201031,
+    "total_output_tokens": 24173,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 201031,
+        "output": 24173
+      }
+    }
+  },
+  "GMDCLTD": {
+    "total_input_tokens": 202095,
+    "total_output_tokens": 24524,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 202095,
+        "output": 24524
+      }
+    }
+  },
+  "RPOWER-BE": {
+    "total_input_tokens": 177249,
+    "total_output_tokens": 22243,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 177249,
+        "output": 22243
+      }
+    }
+  },
+  "CDSL": {
+    "total_input_tokens": 413221,
+    "total_output_tokens": 50349,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 413221,
+        "output": 50349
+      }
+    }
+  },
+  "BSE": {
+    "total_input_tokens": 389754,
+    "total_output_tokens": 48607,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 389754,
+        "output": 48607
+      }
+    }
+  },
+  "GESHIP": {
+    "total_input_tokens": 314312,
+    "total_output_tokens": 34596,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 314312,
+        "output": 34596
+      }
+    }
+  },
+  "MCX": {
+    "total_input_tokens": 302136,
+    "total_output_tokens": 40729,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 302136,
+        "output": 40729
+      }
+    }
+  },
+  "GRSE": {
+    "total_input_tokens": 307282,
+    "total_output_tokens": 40023,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 307282,
+        "output": 40023
+      }
+    }
+  },
+  "DELHIVERY": {
+    "total_input_tokens": 297929,
+    "total_output_tokens": 36171,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 297929,
+        "output": 36171
+      }
+    }
+  },
+  "PARAS": {
+    "total_input_tokens": 276778,
+    "total_output_tokens": 33998,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 276778,
+        "output": 33998
+      }
+    }
+  },
+  "RRKABEL": {
+    "total_input_tokens": 265772,
+    "total_output_tokens": 31765,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 265772,
+        "output": 31765
+      }
+    }
+  },
+  "RTNINDIA": {
+    "total_input_tokens": 252828,
+    "total_output_tokens": 28675,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 252828,
+        "output": 28675
+      }
+    }
+  },
+  "BIOCON": {
+    "total_input_tokens": 1960,
+    "total_output_tokens": 332,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 1960,
+        "output": 332
+      }
+    }
+  },
+  "TATACHEM": {
+    "total_input_tokens": 1939,
+    "total_output_tokens": 405,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 1939,
+        "output": 405
+      }
+    }
+  },
+  "IRFC": {
+    "total_input_tokens": 1929,
+    "total_output_tokens": 364,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 1929,
+        "output": 364
+      }
+    }
+  },
+  "SBICARD": {
+    "total_input_tokens": 2265,
+    "total_output_tokens": 378,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 2265,
+        "output": 378
+      }
+    }
+  },
+  "IDBI": {
+    "total_input_tokens": 3179,
+    "total_output_tokens": 326,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3179,
+        "output": 326
+      }
+    }
+  },
+  "HUDCO": {
+    "total_input_tokens": 2898,
+    "total_output_tokens": 391,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 2898,
+        "output": 391
+      }
+    }
+  },
+  "HLEGLAS": {
+    "total_input_tokens": 2505,
+    "total_output_tokens": 343,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 2505,
+        "output": 343
+      }
+    }
+  },
+  "LUPIN": {
+    "total_input_tokens": 3297,
+    "total_output_tokens": 384,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3297,
+        "output": 384
+      }
+    }
+  },
+  "ESCORTS": {
+    "total_input_tokens": 3225,
+    "total_output_tokens": 325,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3225,
+        "output": 325
+      }
+    }
+  },
+  "FEDERALBNK": {
+    "total_input_tokens": 3272,
+    "total_output_tokens": 390,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3272,
+        "output": 390
+      }
+    }
+  },
+  "DEEPAKNTR": {
+    "total_input_tokens": 3319,
+    "total_output_tokens": 367,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3319,
+        "output": 367
+      }
+    }
+  },
+  "SUPREMEIND": {
+    "total_input_tokens": 3251,
+    "total_output_tokens": 378,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3251,
+        "output": 378
+      }
+    }
+  },
+  "PIIND": {
+    "total_input_tokens": 3133,
+    "total_output_tokens": 346,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3133,
+        "output": 346
+      }
+    }
+  },
+  "IIFL": {
+    "total_input_tokens": 3178,
+    "total_output_tokens": 371,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3178,
+        "output": 371
+      }
+    }
+  },
+  "BALRAMCHIN": {
+    "total_input_tokens": 3185,
+    "total_output_tokens": 332,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3185,
+        "output": 332
+      }
+    }
+  },
+  "RADICO": {
+    "total_input_tokens": 3275,
+    "total_output_tokens": 380,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3275,
+        "output": 380
+      }
+    }
+  },
+  "UBL": {
+    "total_input_tokens": 3204,
+    "total_output_tokens": 337,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3204,
+        "output": 337
+      }
+    }
+  },
+  "NAM-INDIA": {
+    "total_input_tokens": 3206,
+    "total_output_tokens": 403,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3206,
+        "output": 403
+      }
+    }
+  },
+  "ZEEL": {
+    "total_input_tokens": 3142,
+    "total_output_tokens": 338,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3142,
+        "output": 338
+      }
+    }
+  },
+  "SUNTV": {
+    "total_input_tokens": 3084,
+    "total_output_tokens": 381,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3084,
+        "output": 381
+      }
+    }
+  },
+  "PERSISTENT": {
+    "total_input_tokens": 3168,
+    "total_output_tokens": 333,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3168,
+        "output": 333
+      }
+    }
+  },
+  "RAMCOCEM": {
+    "total_input_tokens": 3301,
+    "total_output_tokens": 331,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3301,
+        "output": 331
+      }
+    }
+  },
+  "JUBLFOOD": {
+    "total_input_tokens": 3231,
+    "total_output_tokens": 370,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3231,
+        "output": 370
+      }
+    }
+  },
+  "COROMANDEL": {
+    "total_input_tokens": 3234,
+    "total_output_tokens": 364,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3234,
+        "output": 364
+      }
+    }
+  },
+  "FSL": {
+    "total_input_tokens": 3183,
+    "total_output_tokens": 394,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3183,
+        "output": 394
+      }
+    }
+  },
+  "ADVENZYMES": {
+    "total_input_tokens": 3127,
+    "total_output_tokens": 171,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3127,
+        "output": 171
+      }
+    }
+  },
+  "BATAINDIA": {
+    "total_input_tokens": 3289,
+    "total_output_tokens": 407,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3289,
+        "output": 407
+      }
+    }
+  },
+  "RBLBANK": {
+    "total_input_tokens": 3227,
+    "total_output_tokens": 322,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3227,
+        "output": 322
+      }
+    }
+  },
+  "MRF": {
+    "total_input_tokens": 3128,
+    "total_output_tokens": 392,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3128,
+        "output": 392
+      }
+    }
+  },
+  "TATACOMM": {
+    "total_input_tokens": 3230,
+    "total_output_tokens": 352,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3230,
+        "output": 352
+      }
+    }
+  },
+  "GODREJPROP": {
+    "total_input_tokens": 3259,
+    "total_output_tokens": 394,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3259,
+        "output": 394
+      }
+    }
+  },
+  "GRINDWELL": {
+    "total_input_tokens": 3216,
+    "total_output_tokens": 329,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3216,
+        "output": 329
+      }
+    }
+  },
+  "GSPL": {
+    "total_input_tokens": 3155,
+    "total_output_tokens": 377,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3155,
+        "output": 377
+      }
+    }
+  },
+  "NATIONALUM": {
+    "total_input_tokens": 3203,
+    "total_output_tokens": 326,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3203,
+        "output": 326
+      }
+    }
+  },
+  "JINDALSTEL": {
+    "total_input_tokens": 3249,
+    "total_output_tokens": 423,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3249,
+        "output": 423
+      }
+    }
+  },
+  "AARTIIND": {
+    "total_input_tokens": 3211,
+    "total_output_tokens": 321,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3211,
+        "output": 321
+      }
+    }
+  },
+  "APLLTD": {
+    "total_input_tokens": 3110,
+    "total_output_tokens": 405,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3110,
+        "output": 405
+      }
+    }
+  },
+  "CESC": {
+    "total_input_tokens": 3194,
+    "total_output_tokens": 350,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3194,
+        "output": 350
+      }
+    }
+  },
+  "THERMAX": {
+    "total_input_tokens": 3302,
+    "total_output_tokens": 387,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3302,
+        "output": 387
+      }
+    }
+  },
+  "VINATIORGA": {
+    "total_input_tokens": 3252,
+    "total_output_tokens": 398,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3252,
+        "output": 398
+      }
+    }
+  },
+  "CANFINHOME": {
+    "total_input_tokens": 3110,
+    "total_output_tokens": 395,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3110,
+        "output": 395
+      }
+    }
+  },
+  "COFORGE": {
+    "total_input_tokens": 3307,
+    "total_output_tokens": 375,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3307,
+        "output": 375
+      }
+    }
+  },
+  "TATVA": {
+    "total_input_tokens": 3280,
+    "total_output_tokens": 419,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3280,
+        "output": 419
+      }
+    }
+  },
+  "BASF": {
+    "total_input_tokens": 3124,
+    "total_output_tokens": 341,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3124,
+        "output": 341
+      }
+    }
+  },
+  "ALOKINDS": {
+    "total_input_tokens": 3206,
+    "total_output_tokens": 338,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3206,
+        "output": 338
+      }
+    }
+  },
+  "DCMSHRIRAM": {
+    "total_input_tokens": 3259,
+    "total_output_tokens": 350,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3259,
+        "output": 350
+      }
+    }
+  },
+  "RAJESHEXPO": {
+    "total_input_tokens": 3226,
+    "total_output_tokens": 409,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3226,
+        "output": 409
+      }
+    }
+  },
+  "JSL": {
+    "total_input_tokens": 3229,
+    "total_output_tokens": 321,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3229,
+        "output": 321
+      }
+    }
+  },
+  "FINCABLES": {
+    "total_input_tokens": 3088,
+    "total_output_tokens": 370,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3088,
+        "output": 370
+      }
+    }
+  },
+  "NLCINDIA": {
+    "total_input_tokens": 3209,
+    "total_output_tokens": 330,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3209,
+        "output": 330
+      }
+    }
+  },
+  "JKCEMENT": {
+    "total_input_tokens": 3118,
+    "total_output_tokens": 383,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3118,
+        "output": 383
+      }
+    }
+  },
+  "CYIENT": {
+    "total_input_tokens": 3248,
+    "total_output_tokens": 310,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3248,
+        "output": 310
+      }
+    }
+  },
+  "KEI": {
+    "total_input_tokens": 3312,
+    "total_output_tokens": 408,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3312,
+        "output": 408
+      }
+    }
+  },
+  "SHARDACROP": {
+    "total_input_tokens": 3100,
+    "total_output_tokens": 383,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3100,
+        "output": 383
+      }
+    }
+  },
+  "ABBOTINDIA": {
+    "total_input_tokens": 3121,
+    "total_output_tokens": 394,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3121,
+        "output": 394
+      }
+    }
+  },
+  "SKFINDIA": {
+    "total_input_tokens": 3217,
+    "total_output_tokens": 347,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3217,
+        "output": 347
+      }
+    }
+  },
+  "TIINDIA": {
+    "total_input_tokens": 3292,
+    "total_output_tokens": 410,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3292,
+        "output": 410
+      }
+    }
+  },
+  "SANOFI": {
+    "total_input_tokens": 3115,
+    "total_output_tokens": 340,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3115,
+        "output": 340
+      }
+    }
+  },
+  "TRIDENT": {
+    "total_input_tokens": 3222,
+    "total_output_tokens": 400,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3222,
+        "output": 400
+      }
+    }
+  },
+  "MINDACORP": {
+    "total_input_tokens": 3216,
+    "total_output_tokens": 339,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3216,
+        "output": 339
+      }
+    }
+  },
+  "PRESTIGE": {
+    "total_input_tokens": 3291,
+    "total_output_tokens": 388,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3291,
+        "output": 388
+      }
+    }
+  },
+  "NBCC": {
+    "total_input_tokens": 3196,
+    "total_output_tokens": 334,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3196,
+        "output": 334
+      }
+    }
+  },
+  "VGUARD": {
+    "total_input_tokens": 3122,
+    "total_output_tokens": 389,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3122,
+        "output": 389
+      }
+    }
+  },
+  "FINEORG": {
+    "total_input_tokens": 3119,
+    "total_output_tokens": 329,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3119,
+        "output": 329
+      }
+    }
+  },
+  "RITES": {
+    "total_input_tokens": 3232,
+    "total_output_tokens": 358,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3232,
+        "output": 358
+      }
+    }
+  },
+  "BEML": {
+    "total_input_tokens": 3280,
+    "total_output_tokens": 336,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3280,
+        "output": 336
+      }
+    }
+  },
+  "BBTC": {
+    "total_input_tokens": 3248,
+    "total_output_tokens": 390,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3248,
+        "output": 390
+      }
+    }
+  },
+  "AVANTIFEED": {
+    "total_input_tokens": 3140,
+    "total_output_tokens": 356,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3140,
+        "output": 356
+      }
+    }
+  },
+  "KPITTECH": {
+    "total_input_tokens": 3290,
+    "total_output_tokens": 399,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3290,
+        "output": 399
+      }
+    }
+  },
+  "RALLIS": {
+    "total_input_tokens": 3159,
+    "total_output_tokens": 326,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3159,
+        "output": 326
+      }
+    }
+  },
+  "EIDPARRY": {
+    "total_input_tokens": 3148,
+    "total_output_tokens": 408,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3148,
+        "output": 408
+      }
+    }
+  },
+  "VARROC": {
+    "total_input_tokens": 3148,
+    "total_output_tokens": 329,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3148,
+        "output": 329
+      }
+    }
+  },
+  "SUNDARMFIN": {
+    "total_input_tokens": 3277,
+    "total_output_tokens": 367,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3277,
+        "output": 367
+      }
+    }
+  },
+  "CAMS": {
+    "total_input_tokens": 3280,
+    "total_output_tokens": 342,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3280,
+        "output": 342
+      }
+    }
+  },
+  "INDIAMART": {
+    "total_input_tokens": 3259,
+    "total_output_tokens": 360,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3259,
+        "output": 360
+      }
+    }
+  },
+  "MAHLOG": {
+    "total_input_tokens": 3185,
+    "total_output_tokens": 338,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3185,
+        "output": 338
+      }
+    }
+  },
+  "AMBER": {
+    "total_input_tokens": 3128,
+    "total_output_tokens": 425,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3128,
+        "output": 425
+      }
+    }
+  },
+  "CLEAN": {
+    "total_input_tokens": 3142,
+    "total_output_tokens": 184,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3142,
+        "output": 184
+      }
+    }
+  },
+  "METROBRAND": {
+    "total_input_tokens": 3257,
+    "total_output_tokens": 425,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3257,
+        "output": 425
+      }
+    }
+  },
+  "TARSONS": {
+    "total_input_tokens": 3057,
+    "total_output_tokens": 312,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3057,
+        "output": 312
+      }
+    }
+  },
+  "SJVN": {
+    "total_input_tokens": 3239,
+    "total_output_tokens": 390,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3239,
+        "output": 390
+      }
+    }
+  },
+  "BAYERCROP": {
+    "total_input_tokens": 3135,
+    "total_output_tokens": 332,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3135,
+        "output": 332
+      }
+    }
+  },
+  "QUESS": {
+    "total_input_tokens": 3120,
+    "total_output_tokens": 375,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3120,
+        "output": 375
+      }
+    }
+  },
+  "MAHSEAMLES": {
+    "total_input_tokens": 3086,
+    "total_output_tokens": 174,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3086,
+        "output": 174
+      }
+    }
+  },
+  "INOXWIND": {
+    "total_input_tokens": 3223,
+    "total_output_tokens": 366,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3223,
+        "output": 366
+      }
+    }
+  },
+  "KNRCON": {
+    "total_input_tokens": 3078,
+    "total_output_tokens": 314,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3078,
+        "output": 314
+      }
+    }
+  },
+  "BALAMINES": {
+    "total_input_tokens": 3167,
+    "total_output_tokens": 388,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3167,
+        "output": 388
+      }
+    }
+  },
+  "MAHABANK": {
+    "total_input_tokens": 3190,
+    "total_output_tokens": 328,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3190,
+        "output": 328
+      }
+    }
+  },
+  "HEG": {
+    "total_input_tokens": 3196,
+    "total_output_tokens": 387,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3196,
+        "output": 387
+      }
+    }
+  },
+  "SOBHA": {
+    "total_input_tokens": 3251,
+    "total_output_tokens": 348,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3251,
+        "output": 348
+      }
+    }
+  },
+  "GPPL": {
+    "total_input_tokens": 3225,
+    "total_output_tokens": 386,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3225,
+        "output": 386
+      }
+    }
+  },
+  "ECLERX": {
+    "total_input_tokens": 3281,
+    "total_output_tokens": 437,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3281,
+        "output": 437
+      }
+    }
+  },
+  "KSB": {
+    "total_input_tokens": 3111,
+    "total_output_tokens": 368,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3111,
+        "output": 368
+      }
+    }
+  },
+  "IFBIND": {
+    "total_input_tokens": 3259,
+    "total_output_tokens": 349,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3259,
+        "output": 349
+      }
+    }
+  },
+  "SPARC": {
+    "total_input_tokens": 3149,
+    "total_output_tokens": 377,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3149,
+        "output": 377
+      }
+    }
+  },
+  "VSTIND": {
+    "total_input_tokens": 3090,
+    "total_output_tokens": 373,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3090,
+        "output": 373
+      }
+    }
+  },
+  "KPIL": {
+    "total_input_tokens": 3282,
+    "total_output_tokens": 338,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3282,
+        "output": 338
+      }
+    }
+  },
+  "INDIGOPNTS": {
+    "total_input_tokens": 3247,
+    "total_output_tokens": 405,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3247,
+        "output": 405
+      }
+    }
+  },
+  "SEQUENT": {
+    "total_input_tokens": 3146,
+    "total_output_tokens": 331,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3146,
+        "output": 331
+      }
+    }
+  },
+  "SIS": {
+    "total_input_tokens": 3087,
+    "total_output_tokens": 381,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3087,
+        "output": 381
+      }
+    }
+  },
+  "RANEHOLDIN": {
+    "total_input_tokens": 3177,
+    "total_output_tokens": 332,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3177,
+        "output": 332
+      }
+    }
+  },
+  "ANDHRAPAP": {
+    "total_input_tokens": 3120,
+    "total_output_tokens": 374,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3120,
+        "output": 374
+      }
+    }
+  },
+  "NESCO": {
+    "total_input_tokens": 3219,
+    "total_output_tokens": 342,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3219,
+        "output": 342
+      }
+    }
+  },
+  "TEAMLEASE": {
+    "total_input_tokens": 3306,
+    "total_output_tokens": 387,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3306,
+        "output": 387
+      }
+    }
+  },
+  "GREENPLY": {
+    "total_input_tokens": 3027,
+    "total_output_tokens": 325,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3027,
+        "output": 325
+      }
+    }
+  },
+  "MIRZAINT": {
+    "total_input_tokens": 3186,
+    "total_output_tokens": 412,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3186,
+        "output": 412
+      }
+    }
+  },
+  "REDINGTON": {
+    "total_input_tokens": 3189,
+    "total_output_tokens": 335,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3189,
+        "output": 335
+      }
+    }
+  },
+  "SYMPHONY": {
+    "total_input_tokens": 3124,
+    "total_output_tokens": 367,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3124,
+        "output": 367
+      }
+    }
+  },
+  "GHCL": {
+    "total_input_tokens": 3098,
+    "total_output_tokens": 349,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3098,
+        "output": 349
+      }
+    }
+  },
+  "HSCL": {
+    "total_input_tokens": 3232,
+    "total_output_tokens": 354,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3232,
+        "output": 354
+      }
+    }
+  },
+  "TVTODAY": {
+    "total_input_tokens": 3075,
+    "total_output_tokens": 372,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3075,
+        "output": 372
+      }
+    }
+  },
+  "HIKAL": {
+    "total_input_tokens": 3152,
+    "total_output_tokens": 360,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3152,
+        "output": 360
+      }
+    }
+  },
+  "JKLAKSHMI": {
+    "total_input_tokens": 3186,
+    "total_output_tokens": 368,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3186,
+        "output": 368
+      }
+    }
+  },
+  "PRINCEPIPE": {
+    "total_input_tokens": 3168,
+    "total_output_tokens": 366,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3168,
+        "output": 366
+      }
+    }
+  },
+  "IRB": {
+    "total_input_tokens": 3201,
+    "total_output_tokens": 335,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3201,
+        "output": 335
+      }
+    }
+  },
+  "VRLLOG": {
+    "total_input_tokens": 3128,
+    "total_output_tokens": 416,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3128,
+        "output": 416
+      }
+    }
+  },
+  "UCOBANK": {
+    "total_input_tokens": 3154,
+    "total_output_tokens": 326,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3154,
+        "output": 326
+      }
+    }
+  },
+  "CENTRALBK": {
+    "total_input_tokens": 3134,
+    "total_output_tokens": 369,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3134,
+        "output": 369
+      }
+    }
+  },
+  "TMB": {
+    "total_input_tokens": 3035,
+    "total_output_tokens": 329,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3035,
+        "output": 329
+      }
+    }
+  },
+  "CSBBANK": {
+    "total_input_tokens": 3159,
+    "total_output_tokens": 380,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3159,
+        "output": 380
+      }
+    }
+  },
+  "J&KBANK": {
+    "total_input_tokens": 3210,
+    "total_output_tokens": 330,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3210,
+        "output": 330
+      }
+    }
+  },
+  "DCBBANK": {
+    "total_input_tokens": 3239,
+    "total_output_tokens": 373,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3239,
+        "output": 373
+      }
+    }
+  },
+  "SOUTHBANK": {
+    "total_input_tokens": 3202,
+    "total_output_tokens": 319,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3202,
+        "output": 319
+      }
+    }
+  },
+  "YESBANK": {
+    "total_input_tokens": 3138,
+    "total_output_tokens": 391,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3138,
+        "output": 391
+      }
+    }
+  },
+  "EQUITASBNK": {
+    "total_input_tokens": 3224,
+    "total_output_tokens": 361,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3224,
+        "output": 361
+      }
+    }
+  },
+  "KARURVYSYA": {
+    "total_input_tokens": 3143,
+    "total_output_tokens": 399,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3143,
+        "output": 399
+      }
+    }
+  },
+  "UJJIVANSFB": {
+    "total_input_tokens": 3191,
+    "total_output_tokens": 352,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3191,
+        "output": 352
+      }
+    }
+  },
+  "HDFCBANK": {
+    "total_input_tokens": 6689,
+    "total_output_tokens": 672,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 6689,
+        "output": 672
+      }
+    }
+  },
+  "ICICIBANK": {
+    "total_input_tokens": 6765,
+    "total_output_tokens": 771,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 6765,
+        "output": 771
+      }
+    }
+  },
+  "INFY": {
+    "total_input_tokens": 6697,
+    "total_output_tokens": 640,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 6697,
+        "output": 640
+      }
+    }
+  },
+  "TCS": {
+    "total_input_tokens": 6556,
+    "total_output_tokens": 806,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 6556,
+        "output": 806
+      }
+    }
+  },
+  "LT": {
+    "total_input_tokens": 3248,
+    "total_output_tokens": 191,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3248,
+        "output": 191
+      }
+    }
+  },
+  "SBIN": {
+    "total_input_tokens": 3199,
+    "total_output_tokens": 437,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3199,
+        "output": 437
+      }
+    }
+  },
+  "KOTAKBANK": {
+    "total_input_tokens": 3356,
+    "total_output_tokens": 390,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3356,
+        "output": 390
+      }
+    }
+  },
+  "AXISBANK": {
+    "total_input_tokens": 3344,
+    "total_output_tokens": 421,
+    "by_model": {
+      "gpt-4.1-mini": {
+        "input": 3344,
+        "output": 421
+      }
+    }
+  },
+  "ITC": {
+    "total_input_tokens": 3205,
+    "total_output_tokens": 337,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 3205,
+        "output": 337
+      }
+    }
+  },
+  "ETERNAL": {
+    "total_input_tokens": 177233,
+    "total_output_tokens": 20510,
+    "by_model": {
+      "gpt-4.1-nano": {
+        "input": 177233,
+        "output": 20510
+      }
+    }
+  }
+}

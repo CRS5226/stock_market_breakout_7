@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:28:32,"{
+  ""stock_code"": ""INDIGOPNTS"",
+  ""instrument_token"": 524289,
+  ""support"": 1067.5,
+  ""resistance"": 1236.4,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1166.58,
+    ""upper_band"": 1167.42,
+    ""lower_band"": 1165.74
+  },
+  ""macd"": {
+    ""signal_line"": -0.4343,
+    ""histogram"": 0.1061,
+    ""ma_fast"": 1166.38,
+    ""ma_slow"": 1166.58,
+    ""ma_signal"": -0.3283
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1067.5 based on recent historical low and consistent bounce."",
+    ""Resistance updated to 1236.4 based on recent historical high and HH20 level."",
+    ""Bollinger Bands updated to reflect recent 1-minute data mid, upper, and lower bands around 1166.58."",
+    ""MACD parameters updated to recent values indicating slight negative momentum but potential stabilization."",
+    ""No change in volume threshold as volume remains below threshold in recent data."",
+    ""Signal set to Hold due to price near upper Bollinger Band but MACD histogram slightly positive and ADX below threshold indicating weak trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

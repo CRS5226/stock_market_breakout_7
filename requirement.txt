@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+breeze-connect
+python-telegram-bot
+kiteconnect
+openai
+redis

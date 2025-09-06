@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:22:05,"{
+  ""stock_code"": ""BBTC"",
+  ""instrument_token"": 97281,
+  ""support"": 1854.8,
+  ""resistance"": 1860.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1857.075,
+    ""upper_band"": 1859.327,
+    ""lower_band"": 1854.823
+  },
+  ""macd"": {
+    ""signal_line"": -0.8847,
+    ""histogram"": 0.0611,
+    ""ma_fast"": 1856.2222,
+    ""ma_slow"": 1857.075,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 22.87
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent lower Bollinger Band and recent low price 1854.8."",
+    ""Resistance updated to recent upper Bollinger Band and recent high price 1860.0."",
+    ""Bollinger Bands updated to reflect recent 1-minute data."",
+    ""ADX threshold increased slightly to 22.87 based on recent ADX value indicating stronger trend."",
+    ""MACD parameters updated to recent values from 1-minute data."",
+    ""Signal set to Hold due to price consolidating near Bollinger Bands with low volume and weak MACD histogram.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

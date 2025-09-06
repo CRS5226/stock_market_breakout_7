@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:29:46,"{
+  ""stock_code"": ""TEAMLEASE"",
+  ""instrument_token"": 3255297,
+  ""support"": 1805.3,
+  ""resistance"": 1816.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1811.32,
+    ""upper_band"": 1816.60,
+    ""lower_band"": 1806.04
+  },
+  ""macd"": {
+    ""signal_line"": 1.39,
+    ""histogram"": 0.38,
+    ""ma_fast"": 1813.44,
+    ""ma_slow"": 1811.32,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25.7
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent lower Bollinger Band level and recent low price (1805.3)."",
+    ""Resistance updated to recent upper Bollinger Band level and recent high price (1816.0)."",
+    ""Bollinger Bands updated to recent values reflecting current price range."",
+    ""ADX threshold increased to 25.7 indicating stronger trend strength recently."",
+    ""MACD values updated to recent data showing slight bullish momentum."",
+    ""Signal set to Hold due to price consolidating near upper Bollinger Band but volume remains low and ADX moderate.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

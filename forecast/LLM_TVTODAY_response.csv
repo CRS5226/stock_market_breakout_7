@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:31:25,"{
+  ""stock_code"": ""TVTODAY"",
+  ""instrument_token"": 2886401,
+  ""support"": 143.0,
+  ""resistance"": 152.44,
+  ""volume_threshold"": 150000,
+  ""bollinger"": {
+    ""mid_price"": 147.128,
+    ""upper_band"": 177.9905,
+    ""lower_band"": 132.4995
+  },
+  ""macd"": {
+    ""signal_line"": -6.1213,
+    ""histogram"": -0.5065,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 30
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low of 143.0 reflecting recent price floor."",
+    ""Resistance updated to recent high of 152.44 indicating new short-term ceiling."",
+    ""Volume threshold lowered to 150000 to reflect recent average volume spike."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values for accuracy."",
+    ""MACD signal line and histogram updated to recent values indicating bearish momentum."",
+    ""ADX threshold increased to 30 due to rising ADX values signaling stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

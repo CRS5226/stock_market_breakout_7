@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:18:04,"{
+  ""stock_code"": ""RAJESHEXPO"",
+  ""instrument_token"": 1894657,
+  ""support"": 176.0,
+  ""resistance"": 182.2,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 181.73736842105265,
+    ""upper_band"": 182.1628139265129,
+    ""lower_band"": 181.3119229155924
+  },
+  ""macd"": {
+    ""signal_line"": 0.11904658416237435,
+    ""histogram"": 0.04117766012216084,
+    ""ma_fast"": 0.1602242442845352,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low area around 176 based on historical lows and recent price action."",
+    ""Resistance updated to recent upper Bollinger Band and recent high at 182.2 indicating short-term resistance."",
+    ""Bollinger Bands updated to recent values from 1-minute data for short-term accuracy."",
+    ""MACD parameters updated to recent values reflecting current momentum."",
+    ""ADX threshold increased to 25 indicating stronger trend confirmation needed based on recent ADX rise."",
+    ""Signal set to Hold due to price near resistance with moderate volume and mixed momentum indicators.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:11:21,"{
+  ""stock_code"": ""BALRAMCHIN"",
+  ""instrument_token"": 87297,
+  ""support"": 540.0,
+  ""resistance"": 568.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 565.9444,
+    ""upper_band"": 566.6363,
+    ""lower_band"": 565.0637
+  },
+  ""macd"": {
+    ""signal_line"": 0.3628,
+    ""histogram"": 0.0588,
+    ""ma_fast"": 565.9444,
+    ""ma_slow"": 565.85,
+    ""ma_signal"": 565.9444
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands and stable MACD, indicating no strong breakout or breakdown signals."",
+    ""Support adjusted slightly lower to 540 based on recent lows, resistance adjusted to 568 based on recent highs."",
+    ""Volume threshold remains unchanged due to consistent volume levels.""
+  ],
+  ""last_updated"": ""2025-08-19 14:09:00"",
+  ""signal"": ""Hold""
+}"

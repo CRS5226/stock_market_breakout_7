@@ -1,0 +1,40 @@
+timestamp,raw_response
+2025-08-19 14:15:36,"{
+  ""stock_code"": ""AARTIIND"",
+  ""instrument_token"": 1793,
+  ""support"": 370.3,
+  ""resistance"": 385.35,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 385.547,
+    ""upper_band"": 386.088,
+    ""lower_band"": 385.006
+  },
+  ""macd"": {
+    ""signal_line"": -0.0796,
+    ""histogram"": -0.059,
+    ""ma_fast"": 385.4167,
+    ""ma_slow"": 385.548
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 385.417,
+    ""ma_slow"": 385.548
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation near support and resistance levels, with no clear breakout signals."",
+    ""Minor upward momentum observed in recent MACD and ADX, but not strong enough to justify changing support/resistance thresholds."",
+    ""Volume remains stable, no significant increase indicating breakout or breakdown.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

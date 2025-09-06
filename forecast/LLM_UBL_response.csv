@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:11:43,"{
+  ""stock_code"": ""UBL"",
+  ""instrument_token"": 4278529,
+  ""support"": 1913.9,
+  ""resistance"": 1929.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1917.5,
+    ""upper_band"": 1920.2,
+    ""lower_band"": 1914.8
+  },
+  ""macd"": {
+    ""signal_line"": 0.55,
+    ""histogram"": 0.27,
+    ""ma_fast"": 1917.5,
+    ""ma_slow"": 1913.9,
+    ""ma_signal"": 1916.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1917.5,
+    ""ma_slow"": 1913.9
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with slight upward momentum, indicating potential for breakout."",
+    ""MACD histogram positive and increasing, suggesting bullish momentum."",
+    ""ADX remains above 20, confirming trend strength."",
+    ""Support adjusted slightly upward based on recent lows; resistance set near recent highs.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:20:23,"{
+  ""stock_code"": ""SANOFI"",
+  ""instrument_token"": 369153,
+  ""support"": 5050.0,
+  ""resistance"": 5230.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 5217.225,
+    ""upper_band"": 5244.7504,
+    ""lower_band"": 5189.6996
+  },
+  ""macd"": {
+    ""signal_line"": 8.9195,
+    ""histogram"": -0.4614,
+    ""ma_fast"": 5230.0,
+    ""ma_slow"": 5217.225,
+    ""ma_signal"": 5217.225
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 14,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with slight upward momentum, indicating potential for breakout."",
+    ""Short-term indicators suggest a bullish bias with MACD histogram turning less negative and price approaching upper Bollinger band."",
+    ""Support adjusted slightly downward to 5050 based on recent lows; resistance remains near 5230.""
+  ],
+  ""last_updated"": ""2025-08-19 14:19:00"",
+  ""signal"": ""Hold""
+}"

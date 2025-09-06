@@ -1,0 +1,40 @@
+timestamp,raw_response
+2025-08-19 14:18:44,"{
+  ""stock_code"": ""NLCINDIA"",
+  ""instrument_token"": 2197761,
+  ""support"": 236.59,
+  ""resistance"": 245.55,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 238.1765,
+    ""upper_band"": 247.4499,
+    ""lower_band"": 228.9031
+  },
+  ""macd"": {
+    ""signal_line"": 1.4075,
+    ""histogram"": -0.2135,
+    ""ma_fast"": 237.82999999999998,
+    ""ma_slow"": 237.769,
+    ""ma_signal"": 0.24722736864469455
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 237.82999999999998,
+    ""ma_slow"": 237.769
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent upward breakout above support level with increased volume and positive MACD histogram indicating bullish momentum."",
+    ""Short-term trend shows acceleration with recent candles closing above previous resistance, suggesting potential for further upward movement.""
+  ],
+  ""last_updated"": ""2025-08-19 14:17:00"",
+  ""signal"": ""Buy""
+}"

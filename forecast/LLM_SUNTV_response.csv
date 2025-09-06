@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:12:21,"{
+  ""stock_code"": ""SUNTV"",
+  ""instrument_token"": 3431425,
+  ""support"": 546.65,
+  ""resistance"": 595.5,
+  ""volume_threshold"": 300000,
+  ""bollinger"": {
+    ""mid_price"": 581.68,
+    ""upper_band"": 595.5,
+    ""lower_band"": 549.0
+  },
+  ""macd"": {
+    ""signal_line"": -7.5,
+    ""histogram"": 2.7,
+    ""ma_fast"": 562.8,
+    ""ma_slow"": 572.2,
+    ""ma_signal"": -6.8
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.8
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent 20-day low 546.65 from historical data."",
+    ""Resistance updated to recent upper Bollinger Band approx 595.5 from historical data."",
+    ""Volume threshold lowered to 300000 reflecting recent average volumes around 300k."",
+    ""Bollinger bands mid, upper, and lower updated to recent values from historical and recent data."",
+    ""MACD parameters updated to recent values reflecting slight bullish histogram and signal line."",
+    ""ADX threshold slightly increased to 21.8 based on recent ADX values indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Hold""
+}"

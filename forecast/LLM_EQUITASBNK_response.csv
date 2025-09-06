@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:34:45,"{
+  ""stock_code"": ""EQUITASBNK"",
+  ""instrument_token"": 233729,
+  ""support"": 54.86,
+  ""resistance"": 55.4,
+  ""volume_threshold"": 11901,
+  ""bollinger"": {
+    ""mid_price"": 54.870000000000005,
+    ""upper_band"": 54.92099019513589,
+    ""lower_band"": 54.819009804864116
+  },
+  ""macd"": {
+    ""signal_line"": -0.0074487459448704385,
+    ""histogram"": 0.007933866723978663,
+    ""ma_fast"": 54.888888888888886,
+    ""ma_slow"": 54.870000000000005,
+    ""ma_signal"": -0.0074487459448704385
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 54.888888888888886,
+    ""ma_slow"": 54.870000000000005
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout; support adjusted slightly lower based on recent lows."",
+    ""Volume remains low, indicating no strong breakout signals."",
+    ""No significant trend change or breakout observed in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:33:00"",
+  ""signal"": ""Hold""
+}"

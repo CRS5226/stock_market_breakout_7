@@ -1,0 +1,5548 @@
+timestamp,raw_response
+2025-08-19 13:01:22,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 328.6,
+    ""upper_band"": 337.42,
+    ""lower_band"": 306.35
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.1,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a stable close around 330.65, with no significant breakout beyond resistance at 332.6."",
+    ""Volume remains consistent with recent levels, indicating steady activity."",
+    ""Bollinger Bands are stable, showing no volatility breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:01:49,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 328.6,
+    ""upper_band"": 337.42,
+    ""lower_band"": 306.35
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.1,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a stable close around 330.65, with no significant breakout beyond resistance at 332.6."",
+    ""Volume remains consistent with recent levels, indicating steady activity."",
+    ""Bollinger Bands are stable, showing no volatility breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:02:08,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 328.6,
+    ""upper_band"": 337.42,
+    ""lower_band"": 306.35
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.1,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a stable close around 330.65, with no significant breakout beyond resistance at 332.6."",
+    ""Volume remains consistent with recent levels, indicating steady activity."",
+    ""Bollinger Bands are stable, showing no volatility breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:02:31,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:02:55,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:03:20,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:03:40,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:04,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:23,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation around 330.65 with no clear breakout beyond resistance at 332.6."",
+    ""Volume remains steady, indicating no significant change in activity."",
+    ""Bollinger Bands are stable with slight narrowing, suggesting low volatility but no breakout."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:04:45,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward movement with close at 330.55, near support at 330.5."",
+    ""No significant breakout beyond resistance at 332.6 observed in recent data."",
+    ""Bollinger Bands remain stable with slight narrowing, indicating low volatility."",
+    ""MACD remains near zero, indicating neutral momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:06:14,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation around support at 330.5 with no clear breakout beyond resistance at 332.6."",
+    ""No significant change in trend or volatility observed in recent data."",
+    ""Indicators remain neutral with MACD near zero and ADX below 20, indicating lack of strong trend."",
+    ""Support and resistance levels remain valid; no justification for adjustment.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:16:13,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.63,
+    ""upper_band"": 330.76,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance maintained at 333.7 from recent high breakout."",
+    ""Support level unchanged at 326.55 as no breakdown observed."",
+    ""Volume threshold maintained at recent peak volume of 11363627."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.63, upper 330.76, lower 330.49 indicating tight range consolidation."",
+    ""MACD histogram slightly improved to -0.0159 from -0.1, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:10:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:18:14,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.64,
+    ""upper_band"": 330.79,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.64, upper 330.79, lower 330.49 indicating slight widening but still tight consolidation."",
+    ""MACD histogram remains slightly negative at -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:20:18,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.64,
+    ""upper_band"": 330.79,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.64, upper 330.79, lower 330.49 indicating slight widening but still tight consolidation."",
+    ""MACD histogram remains slightly negative at -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:22:19,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.64,
+    ""upper_band"": 330.79,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.64, upper 330.79, lower 330.49 indicating slight widening but still tight consolidation."",
+    ""MACD histogram remains slightly negative at -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:25:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:24:24,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.64,
+    ""upper_band"": 330.79,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.64, upper 330.79, lower 330.49 indicating slight widening but still tight consolidation."",
+    ""MACD histogram remains slightly negative at -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:27:50,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.64,
+    ""upper_band"": 330.79,
+    ""lower_band"": 330.49
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.0159,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.64, upper 330.79, lower 330.49 indicating slight widening but still tight consolidation."",
+    ""MACD histogram remains slightly negative at -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:32:04,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.57,
+    ""upper_band"": 330.75,
+    ""lower_band"": 330.39
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.012,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.57, upper 330.75, lower 330.39 indicating slight widening but still tight consolidation."",
+    ""MACD histogram slightly improved to -0.012 from -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:37:57,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.57,
+    ""upper_band"": 330.75,
+    ""lower_band"": 330.39
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.012,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.57, upper 330.75, lower 330.39 indicating slight widening but still tight consolidation."",
+    ""MACD histogram slightly improved to -0.012 from -0.0159, showing minor bullish momentum but no strong signal."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:36:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:52:44,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.46,
+    ""upper_band"": 330.63,
+    ""lower_band"": 330.28
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.055,
+    ""ma_fast"": 330.39,
+    ""ma_slow"": 330.46,
+    ""ma_signal"": 330.39
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level unchanged at 326.55 as no breakdown observed in recent data."",
+    ""Resistance level maintained at 333.7 as price remains below recent highs."",
+    ""Volume threshold maintained at 11363627, matching recent peak volume."",
+    ""Bollinger Bands updated to recent 1-minute data: mid 330.46, upper 330.63, lower 330.28 indicating slight widening but still tight consolidation."",
+    ""MACD histogram declined to -0.055 from -0.012 indicating weakening momentum, with MACD lines adjusted to recent minute data."",
+    ""ADX threshold and period unchanged as ADX remains below 20 indicating weak trend strength."",
+    ""Price near upper Bollinger Band with no breakout, indicating consolidation."",
+    ""Recent volume and price action do not justify changes in support, resistance, or volume threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 13:51:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:44:36,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.05,
+    ""upper_band"": 330.05,
+    ""lower_band"": 330.05
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.1,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance maintained at 333.7 as recent data shows no breakout above this level."",
+    ""Support level unchanged at 326.55 with no recent breakdown below this level."",
+    ""Volume threshold remains at 11363627, consistent with recent peak volume."",
+    ""Bollinger Bands mid, upper, and lower bands stable at 330.05, reflecting consolidation in recent minute data."",
+    ""MACD and ADX indicators show no significant changes in recent data to justify parameter updates."",
+    ""Recent 1-minute candles show price near upper Bollinger Band but no breakout, supporting Hold signal.""
+  ],
+  ""last_updated"": ""2025-08-19 14:45:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:14:35,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.05,
+    ""upper_band"": 331.1650909898244,
+    ""lower_band"": 329.85990901017556
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": -0.1,
+    ""ma_fast"": 328.31,
+    ""ma_slow"": 321.9,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance maintained at 333.7 as recent 1-minute data shows price near but not breaking above resistance."",
+    ""Support level unchanged at 326.55 with no recent breakdown below this level."",
+    ""Volume threshold remains at 11363627, consistent with recent peak volume in historical data."",
+    ""Bollinger Bands upper and lower bands updated to 331.1651 and 329.8599 respectively based on recent 1-minute data indicating slight widening."",
+    ""MACD and ADX indicators show no significant changes in recent data to justify parameter updates."",
+    ""Recent 1-minute candles show price near upper Bollinger Band but no breakout, supporting Hold signal.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:18:55,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 326.55,
+  ""resistance"": 333.7,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.67,
+    ""upper_band"": 331.5331,
+    ""lower_band"": 329.8019
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.2044,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to upper 331.5331 and lower 329.8019 based on recent 1-minute data showing slight widening and mid price adjustment to 330.67."",
+    ""MACD histogram turned positive at 0.2044 in recent data indicating bullish momentum, with fast and slow MA adjusted to 331.04 and 330.67 respectively."",
+    ""Support remains at 326.55 as no recent breakdown below this level observed in recent data."",
+    ""Resistance maintained at 333.7 as price is near but not breaking above resistance in recent 1-minute candles."",
+    ""Volume threshold unchanged at 11363627 consistent with recent peak volume in historical data."",
+    ""ADX threshold remains at 20 as ADX values in recent data do not justify change."",
+    ""Signal updated to Hold due to price near upper Bollinger Band and positive MACD histogram but no breakout above resistance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-20 13:03:05,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 330.5,
+  ""resistance"": 332.6,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation around support at 330.5 with no clear breakout beyond resistance at 332.6."",
+    ""No significant change in trend or volatility observed in recent data."",
+    ""Indicators remain neutral with MACD near zero and ADX below 20, indicating lack of strong trend."",
+    ""Support and resistance levels remain valid; no justification for adjustment.""
+  ],
+  ""last_updated"": ""2025-08-19 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-20 13:03:26,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 329.55,
+  ""resistance"": 331.95,
+  ""volume_threshold"": 11363627,
+  ""bollinger"": {
+    ""mid_price"": 330.65,
+    ""upper_band"": 337.57,
+    ""lower_band"": 323.73
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.003,
+    ""ma_fast"": 330.66,
+    ""ma_slow"": 330.65,
+    ""ma_signal"": 330.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate consolidation around support at 329.55 with no clear breakout beyond resistance at 331.95."",
+    ""No significant trend change or volatility spike observed in recent data."",
+    ""Indicators remain neutral with MACD near zero and ADX below 20, suggesting lack of strong trend."",
+    ""Support and resistance levels are still valid; no adjustment justified.""
+  ],
+  ""last_updated"": ""2025-08-20 13:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 11:36:50,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 323.25,
+  ""resistance"": 324.0,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 323.66,
+    ""upper_band"": 324.0873,
+    ""lower_band"": 323.3277
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.2044,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent upper Bollinger Band level 324.0873 due to price touching upper band in recent 1-minute candles."",
+    ""No significant change in support level as price remains above 323.25."",
+    ""Volume threshold unchanged due to no major volume spike in recent data."",
+    ""Signal set to Hold due to price stabilizing near resistance with weak MACD histogram and ADX below threshold.""
+  ],
+  ""last_updated"": ""2025-08-22 11:40:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""basic_algo""
+}"
+2025-08-22 12:03:48,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 322.95,
+  ""resistance"": 324.99,
+  ""volume_threshold"": 37788,
+  ""bollinger"": {
+    ""mid_price"": 323.97,
+    ""upper_band"": 324.99,
+    ""lower_band"": 322.95
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.2044,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-minute candles show price consolidating near resistance 324.99 with no breakout"",
+    ""ADX remains below threshold indicating weak trend strength"",
+    ""MACD histogram negative in recent data indicating bearish momentum"",
+    ""Volume in recent candles below threshold, no surge in buying interest""
+  ],
+  ""last_updated"": ""2025-08-22 12:05:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""basic_algo""
+}"
+2025-08-22 12:08:59,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 322.95,
+  ""resistance"": 324.99,
+  ""volume_threshold"": 37788,
+  ""bollinger"": {
+    ""mid_price"": 323.97,
+    ""upper_band"": 324.99,
+    ""lower_band"": 322.95
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.2044,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-minute candles show price consolidating near resistance 324.99 with no breakout"",
+    ""ADX remains below threshold indicating weak trend strength"",
+    ""MACD histogram negative in recent data indicating bearish momentum"",
+    ""Volume in recent candles below threshold, no surge in buying interest""
+  ],
+  ""last_updated"": ""2025-08-22 12:07:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-25 14:18:00,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 321.25,
+  ""resistance"": 324.0873,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 323.66,
+    ""upper_band"": 324.0873,
+    ""lower_band"": 321.1935
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.2044,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level updated from 323.25 to 321.25 based on recent 1-minute candle lows and VWAP proximity indicating stronger short-term support."",
+    ""Resistance remains at recent upper Bollinger Band level 324.0873 as price has not broken above it in recent data."",
+    ""Volume threshold unchanged due to no significant volume spikes in recent 1-minute candles."",
+    ""Signal set to Hold due to price stabilizing near support with weak MACD histogram and ADX below threshold indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-25 14:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-25 14:19:23,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""support"": 321.25,
+  ""resistance"": 324.99,
+  ""volume_threshold"": 37788,
+  ""bollinger"": {
+    ""mid_price"": 321.65,
+    ""upper_band"": 324.99,
+    ""lower_band"": 321.25
+  },
+  ""macd"": {
+    ""signal_line"": 4.16,
+    ""histogram"": 0.1071,
+    ""ma_fast"": 331.04,
+    ""ma_slow"": 330.67,
+    ""ma_signal"": 328.31
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-minute candles show price breaking below previous support 322.95 to 321.25"",
+    ""Bollinger lower band adjusted to 321.25 reflecting recent price lows"",
+    ""MACD histogram turned positive but remains weak, indicating potential early momentum shift"",
+    ""ADX remains below threshold indicating weak trend strength"",
+    ""Volume in recent candles remains below threshold, no surge in buying interest""
+  ],
+  ""last_updated"": ""2025-08-25 14:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:34:13,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T11:22:00+00:00"",
+    ""open"": 312.9,
+    ""high"": 312.9,
+    ""low"": 312.6,
+    ""close"": 312.6,
+    ""volume"": 17740
+  },
+  ""support"": 312.3,
+  ""resistance"": 313.3,
+  ""volume_threshold"": 45951,
+  ""bollinger"": {
+    ""mid_price"": 312.8,
+    ""upper_band"": 313.15,
+    ""lower_band"": 312.44
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv with recent minute data"",
+    ""Adjusted Bollinger upper and lower bands slightly based on recent data"",
+    ""Signal remains No Action due to weak momentum and ADX below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.002,
+      ""price"": 312.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 314.2
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.9
+    }
+  }
+}"
+2025-09-01 14:42:53,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:33:00+00:00"",
+    ""open"": 313.3,
+    ""high"": 313.5,
+    ""low"": 313.3,
+    ""close"": 313.45,
+    ""volume"": 7645
+  },
+  ""support"": 312.3,
+  ""resistance"": 313.5,
+  ""volume_threshold"": 45951,
+  ""bollinger"": {
+    ""mid_price"": 313.67,
+    ""upper_band"": 313.99,
+    ""lower_band"": 313.35
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to recent high 313.5 from 313.3 due to breakout attempt"",
+    ""Bollinger bands adjusted upward reflecting recent price and volatility increase"",
+    ""Signal remains No Action as ADX is below threshold indicating weak trend""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 313.76
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 315.68
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 322.85
+    }
+  }
+}"
+2025-09-01 14:50:48,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:47:00+00:00"",
+    ""open"": 313.25,
+    ""high"": 313.35,
+    ""low"": 313.2,
+    ""close"": 313.3,
+    ""volume"": 10415
+  },
+  ""support"": 312.3,
+  ""resistance"": 313.5,
+  ""volume_threshold"": 45951,
+  ""bollinger"": {
+    ""mid_price"": 313.385,
+    ""upper_band"": 313.675,
+    ""lower_band"": 313.095
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest bar updated with recent 1-min data at 2025-09-01 14:47"",
+    ""Bollinger bands mid, upper, and lower adjusted slightly to recent values"",
+    ""Signal remains No Action as ADX below threshold indicates weak trend""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 313.6133
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 315.4941
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 322.699
+    }
+  }
+}"
+2025-09-01 14:57:22,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 313.35,
+    ""high"": 313.35,
+    ""low"": 313.1,
+    ""close"": 313.35,
+    ""volume"": 8832
+  },
+  ""support"": 312.3,
+  ""resistance"": 313.5,
+  ""volume_threshold"": 45951,
+  ""bollinger"": {
+    ""mid_price"": 313.3,
+    ""upper_band"": 313.54,
+    ""lower_band"": 313.06
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest OHLCV updated to 2025-09-01 14:53 based on recent 1-min data"",
+    ""Bollinger bands adjusted to recent mid, upper, and lower values from 1-min indicators"",
+    ""Signal remains No Action as ADX at 22.26 slightly above threshold but momentum weak"",
+    ""Support and resistance unchanged due to stable price range and volume below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 313.66335
+    },
+    ""1w"": {
+      ""ret"": 0.007,
+      ""price"": 315.48945
+    },
+    ""3m"": {
+      ""ret"": 0.03,
+      ""price"": 322.7505
+    }
+  }
+}"
+2025-09-02 10:59:47,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:54:00+00:00"",
+    ""open"": 313.4,
+    ""high"": 313.4,
+    ""low"": 313.1,
+    ""close"": 313.25,
+    ""volume"": 11551
+  },
+  ""support"": 313.05,
+  ""resistance"": 313.54,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.2975,
+    ""upper_band"": 313.539316045785,
+    ""lower_band"": 313.05568395421506
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 313.05 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 313.54 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.8765
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.512
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.58125
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 313.8765,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 315.512,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 320.58125,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-02 11:01:20,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 10:58:00+00:00"",
+    ""open"": 313.2,
+    ""high"": 313.6,
+    ""low"": 312.9,
+    ""close"": 313.3,
+    ""volume"": 108414
+  },
+  ""support"": 312.9,
+  ""resistance"": 315.4,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 315.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8939,
+  ""sr_range_pct_1d"": 1.261,
+  ""sr_range_pct_1w"": 2.506,
+  ""sr_range_pct_3m"": 17.909,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.2975,
+    ""upper_band"": 315.4015463065443,
+    ""lower_band"": 313.05568395421506
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 315.4 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.9266
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.8504
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.6325
+    }
+  }
+}"
+2025-09-02 11:09:58,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:00:00+00:00"",
+    ""open"": 313.6,
+    ""high"": 313.8,
+    ""low"": 313.5,
+    ""close"": 313.65,
+    ""volume"": 30575
+  },
+  ""support"": 312.9,
+  ""resistance"": 315.4,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 315.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8933,
+  ""sr_range_pct_1d"": 1.2602,
+  ""sr_range_pct_1w"": 2.5044,
+  ""sr_range_pct_3m"": 17.8976,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.2975,
+    ""upper_band"": 315.4015463065443,
+    ""lower_band"": 313.05568395421506
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 315.4 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.9266
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.8504
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.6325
+    }
+  }
+}"
+2025-09-02 11:18:30,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:08:00+00:00"",
+    ""open"": 313.5,
+    ""high"": 313.5,
+    ""low"": 313.2,
+    ""close"": 313.35,
+    ""volume"": 94535
+  },
+  ""support"": 312.9,
+  ""resistance"": 315.4,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 315.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8937,
+  ""sr_range_pct_1d"": 1.2608,
+  ""sr_range_pct_1w"": 2.5056,
+  ""sr_range_pct_3m"": 17.9062,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.2975,
+    ""upper_band"": 315.4015463065443,
+    ""lower_band"": 313.05568395421506
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 315.4 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.9767
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.3548
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.6838
+    }
+  }
+}"
+2025-09-02 11:27:20,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:17:00+00:00"",
+    ""open"": 313.7,
+    ""high"": 313.8,
+    ""low"": 313.6,
+    ""close"": 313.7,
+    ""volume"": 9850
+  },
+  ""support"": 312.9,
+  ""resistance"": 314.7,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 314.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8923,
+  ""sr_range_pct_1d"": 1.2588,
+  ""sr_range_pct_1w"": 2.5016,
+  ""sr_range_pct_3m"": 17.8776,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.8125,
+    ""upper_band"": 314.69390512819024,
+    ""lower_band"": 312.93109487180976
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 314.7 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.3274
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.2096
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.0425
+    }
+  }
+}"
+2025-09-02 11:35:58,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:26:00+00:00"",
+    ""open"": 314.65,
+    ""high"": 314.7,
+    ""low"": 314.45,
+    ""close"": 314.7,
+    ""volume"": 25873
+  },
+  ""support"": 312.9,
+  ""resistance"": 314.7,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 314.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.573,
+  ""sr_range_pct_1d"": 1.256,
+  ""sr_range_pct_1w"": 2.496,
+  ""sr_range_pct_3m"": 17.8378,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 314.2,
+    ""upper_band"": 314.91763500472064,
+    ""lower_band"": 313.48236499527934
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 314.7 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 315.3294
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 317.9176
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 322.0675
+    }
+  }
+}"
+2025-09-02 11:45:15,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:34:00+00:00"",
+    ""open"": 314.35,
+    ""high"": 314.45,
+    ""low"": 314.25,
+    ""close"": 314.45,
+    ""volume"": 13103
+  },
+  ""support"": 312.9,
+  ""resistance"": 314.7,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 314.7,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.57,
+  ""sr_range_pct_1d"": 1.257,
+  ""sr_range_pct_1w"": 2.498,
+  ""sr_range_pct_3m"": 17.852,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 314.2875,
+    ""upper_band"": 314.7301,
+    ""lower_band"": 313.8449
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 314.7 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 315.3294
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 317.9176
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 322.0675
+    }
+  }
+}"
+2025-09-02 11:54:18,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:44:00+00:00"",
+    ""open"": 313.8,
+    ""high"": 313.9,
+    ""low"": 313.75,
+    ""close"": 313.9,
+    ""volume"": 15409
+  },
+  ""support"": 312.9,
+  ""resistance"": 314.7,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 315.25,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.7483,
+  ""sr_range_pct_1d"": 1.2578,
+  ""sr_range_pct_1w"": 2.4996,
+  ""sr_range_pct_3m"": 17.8634,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 314.2875,
+    ""upper_band"": 314.7,
+    ""lower_band"": 313.8449
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 314.7 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 315.3294
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 317.9176
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 322.0675
+    }
+  }
+}"
+2025-09-02 12:02:57,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:53:00+00:00"",
+    ""open"": 313.5,
+    ""high"": 313.6,
+    ""low"": 313.5,
+    ""close"": 313.6,
+    ""volume"": 20902
+  },
+  ""support"": 312.9,
+  ""resistance"": 314.7,
+  ""support_realtime"": 312.9,
+  ""resistance_realtime"": 315.25,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.7495,
+  ""sr_range_pct_1d"": 1.2598,
+  ""sr_range_pct_1w"": 2.5036,
+  ""sr_range_pct_3m"": 17.8919,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.755,
+    ""upper_band"": 314.7,
+    ""lower_band"": 313.4219834838917
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 312.9 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 314.7 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 315.2292
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.9088
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.0
+    }
+  }
+}"
+2025-09-02 12:11:34,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:01:00+00:00"",
+    ""open"": 313.85,
+    ""high"": 313.85,
+    ""low"": 313.6,
+    ""close"": 313.7,
+    ""volume"": 6208
+  },
+  ""support"": 313.49,
+  ""resistance"": 313.88,
+  ""support_realtime"": 313.2,
+  ""resistance_realtime"": 314.85,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.5257,
+  ""sr_range_pct_1d"": 1.2586,
+  ""sr_range_pct_1w"": 2.5012,
+  ""sr_range_pct_3m"": 17.8748,
+  ""volume_threshold"": 49156,
+  ""bollinger"": {
+    ""mid_price"": 313.6875,
+    ""upper_band"": 313.8821150045627,
+    ""lower_band"": 313.4928849954373
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 313.49 based on recent 1-minute low and lower Bollinger Band indicating short-term support."",
+    ""Resistance updated to 313.88 aligned with recent upper Bollinger Band and recent high."",
+    ""Volume threshold unchanged due to stable volume in recent 1-minute data."",
+    ""Signal downgraded to Hold from previous Hold due to negative MACD histogram and ADX below threshold indicating weak trend and sideways momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.33
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.21
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.05
+    }
+  }
+}"
+2025-09-02 14:06:35,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:04:00+00:00"",
+    ""open"": 311.4,
+    ""high"": 311.8,
+    ""low"": 311.15,
+    ""close"": 311.6,
+    ""volume"": 87618
+  },
+  ""support"": 311.24,
+  ""resistance"": 313.24,
+  ""support_realtime"": 311.15,
+  ""resistance_realtime"": 313.24,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.64,
+  ""sr_range_pct_1d"": 1.259,
+  ""sr_range_pct_1w"": 2.502,
+  ""sr_range_pct_3m"": 17.8805,
+  ""volume_threshold"": 49000,
+  ""bollinger"": {
+    ""mid_price"": 312.24,
+    ""upper_band"": 313.24,
+    ""lower_band"": 311.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.24 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 313.24 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold slightly decreased to 49000 reflecting recent stable volume levels."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.22
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.10
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.40
+    }
+  }
+}"
+2025-09-02 14:15:20,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:05:00+00:00"",
+    ""open"": 311.55,
+    ""high"": 311.7,
+    ""low"": 311.3,
+    ""close"": 311.45,
+    ""volume"": 20023
+  },
+  ""support"": 311.14,
+  ""resistance"": 312.45,
+  ""support_realtime"": 311.15,
+  ""resistance_realtime"": 314.0,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.41,
+  ""sr_range_pct_1d"": 1.2687,
+  ""sr_range_pct_1w"": 2.5213,
+  ""sr_range_pct_3m"": 18.0183,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.8,
+    ""upper_band"": 312.45,
+    ""lower_band"": 311.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.14 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.45 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold decreased to 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.07
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.3
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.2
+    }
+  }
+}"
+2025-09-02 14:22:21,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:14:00+00:00"",
+    ""open"": 311.85,
+    ""high"": 311.95,
+    ""low"": 311.8,
+    ""close"": 311.8,
+    ""volume"": 12422
+  },
+  ""support"": 311.27145962188797,
+  ""resistance"": 312.113540378112,
+  ""support_realtime"": 311.1,
+  ""resistance_realtime"": 313.9,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.898,
+  ""sr_range_pct_1d"": 1.2668,
+  ""sr_range_pct_1w"": 2.5176,
+  ""sr_range_pct_3m"": 17.9923,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.6925,
+    ""upper_band"": 312.113540378112,
+    ""lower_band"": 311.27145962188797
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.27145962188797 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.113540378112 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold decreased to 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.4236
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.2944
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.095
+    }
+  }
+}"
+2025-09-02 14:31:07,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:21:00+00:00"",
+    ""open"": 312.25,
+    ""high"": 312.4,
+    ""low"": 312.1,
+    ""close"": 312.2,
+    ""volume"": 44555
+  },
+  ""support"": 311.54128676657564,
+  ""resistance"": 312.2637132334244,
+  ""support_realtime"": 311.1,
+  ""resistance_realtime"": 313.6,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8018,
+  ""sr_range_pct_1d"": 1.2668,
+  ""sr_range_pct_1w"": 2.5176,
+  ""sr_range_pct_3m"": 17.9923,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.90250000000003,
+    ""upper_band"": 312.2637132334244,
+    ""lower_band"": 311.54128676657564
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.54128676657564 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.2637132334244 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold decreased to 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.6244
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.6976
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.505
+    }
+  }
+}"
+2025-09-02 14:39:41,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:37:00+00:00"",
+    ""open"": 312.55,
+    ""high"": 312.7,
+    ""low"": 312.5,
+    ""close"": 312.6,
+    ""volume"": 36179
+  },
+  ""support"": 311.4843255444968,
+  ""resistance"": 312.55067445550316,
+  ""support_realtime"": 311.1,
+  ""resistance_realtime"": 313.6,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.8022,
+  ""sr_range_pct_1d"": 1.2674,
+  ""sr_range_pct_1w"": 2.5189,
+  ""sr_range_pct_3m"": 18.001,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 312.0175,
+    ""upper_band"": 312.55067445550316,
+    ""lower_band"": 311.4843255444968
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.4843255444968 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.55067445550316 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold decreased to 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.2252
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.1008
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.915
+    }
+  }
+}"
+2025-09-02 15:14:34,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:11:00+00:00"",
+    ""open"": 312.0,
+    ""high"": 312.0,
+    ""low"": 311.65,
+    ""close"": 311.65,
+    ""volume"": 42539
+  },
+  ""support"": 311.4652901346868,
+  ""resistance"": 312.0897098653131,
+  ""support_realtime"": 311.1,
+  ""resistance_realtime"": 313.6,
+  ""support_1d"": 327.05,
+  ""resistance_1d"": 331.0,
+  ""support_1w"": 325.85,
+  ""resistance_1w"": 333.7,
+  ""support_3m"": 282.5,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.7999,
+  ""sr_range_pct_1d"": 1.2638,
+  ""sr_range_pct_1w"": 2.5116,
+  ""sr_range_pct_3m"": 17.9491,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.7775,
+    ""upper_band"": 312.0897098653131,
+    ""lower_band"": 311.4652901346868
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.4652901346868 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.0897098653131 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold decreased to 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.2733
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.182
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.4413
+    }
+  }
+}"
+2025-09-02 15:23:24,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:13:00+00:00"",
+    ""open"": 311.6,
+    ""high"": 311.85,
+    ""low"": 311.6,
+    ""close"": 311.8,
+    ""volume"": 70287
+  },
+  ""support"": 311.1278010098226,
+  ""resistance"": 312.20719899017746,
+  ""support_realtime"": 311.5,
+  ""resistance_realtime"": 312.85,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.4327,
+  ""sr_range_pct_1d"": 2.3397,
+  ""sr_range_pct_1w"": 4.8558,
+  ""sr_range_pct_3m"": 17.9167,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.7775,
+    ""upper_band"": 312.0897098653131,
+    ""lower_band"": 311.4652901346868
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.1278 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.2072 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold maintained at 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.4236
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.2944
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.095
+    }
+  }
+}"
+2025-09-02 15:31:58,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:22:00+00:00"",
+    ""open"": 311.35,
+    ""high"": 311.35,
+    ""low"": 311.3,
+    ""close"": 311.3,
+    ""volume"": 28907
+  },
+  ""support"": 311.0046,
+  ""resistance"": 312.0754,
+  ""support_realtime"": 311.0,
+  ""resistance_realtime"": 312.85,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.5944,
+  ""sr_range_pct_1d"": 2.3454,
+  ""sr_range_pct_1w"": 4.8675,
+  ""sr_range_pct_3m"": 17.9598,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.54,
+    ""upper_band"": 312.0754,
+    ""lower_band"": 311.0046
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 311.0046 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 312.0754 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Volume threshold maintained at 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 311.9226
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 313.7904
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.0825
+    }
+  }
+}"
+2025-09-03 11:39:18,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 311.7,
+    ""high"": 311.7,
+    ""low"": 311.7,
+    ""close"": 311.7,
+    ""volume"": 503
+  },
+  ""support"": 310.6199,
+  ""resistance"": 311.3101,
+  ""support_realtime"": 310.5,
+  ""resistance_realtime"": 311.15,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.2106,
+  ""sr_range_pct_1d"": 2.3435,
+  ""sr_range_pct_1w"": 4.8636,
+  ""sr_range_pct_3m"": 17.9454,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.965,
+    ""upper_band"": 311.3101,
+    ""lower_band"": 310.6199
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 310.6199 based on recent 1-minute lower Bollinger Band and low price."",
+    ""Resistance updated to 311.3101 aligned with recent 1-minute upper Bollinger Band and high price."",
+    ""Support and resistance realtime levels refined to 310.5 and 311.15 respectively from recent 1-minute data."",
+    ""Volume threshold maintained at 20000 reflecting recent lower volume levels in 1-minute data."",
+    ""Signal downgraded to Hold due to negative MACD histogram and ADX near threshold indicating weak momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.62,
+  ""target"": 311.31,
+  ""stoploss"": 310.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.3224
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.1984
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.4925
+    }
+  }
+}"
+2025-09-03 11:53:27,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:38:00+00:00"",
+    ""open"": 310.95,
+    ""high"": 311.0,
+    ""low"": 310.8,
+    ""close"": 310.85,
+    ""volume"": 15519
+  },
+  ""support"": 310.6199,
+  ""resistance"": 311.3101,
+  ""support_realtime"": 310.5,
+  ""resistance_realtime"": 311.15,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.2106,
+  ""sr_range_pct_1d"": 2.3435,
+  ""sr_range_pct_1w"": 4.8636,
+  ""sr_range_pct_3m"": 17.9454,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.965,
+    ""upper_band"": 311.3101,
+    ""lower_band"": 310.6199
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels confirmed by recent 1-minute Bollinger Bands and historical daily lows/highs."",
+    ""Volume threshold maintained at 20000 reflecting recent volume patterns."",
+    ""Signal downgraded to Hold due to weak momentum indicated by negative MACD histogram and ADX near threshold."",
+    ""Trade levels set to respect risk-reward ratios and price structure across all timeframes."",
+    ""Predicted targets adjusted based on recent close price and expected returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.62,
+  ""target"": 311.31,
+  ""stoploss"": 310.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 311.4717
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 313.5388
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 318.6213
+    }
+  }
+}"
+2025-09-03 12:03:19,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:52:00+00:00"",
+    ""open"": 311.15,
+    ""high"": 311.6,
+    ""low"": 311.1,
+    ""close"": 311.45,
+    ""volume"": 43900
+  },
+  ""support"": 310.55,
+  ""resistance"": 311.95,
+  ""support_realtime"": 310.55,
+  ""resistance_realtime"": 311.95,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.44,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.25,
+    ""upper_band"": 311.95,
+    ""lower_band"": 310.55
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to 310.55 and 311.95 based on recent 1-minute Bollinger Bands and VWAP."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold unchanged at 20000 reflecting stable recent volume."",
+    ""Signal downgraded to Hold due to weak momentum and ADX near threshold."",
+    ""Trade levels adjusted to reflect updated realtime S/R and maintain risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 311.45 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.55,
+  ""target"": 311.95,
+  ""stoploss"": 310.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 311.9729
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.7976
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.2363
+    }
+  }
+}"
+2025-09-03 12:12:49,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:02:00+00:00"",
+    ""open"": 311.7,
+    ""high"": 312.25,
+    ""low"": 311.6,
+    ""close"": 312.25,
+    ""volume"": 118394
+  },
+  ""support"": 310.55,
+  ""resistance"": 311.95,
+  ""support_realtime"": 311.16,
+  ""resistance_realtime"": 312.26,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.35,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.71,
+    ""upper_band"": 312.26,
+    ""lower_band"": 311.16
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refreshed realtime support and resistance to 311.16 and 312.26 based on latest 1-minute Bollinger Bands and VWAP."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold remains stable at 20000 reflecting consistent recent volume."",
+    ""Signal downgraded to Hold due to weak momentum and ADX near threshold."",
+    ""Adjusted trade levels to align with updated realtime S/R and preserve risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 312.25 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.16,
+  ""target"": 312.26,
+  ""stoploss"": 310.6,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.8745
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.79
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.56
+    }
+  }
+}"
+2025-09-03 12:21:56,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:19:00+00:00"",
+    ""open"": 312.25,
+    ""high"": 312.3,
+    ""low"": 312.0,
+    ""close"": 312.0,
+    ""volume"": 51137
+  },
+  ""support"": 310.55,
+  ""resistance"": 311.95,
+  ""support_realtime"": 311.59,
+  ""resistance_realtime"": 312.34,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.242,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 311.97,
+    ""upper_band"": 312.34,
+    ""lower_band"": 311.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 2025-09-03 12:19:00 with close 312.0."",
+    ""Refreshed realtime support and resistance to 311.59 and 312.34 based on latest Bollinger Bands and VWAP."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold remains stable at 20000 reflecting consistent recent volume."",
+    ""Signal downgraded to Hold due to ADX near threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime S/R and preserve risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 312.0 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.59,
+  ""target"": 312.34,
+  ""stoploss"": 311.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.624
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.496
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.8
+    }
+  }
+}"
+2025-09-03 12:31:33,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:20:00+00:00"",
+    ""open"": 312.0,
+    ""high"": 312.1,
+    ""low"": 311.9,
+    ""close"": 311.9,
+    ""volume"": 11188
+  },
+  ""support"": 310.55,
+  ""resistance"": 311.95,
+  ""support_realtime"": 311.73,
+  ""resistance_realtime"": 312.31,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.1901,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 312.02,
+    ""upper_band"": 312.31,
+    ""lower_band"": 311.73
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refreshed realtime support and resistance to 311.73 and 312.31 based on latest Bollinger Bands and VWAP."",
+    ""Adjusted sr_range_pct_realtime to reflect updated realtime S/R range."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold remains stable at 20000 reflecting consistent recent volume."",
+    ""Signal downgraded to Hold due to ADX near threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime S/R and preserve risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 311.9 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.73,
+  ""target"": 312.31,
+  ""stoploss"": 311.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.5238
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.8552
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.1975
+    }
+  }
+}"
+2025-09-03 12:41:37,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:30:00+00:00"",
+    ""open"": 312.15,
+    ""high"": 312.55,
+    ""low"": 312.05,
+    ""close"": 312.5,
+    ""volume"": 44664
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 311.86,
+  ""resistance_realtime"": 312.52,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.209,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 312.19,
+    ""upper_band"": 312.52,
+    ""lower_band"": 311.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance and support_realtime to 312.52 and 311.86 based on latest Bollinger Bands and recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.209 reflecting updated realtime S/R range."",
+    ""Refreshed latest OHLCV close to 312.5 from recent 1-minute data."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold stable at 20000 reflecting consistent recent volume."",
+    ""Signal downgraded to Hold due to ADX near threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime S/R and preserve risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 312.5 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.86,
+  ""target"": 312.52,
+  ""stoploss"": 311.0,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.125
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.0
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.8125
+    }
+  }
+}"
+2025-09-03 15:26:15,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:40:00+00:00"",
+    ""open"": 312.5,
+    ""high"": 312.6,
+    ""low"": 312.25,
+    ""close"": 314.0,
+    ""volume"": 17170
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 312.65,
+  ""resistance_realtime"": 315.05,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.77,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 313.85,
+    ""upper_band"": 315.05,
+    ""lower_band"": 312.65
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv close to 314.0 based on recent 1-minute data."",
+    ""Refreshed support_realtime to 312.65 and resistance_realtime to 315.05 based on latest Bollinger Bands and recent price action."",
+    ""Adjusted sr_range_pct_realtime to 0.77 reflecting wider realtime S/R range from recent data."",
+    ""Maintained daily, weekly, and 3-month support/resistance levels from historical data."",
+    ""Volume threshold stable at 20000 reflecting consistent recent volume."",
+    ""Signal downgraded to Hold due to ADX near threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime S/R and preserve risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 314.0 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 312.65,
+  ""target"": 315.05,
+  ""stoploss"": 311.8,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.628
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.512
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.85
+    }
+  }
+}"
+2025-09-03 15:36:47,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:25:00+00:00"",
+    ""open"": 313.8,
+    ""high"": 313.85,
+    ""low"": 313.75,
+    ""close"": 313.8,
+    ""volume"": 61932
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 313.66,
+  ""resistance_realtime"": 314.37,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.22,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 314.0125,
+    ""upper_band"": 314.3673,
+    ""lower_band"": 313.6577
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 313.66 and 314.37 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.22 reflecting narrower realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 313.8 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 313.66,
+  ""target"": 314.37,
+  ""stoploss"": 312.9,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.4276
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.5104
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.145
+    }
+  }
+}"
+2025-09-04 10:17:28,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:31:00+00:00"",
+    ""open"": 313.7,
+    ""high"": 313.7,
+    ""low"": 313.7,
+    ""close"": 313.7,
+    ""volume"": 0
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 313.66,
+  ""resistance_realtime"": 314.37,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.22,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 314.0125,
+    ""upper_band"": 314.3673,
+    ""lower_band"": 313.6577
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 313.66 and 314.37 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.22 reflecting narrower realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 313.7 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 313.66,
+  ""target"": 314.37,
+  ""stoploss"": 312.9,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.0,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.0,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.3274
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 316.3996
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.0425
+    }
+  }
+}"
+2025-09-04 10:39:27,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:16:00+00:00"",
+    ""open"": 313.2,
+    ""high"": 313.5,
+    ""low"": 313.05,
+    ""close"": 313.5,
+    ""volume"": 77288
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 313.66,
+  ""resistance_realtime"": 314.37,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.22,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 314.0125,
+    ""upper_band"": 314.3673,
+    ""lower_band"": 313.6577
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 313.66 and 314.37 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.22 reflecting narrower realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 313.5 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.73,
+  ""target"": 310.99,
+  ""stoploss"": 312.22,
+  ""entry1"": 313.5,
+  ""target1"": 310.96,
+  ""stoploss1"": 314.87,
+  ""entry2"": 313.5,
+  ""target2"": 308.02,
+  ""stoploss2"": 317.49,
+  ""entry3"": 313.5,
+  ""target3"": 292.74,
+  ""stoploss3"": 327.68,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 314.13
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.51
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 321.34
+    }
+  }
+}"
+2025-09-04 11:09:55,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:38:00+00:00"",
+    ""open"": 313.0,
+    ""high"": 313.1,
+    ""low"": 312.9,
+    ""close"": 313.0,
+    ""volume"": 14141
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 312.11,
+  ""resistance_realtime"": 312.90,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.22,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 312.51,
+    ""upper_band"": 312.90,
+    ""lower_band"": 312.11
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 312.11 and 312.90 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.22 reflecting narrower realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 313.0 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support/realtime resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 311.73,
+  ""target"": 310.99,
+  ""stoploss"": 312.22,
+  ""entry1"": 313.5,
+  ""target1"": 310.96,
+  ""stoploss1"": 314.87,
+  ""entry2"": 313.5,
+  ""target2"": 308.02,
+  ""stoploss2"": 317.49,
+  ""entry3"": 313.5,
+  ""target3"": 292.74,
+  ""stoploss3"": 327.68,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 313.626
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 315.504
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.825
+    }
+  }
+}"
+2025-09-04 11:19:33,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:08:00+00:00"",
+    ""open"": 312.4,
+    ""high"": 312.4,
+    ""low"": 312.1,
+    ""close"": 312.15,
+    ""volume"": 24897
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 311.85,
+  ""resistance_realtime"": 312.64,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.25,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 312.22,
+    ""upper_band"": 312.64,
+    ""lower_band"": 311.85
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 311.85 and 312.64 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.25 reflecting current realtime S/R range."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 312.15 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 312.25,
+  ""target"": 311.17,
+  ""stoploss"": 312.92,
+  ""entry1"": 314.5,
+  ""target1"": 307.2,
+  ""stoploss1"": 316.35,
+  ""entry2"": 322.35,
+  ""target2"": 307.2,
+  ""stoploss2"": 327.15,
+  ""entry3"": 338.6,
+  ""target3"": 282.7,
+  ""stoploss3"": 346.05,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.7743
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.5972
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 320.45375
+    }
+  }
+}"
+2025-09-04 13:25:18,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:18:00+00:00"",
+    ""open"": 312.0,
+    ""high"": 312.0,
+    ""low"": 311.85,
+    ""close"": 311.95,
+    ""volume"": 14152
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 310.14,
+  ""resistance_realtime"": 310.72,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.1895,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.43,
+    ""upper_band"": 310.72,
+    ""lower_band"": 310.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 310.14 and 310.72 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.1895 reflecting current realtime S/R range."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 311.95 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.72,
+  ""target"": 310.14,
+  ""stoploss"": 311.08,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 304.65,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 303.9,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.15,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 312.572
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 314.8956
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 319.24875
+    }
+  }
+}"
+2025-09-04 14:16:32,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 13:24:00+00:00"",
+    ""open"": 310.7,
+    ""high"": 310.75,
+    ""low"": 310.55,
+    ""close"": 310.65,
+    ""volume"": 7664
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 310.14,
+  ""resistance_realtime"": 310.72,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.1895,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.11,
+    ""upper_band"": 310.72,
+    ""lower_band"": 310.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 310.14 and 310.72 based on latest Bollinger Bands from recent 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.1895 reflecting current realtime S/R range."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX below threshold and weak momentum in recent data."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 310.65 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.72,
+  ""target"": 310.14,
+  ""stoploss"": 311.08,
+  ""entry1"": 310.35,
+  ""target1"": 312.175,
+  ""stoploss1"": 307.6125,
+  ""entry2"": 314.1375,
+  ""target2"": 322.35,
+  ""stoploss2"": 306.4425,
+  ""entry3"": 324.325,
+  ""target3"": 338.6,
+  ""stoploss3"": 289.3875,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 311.2713
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 313.1822
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 318.9163
+    }
+  }
+}"
+2025-09-04 14:43:42,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:15:00+00:00"",
+    ""open"": 310.05,
+    ""high"": 310.1,
+    ""low"": 309.9,
+    ""close"": 310.0,
+    ""volume"": 20594
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 309.0,
+  ""resistance_realtime"": 310.3,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0043,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.435,
+    ""upper_band"": 310.09158205884694,
+    ""lower_band"": 308.77841794115307
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 309.0 and 310.3 based on recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Adjusted sr_range_pct_realtime to 0.0043 reflecting the narrow realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to reflect latest recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX slightly above threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.4 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.3,
+  ""target"": 309.0,
+  ""stoploss"": 310.925,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.4,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.65,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.775,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 309.0188
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 311.8752
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 316.135
+    }
+  }
+}"
+2025-09-04 14:56:56,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:42:00+00:00"",
+    ""open"": 309.4,
+    ""high"": 309.4,
+    ""low"": 309.25,
+    ""close"": 309.35,
+    ""volume"": 16819
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 309.1,
+  ""resistance_realtime"": 310.15,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0034,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.58,
+    ""upper_band"": 310.15,
+    ""lower_band"": 309.01
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refined support_realtime and resistance_realtime to 309.1 and 310.15 based on latest 1-minute Bollinger Bands and price lows/highs."",
+    ""Updated sr_range_pct_realtime to 0.0034 reflecting the tighter realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to latest recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX near threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.35 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.15,
+  ""target"": 309.1,
+  ""stoploss"": 310.7375,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.4,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.65,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.775,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 309.9687
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 311.815
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 316.58375
+    }
+  }
+}"
+2025-09-04 15:09:09,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:55:00+00:00"",
+    ""open"": 309.35,
+    ""high"": 309.7,
+    ""low"": 309.25,
+    ""close"": 309.65,
+    ""volume"": 16363
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 309.1,
+  ""resistance_realtime"": 310.15,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0034,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.58,
+    ""upper_band"": 310.15,
+    ""lower_band"": 309.01
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refined support_realtime and resistance_realtime to 309.1 and 310.15 based on latest 1-minute Bollinger Bands and price lows/highs."",
+    ""Updated sr_range_pct_realtime to 0.0034 reflecting the tighter realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to latest recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX near threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.65 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.15,
+  ""target"": 309.1,
+  ""stoploss"": 310.7375,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.4,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.65,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.775,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.2693
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.922
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.39125
+    }
+  }
+}"
+2025-09-04 15:21:08,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:08:00+00:00"",
+    ""open"": 309.35,
+    ""high"": 309.35,
+    ""low"": 309.3,
+    ""close"": 309.3,
+    ""volume"": 19093
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 309.1,
+  ""resistance_realtime"": 310.15,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0034,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.22,
+    ""upper_band"": 310.15,
+    ""lower_band"": 308.99
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Refined support_realtime and resistance_realtime to 309.1 and 310.15 based on latest 1-minute Bollinger Bands and price lows/highs."",
+    ""Updated sr_range_pct_realtime to 0.0034 reflecting the tighter realtime S/R range from recent data."",
+    ""Updated Bollinger bands mid_price, upper_band, and lower_band to latest recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX near threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.3 with conservative returns."",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.15,
+  ""target"": 309.1,
+  ""stoploss"": 310.7375,
+  ""entry1"": 309.25,
+  ""target1"": 314.5,
+  ""stoploss1"": 307.2,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 302.4,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 268.025,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 309.9186
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 311.8344
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 316.5325
+    }
+  }
+}"
+2025-09-05 11:58:45,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:20:00+00:00"",
+    ""open"": 309.35,
+    ""high"": 309.65,
+    ""low"": 309.35,
+    ""close"": 309.65,
+    ""volume"": 123010
+  },
+  ""support"": 310.55,
+  ""resistance"": 312.52,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0039,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.205,
+    ""upper_band"": 310.82298,
+    ""lower_band"": 309.58702
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime to 309.6 and resistance_realtime to 310.82298 based on latest 1-minute Bollinger Bands and recent price lows/highs."",
+    ""Adjusted sr_range_pct_realtime to 0.0039 reflecting updated realtime S/R range."",
+    ""Refreshed Bollinger bands mid_price, upper_band, and lower_band to recent indicator values."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX near threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.65 with conservative returns.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 309.6,
+  ""target"": 310.82,
+  ""stoploss"": 309.075,
+  ""entry1"": 307.2,
+  ""target1"": 314.5,
+  ""stoploss1"": 305.4,
+  ""entry2"": 307.2,
+  ""target2"": 322.35,
+  ""stoploss2"": 304.8,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 279.525,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.2693
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.9272
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.44125
+    }
+  }
+}"
+2025-09-05 12:04:16,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 11:57:00+00:00"",
+    ""open"": 309.95,
+    ""high"": 310.05,
+    ""low"": 309.8,
+    ""close"": 309.9,
+    ""volume"": 14574
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0039,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 310.205,
+    ""upper_band"": 310.82,
+    ""lower_band"": 309.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to 309.6 and 310.82 based on latest 1-minute Bollinger Bands and recent price lows/highs."",
+    ""Adjusted sr_range_pct_realtime to 0.0039 reflecting updated realtime S/R range."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as no significant change detected."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume."",
+    ""Signal remains Hold due to ADX near threshold but weak momentum and negative MACD histogram."",
+    ""Adjusted trade levels to align with updated realtime support and resistance preserving risk-reward ratios."",
+    ""Predicted targets recalculated from latest close price 309.9 with conservative returns."",
+    ""Auto-filled entry, target, stoploss for default and all S/R pairs with long trade rules and RR≈1.5.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 309.9,
+  ""target"": 310.95,
+  ""stoploss"": 309.45,
+  ""entry1"": 310.85,
+  ""target1"": 314.5,
+  ""stoploss1"": 309.6,
+  ""entry2"": 314.5,
+  ""target2"": 322.35,
+  ""stoploss2"": 307.2,
+  ""entry3"": 282.7,
+  ""target3"": 338.6,
+  ""stoploss3"": 267.525,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.5198
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.4782
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.1475
+    }
+  }
+}"
+2025-09-05 12:07:57,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:03:00+00:00"",
+    ""open"": 309.95,
+    ""high"": 310.1,
+    ""low"": 309.95,
+    ""close"": 310.05,
+    ""volume"": 2395
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.0039,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.9475,
+    ""upper_band"": 310.1809,
+    ""lower_band"": 309.7141
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal remains Hold due to ADX near threshold and weak momentum indicators."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Trade levels recalculated for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.05.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 310.05,
+  ""target"": 310.82,
+  ""stoploss"": 309.6,
+  ""entry1"": 310.85,
+  ""target1"": 314.5,
+  ""stoploss1"": 307.2,
+  ""entry2"": 314.775,
+  ""target2"": 322.35,
+  ""stoploss2"": 307.2,
+  ""entry3"": 310.65,
+  ""target3"": 338.6,
+  ""stoploss3"": 282.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.67
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.48
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.80
+    }
+  }
+}"
+2025-09-05 12:23:19,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:06:00+00:00"",
+    ""open"": 309.95,
+    ""high"": 310.1,
+    ""low"": 309.95,
+    ""close"": 310.0,
+    ""volume"": 6687
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000,
+  ""bollinger"": {
+    ""mid_price"": 309.9475,
+    ""upper_band"": 310.1809,
+    ""lower_band"": 309.7141
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.0.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.75,
+  ""target"": 310.5,
+  ""stoploss"": 309.3,
+  ""entry1"": 308.0,
+  ""target1"": 312.0,
+  ""stoploss1"": 306.5,
+  ""entry2"": 309.0,
+  ""target2"": 316.0,
+  ""stoploss2"": 306.5,
+  ""entry3"": 290.0,
+  ""target3"": 320.0,
+  ""stoploss3"": 280.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.62
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.48
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.75
+    }
+  }
+}"
+2025-09-05 12:26:01,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:22:00+00:00"",
+    ""open"": 310.0,
+    ""high"": 310.0,
+    ""low"": 309.9,
+    ""close"": 310.0,
+    ""volume"": 2649
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9475,
+    ""upper_band"": 310.1809,
+    ""lower_band"": 309.7141
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.0.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.75,
+  ""target"": 310.4,
+  ""stoploss"": 309.3,
+  ""entry1"": 308.0,
+  ""target1"": 311.0,
+  ""stoploss1"": 306.5,
+  ""entry2"": 309.0,
+  ""target2"": 316.0,
+  ""stoploss2"": 306.0,
+  ""entry3"": 290.0,
+  ""target3"": 320.0,
+  ""stoploss3"": 280.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.62
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.48
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.75
+    }
+  }
+}"
+2025-09-05 12:31:21,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:25:00+00:00"",
+    ""open"": 309.9,
+    ""high"": 309.95,
+    ""low"": 309.8,
+    ""close"": 309.85,
+    ""volume"": 1087
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9475,
+    ""upper_band"": 310.1809,
+    ""lower_band"": 309.7141
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 309.85.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.75,
+  ""target"": 310.5,
+  ""stoploss"": 309.3,
+  ""entry1"": 308.0,
+  ""target1"": 312.0,
+  ""stoploss1"": 306.5,
+  ""entry2"": 309.0,
+  ""target2"": 316.0,
+  ""stoploss2"": 306.5,
+  ""entry3"": 295.0,
+  ""target3"": 320.0,
+  ""stoploss3"": 280.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.4697
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.5388
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.0963
+    }
+  }
+}"
+2025-09-05 13:31:59,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:30:00+00:00"",
+    ""open"": 310.0,
+    ""high"": 310.2,
+    ""low"": 309.95,
+    ""close"": 310.1,
+    ""volume"": 8031
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 310.1975,
+    ""upper_band"": 310.4983,
+    ""lower_band"": 309.8967
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.1.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.75,
+  ""target"": 310.5,
+  ""stoploss"": 309.35,
+  ""entry1"": 308.0,
+  ""target1"": 312.0,
+  ""stoploss1"": 307.0,
+  ""entry2"": 310.0,
+  ""target2"": 320.0,
+  ""stoploss2"": 306.0,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 280.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.7202
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.5808
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.8525
+    }
+  }
+}"
+2025-09-05 13:43:46,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:30:00+00:00"",
+    ""open"": 310.45,
+    ""high"": 310.45,
+    ""low"": 310.4,
+    ""close"": 310.45,
+    ""volume"": 3317
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 310.4425,
+    ""upper_band"": 310.9203,
+    ""lower_band"": 309.9647
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.45.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 310.91,
+  ""target"": 310.82,
+  ""stoploss"": 309.1,
+  ""entry1"": 310.0,
+  ""target1"": 314.5,
+  ""stoploss1"": 306.9,
+  ""entry2"": 314.0,
+  ""target2"": 322.35,
+  ""stoploss2"": 306.9,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.9,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 311.0709
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.6836
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 318.2113
+    }
+  }
+}"
+2025-09-05 14:20:36,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:42:00+00:00"",
+    ""open"": 310.45,
+    ""high"": 310.45,
+    ""low"": 310.15,
+    ""close"": 310.15,
+    ""volume"": 18302
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3941,
+  ""sr_range_pct_1d"": 2.3763,
+  ""sr_range_pct_1w"": 4.9316,
+  ""sr_range_pct_3m"": 19.7736,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 310.4425,
+    ""upper_band"": 310.9203,
+    ""lower_band"": 309.9647
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.15.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 310.95,
+  ""target"": 310.7,
+  ""stoploss"": 309.35,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.5,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.5,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.77
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.58
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.90
+    }
+  }
+}"
+2025-09-05 14:32:23,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:19:00+00:00"",
+    ""open"": 310.3,
+    ""high"": 310.4,
+    ""low"": 310.2,
+    ""close"": 310.25,
+    ""volume"": 12137
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3932,
+  ""sr_range_pct_1d"": 2.3529,
+  ""sr_range_pct_1w"": 4.8832,
+  ""sr_range_pct_3m"": 18.0177,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 310.205,
+    ""upper_band"": 310.3945,
+    ""lower_band"": 310.0155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.25.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 310.91,
+  ""target"": 310.82,
+  ""stoploss"": 308.7,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.0,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.0,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.87
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.69
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.96
+    }
+  }
+}"
+2025-09-05 14:37:02,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:31:00+00:00"",
+    ""open"": 310.3,
+    ""high"": 310.4,
+    ""low"": 310.25,
+    ""close"": 310.25,
+    ""volume"": 22283
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.6,
+  ""resistance_realtime"": 310.82,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.3932,
+  ""sr_range_pct_1d"": 2.3529,
+  ""sr_range_pct_1w"": 4.8832,
+  ""sr_range_pct_3m"": 18.0177,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 310.205,
+    ""upper_band"": 310.3945,
+    ""lower_band"": 310.0155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels at 309.6 and 310.82 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance for 1d, 1w, and 3m as no significant changes detected in daily data."",
+    ""Volume threshold stable at 20000 due to consistent recent volume patterns."",
+    ""Signal downgraded to 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger mid, upper, and lower bands to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 310.25.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 310.91,
+  ""target"": 310.82,
+  ""stoploss"": 308.7,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.9,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.9,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.87
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.69
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.96
+    }
+  }
+}"
+2025-09-05 14:49:28,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:36:00+00:00"",
+    ""open"": 310.05,
+    ""high"": 310.1,
+    ""low"": 309.7,
+    ""close"": 309.85,
+    ""volume"": 95431
+  },
+  ""support"": 309.6,
+  ""resistance"": 310.82,
+  ""support_realtime"": 309.57,
+  ""resistance_realtime"": 310.42,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.276,
+  ""sr_range_pct_1d"": 2.356,
+  ""sr_range_pct_1w"": 4.8895,
+  ""sr_range_pct_3m"": 18.041,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9975,
+    ""upper_band"": 310.4235,
+    ""lower_band"": 309.5715
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to 309.57 and 310.42 based on recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as daily data shows no significant change."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume patterns."",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger Bands mid, upper, and lower to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 309.85.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 310.21,
+  ""target"": 310.62,
+  ""stoploss"": 308.67,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.75,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.75,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.47
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.73
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.10
+    }
+  }
+}"
+2025-09-05 15:03:45,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:48:00+00:00"",
+    ""open"": 309.7,
+    ""high"": 309.8,
+    ""low"": 309.6,
+    ""close"": 309.7,
+    ""volume"": 18613
+  },
+  ""support"": 309.57,
+  ""resistance"": 310.42,
+  ""support_realtime"": 309.57,
+  ""resistance_realtime"": 310.42,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.2745,
+  ""sr_range_pct_1d"": 2.3571,
+  ""sr_range_pct_1w"": 4.8918,
+  ""sr_range_pct_3m"": 18.0497,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9975,
+    ""upper_band"": 310.4235,
+    ""lower_band"": 309.5715
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to 309.57 and 310.42 based on recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Maintained historical support and resistance levels for 1d, 1w, and 3m as daily data shows no significant change."",
+    ""Volume threshold remains stable at 20000 due to consistent recent volume patterns."",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Adjusted Bollinger Bands mid, upper, and lower to latest calculated values from recent data."",
+    ""Recalculated trade levels for long bias with risk-reward ratio ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 309.7.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.85,
+  ""target"": 310.2,
+  ""stoploss"": 308.8,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.5,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.5,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 310.3194
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 312.8776
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 317.9425
+    }
+  }
+}"
+2025-09-05 15:16:01,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:02:00+00:00"",
+    ""open"": 309.45,
+    ""high"": 309.5,
+    ""low"": 309.2,
+    ""close"": 309.3,
+    ""volume"": 59872
+  },
+  ""support"": 309.57,
+  ""resistance"": 310.42,
+  ""support_realtime"": 309.57,
+  ""resistance_realtime"": 310.42,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.2748,
+  ""sr_range_pct_1d"": 2.3602,
+  ""sr_range_pct_1w"": 4.8982,
+  ""sr_range_pct_3m"": 18.0731,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9975,
+    ""upper_band"": 310.4235,
+    ""lower_band"": 309.5715
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Realtime support and resistance confirmed at 309.57 and 310.42 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Historical support and resistance levels for 1d, 1w, and 3m remain unchanged as daily data shows no significant shifts."",
+    ""Volume threshold stable at 20000 reflecting consistent recent volume."",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Bollinger Bands updated to latest mid, upper, and lower values from recent data."",
+    ""Trade levels recalculated for long bias with risk-reward ratios ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 309.3.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.82,
+  ""target"": 310.2,
+  ""stoploss"": 309.3,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.0,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.0,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 309.9186
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 311.8344
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 316.5325
+    }
+  }
+}"
+2025-09-05 15:28:14,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:14:00+00:00"",
+    ""open"": 309.35,
+    ""high"": 309.45,
+    ""low"": 309.35,
+    ""close"": 309.35,
+    ""volume"": 48169
+  },
+  ""support"": 309.57,
+  ""resistance"": 310.42,
+  ""support_realtime"": 309.57,
+  ""resistance_realtime"": 310.42,
+  ""support_1d"": 307.2,
+  ""resistance_1d"": 314.5,
+  ""support_1w"": 307.2,
+  ""resistance_1w"": 322.35,
+  ""support_3m"": 282.7,
+  ""resistance_3m"": 338.6,
+  ""sr_range_pct_realtime"": 0.2748,
+  ""sr_range_pct_1d"": 2.3598,
+  ""sr_range_pct_1w"": 4.8974,
+  ""sr_range_pct_3m"": 18.0701,
+  ""volume_threshold"": 20000.0,
+  ""bollinger"": {
+    ""mid_price"": 309.9975,
+    ""upper_band"": 310.4235,
+    ""lower_band"": 309.5715
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Realtime support and resistance confirmed at 309.57 and 310.42 from recent 1-minute Bollinger Bands and price lows/highs."",
+    ""Historical support and resistance levels for 1d, 1w, and 3m remain unchanged as daily data shows no significant shifts."",
+    ""Volume threshold stable at 20000 reflecting consistent recent volume."",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend."",
+    ""Bollinger Bands updated to latest mid, upper, and lower values from recent data."",
+    ""Trade levels recalculated for long bias with risk-reward ratios ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance."",
+    ""Predicted targets updated with conservative returns based on latest close price 309.35.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 309.8,
+  ""target"": 310.2,
+  ""stoploss"": 309.3,
+  ""entry1"": 310.0,
+  ""target1"": 312.6,
+  ""stoploss1"": 306.9,
+  ""entry2"": 314.0,
+  ""target2"": 320.4,
+  ""stoploss2"": 306.9,
+  ""entry3"": 300.0,
+  ""target3"": 330.0,
+  ""stoploss3"": 281.7,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 309.9687
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 311.8148
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 316.5838
+    }
+  }
+}"

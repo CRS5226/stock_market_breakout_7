@@ -1,0 +1,3022 @@
+timestamp,raw_response
+2025-08-19 13:26:04,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 18000.0,
+  ""resistance"": 20400.0,
+  ""volume_threshold"": 178996,
+  ""bollinger"": {
+    ""mid_price"": 19500.0,
+    ""upper_band"": 20155.0,
+    ""lower_band"": 19200.0
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near support levels with low volatility."",
+    ""No significant breakout or trend reversal signals observed in recent data."",
+    ""MACD histogram remains positive but shows signs of weakening, indicating potential slowdown in bullish momentum."",
+    ""ADX remains above 20, indicating a trending market but with no clear acceleration.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:30:12,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 18000.0,
+  ""resistance"": 20400.0,
+  ""volume_threshold"": 178996,
+  ""bollinger"": {
+    ""mid_price"": 19500.0,
+    ""upper_band"": 20155.0,
+    ""lower_band"": 19200.0
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout beyond resistance levels with increased volume."",
+    ""Short-term momentum indicators (MACD, ADX) suggest a strengthening bullish trend."",
+    ""Recent price action indicates a potential continuation of the upward move.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:36:08,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 18000.0,
+  ""resistance"": 20400.0,
+  ""volume_threshold"": 178996,
+  ""bollinger"": {
+    ""mid_price"": 19500.0,
+    ""upper_band"": 20155.0,
+    ""lower_band"": 19200.0
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate a strong upward momentum with prices approaching resistance levels."",
+    ""Recent volume has increased significantly, supporting a potential breakout."",
+    ""Short-term indicators (MACD, ADX) suggest continued bullish trend momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:17:06,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 18000.0,
+  ""resistance"": 20400.0,
+  ""volume_threshold"": 178996,
+  ""bollinger"": {
+    ""mid_price"": 19500.0,
+    ""upper_band"": 20155.0,
+    ""lower_band"": 19200.0
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward momentum with price near resistance levels."",
+    ""Recent volume spikes and positive MACD histogram support bullish trend."",
+    ""ADX remains above 20, indicating a trending market."",
+    ""Recent price action suggests potential breakout above resistance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:21:39,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 18000.0,
+  ""resistance"": 20400.0,
+  ""volume_threshold"": 178996,
+  ""bollinger"": {
+    ""mid_price"": 19500.0,
+    ""upper_band"": 20155.0,
+    ""lower_band"": 19200.0
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward momentum with price near resistance levels."",
+    ""Recent volume spikes and positive MACD histogram support bullish trend."",
+    ""ADX remains above 20, indicating a trending market."",
+    ""Recent price action suggests potential breakout above resistance.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-22 12:12:40,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""support"": 20444.98,
+  ""resistance"": 21880.72,
+  ""volume_threshold"": 406,
+  ""bollinger"": {
+    ""mid_price"": 21162.85,
+    ""upper_band"": 21880.72,
+    ""lower_band"": 20444.98
+  },
+  ""macd"": {
+    ""signal_line"": 6.389882551421106,
+    ""histogram"": 1.8017334511223595,
+    ""ma_fast"": 9.0,
+    ""ma_slow"": 20.0,
+    ""ma_signal"": 6.389882551421106
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout with close above resistance level."",
+    ""Short-term momentum indicators (MACD, ADX) suggest increasing trend strength."",
+    ""Recent volume spike supports breakout confirmation."",
+    ""Support and resistance levels remain valid, but resistance may be tested soon.""
+  ],
+  ""last_updated"": ""2025-08-21 11:33:05"",
+  ""signal"": ""Buy""
+}"
+2025-09-01 14:47:20,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 20576.82,
+  ""resistance"": 21915.58,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show price near support level with bullish momentum (Close rising from 20047 to 20869)."",
+    ""Recent indicator data indicates positive trend with ADX above threshold (50.79), suggesting strong trend strength."",
+    ""Price is within Bollinger bands, with slight upward movement, indicating potential for continuation.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 19250.0
+    },
+    ""1w"": {
+      ""ret"": 0.045,
+      ""price"": 19660.0
+    },
+    ""3m"": {
+      ""ret"": 0.12,
+      ""price"": 21500.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19250.0,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19660.0,
+      ""ret"": 0.045
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 21500.0,
+      ""ret"": 0.12
+    }
+  }
+}"
+2025-09-01 14:55:23,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:46:00+00:00"",
+    ""open"": 19150.0,
+    ""high"": 19155.0,
+    ""low"": 19143.0,
+    ""close"": 19151.0,
+    ""volume"": 122
+  },
+  ""support"": 20576.82,
+  ""resistance"": 21915.58,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show price near support level with bullish momentum (Close rising from 20047 to 20869)."",
+    ""Recent indicator data indicates positive trend with ADX above threshold (50.79), suggesting strong trend strength."",
+    ""Price is within Bollinger bands, with slight upward movement, indicating potential for continuation.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 19250.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.045,
+      ""price"": 19660.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.12,
+      ""price"": 21500.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19250.0,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19660.0,
+      ""ret"": 0.045
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 21500.0,
+      ""ret"": 0.12
+    }
+  }
+}"
+2025-09-01 15:01:57,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:54:00+00:00"",
+    ""open"": 19110.0,
+    ""high"": 19115.0,
+    ""low"": 19110.0,
+    ""close"": 19111.0,
+    ""volume"": 72
+  },
+  ""support"": 20576.82,
+  ""resistance"": 21915.58,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show price near support level with bullish momentum (Close rising from 20047 to 20869)."",
+    ""Recent indicator data indicates positive trend with ADX above threshold (50.79), suggesting strong trend strength."",
+    ""Price is within Bollinger bands, with slight upward movement, indicating potential for continuation.""
+  ],
+  ""signal"": ""Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 19250.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.045,
+      ""price"": 19660.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.12,
+      ""price"": 21500.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19250.0,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19660.0,
+      ""ret"": 0.045
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 21500.0,
+      ""ret"": 0.12
+    }
+  }
+}"
+2025-09-02 11:05:57,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 20576.82,
+  ""resistance"": 21915.58,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has recently moved above support and resistance levels, indicating potential breakout."",
+    ""Recent daily candles show increased volatility and upward momentum."",
+    ""Recent indicator data suggests bullish trend continuation with positive MACD histogram and ADX above threshold.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 19399.0
+    },
+    ""1w"": {
+      ""ret"": 0.045,
+      ""price"": 20000.0
+    },
+    ""3m"": {
+      ""ret"": 0.12,
+      ""price"": 21600.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19399.0,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 20000.0,
+      ""ret"": 0.045
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 21600.0,
+      ""ret"": 0.12
+    }
+  }
+}"
+2025-09-02 11:14:52,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:04:00+00:00"",
+    ""open"": 19230.0,
+    ""high"": 19249.0,
+    ""low"": 19230.0,
+    ""close"": 19230.0,
+    ""volume"": 176
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 18958.0,
+  ""resistance_realtime"": 19249.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 1.5143,
+  ""sr_range_pct_1d"": 2.9609,
+  ""sr_range_pct_1w"": 12.6971,
+  ""sr_range_pct_3m"": 52.8907,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19230.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19230.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19230.0
+    }
+  }
+}"
+2025-09-02 11:23:25,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:13:00+00:00"",
+    ""open"": 19305.0,
+    ""high"": 19313.0,
+    ""low"": 19293.0,
+    ""close"": 19313.0,
+    ""volume"": 149
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19051.0,
+  ""resistance_realtime"": 19348.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 1.5385,
+  ""sr_range_pct_1d"": 2.9474,
+  ""sr_range_pct_1w"": 12.6392,
+  ""sr_range_pct_3m"": 52.6496,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:32:01,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:22:00+00:00"",
+    ""open"": 19425.0,
+    ""high"": 19439.0,
+    ""low"": 19405.0,
+    ""close"": 19425.0,
+    ""volume"": 182
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19051.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 2.2016,
+  ""sr_range_pct_1d"": 2.927,
+  ""sr_range_pct_1w"": 12.5514,
+  ""sr_range_pct_3m"": 52.284,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:41:14,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:30:00+00:00"",
+    ""open"": 19410.0,
+    ""high"": 19420.0,
+    ""low"": 19403.0,
+    ""close"": 19410.0,
+    ""volume"": 227
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19090.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 2.0022,
+  ""sr_range_pct_1d"": 2.9286,
+  ""sr_range_pct_1w"": 12.5585,
+  ""sr_range_pct_3m"": 52.3136,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:50:22,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:40:00+00:00"",
+    ""open"": 19470.0,
+    ""high"": 19470.0,
+    ""low"": 19463.0,
+    ""close"": 19465.0,
+    ""volume"": 132
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19090.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 1.9985,
+  ""sr_range_pct_1d"": 2.9232,
+  ""sr_range_pct_1w"": 12.5353,
+  ""sr_range_pct_3m"": 52.2168,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:59:16,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:49:00+00:00"",
+    ""open"": 19416.0,
+    ""high"": 19424.0,
+    ""low"": 19405.0,
+    ""close"": 19424.0,
+    ""volume"": 110
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19090.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 2.0014,
+  ""sr_range_pct_1d"": 2.9276,
+  ""sr_range_pct_1w"": 12.554,
+  ""sr_range_pct_3m"": 52.2947,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:07:47,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:58:00+00:00"",
+    ""open"": 19400.0,
+    ""high"": 19414.0,
+    ""low"": 19400.0,
+    ""close"": 19400.0,
+    ""volume"": 79
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19182.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 1.5309,
+  ""sr_range_pct_1d"": 2.933,
+  ""sr_range_pct_1w"": 12.5773,
+  ""sr_range_pct_3m"": 52.3918,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:16:25,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:06:00+00:00"",
+    ""open"": 19401.0,
+    ""high"": 19401.0,
+    ""low"": 19400.0,
+    ""close"": 19400.0,
+    ""volume"": 20
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19293.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.9587,
+  ""sr_range_pct_1d"": 2.9328,
+  ""sr_range_pct_1w"": 12.5767,
+  ""sr_range_pct_3m"": 52.3891,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 14:11:22,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:15:00+00:00"",
+    ""open"": 19430.0,
+    ""high"": 19445.0,
+    ""low"": 19427.0,
+    ""close"": 19440.0,
+    ""volume"": 180
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19369.0,
+  ""resistance_realtime"": 19479.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.5661,
+  ""sr_range_pct_1d"": 2.9285,
+  ""sr_range_pct_1w"": 12.5579,
+  ""sr_range_pct_3m"": 52.3109,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  },
+  ""last_updated"": ""2025-09-02 12:16:25"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.9285
+}"
+2025-09-02 14:20:07,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:10:00+00:00"",
+    ""open"": 19340.0,
+    ""high"": 19340.0,
+    ""low"": 19340.0,
+    ""close"": 19340.0,
+    ""volume"": 18
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19263.0,
+  ""resistance_realtime"": 19424.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.8329,
+  ""sr_range_pct_1d"": 2.9436,
+  ""sr_range_pct_1w"": 12.6229,
+  ""sr_range_pct_3m"": 52.5815,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19440.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 19440,
+      ""ret"": 0
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:11:22"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.9436
+}"
+2025-09-02 14:27:21,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:19:00+00:00"",
+    ""open"": 19319.0,
+    ""high"": 19327.0,
+    ""low"": 19313.0,
+    ""close"": 19327.0,
+    ""volume"": 44
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19263.0,
+  ""resistance_realtime"": 19360.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.5023,
+  ""sr_range_pct_1d"": 2.9465,
+  ""sr_range_pct_1w"": 12.6353,
+  ""sr_range_pct_3m"": 52.6332,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:35:55,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:26:00+00:00"",
+    ""open"": 19375.0,
+    ""high"": 19380.0,
+    ""low"": 19347.0,
+    ""close"": 19375.0,
+    ""volume"": 126
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19263.0,
+  ""resistance_realtime"": 19390.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.6559,
+  ""sr_range_pct_1d"": 2.9387,
+  ""sr_range_pct_1w"": 12.602,
+  ""sr_range_pct_3m"": 52.4946,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-02 15:19:42,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:34:00+00:00"",
+    ""open"": 19338.0,
+    ""high"": 19338.0,
+    ""low"": 19316.0,
+    ""close"": 19327.0,
+    ""volume"": 95
+  },
+  ""support"": 20549.0,
+  ""resistance"": 21118.0,
+  ""support_realtime"": 19273.0,
+  ""resistance_realtime"": 19390.0,
+  ""support_1d"": 20549.0,
+  ""resistance_1d"": 21118.0,
+  ""support_1w"": 18744.0,
+  ""resistance_1w"": 21184.0,
+  ""support_3m"": 11020.0,
+  ""resistance_3m"": 21184.0,
+  ""sr_range_pct_realtime"": 0.605,
+  ""sr_range_pct_1d"": 2.9424,
+  ""sr_range_pct_1w"": 12.6176,
+  ""sr_range_pct_3m"": 52.5597,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:28:19,"{
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:18:00+00:00"",
+    ""open"": 19509.0,
+    ""high"": 19551.0,
+    ""low"": 19508.0,
+    ""close"": 19550.0,
+    ""volume"": 1205
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2405,
+  ""sr_range_pct_1d"": 5.326,
+  ""sr_range_pct_1w"": 9.4218,
+  ""sr_range_pct_3m"": 51.0303,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 11:58:53,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:27:00+00:00"",
+    ""open"": 19460.0,
+    ""high"": 19497.0,
+    ""low"": 19460.0,
+    ""close"": 19477.0,
+    ""volume"": 201
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2413,
+  ""sr_range_pct_1d"": 5.3296,
+  ""sr_range_pct_1w"": 9.4281,
+  ""sr_range_pct_3m"": 51.0644,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 12:08:35,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:57:00+00:00"",
+    ""open"": 19806.0,
+    ""high"": 19816.0,
+    ""low"": 19806.0,
+    ""close"": 19812.0,
+    ""volume"": 34
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 12:18:11,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:07:00+00:00"",
+    ""open"": 19782.0,
+    ""high"": 19782.0,
+    ""low"": 19780.0,
+    ""close"": 19780.0,
+    ""volume"": 38
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 12:27:13,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:17:00+00:00"",
+    ""open"": 19826.0,
+    ""high"": 19828.0,
+    ""low"": 19826.0,
+    ""close"": 19826.0,
+    ""volume"": 24
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 12:37:12,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:26:00+00:00"",
+    ""open"": 19800.0,
+    ""high"": 19800.0,
+    ""low"": 19795.0,
+    ""close"": 19795.0,
+    ""volume"": 59
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-03 15:31:58,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:36:00+00:00"",
+    ""open"": 19850.0,
+    ""high"": 19850.0,
+    ""low"": 19842.0,
+    ""close"": 19843.0,
+    ""volume"": 40
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  },
+  ""reason_changes"": [
+    ""No significant change in support/resistance levels or recent indicator data; current sideways trend persists."",
+    ""Predicted targets remain unchanged due to lack of new directional signals.""
+  ]
+}"
+2025-09-04 11:15:15,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 19769.0,
+    ""high"": 19769.0,
+    ""low"": 19769.0,
+    ""close"": 19769.0,
+    ""volume"": 0
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  },
+  ""reason_changes"": [
+    ""No significant change in support/resistance levels or recent indicator data; current sideways trend persists."",
+    ""Predicted targets remain unchanged due to lack of new directional signals.""
+  ]
+}"
+2025-09-04 14:23:14,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:14:00+00:00"",
+    ""open"": 19080.0,
+    ""high"": 19080.0,
+    ""low"": 19042.0,
+    ""close"": 19042.0,
+    ""volume"": 191
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 19080.0,
+  ""target"": 18709.05,
+  ""stoploss"": 19339.75,
+  ""entry1"": 19080.0,
+  ""target1"": 18709.05,
+  ""stoploss1"": 19339.75,
+  ""entry2"": 19080.0,
+  ""target2"": 18669.1,
+  ""stoploss2"": 19539.5,
+  ""entry3"": 19080.0,
+  ""target3"": 15346.875,
+  ""stoploss3"": 21568.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  },
+  ""reason_changes"": [
+    ""No significant change in support/resistance levels or recent indicator data; current sideways trend persists."",
+    ""Predicted targets remain unchanged due to lack of new directional signals.""
+  ]
+}"
+2025-09-04 14:50:56,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:22:00+00:00"",
+    ""open"": 18683.0,
+    ""high"": 18683.0,
+    ""low"": 18663.0,
+    ""close"": 18664.0,
+    ""volume"": 187
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has been consolidating near support and resistance levels with low volatility, indicating a potential pause or reversal."",
+    ""Recent indicator data shows decreasing ADX and MACD histogram contraction, suggesting weakening trend momentum."",
+    ""No significant breakout or breakdown signals observed in recent data; current trend appears sideways."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 19080.0,
+  ""target"": 18709.05,
+  ""stoploss"": 19339.75,
+  ""entry1"": 19080.0,
+  ""target1"": 18709.05,
+  ""stoploss1"": 19339.75,
+  ""entry2"": 19080.0,
+  ""target2"": 18669.1,
+  ""stoploss2"": 19539.5,
+  ""entry3"": 19080.0,
+  ""target3"": 15346.875,
+  ""stoploss3"": 21568.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  },
+  ""reason_changes"": [
+    ""No significant change in support/resistance levels or recent indicator data; current sideways trend persists."",
+    ""Predicted targets remain unchanged due to lack of new directional signals.""
+  ]
+}"
+2025-09-04 15:04:05,"{
+  ""reason"": ""No significant change in support/resistance levels or recent indicator data; current sideways trend persists. Predicted targets remain unchanged due to lack of new directional signals."",
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 18709.05,
+  ""stoploss"": 19339.75,
+  ""entry1"": 19080.0,
+  ""target1"": 18709.05,
+  ""stoploss1"": 19339.75,
+  ""entry2"": 19080.0,
+  ""target2"": 18669.1,
+  ""stoploss2"": 19539.5,
+  ""entry3"": 19080.0,
+  ""target3"": 15346.875,
+  ""stoploss3"": 21568.75
+}"
+2025-09-04 15:15:52,"{
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:03:00+00:00"",
+    ""open"": 18148.0,
+    ""high"": 18174.0,
+    ""low"": 18050.0,
+    ""close"": 18068.0,
+    ""volume"": 2783
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain unchanged; recent data indicates sideways trend with no new breakout signals. Predicted targets remain stable due to lack of directional change.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 19080.0,
+  ""target"": 18709.05,
+  ""stoploss"": 19339.75,
+  ""entry1"": 19080.0,
+  ""target1"": 18709.05,
+  ""stoploss1"": 19339.75,
+  ""entry2"": 19080.0,
+  ""target2"": 18669.1,
+  ""stoploss2"": 19539.5,
+  ""entry3"": 19080.0,
+  ""target3"": 15346.875,
+  ""stoploss3"": 21568.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 19362.0
+    }
+  }
+}"
+2025-09-05 13:38:36,"{
+  ""reason"": [
+    ""Market is in sideways trend with no clear breakout signals; levels remain unchanged."",
+    ""Predicted targets are stable, indicating no significant directional change."",
+    ""Recent data shows consolidation near support and resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 18709.05,
+  ""stoploss"": 19339.75,
+  ""entry1"": 19080.0,
+  ""target1"": 18709.05,
+  ""stoploss1"": 19339.75,
+  ""entry2"": 19080.0,
+  ""target2"": 18669.1,
+  ""stoploss2"": 19539.5,
+  ""entry3"": 19080.0,
+  ""target3"": 15346.875,
+  ""stoploss3"": 21568.75
+}"
+2025-09-05 14:27:13,"{
+  ""reason"": [
+    ""Market is in sideways trend with no clear breakout signals; levels remain unchanged."",
+    ""Predicted targets are stable, indicating no significant directional change."",
+    ""Recent data shows consolidation near support and resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 18761.0,
+  ""resistance_1d"": 19800.0,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.2532,
+  ""sr_range_pct_1d"": 5.5381,
+  ""sr_range_pct_1w"": 9.7969,
+  ""sr_range_pct_3m"": 82.7171,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 19146.78,
+  ""stoploss"": 18695.337,
+  ""entry1"": 19080.0,
+  ""target1"": 19146.78,
+  ""stoploss1"": 18695.337,
+  ""entry2"": 19080.0,
+  ""target2"": 19146.78,
+  ""stoploss2"": 18695.337,
+  ""entry3"": 19080.0,
+  ""target3"": 19146.78,
+  ""stoploss3"": 11992.878,
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""last_updated"": ""2025-09-05 13:38:36"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:37:00+00:00"",
+    ""open"": 18189.0,
+    ""high"": 18195.0,
+    ""low"": 18178.0,
+    ""close"": 18195.0,
+    ""volume"": 131
+  },
+  ""sr_range_pct"": 5.5381,
+  ""respected_S"": 3,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 5,
+  ""respected_S2"": 3,
+  ""respected_R2"": 2,
+  ""respected_S3"": 4,
+  ""respected_R3"": 1
+}"
+2025-09-05 14:44:09,"{
+  ""reason"": [
+    ""Market shows no clear breakout signals; levels remain within recent consolidation range."",
+    ""Recent indicator data confirms sideways trend with no significant directional move."",
+    ""Support and resistance levels are consistent with historical and recent data, requiring no adjustments."",
+    ""Predicted targets remain stable, indicating no change in market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 17424.67,
+  ""resistance_1d"": 21572.73,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.3474,
+  ""sr_range_pct_1d"": 23.0961,
+  ""sr_range_pct_1w"": 10.2339,
+  ""sr_range_pct_3m"": 55.4287,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 19146.78,
+  ""stoploss"": 18695.337,
+  ""entry1"": 19080.0,
+  ""target1"": 19146.78,
+  ""stoploss1"": 17363.684,
+  ""entry2"": 19080.0,
+  ""target2"": 19146.78,
+  ""stoploss2"": 18695.337,
+  ""entry3"": 19080.0,
+  ""target3"": 19146.78,
+  ""stoploss3"": 11992.878,
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""last_updated"": ""2025-09-05 14:27:13"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:26:00+00:00"",
+    ""open"": 17956.0,
+    ""high"": 17964.0,
+    ""low"": 17956.0,
+    ""close"": 17960.0,
+    ""volume"": 57
+  }
+}"
+2025-09-05 14:56:23,"{
+  ""reason"": [
+    ""Market shows no clear breakout signals; levels remain within recent consolidation range."",
+    ""Recent indicator data confirms sideways trend with no significant directional move."",
+    ""Support and resistance levels are consistent with historical and recent data, requiring no adjustments."",
+    ""Predicted targets remain stable, indicating no change in market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 17424.67,
+  ""resistance_1d"": 21572.73,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.3491,
+  ""sr_range_pct_1d"": 23.1244,
+  ""sr_range_pct_1w"": 10.2464,
+  ""sr_range_pct_3m"": 55.4967,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 19146.78,
+  ""stoploss"": 18695.337,
+  ""entry1"": 19080.0,
+  ""target1"": 19146.78,
+  ""stoploss1"": 17363.684,
+  ""entry2"": 19080.0,
+  ""target2"": 19146.78,
+  ""stoploss2"": 18695.337,
+  ""entry3"": 19080.0,
+  ""target3"": 19146.78,
+  ""stoploss3"": 11992.878,
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""last_updated"": ""2025-09-05 14:44:09"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:43:00+00:00"",
+    ""open"": 17950.0,
+    ""high"": 17964.0,
+    ""low"": 17938.0,
+    ""close"": 17938.0,
+    ""volume"": 98
+  }
+}"
+2025-09-05 15:10:39,"{
+  ""reason"": [
+    ""Market shows no clear breakout signals; levels remain within recent consolidation range."",
+    ""Recent indicator data confirms sideways trend with no significant directional move."",
+    ""Support and resistance levels are consistent with historical and recent data, requiring no adjustments."",
+    ""Predicted targets remain stable, indicating no change in market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 17424.67,
+  ""resistance_1d"": 21572.73,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.3626,
+  ""sr_range_pct_1d"": 23.3562,
+  ""sr_range_pct_1w"": 10.3491,
+  ""sr_range_pct_3m"": 56.0529,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 19146.78,
+  ""stoploss"": 18695.337,
+  ""entry1"": 19080.0,
+  ""target1"": 19146.78,
+  ""stoploss1"": 17363.684,
+  ""entry2"": 19080.0,
+  ""target2"": 19146.78,
+  ""stoploss2"": 18695.337,
+  ""entry3"": 19080.0,
+  ""target3"": 19146.78,
+  ""stoploss3"": 11992.878,
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""last_updated"": ""2025-09-05 14:56:24"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:55:00+00:00"",
+    ""open"": 17800.0,
+    ""high"": 17802.0,
+    ""low"": 17755.0,
+    ""close"": 17760.0,
+    ""volume"": 539
+  }
+}"
+2025-09-05 15:22:52,"{
+  ""reason"": [
+    ""Market remains within the established support and resistance levels, indicating no breakout or breakdown signals."",
+    ""Recent indicator data shows sideways movement with no significant trend development."",
+    ""Support and resistance levels across all time horizons are consistent with historical data, requiring no adjustments."",
+    ""Predicted targets remain stable, reflecting a neutral market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 18165.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 18761.0,
+  ""resistance"": 19800.0,
+  ""support_realtime"": 19310.0,
+  ""resistance_realtime"": 19552.0,
+  ""support_1d"": 17424.67,
+  ""resistance_1d"": 21572.73,
+  ""support_1w"": 18761.0,
+  ""resistance_1w"": 20599.0,
+  ""support_3m"": 12035.0,
+  ""resistance_3m"": 21990.0,
+  ""sr_range_pct_realtime"": 1.3695,
+  ""sr_range_pct_1d"": 23.4738,
+  ""sr_range_pct_1w"": 10.4012,
+  ""sr_range_pct_3m"": 56.3352,
+  ""volume_threshold"": 78.0,
+  ""bollinger"": {
+    ""mid_price"": 21246.2,
+    ""upper_band"": 21915.58,
+    ""lower_band"": 20576.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 19080.0,
+  ""target"": 19146.78,
+  ""stoploss"": 18695.337,
+  ""entry1"": 19080.0,
+  ""target1"": 19146.78,
+  ""stoploss1"": 17363.684,
+  ""entry2"": 19080.0,
+  ""target2"": 19146.78,
+  ""stoploss2"": 18695.337,
+  ""entry3"": 19080.0,
+  ""target3"": 19146.78,
+  ""stoploss3"": 11992.878,
+  ""stock_code"": ""FORCEMOT"",
+  ""instrument_token"": 2962689,
+  ""last_updated"": ""2025-09-05 15:10:39"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:09:00+00:00"",
+    ""open"": 17677.0,
+    ""high"": 17693.0,
+    ""low"": 17669.0,
+    ""close"": 17671.0,
+    ""volume"": 534
+  }
+}"

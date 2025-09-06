@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:27:46,"{
+  ""stock_code"": ""IFBIND"",
+  ""instrument_token"": 380161,
+  ""support"": 1509.7,
+  ""resistance"": 1517.8,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1513.22,
+    ""upper_band"": 1516.74,
+    ""lower_band"": 1509.70
+  },
+  ""macd"": {
+    ""signal_line"": 0.5,
+    ""histogram"": 0.5,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price breakout above historical resistance around 1517.8."",
+    ""Support updated to recent lower Bollinger Band at 1509.7 reflecting short-term price floor."",
+    ""Bollinger Bands updated to recent values from 1-minute data."",
+    ""MACD histogram positive indicating slight bullish momentum."",
+    ""Signal updated to Hold due to breakout but low volume and weak momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

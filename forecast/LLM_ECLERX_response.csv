@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:27:22,"{
+  ""stock_code"": ""ECLERX"",
+  ""instrument_token"": 3885825,
+  ""support"": 4000.0,
+  ""resistance"": 4010.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 4005.47,
+    ""upper_band"": 4010.672238898391,
+    ""lower_band"": 4000.307761101608
+  },
+  ""macd"": {
+    ""signal_line"": -0.6029739075506874,
+    ""histogram"": 0.41385904579693633,
+    ""ma_fast"": 0.0,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 41.78
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent lower Bollinger Band level (4000.31) reflecting short-term price floor."",
+    ""Resistance updated to recent upper Bollinger Band level (4010.67) reflecting short-term price ceiling."",
+    ""Bollinger bands mid, upper, and lower values updated to recent data for accuracy."",
+    ""MACD signal line and histogram updated to recent values indicating slight bullish momentum."",
+    ""ADX threshold increased from 20 to 41.78 due to strong recent ADX readings indicating trend strength."",
+    ""Support and resistance narrowed significantly from historical wide range reflecting consolidation near 4000-4010."",
+    ""Signal set to Hold due to consolidation within tight Bollinger bands and mixed MACD signals.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:16:09,"{
+  ""stock_code"": ""THERMAX"",
+  ""instrument_token"": 889601,
+  ""support"": 3200.0,
+  ""resistance"": 3300.0,
+  ""volume_threshold"": 100000,
+  ""bollinger"": {
+    ""mid_price"": 3290.03,
+    ""upper_band"": 3292.43,
+    ""lower_band"": 3287.45
+  },
+  ""macd"": {
+    ""signal_line"": 0.86,
+    ""histogram"": 0.10,
+    ""ma_fast"": 3290.64,
+    ""ma_slow"": 3289.93,
+    ""ma_signal"": 0.74
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 3200 based on recent lows around 3201 in last week."",
+    ""Resistance updated to 3300 due to recent highs near 3300 and upper Bollinger Band."",
+    ""Volume threshold lowered to 100000 reflecting recent lower volumes around 10-50k."",
+    ""Bollinger Bands updated to recent values from 1-min data."",
+    ""MACD parameters updated to reflect recent positive histogram and signal line values."",
+    ""ADX threshold increased to 25 due to recent ADX around 24.5-25 indicating stronger trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:16:00"",
+  ""signal"": ""Hold""
+}"

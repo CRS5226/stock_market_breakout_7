@@ -1,0 +1,2590 @@
+timestamp,raw_response
+2025-08-19 13:26:58,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""support"": 410.0,
+  ""resistance"": 440.5,
+  ""volume_threshold"": 5000000,
+  ""bollinger"": {
+    ""mid_price"": 429.8,
+    ""upper_band"": 430.32,
+    ""lower_band"": 429.28
+  },
+  ""macd"": {
+    ""signal_line"": 0.1395,
+    ""histogram"": 0.0282,
+    ""ma_fast"": 429.88,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 440.5 based on recent high on 2025-08-14 indicating a new resistance level."",
+    ""Bollinger Bands adjusted to recent 1-minute data showing consolidation around 429.8 with narrow band width."",
+    ""MACD histogram positive but small, reflecting mild bullish momentum in recent candles."",
+    ""Support retained at 410.0 as recent lows have not breached this level in last year."",
+    ""Volume threshold unchanged due to consistent trading volumes without significant spikes."",
+    ""MACD signal line updated to reflect recent increase in momentum from latest 1-minute data.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:31:11,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""support"": 410.0,
+  ""resistance"": 440.5,
+  ""volume_threshold"": 5000000,
+  ""bollinger"": {
+    ""mid_price"": 429.8,
+    ""upper_band"": 430.32,
+    ""lower_band"": 429.28
+  },
+  ""macd"": {
+    ""signal_line"": 0.1395,
+    ""histogram"": 0.0282,
+    ""ma_fast"": 429.88,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance retained at 440.5 as recent high on 2025-08-14 remains the key resistance level."",
+    ""Support retained at 410.0 as recent lows have not breached this level in last year."",
+    ""Bollinger Bands parameters retained as recent 1-minute data shows consolidation around 429.8 with narrow band width."",
+    ""MACD signal line and histogram values retained reflecting mild bullish momentum consistent with recent data."",
+    ""Volume threshold unchanged due to consistent trading volumes without significant spikes."",
+    ""ADX threshold and period retained as ADX remains stable around 20 indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:37:07,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""support"": 410.0,
+  ""resistance"": 440.5,
+  ""volume_threshold"": 5000000,
+  ""bollinger"": {
+    ""mid_price"": 429.8,
+    ""upper_band"": 430.32,
+    ""lower_band"": 429.28
+  },
+  ""macd"": {
+    ""signal_line"": 0.1395,
+    ""histogram"": 0.0282,
+    ""ma_fast"": 429.88,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance retained at 440.5 as recent high on 2025-08-14 remains the key resistance level."",
+    ""Support retained at 410.0 as recent lows have not breached this level in last year."",
+    ""Bollinger Bands parameters retained as recent 1-minute data shows consolidation around 429.8 with narrow band width."",
+    ""MACD signal line and histogram values retained reflecting mild bullish momentum consistent with recent data."",
+    ""Volume threshold unchanged due to consistent trading volumes without significant spikes."",
+    ""ADX threshold and period retained as ADX remains stable around 20 indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:18:05,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""support"": 410.0,
+  ""resistance"": 435.0,
+  ""volume_threshold"": 5000000,
+  ""bollinger"": {
+    ""mid_price"": 429.2,
+    ""upper_band"": 431.1,
+    ""lower_band"": 427.9
+  },
+  ""macd"": {
+    ""signal_line"": 0.0323,
+    ""histogram"": -0.20,
+    ""ma_fast"": 429.21,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands adjusted to recent 1-minute data showing mid price at 429.2 with upper band at 431.1 and lower band at 427.9 reflecting current price consolidation."",
+    ""MACD histogram updated to negative (-0.20) based on recent 1-minute data indicating short-term bearish momentum."",
+    ""Support and resistance levels retained as recent price action remains within these bounds without significant breakout or breakdown."",
+    ""Volume threshold unchanged due to consistent trading volumes without major spikes in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:22:33,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""support"": 410.0,
+  ""resistance"": 435.0,
+  ""volume_threshold"": 5000000,
+  ""bollinger"": {
+    ""mid_price"": 429.2,
+    ""upper_band"": 431.1,
+    ""lower_band"": 427.9
+  },
+  ""macd"": {
+    ""signal_line"": 0.0323,
+    ""histogram"": -0.2,
+    ""ma_fast"": 429.21,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands adjusted to recent 1-minute data showing mid price at 429.2 with upper band at 431.1 and lower band at 427.9 reflecting current price consolidation."",
+    ""MACD histogram updated to negative (-0.20) based on recent 1-minute data indicating short-term bearish momentum."",
+    ""Support and resistance levels retained as recent price action remains within these bounds without significant breakout or breakdown."",
+    ""Volume threshold unchanged due to consistent trading volumes without major spikes in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:49:00,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:44:00+00:00"",
+    ""open"": 429.55,
+    ""high"": 430.5,
+    ""low"": 429.55,
+    ""close"": 430.1,
+    ""volume"": 5009
+  },
+  ""support"": 427.8,
+  ""resistance"": 431.75,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 429.59,
+    ""upper_band"": 431.01,
+    ""lower_band"": 428.17
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent 20-day low and high from recent data (427.8 and 431.75)"",
+    ""Refreshed Bollinger Bands from recent data (mid 429.59, upper 431.01, lower 428.17)"",
+    ""Latest close price 430.1 above mid Bollinger and near resistance, indicating slight bullish momentum"",
+    ""ADX near threshold (~18.3) suggests moderate trend strength"",
+    ""Volume below threshold, so no strong volume confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 431.82
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 435.22
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 449.55
+    }
+  }
+}"
+2025-09-02 11:07:57,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:04:00+00:00"",
+    ""open"": 436.7,
+    ""high"": 437.0,
+    ""low"": 436.65,
+    ""close"": 436.75,
+    ""volume"": 1145
+  },
+  ""support"": 426.82,
+  ""resistance"": 439.7,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 436.06,
+    ""upper_band"": 437.12,
+    ""lower_band"": 434.76
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to 439.7 based on recent historical high on 2025-08-18"",
+    ""Refreshed Bollinger Bands to recent values from 2025-09-02 data"",
+    ""Latest close price updated to 436.75 from recent 1-min data"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and neutral MACD histogram"",
+    ""Predicted targets estimated using recent momentum and historical volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 438.44
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 443.30
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 455.42
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 438.44,
+      ""ret"": 0.004
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 443.30,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 455.42,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:16:42,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:13:00+00:00"",
+    ""open"": 437.55,
+    ""high"": 438.35,
+    ""low"": 437.55,
+    ""close"": 437.75,
+    ""volume"": 7380
+  },
+  ""support"": 417.9,
+  ""resistance"": 439.7,
+  ""support_realtime"": 431.2,
+  ""resistance_realtime"": 438.52,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 439.7,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.328,
+  ""sr_range_pct_1d"": 4.974,
+  ""sr_range_pct_1w"": 7.8191,
+  ""sr_range_pct_3m"": 27.7733,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 436.85,
+    ""upper_band"": 438.52,
+    ""lower_band"": 435.18
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to 439.7 based on recent historical high on 2025-08-18"",
+    ""Refreshed Bollinger Bands to recent values from 2025-09-02 11:13 data"",
+    ""Latest close price updated to 437.75 from recent 1-min data"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and neutral MACD histogram"",
+    ""Predicted targets estimated using recent momentum and historical volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 439.42
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 444.31
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 456.42
+    }
+  }
+}"
+2025-09-02 11:25:23,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:15:00+00:00"",
+    ""open"": 439.85,
+    ""high"": 441.8,
+    ""low"": 439.6,
+    ""close"": 439.3,
+    ""volume"": 5929
+  },
+  ""support"": 417.9,
+  ""resistance"": 439.7,
+  ""support_realtime"": 431.35,
+  ""resistance_realtime"": 442.1,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 2.4557,
+  ""sr_range_pct_1d"": 2.9469,
+  ""sr_range_pct_1w"": 7.8013,
+  ""sr_range_pct_3m"": 27.7099,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 438.5775,
+    ""upper_band"": 441.88665019302516,
+    ""lower_band"": 435.2683498069748
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to 439.7 based on recent historical high on 2025-08-18"",
+    ""Refreshed Bollinger Bands to recent values from 2025-09-02 11:22 data"",
+    ""Latest close price updated to 439.3 from recent 1-min data"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and neutral MACD histogram"",
+    ""Predicted targets estimated using recent momentum and historical volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 440.98
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 445.89
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 458.29
+    }
+  }
+}"
+2025-09-02 11:33:57,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:30:00+00:00"",
+    ""open"": 438.65,
+    ""high"": 438.7,
+    ""low"": 438.15,
+    ""close"": 438.25,
+    ""volume"": 1685
+  },
+  ""support"": 417.9,
+  ""resistance"": 442.3,
+  ""support_realtime"": 433.85,
+  ""resistance_realtime"": 442.3,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.9235,
+  ""sr_range_pct_1d"": 2.9365,
+  ""sr_range_pct_1w"": 7.7737,
+  ""sr_range_pct_3m"": 27.6121,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 439.28,
+    ""upper_band"": 441.5333086783641,
+    ""lower_band"": 437.02669132163595
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 2025-09-02 11:30 with close 438.25 from recent 1-min data"",
+    ""Adjusted resistance to 442.3 matching recent realtime resistance and upper Bollinger Band"",
+    ""Refreshed Bollinger Bands to recent 1-min indicator values"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram"",
+    ""Predicted targets estimated using recent close and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 439.92
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 444.82
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 457.37
+    }
+  }
+}"
+2025-09-02 11:43:12,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:40:00+00:00"",
+    ""open"": 440.9,
+    ""high"": 442.25,
+    ""low"": 440.55,
+    ""close"": 442.25,
+    ""volume"": 13145
+  },
+  ""support"": 417.9,
+  ""resistance"": 442.74,
+  ""support_realtime"": 434.4,
+  ""resistance_realtime"": 442.74,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.8026,
+  ""sr_range_pct_1d"": 2.9435,
+  ""sr_range_pct_1w"": 7.7924,
+  ""sr_range_pct_3m"": 27.6783,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 440.11,
+    ""upper_band"": 442.74,
+    ""lower_band"": 437.49
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 2025-09-02 11:40 with close 442.25 from recent 1-min data"",
+    ""Adjusted resistance and resistance_realtime to 442.74 matching recent upper Bollinger Band"",
+    ""Refreshed Bollinger Bands to recent 1-min indicator values"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram"",
+    ""Predicted targets estimated using recent close and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 443.02
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 448.63
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 461.25
+    }
+  }
+}"
+2025-09-02 11:52:19,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:50:00+00:00"",
+    ""open"": 441.6,
+    ""high"": 442.3,
+    ""low"": 441.6,
+    ""close"": 442.0,
+    ""volume"": 13925
+  },
+  ""support"": 417.9,
+  ""resistance"": 442.94,
+  ""support_realtime"": 434.75,
+  ""resistance_realtime"": 442.94,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.9392,
+  ""sr_range_pct_1d"": 2.9258,
+  ""sr_range_pct_1w"": 7.7455,
+  ""sr_range_pct_3m"": 27.5119,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 441.485,
+    ""upper_band"": 442.9383065746761,
+    ""lower_band"": 440.0316934253239
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 2025-09-02 11:50 with close 442.0 from recent 1-min data"",
+    ""Adjusted resistance and resistance_realtime to 442.94 matching recent upper Bollinger Band"",
+    ""Refreshed Bollinger Bands to recent 1-min indicator values"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram"",
+    ""Predicted targets estimated using recent close and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 443.77
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 448.63
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 461.0
+    }
+  }
+}"
+2025-09-02 12:01:09,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:59:00+00:00"",
+    ""open"": 441.6,
+    ""high"": 441.95,
+    ""low"": 441.4,
+    ""close"": 441.4,
+    ""volume"": 3641
+  },
+  ""support"": 417.9,
+  ""resistance"": 443.97,
+  ""support_realtime"": 435.15,
+  ""resistance_realtime"": 443.97,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.991,
+  ""sr_range_pct_1d"": 2.9186,
+  ""sr_range_pct_1w"": 7.7262,
+  ""sr_range_pct_3m"": 27.4434,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 442.25,
+    ""upper_band"": 443.97,
+    ""lower_band"": 440.48
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv to 2025-09-02 11:59 with close 441.4 from recent 1-min data"",
+    ""Adjusted resistance and resistance_realtime to 443.97 matching recent upper Bollinger Band"",
+    ""Refreshed Bollinger Bands to recent 1-min indicator values"",
+    ""Volume threshold unchanged due to no significant volume spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram"",
+    ""Predicted targets estimated using recent close and moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 443.17
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 448.52
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 460.46
+    }
+  }
+}"
+2025-09-02 12:09:40,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:00:00+00:00"",
+    ""open"": 441.4,
+    ""high"": 441.65,
+    ""low"": 441.15,
+    ""close"": 441.65,
+    ""volume"": 8573
+  },
+  ""support"": 417.9,
+  ""resistance"": 443.97,
+  ""support_realtime"": 436.35,
+  ""resistance_realtime"": 443.97,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.8456,
+  ""sr_range_pct_1d"": 2.9212,
+  ""sr_range_pct_1w"": 7.7332,
+  ""sr_range_pct_3m"": 27.4683,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 442.05,
+    ""upper_band"": 443.97,
+    ""lower_band"": 440.14
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance and resistance_realtime to 443.97 matching recent upper Bollinger Band from 1-min data"",
+    ""Refreshed Bollinger Bands mid_price and lower_band to recent 1-min indicator values"",
+    ""Latest ohlcv retained from config as recent 1-min close is slightly lower but consistent"",
+    ""Volume threshold unchanged due to no significant volume spike in recent data"",
+    ""Signal remains 'No Action' due to ADX below threshold and negative MACD histogram in recent data"",
+    ""Predicted targets estimated using recent close 441.65 and moderate volatility with slight positive bias""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 443.42
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 448.78
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 460.92
+    }
+  }
+}"
+2025-09-02 12:18:31,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:08:00+00:00"",
+    ""open"": 440.65,
+    ""high"": 441.0,
+    ""low"": 440.65,
+    ""close"": 440.85,
+    ""volume"": 6938
+  },
+  ""support"": 417.9,
+  ""resistance"": 442.0228392035309,
+  ""support_realtime"": 436.65,
+  ""resistance_realtime"": 442.0228392035309,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.7815,
+  ""sr_range_pct_1d"": 2.9275,
+  ""sr_range_pct_1w"": 7.7499,
+  ""sr_range_pct_3m"": 27.5275,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 441.32249999999993,
+    ""upper_band"": 442.0228392035309,
+    ""lower_band"": 440.62216079646896
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance and resistance_realtime to 442.0228392035309 matching recent upper Bollinger Band from 1-min data"",
+    ""Refreshed Bollinger Bands mid_price and lower_band to recent 1-min indicator values"",
+    ""Latest ohlcv retained from config as recent 1-min close is slightly higher but consistent"",
+    ""Volume threshold unchanged due to no significant volume spike in recent data"",
+    ""Signal remains 'No Action' due to ADX below threshold and negative MACD histogram in recent data"",
+    ""Predicted targets estimated using recent close 442.0 and moderate volatility with slight positive bias""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 443.768
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 448.63
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 461.19
+    }
+  }
+}"
+2025-09-02 14:13:24,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:17:00+00:00"",
+    ""open"": 441.8,
+    ""high"": 443.35,
+    ""low"": 441.8,
+    ""close"": 442.55,
+    ""volume"": 16012
+  },
+  ""support"": 417.9,
+  ""resistance"": 442.8809129765602,
+  ""support_realtime"": 438.15,
+  ""resistance_realtime"": 436.8809129765602,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": 2.9186,
+  ""sr_range_pct_1w"": 7.7262,
+  ""sr_range_pct_3m"": 27.4434,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 435.525,
+    ""upper_band"": 436.8809129765602,
+    ""lower_band"": 434.1690870234398
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to recent 1-min upper Bollinger Band 436.8809129765602 indicating new short-term resistance"",
+    ""Adjusted Bollinger Bands mid_price and lower_band to recent 1-min indicator values reflecting current volatility"",
+    ""Resistance_realtime updated to recent 1-min upper Bollinger Band 436.8809129765602 from 444.5 indicating tightening range"",
+    ""Volume threshold unchanged as recent volume does not indicate significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram in recent data"",
+    ""Predicted targets estimated using recent close 436.8 and moderate volatility with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 438.5472
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 443.352
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 456.156
+    }
+  }
+}"
+2025-09-02 14:29:16,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:26:00+00:00"",
+    ""open"": 436.9,
+    ""high"": 437.15,
+    ""low"": 436.55,
+    ""close"": 436.55,
+    ""volume"": 1940
+  },
+  ""support"": 417.9,
+  ""resistance"": 437.67766903673476,
+  ""support_realtime"": 434.0,
+  ""resistance_realtime"": 437.67766903673476,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.8294,
+  ""sr_range_pct_1d"": 2.9509,
+  ""sr_range_pct_1w"": 7.812,
+  ""sr_range_pct_3m"": 27.7479,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 436.36500000000007,
+    ""upper_band"": 437.67766903673476,
+    ""lower_band"": 435.0523309632654
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance and resistance_realtime updated to recent 1-min upper Bollinger Band 437.67766903673476 indicating new short-term resistance"",
+    ""Bollinger Bands mid_price and lower_band adjusted to recent 1-min indicator values reflecting current volatility"",
+    ""sr_range_pct_realtime recalculated to reflect updated resistance and support realtime levels"",
+    ""Volume threshold unchanged as recent volume does not indicate significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram in recent data"",
+    ""Predicted targets estimated using recent close 436.55 and moderate volatility with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 438.2922
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 443.09825
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 455.06475
+    }
+  }
+}"
+2025-09-02 14:37:49,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:35:00+00:00"",
+    ""open"": 437.35,
+    ""high"": 437.35,
+    ""low"": 436.85,
+    ""close"": 436.9,
+    ""volume"": 1480
+  },
+  ""support"": 417.9,
+  ""resistance"": 437.62,
+  ""support_realtime"": 434.0,
+  ""resistance_realtime"": 437.62,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.0083,
+  ""sr_range_pct_1d"": 2.955,
+  ""sr_range_pct_1w"": 7.8227,
+  ""sr_range_pct_3m"": 27.786,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 436.8975,
+    ""upper_band"": 437.6203,
+    ""lower_band"": 436.1747
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance and resistance_realtime updated to recent 1-min upper Bollinger Band 437.6203 indicating new short-term resistance"",
+    ""Bollinger Bands mid_price and lower_band adjusted to recent 1-min indicator values reflecting current volatility"",
+    ""sr_range_pct_realtime recalculated to reflect updated resistance and support realtime levels"",
+    ""Volume threshold unchanged as recent volume does not indicate significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and weak MACD histogram in recent data"",
+    ""Predicted targets estimated using recent close 436.9 and moderate volatility with slight positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 438.6476
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 443.4535
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 456.2505
+    }
+  }
+}"
+2025-09-02 15:21:38,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:19:00+00:00"",
+    ""open"": 440.65,
+    ""high"": 441.05,
+    ""low"": 440.5,
+    ""close"": 441.0,
+    ""volume"": 37398
+  },
+  ""support"": 434.0,
+  ""resistance"": 441.25809008004626,
+  ""support_realtime"": 434.0,
+  ""resistance_realtime"": 441.25809008004626,
+  ""support_1d"": 417.9,
+  ""resistance_1d"": 430.8,
+  ""support_1w"": 411.85,
+  ""resistance_1w"": 446.0,
+  ""support_3m"": 351.1,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.73,
+  ""sr_range_pct_1d"": 2.9526,
+  ""sr_range_pct_1w"": 7.8164,
+  ""sr_range_pct_3m"": 27.7638,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 439.05999999999995,
+    ""upper_band"": 441.25809008004626,
+    ""lower_band"": 436.86190991995363
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar reflecting recent price action"",
+    ""Support and resistance realtime updated to latest Bollinger Bands upper and recent support level"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values indicating current volatility"",
+    ""sr_range_pct_realtime recalculated based on updated support and resistance realtime"",
+    ""Volume threshold unchanged as recent volume remains below significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets estimated using recent close 441.0 with moderate positive momentum and volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 442.764,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 447.615,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 460.845,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:30:12,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:27:00+00:00"",
+    ""open"": 440.9,
+    ""high"": 441.0,
+    ""low"": 440.35,
+    ""close"": 440.35,
+    ""volume"": 39972
+  },
+  ""support"": 438.23,
+  ""resistance"": 441.61,
+  ""support_realtime"": 438.23,
+  ""resistance_realtime"": 441.61,
+  ""support_1d"": 401.6,
+  ""resistance_1d"": 435.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 435.0,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.76,
+  ""sr_range_pct_1d"": 7.5771,
+  ""sr_range_pct_1w"": 7.9401,
+  ""sr_range_pct_3m"": 22.1416,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 439.92,
+    ""upper_band"": 441.61,
+    ""lower_band"": 438.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar reflecting recent price action"",
+    ""Support and resistance realtime updated to latest Bollinger Bands upper and lower bands"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values indicating current volatility"",
+    ""sr_range_pct_realtime recalculated based on updated support and resistance realtime"",
+    ""Volume threshold unchanged as recent volume remains below significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets estimated using recent close 440.35 with moderate positive momentum and volatility""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 441.98
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 446.95
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 459.37
+    }
+  }
+}"
+2025-09-03 12:01:06,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:58:00+00:00"",
+    ""open"": 457.7,
+    ""high"": 458.15,
+    ""low"": 457.55,
+    ""close"": 457.85,
+    ""volume"": 6560
+  },
+  ""support"": 401.6,
+  ""resistance"": 435.0,
+  ""support_realtime"": 456.77,
+  ""resistance_realtime"": 460.88,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 435.0,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.91,
+  ""sr_range_pct_1d"": 3.04,
+  ""sr_range_pct_1w"": 7.95,
+  ""sr_range_pct_3m"": 22.16,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 458.82,
+    ""upper_band"": 460.88,
+    ""lower_band"": 456.77
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar reflecting recent price action at 457.85"",
+    ""Support and resistance realtime updated to Bollinger Bands lower and upper bands at 456.77 and 460.88"",
+    ""Support_1d and resistance_1d updated to recent daily low and high of 431.4 and 445.0"",
+    ""sr_range_pct_realtime recalculated to 0.91% based on updated realtime S/R"",
+    ""Bollinger Bands adjusted to recent 1-min indicator values indicating current volatility"",
+    ""Volume threshold unchanged as recent volume remains below significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 457.85 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 418.3,
+  ""target"": 435.0,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 435.0,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 459.67
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 464.22
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 478.53
+    }
+  }
+}"
+2025-09-03 12:10:40,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:08:00+00:00"",
+    ""open"": 458.0,
+    ""high"": 458.65,
+    ""low"": 458.0,
+    ""close"": 458.65,
+    ""volume"": 2672
+  },
+  ""support"": 401.6,
+  ""resistance"": 435.0,
+  ""support_realtime"": 457.76,
+  ""resistance_realtime"": 458.72,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 435.0,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.208,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 8.75,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 458.24,
+    ""upper_band"": 458.72,
+    ""lower_band"": 457.76
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 458.65 reflecting recent price action"",
+    ""Realtime support and resistance updated to Bollinger Bands lower and upper bands at 457.76 and 458.72"",
+    ""sr_range_pct_realtime recalculated to 0.208% based on updated realtime S/R"",
+    ""Bollinger Bands mid_price adjusted to 458.24 based on recent indicator values"",
+    ""Volume threshold unchanged as recent volume remains below significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 458.65 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 418.3,
+  ""target"": 435.0,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 435.0,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 460.47
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 465.03
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 478.77
+    }
+  }
+}"
+2025-09-03 12:20:02,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:17:00+00:00"",
+    ""open"": 458.6,
+    ""high"": 459.0,
+    ""low"": 458.45,
+    ""close"": 458.85,
+    ""volume"": 2875
+  },
+  ""support"": 401.6,
+  ""resistance"": 435.0,
+  ""support_realtime"": 457.79,
+  ""resistance_realtime"": 459.24,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 435.0,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.317,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 8.75,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 458.52,
+    ""upper_band"": 459.24,
+    ""lower_band"": 457.79
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 458.85 reflecting recent price action"",
+    ""Realtime support and resistance updated to Bollinger Bands lower and upper bands at 457.79 and 459.24"",
+    ""sr_range_pct_realtime recalculated to 0.317% based on updated realtime S/R"",
+    ""Bollinger Bands mid_price adjusted to 458.52 based on recent indicator values"",
+    ""Volume threshold unchanged as recent volume remains below significant spike"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 458.85 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 418.3,
+  ""target"": 435.0,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 435.0,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 460.67
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 465.23
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 479.68
+    }
+  }
+}"
+2025-09-03 12:29:23,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:26:00+00:00"",
+    ""open"": 453.6,
+    ""high"": 454.35,
+    ""low"": 453.6,
+    ""close"": 453.75,
+    ""volume"": 25942
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 453.5,
+  ""resistance_realtime"": 461.02,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.65,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 8.75,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 457.26,
+    ""upper_band"": 461.02,
+    ""lower_band"": 453.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 453.75 reflecting recent price action"",
+    ""Realtime support and resistance updated to Bollinger Bands lower and upper bands at 453.5 and 461.02"",
+    ""sr_range_pct_realtime recalculated to 1.65% based on updated realtime S/R"",
+    ""Bollinger Bands mid_price adjusted to 457.26 based on recent indicator values"",
+    ""Support level updated to 431.4 from recent daily low confirming stronger support"",
+    ""Resistance 1w level updated to 459.8 based on recent high and VWAP"",
+    ""Trade levels recalculated to reflect updated S/R and risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 453.75 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 431.4,
+  ""target"": 459.24,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 459.8,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 455.57
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 460.06
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 473.69
+    }
+  }
+}"
+2025-09-03 12:39:31,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:36:00+00:00"",
+    ""open"": 453.95,
+    ""high"": 453.95,
+    ""low"": 453.9,
+    ""close"": 453.95,
+    ""volume"": 2307
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 451.8,
+  ""resistance_realtime"": 457.92,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.36,
+  ""sr_range_pct_1d"": 3.15,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.04,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 454.86,
+    ""upper_band"": 457.92,
+    ""lower_band"": 451.8
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 453.95 reflecting recent price action"",
+    ""Realtime support and resistance updated to Bollinger Bands lower and upper bands at 451.8 and 457.92"",
+    ""sr_range_pct_realtime recalculated to 1.36% based on updated realtime S/R"",
+    ""Bollinger Bands mid_price adjusted to 454.86 based on recent indicator values"",
+    ""Support level remains at 431.4 from recent daily low confirming stronger support"",
+    ""Resistance 1w level remains at 459.8 based on recent high and VWAP"",
+    ""Trade levels recalculated to reflect updated S/R and risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 453.95 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 431.4,
+  ""target"": 459.24,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 459.8,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 455.77
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 460.76
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 473.61
+    }
+  }
+}"
+2025-09-03 15:34:23,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:38:00+00:00"",
+    ""open"": 454.5,
+    ""high"": 454.75,
+    ""low"": 454.15,
+    ""close"": 454.7,
+    ""volume"": 19513
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 458.2763646540051,
+  ""resistance_realtime"": 461.77863534599487,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.74,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 460.0275,
+    ""upper_band"": 461.77863534599487,
+    ""lower_band"": 458.2763646540051
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper bands at 458.28 and 461.78 from recent 1-min data"",
+    ""Bollinger Bands mid_price adjusted to 460.03 based on recent indicator values"",
+    ""sr_range_pct_realtime recalculated to 0.74% based on updated realtime S/R"",
+    ""Maintained daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Trade levels recalculated to reflect updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 454.7 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 431.4,
+  ""target"": 459.24,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 459.8,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 456.52
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 461.52
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 474.36
+    }
+  }
+}"
+2025-09-04 11:17:21,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 459.0,
+    ""high"": 459.7,
+    ""low"": 459.0,
+    ""close"": 459.7,
+    ""volume"": 16
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 460.1204949215812,
+  ""resistance_realtime"": 464.00950507841867,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.83,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 462.06499999999994,
+    ""upper_band"": 464.00950507841867,
+    ""lower_band"": 460.1204949215812
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper bands at 460.12 and 464.01 from recent 1-min data"",
+    ""Bollinger Bands mid_price adjusted to 462.06 based on recent indicator values"",
+    ""sr_range_pct_realtime recalculated to 0.83% based on updated realtime S/R"",
+    ""Maintained daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Trade levels recalculated to reflect updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 459.7 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 431.4,
+  ""target"": 459.24,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 459.8,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 461.54
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 466.6
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 480.57
+    }
+  }
+}"
+2025-09-04 14:26:05,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:16:00+00:00"",
+    ""open"": 462.65,
+    ""high"": 463.4,
+    ""low"": 462.1,
+    ""close"": 463.4,
+    ""volume"": 9247
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 459.1717356435448,
+  ""resistance_realtime"": 464.00950507841867,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 1.03,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 462.06499999999994,
+    ""upper_band"": 464.00950507841867,
+    ""lower_band"": 459.1717356435448
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support to Bollinger Bands lower band at 459.17 from recent 1-min data"",
+    ""Maintained realtime resistance at Bollinger Bands upper band 464.01"",
+    ""Recalculated sr_range_pct_realtime to 1.03% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels"",
+    ""Trade levels recalculated to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 463.4 with moderate positive momentum""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 431.4,
+  ""target"": 459.24,
+  ""stoploss"": 401.6,
+  ""entry1"": 433.0,
+  ""target1"": 445.0,
+  ""stoploss1"": 431.4,
+  ""entry2"": 417.5,
+  ""target2"": 459.8,
+  ""stoploss2"": 400.0,
+  ""entry3"": 423.6,
+  ""target3"": 472.4,
+  ""stoploss3"": 374.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 465.25
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 470.35
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 483.93
+    }
+  }
+}"
+2025-09-04 14:53:58,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:24:00+00:00"",
+    ""open"": 457.5,
+    ""high"": 457.7,
+    ""low"": 456.6,
+    ""close"": 456.6,
+    ""volume"": 1619
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 456.23141881226155,
+  ""resistance_realtime"": 457.9435811877384,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.368,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 457.0875,
+    ""upper_band"": 457.9435811877384,
+    ""lower_band"": 456.23141881226155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support to Bollinger Bands lower band at 456.23 from recent 1-min data"",
+    ""Updated realtime resistance to Bollinger Bands upper band at 457.94 from recent 1-min data"",
+    ""Recalculated sr_range_pct_realtime to 0.37% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels"",
+    ""Trade levels recalculated to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 456.6 with moderate positive momentum"",
+    ""Auto-filled entry/target/stoploss from support/realtime resistance with bias=short"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 457.5,
+  ""target"": 447.06,
+  ""stoploss"": 460.632,
+  ""entry1"": 439.56,
+  ""target1"": 434.46,
+  ""stoploss1"": 442.96,
+  ""entry2"": 457.5,
+  ""target2"": 435.075,
+  ""stoploss2"": 462.79,
+  ""entry3"": 457.5,
+  ""target3"": 420.9,
+  ""stoploss3"": 477.28,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 458.4264
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 463.949
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 476.127
+    }
+  }
+}"
+2025-09-04 15:06:33,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:52:00+00:00"",
+    ""open"": 456.3,
+    ""high"": 456.3,
+    ""low"": 455.3,
+    ""close"": 455.45,
+    ""volume"": 6310
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 456.23141881226155,
+  ""resistance_realtime"": 457.9435811877384,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.3753,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 457.0875,
+    ""upper_band"": 457.9435811877384,
+    ""lower_band"": 456.23141881226155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support to Bollinger Bands lower band at 456.23 from recent 1-min data"",
+    ""Updated realtime resistance to Bollinger Bands upper band at 457.94 from recent 1-min data"",
+    ""Recalculated sr_range_pct_realtime to 0.37% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels"",
+    ""Trade levels recalculated to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 455.45 with moderate positive momentum"",
+    ""Auto-filled entry/target/stoploss from support/realtime resistance with bias=short"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 457.5,
+  ""target"": 447.06,
+  ""stoploss"": 460.632,
+  ""entry1"": 439.56,
+  ""target1"": 434.46,
+  ""stoploss1"": 442.96,
+  ""entry2"": 457.5,
+  ""target2"": 435.075,
+  ""stoploss2"": 462.79,
+  ""entry3"": 457.5,
+  ""target3"": 420.9,
+  ""stoploss3"": 477.28,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 457.2718
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 462.782
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 475.847
+    }
+  }
+}"
+2025-09-04 15:18:31,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:05:00+00:00"",
+    ""open"": 455.7,
+    ""high"": 457.35,
+    ""low"": 455.65,
+    ""close"": 457.35,
+    ""volume"": 17287
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 456.23141881226155,
+  ""resistance_realtime"": 457.9435811877384,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.3753,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 457.0875,
+    ""upper_band"": 457.9435811877384,
+    ""lower_band"": 456.23141881226155
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support to Bollinger Bands lower band at 456.23 from recent 1-min data"",
+    ""Updated realtime resistance to Bollinger Bands upper band at 457.94 from recent 1-min data"",
+    ""Recalculated sr_range_pct_realtime to 0.37% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels"",
+    ""Trade levels recalculated to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 457.35 with moderate positive momentum"",
+    ""Auto-filled entry/target/stoploss from support/realtime resistance with bias=short"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 457.5,
+  ""target"": 447.06,
+  ""stoploss"": 460.632,
+  ""entry1"": 439.56,
+  ""target1"": 434.46,
+  ""stoploss1"": 442.96,
+  ""entry2"": 457.5,
+  ""target2"": 435.075,
+  ""stoploss2"": 462.79,
+  ""entry3"": 457.5,
+  ""target3"": 420.9,
+  ""stoploss3"": 477.28,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 459.1794
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 464.21025
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 477.37825
+    }
+  }
+}"
+2025-09-05 13:41:07,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:17:00+00:00"",
+    ""open"": 455.4,
+    ""high"": 455.4,
+    ""low"": 455.0,
+    ""close"": 455.05,
+    ""volume"": 17625
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 507.11253676510336,
+  ""resistance_realtime"": 510.51246323489664,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.67,
+  ""sr_range_pct_1d"": 3.1525,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.0406,
+  ""volume_threshold"": 7586,
+  ""bollinger"": {
+    ""mid_price"": 508.8125,
+    ""upper_band"": 510.51246323489664,
+    ""lower_band"": 507.11253676510336
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.11 and 510.51 based on recent 1-min data"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Recalculated sr_range_pct_realtime to 0.67% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 508.6 with moderate positive momentum"",
+    ""Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 508.7,
+  ""target"": 510.0,
+  ""stoploss"": 506.9,
+  ""entry1"": 433.0,
+  ""target1"": 443.0,
+  ""stoploss1"": 430.0,
+  ""entry2"": 405.0,
+  ""target2"": 455.0,
+  ""stoploss2"": 398.0,
+  ""entry3"": 380.0,
+  ""target3"": 470.0,
+  ""stoploss3"": 370.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 510.6344
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 516.429
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 531.837
+    }
+  }
+}"
+2025-09-05 14:29:45,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:40:00+00:00"",
+    ""open"": 509.4,
+    ""high"": 509.4,
+    ""low"": 507.2,
+    ""close"": 507.55,
+    ""volume"": 99723
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 507.1125,
+  ""resistance_realtime"": 510.5125,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.67,
+  ""sr_range_pct_1d"": 3.15,
+  ""sr_range_pct_1w"": 14.95,
+  ""sr_range_pct_3m"": 26.04,
+  ""volume_threshold"": 7586.0,
+  ""bollinger"": {
+    ""mid_price"": 508.8125,
+    ""upper_band"": 510.5125,
+    ""lower_band"": 507.1125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.11 and 510.51 based on recent 1-min data"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Recalculated sr_range_pct_realtime to 0.67% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 507.55 with moderate positive momentum"",
+    ""Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 456.485,
+  ""target"": 456.485,
+  ""stoploss"": 429.89,
+  ""entry1"": 433.988,
+  ""target1"": 442.33,
+  ""stoploss1"": 429.89,
+  ""entry2"": 405.0,
+  ""target2"": 455.0,
+  ""stoploss2"": 398.25,
+  ""entry3"": 380.0,
+  ""target3"": 469.566,
+  ""stoploss3"": 373.16,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 509.57
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 515.36
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 529.95
+    }
+  }
+}"
+2025-09-05 14:46:51,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:28:00+00:00"",
+    ""open"": 508.7,
+    ""high"": 509.25,
+    ""low"": 508.55,
+    ""close"": 508.9,
+    ""volume"": 20941
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 507.31125,
+  ""resistance_realtime"": 510.01375,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.53,
+  ""sr_range_pct_1d"": 2.6724,
+  ""sr_range_pct_1w"": 11.75,
+  ""sr_range_pct_3m"": 19.18,
+  ""volume_threshold"": 7586.0,
+  ""bollinger"": {
+    ""mid_price"": 508.6625,
+    ""upper_band"": 510.01375,
+    ""lower_band"": 507.31125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.31 and 510.01 based on recent 1-min data"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Recalculated sr_range_pct_realtime to 0.53% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 508.9 with moderate positive momentum"",
+    ""Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 457.03,
+  ""target"": 458.0,
+  ""stoploss"": 429.89,
+  ""entry1"": 433.99,
+  ""target1"": 442.33,
+  ""stoploss1"": 429.89,
+  ""entry2"": 405.0,
+  ""target2"": 455.0,
+  ""stoploss2"": 398.25,
+  ""entry3"": 380.0,
+  ""target3"": 469.57,
+  ""stoploss3"": 373.16,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 510.0356
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 516.5335
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 531.8505
+    }
+  }
+}"
+2025-09-05 15:13:30,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:45:00+00:00"",
+    ""open"": 508.5,
+    ""high"": 509.25,
+    ""low"": 508.35,
+    ""close"": 509.25,
+    ""volume"": 33078
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 507.31125,
+  ""resistance_realtime"": 510.01375,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.53,
+  ""sr_range_pct_1d"": 2.67,
+  ""sr_range_pct_1w"": 11.74,
+  ""sr_range_pct_3m"": 19.17,
+  ""volume_threshold"": 7586.0,
+  ""bollinger"": {
+    ""mid_price"": 508.6625,
+    ""upper_band"": 510.01375,
+    ""lower_band"": 507.31125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.31 and 510.01 based on recent 1-min data"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Recalculated sr_range_pct_realtime to 0.53% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 508.9 with moderate positive momentum"",
+    ""Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 456.485,
+  ""target"": 457.03,
+  ""stoploss"": 429.89,
+  ""entry1"": 433.99,
+  ""target1"": 442.33,
+  ""stoploss1"": 429.89,
+  ""entry2"": 405.0,
+  ""target2"": 455.0,
+  ""stoploss2"": 398.25,
+  ""entry3"": 380.0,
+  ""target3"": 469.566,
+  ""stoploss3"": 373.16,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 510.0356
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 516.5335
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 531.8505
+    }
+  }
+}"
+2025-09-05 15:25:30,"{
+  ""stock_code"": ""GMDCLTD"",
+  ""instrument_token"": 1332225,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:12:00+00:00"",
+    ""open"": 507.8,
+    ""high"": 508.0,
+    ""low"": 506.6,
+    ""close"": 508.0,
+    ""volume"": 48344
+  },
+  ""support"": 431.4,
+  ""resistance"": 459.24,
+  ""support_realtime"": 507.31125,
+  ""resistance_realtime"": 510.01375,
+  ""support_1d"": 431.4,
+  ""resistance_1d"": 445.0,
+  ""support_1w"": 400.0,
+  ""resistance_1w"": 459.8,
+  ""support_3m"": 374.8,
+  ""resistance_3m"": 472.4,
+  ""sr_range_pct_realtime"": 0.53,
+  ""sr_range_pct_1d"": 2.6772,
+  ""sr_range_pct_1w"": 11.7717,
+  ""sr_range_pct_3m"": 19.2126,
+  ""volume_threshold"": 7586.0,
+  ""bollinger"": {
+    ""mid_price"": 508.6625,
+    ""upper_band"": 510.01375,
+    ""lower_band"": 507.31125
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.31 and 510.01 based on recent 1-min data"",
+    ""Corrected support_realtime and resistance_realtime to ensure support < resistance"",
+    ""Recalculated sr_range_pct_realtime to 0.53% based on updated realtime S/R levels"",
+    ""Preserved historical daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5"",
+    ""Signal remains 'No Action' due to ADX below threshold and lack of strong momentum"",
+    ""Predicted targets recalculated using latest close 508.9 with moderate positive momentum"",
+    ""Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 456.485,
+  ""target"": 457.03,
+  ""stoploss"": 429.89,
+  ""entry1"": 433.99,
+  ""target1"": 442.33,
+  ""stoploss1"": 429.89,
+  ""entry2"": 405.0,
+  ""target2"": 455.0,
+  ""stoploss2"": 398.25,
+  ""entry3"": 380.0,
+  ""target3"": 469.566,
+  ""stoploss3"": 373.16,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.004,
+      ""price"": 510.0356
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 516.5335
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 531.8505
+    }
+  }
+}"

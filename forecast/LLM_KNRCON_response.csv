@@ -1,0 +1,40 @@
+timestamp,raw_response
+2025-08-19 14:25:48,"{
+  ""stock_code"": ""KNRCON"",
+  ""instrument_token"": 3912449,
+  ""support"": 198.45,
+  ""resistance"": 202.14,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 201.8678,
+    ""upper_band"": 202.1113,
+    ""lower_band"": 201.1977
+  },
+  ""macd"": {
+    ""signal_line"": 0.0484,
+    ""histogram"": 0.13999,
+    ""ma_fast"": 201.868,
+    ""ma_slow"": 201.655,
+    ""ma_signal"": 0.0484
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 201.868,
+    ""ma_slow"": 201.655
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate consolidation near support and resistance levels with no clear breakout or breakdown signals."",
+    ""No significant trend change or breakout observed in recent data; support and resistance levels remain valid.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

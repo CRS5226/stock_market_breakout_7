@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 15:24:52,"{
+  ""stock_code"": ""KOTAKBANK"",
+  ""instrument_token"": 492033,
+  ""support"": 1968.0,
+  ""resistance"": 2000.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2029.5800000000004,
+    ""upper_band"": 2033.1243476127502,
+    ""lower_band"": 2026.0356523872506
+  },
+  ""macd"": {
+    ""signal_line"": -0.307448489749971,
+    ""histogram"": -0.06035307776777382,
+    ""ma_fast"": 2028.0444444444447,
+    ""ma_slow"": 2029.5800000000004,
+    ""ma_signal"": -0.36780156751774484
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2028,
+    ""ma_slow"": 2029.58
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward trend with support at 1968 and resistance at 2000, indicating potential for short-term breakout."",
+    ""MACD histogram remains negative but shows signs of decreasing negativity, suggesting weakening bearish momentum."",
+    ""Bollinger bands are tight, indicating low volatility but potential for breakout if momentum continues."",
+    ""ADX remains above 20, confirming trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:23:00"",
+  ""signal"": ""Hold""
+}"

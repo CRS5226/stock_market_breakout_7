@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:21:54,"{
+  ""stock_code"": ""BEML"",
+  ""instrument_token"": 101121,
+  ""support"": 3900.0,
+  ""resistance"": 4130.0,
+  ""volume_threshold"": 950000,
+  ""bollinger"": {
+    ""mid_price"": 4115.1444,
+    ""upper_band"": 4119.0515,
+    ""lower_band"": 4110.0085
+  },
+  ""macd"": {
+    ""signal_line"": 1.5094,
+    ""histogram"": 0.314,
+    ""ma_fast"": 4115.1444,
+    ""ma_slow"": 4114.5300,
+    ""ma_signal"": 4114.5300
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 14,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout with price closing above resistance, indicating potential bullish momentum."",
+    ""Support adjusted slightly upward to 3900 to reflect recent price levels."",
+    ""Volume threshold decreased slightly to account for recent volume activity, which remains high but shows signs of stabilization.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Buy""
+}"

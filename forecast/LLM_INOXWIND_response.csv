@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:25:39,"{
+  ""stock_code"": ""INOXWIND"",
+  ""instrument_token"": 2010113,
+  ""support"": 139.0,
+  ""resistance"": 145.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 144.02,
+    ""upper_band"": 144.16,
+    ""lower_band"": 143.89
+  },
+  ""macd"": {
+    ""signal_line"": 0.0764,
+    ""histogram"": 0.0056,
+    ""ma_fast"": 144.07,
+    ""ma_slow"": 144.02,
+    ""ma_signal"": 0.0820
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 139.0 based on recent lows around 137-139 in last week."",
+    ""Resistance updated to 145.0 reflecting recent highs near 144.14 and slight breakout indication."",
+    ""Bollinger bands updated to recent values from 1-minute data showing tight range around 144."",
+    ""MACD parameters updated to recent values indicating slight bullish momentum."",
+    ""Signal set to Hold due to consolidation near resistance with no strong breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

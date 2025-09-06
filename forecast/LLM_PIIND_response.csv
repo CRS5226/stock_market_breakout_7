@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:10:58,"{
+  ""stock_code"": ""PIIND"",
+  ""instrument_token"": 6191105,
+  ""support"": 3752.4,
+  ""resistance"": 3758.44,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 3754.87,
+    ""upper_band"": 3758.44,
+    ""lower_band"": 3751.31
+  },
+  ""macd"": {
+    ""signal_line"": -0.69,
+    ""histogram"": -0.30,
+    ""ma_fast"": 3754.29,
+    ""ma_slow"": 3754.87,
+    ""ma_signal"": -0.69
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 3754,
+    ""ma_slow"": 3758
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with tight Bollinger bands, indicating low volatility and potential breakout zones."",
+    ""MACD histogram remains negative but shows signs of decreasing magnitude, suggesting weakening downward momentum."",
+    ""ADX remains below 20, indicating a non-trending phase, but recent price action near support/resistance warrants monitoring for breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:09:00"",
+  ""signal"": ""Hold""
+}"

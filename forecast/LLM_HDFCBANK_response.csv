@@ -1,0 +1,83 @@
+timestamp,raw_response
+2025-08-19 14:42:50,"{
+  ""stock_code"": ""HDFCBANK"",
+  ""instrument_token"": 341249,
+  ""support"": 1990.0,
+  ""resistance"": 2000.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1991.535,
+    ""upper_band"": 1993.82,
+    ""lower_band"": 1989.25
+  },
+  ""macd"": {
+    ""signal_line"": 0.747,
+    ""histogram"": 0.14,
+    ""ma_fast"": 1992.61,
+    ""ma_slow"": 1991.54,
+    ""ma_signal"": 1991.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1992,
+    ""ma_slow"": 1991
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout signals."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Support adjusted slightly to 1990 based on recent lows."",
+    ""Resistance remains at 2000 as recent highs have not surpassed previous resistance levels.""
+  ],
+  ""last_updated"": ""2025-08-19 14:34:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:23:35,"{
+  ""stock_code"": ""HDFCBANK"",
+  ""instrument_token"": 341249,
+  ""support"": 1990.0,
+  ""resistance"": 2000.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1991.535,
+    ""upper_band"": 1993.82,
+    ""lower_band"": 1989.25
+  },
+  ""macd"": {
+    ""signal_line"": 0.747,
+    ""histogram"": 0.14,
+    ""ma_fast"": 1992.61,
+    ""ma_slow"": 1991.54,
+    ""ma_signal"": 1991.54
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1992,
+    ""ma_slow"": 1991
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles indicate consolidation near support with no clear breakout signals."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Support remains at 1990 as recent lows have not breached previous support levels."",
+    ""Resistance remains at 2000 as recent highs have not surpassed previous resistance levels.""
+  ],
+  ""last_updated"": ""2025-08-19 14:34:00"",
+  ""signal"": ""Hold""
+}"

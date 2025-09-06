@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:28:10,"{
+  ""stock_code"": ""VSTIND"",
+  ""instrument_token"": 953345,
+  ""support"": 270.85,
+  ""resistance"": 295.65,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 282.2875,
+    ""upper_band"": 291.8225,
+    ""lower_band"": 272.7525
+  },
+  ""macd"": {
+    ""signal_line"": -2.7761,
+    ""histogram"": -0.8415,
+    ""ma_fast"": 279.2778,
+    ""ma_slow"": 282.2875,
+    ""ma_signal"": -2.7761
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low Bollinger lower band 272.75 reflecting recent price bottom."",
+    ""Resistance updated to recent high 295.65 from historical HH20."",
+    ""Bollinger bands updated to latest historical values for mid, upper, and lower bands."",
+    ""MACD parameters updated to latest historical values reflecting recent bearish momentum."",
+    ""No significant volume change to adjust volume_threshold."",
+    ""Signal set to Hold due to recent sideways to slightly bearish price action and no breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

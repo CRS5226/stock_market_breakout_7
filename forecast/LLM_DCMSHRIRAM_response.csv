@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:17:47,"{
+  ""stock_code"": ""DCMSHRIRAM"",
+  ""instrument_token"": 207617,
+  ""support"": 1269.2,
+  ""resistance"": 1272.8,
+  ""volume_threshold"": 60000,
+  ""bollinger"": {
+    ""mid_price"": 1271.66,
+    ""upper_band"": 1276.25,
+    ""lower_band"": 1269.35
+  },
+  ""macd"": {
+    ""signal_line"": -0.375,
+    ""histogram"": -0.460,
+    ""ma_fast"": 1271.66,
+    ""ma_slow"": 1272.80,
+    ""ma_signal"": -0.376
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1271.66,
+    ""ma_slow"": 1272.80
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support and resistance levels with low volatility, indicating potential breakout zones."",
+    ""Volume has decreased significantly compared to previous days, suggesting a pause before a possible move."",
+    ""MACD remains near zero with slight negative bias, indicating weak momentum."",
+    ""ADX remains below 20, confirming a non-trending, sideways market.""
+  ],
+  ""last_updated"": ""2025-08-19 14:16:00"",
+  ""signal"": ""Hold""
+}"

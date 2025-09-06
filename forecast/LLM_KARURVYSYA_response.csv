@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:34:57,"{
+  ""stock_code"": ""KARURVYSYA"",
+  ""instrument_token"": 470529,
+  ""support"": 254.6,
+  ""resistance"": 276.95,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 262.79,
+    ""upper_band"": 263.30633322573703,
+    ""lower_band"": 262.273666774263
+  },
+  ""macd"": {
+    ""signal_line"": 0.051051976032138915,
+    ""histogram"": 0.003876388900809255,
+    ""ma_fast"": 262.93888888888887,
+    ""ma_slow"": 262.79,
+    ""ma_signal"": 0.05492836493294817
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 17.5
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low boundary 254.6 based on last 20 days low."",
+    ""Resistance updated to recent high boundary 276.95 based on last 20 days high."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values from latest data."",
+    ""MACD parameters updated to reflect recent values indicating weakening bearish momentum."",
+    ""ADX threshold lowered from 20 to 17.5 due to recent ADX values around 17-18 indicating moderate trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:33:00"",
+  ""signal"": ""Hold""
+}"

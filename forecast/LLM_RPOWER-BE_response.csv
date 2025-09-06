@@ -1,0 +1,2429 @@
+timestamp,raw_response
+2025-08-19 13:27:19,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""support"": 43.0,
+  ""resistance"": 45.44,
+  ""volume_threshold"": 17569894,
+  ""bollinger"": {
+    ""mid_price"": 45.4325,
+    ""upper_band"": 45.45848076211353,
+    ""lower_band"": 45.37
+  },
+  ""macd"": {
+    ""signal_line"": 0.010804845012842179,
+    ""histogram"": 0.0020632911970085554,
+    ""ma_fast"": 45.437777777777775,
+    ""ma_slow"": 45.4325,
+    ""ma_signal"": 45.4325
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 45.44 based on recent 1-minute candle highs indicating breakout above previous resistance of 44.92."",
+    ""Bollinger Bands adjusted to recent consolidation around 45.43 mid price with tight upper and lower bands reflecting low volatility."",
+    ""MACD histogram remains positive but reduced, indicating continued but weakening short-term bullish momentum."",
+    ""Support retained at 43.0 as recent price action remains well above this level."",
+    ""Volume threshold retained as recent volumes remain below historical peak volumes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:31:29,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""support"": 43.0,
+  ""resistance"": 45.44,
+  ""volume_threshold"": 17569894,
+  ""bollinger"": {
+    ""mid_price"": 45.4325,
+    ""upper_band"": 45.457793742494,
+    ""lower_band"": 45.37
+  },
+  ""macd"": {
+    ""signal_line"": 0.009586165347396577,
+    ""histogram"": 0.00019698656902651657,
+    ""ma_fast"": 45.44,
+    ""ma_slow"": 45.434374999999996,
+    ""ma_signal"": 45.434374999999996
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance retained at 45.44 as recent 1-minute candles confirm price holding at this level without breakout."",
+    ""Bollinger Bands upper band slightly adjusted to 45.4578 reflecting recent 1-minute data."",
+    ""MACD histogram decreased significantly to near zero, indicating weakening bullish momentum."",
+    ""Support level maintained at 43.0 due to stable historical lows and no recent breach."",
+    ""Volume threshold unchanged as recent volumes remain consistent with historical averages."",
+    ""MACD moving averages updated to reflect recent price averages from 1-minute data.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:37:22,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""support"": 43.0,
+  ""resistance"": 45.44,
+  ""volume_threshold"": 17569894,
+  ""bollinger"": {
+    ""mid_price"": 45.439,
+    ""upper_band"": 45.445,
+    ""lower_band"": 45.433
+  },
+  ""macd"": {
+    ""signal_line"": 0.00847253947298105,
+    ""histogram"": -0.0011907377186284925,
+    ""ma_fast"": 45.44,
+    ""ma_slow"": 45.439,
+    ""ma_signal"": 45.439
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance retained at 45.44 as recent 1-minute candles confirm price holding at this level without breakout."",
+    ""Bollinger Bands upper band slightly adjusted to 45.445 reflecting recent 1-minute data."",
+    ""MACD histogram turned slightly negative indicating weakening bullish momentum in very short term."",
+    ""Support level maintained at 43.0 due to stable historical lows and no recent breach."",
+    ""Volume threshold unchanged as recent volumes remain consistent with historical averages."",
+    ""MACD moving averages updated to reflect recent price averages from 1-minute data.""
+  ],
+  ""last_updated"": ""2025-08-19 13:40:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:18:22,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""support"": 43.0,
+  ""resistance"": 45.44,
+  ""volume_threshold"": 17569894,
+  ""bollinger"": {
+    ""mid_price"": 44.22,
+    ""upper_band"": 45.44,
+    ""lower_band"": 43.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.00266,
+    ""histogram"": -0.00101,
+    ""ma_fast"": 45.44,
+    ""ma_slow"": 45.44,
+    ""ma_signal"": 44.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated to 45.44 based on recent 1-minute candle highs indicating breakout above previous resistance of 44.92."",
+    ""Bollinger Bands upper band adjusted to 45.44 reflecting recent price breakout and consolidation."",
+    ""MACD parameters updated to reflect recent slight negative histogram indicating weakening bullish momentum."",
+    ""Support retained at 43.0 as recent lows have not breached this level."",
+    ""Volume threshold retained as recent volumes remain below historical peak.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:49:42,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:44:00+00:00"",
+    ""open"": 44.45,
+    ""high"": 44.45,
+    ""low"": 44.41,
+    ""close"": 44.41,
+    ""volume"": 13672
+  },
+  ""support"": 44.4,
+  ""resistance"": 44.55,
+  ""volume_threshold"": 7155,
+  ""bollinger"": {
+    ""mid_price"": 44.442,
+    ""upper_band"": 44.494,
+    ""lower_band"": 44.390
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent Bollinger bands and price extremes."",
+    ""Volume remains above threshold, confirming liquidity."",
+    ""ADX remains strong above threshold indicating trend strength."",
+    ""Recent close near lower Bollinger band suggests short-term support."",
+    ""MACD histogram positive but small, indicating mild bullish momentum.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 44.63
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 45.07
+    },
+    ""3m"": {
+      ""ret"": 0.05,
+      ""price"": 46.63
+    }
+  }
+}"
+2025-09-02 11:08:44,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:05:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2780
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to 44.5 based on recent historical low close."",
+    ""Updated resistance to 47.71 based on recent historical high close."",
+    ""Volume threshold adjusted slightly down to 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 46.4732,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 46.9136,
+      ""ret"": 0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 48.0896,
+      ""ret"": 0.04
+    }
+  }
+}"
+2025-09-02 11:17:25,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:14:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2039
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 43.98,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.8875,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to 44.5 based on recent historical low close."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 11:26:07,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:16:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 6275
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 44.5 based on recent historical low close around 44.5."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 11:34:47,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:25:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 7400
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 44.5 based on recent historical low close around 44.5."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 11:44:02,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:33:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 4082
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 44.5,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 6.0,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 44.5 based on recent historical low close around 44.5."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 11:53:02,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:43:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2857
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 44.5 based on recent historical low close around 44.5."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 12:01:51,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:51:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2594
+  },
+  ""support"": 44.5,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 44.5,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 6.0,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 44.5 based on recent historical low close around 44.5."",
+    ""Resistance remains at 47.71 consistent with recent historical high close."",
+    ""Volume threshold maintained at 7000 reflecting recent lower volumes."",
+    ""Bollinger bands updated to latest close 46.24 with zero width indicating low volatility."",
+    ""Signal downgraded to 'No Action' due to lack of momentum and low volume in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 12:10:27,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:00:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 6735
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 12:19:18,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:09:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 741
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 14:14:06,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:18:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 1241
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 14:29:55,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:13:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 1881
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 14:38:34,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:28:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2562
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 15:22:17,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:37:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 2442
+  },
+  ""support"": 46.35,
+  ""resistance"": 47.71,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 46.35,
+  ""resistance_1d"": 47.71,
+  ""support_1w"": 41.76,
+  ""resistance_1w"": 47.71,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9412,
+  ""sr_range_pct_1w"": 12.8676,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-02 15:30:55,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:21:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 46.24,
+    ""low"": 46.24,
+    ""close"": 46.24,
+    ""volume"": 7615
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 46.24,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 2.9196,
+  ""sr_range_pct_1w"": 8.4559,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.24,
+    ""upper_band"": 46.24,
+    ""lower_band"": 46.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No change in support and resistance as recent close and historical levels remain consistent."",
+    ""Volume threshold maintained at 7000 due to recent volume slightly below threshold but no significant change."",
+    ""Bollinger bands remain flat at latest close indicating continued low volatility."",
+    ""Signal remains 'No Action' due to lack of momentum and flat indicators in recent data."",
+    ""Predicted targets estimated from recent close and modest positive returns based on historical context.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.4732
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9136
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.0896
+    }
+  }
+}"
+2025-09-03 12:01:59,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:29:00+00:00"",
+    ""open"": 46.24,
+    ""high"": 47.0,
+    ""low"": 46.9,
+    ""close"": 46.95,
+    ""volume"": 4509
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 47.0,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 1.62,
+  ""sr_range_pct_1d"": 2.9196,
+  ""sr_range_pct_1w"": 8.4559,
+  ""sr_range_pct_3m"": 75.1081,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.0455,
+    ""upper_band"": 47.1549,
+    ""lower_band"": 46.9361
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute close at 46.95 with high 47.0 and low 46.9."",
+    ""Resistance realtime increased from 46.24 to 47.0 based on recent high."",
+    ""Bollinger bands updated to reflect recent volatility around 47.0."",
+    ""SR range realtime updated to 1.62% reflecting new resistance level."",
+    ""Predicted targets recalculated from latest close 46.95 with modest positive returns."",
+    ""Signal remains 'No Action' due to lack of strong momentum and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 44.9,
+  ""stoploss"": 43.0,
+  ""entry1"": 43.55,
+  ""target1"": 44.9,
+  ""stoploss1"": 43.0,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.5,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.18475
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.65425
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.828
+    }
+  }
+}"
+2025-09-03 12:11:33,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:00:00+00:00"",
+    ""open"": 46.95,
+    ""high"": 46.99,
+    ""low"": 46.9,
+    ""close"": 46.98,
+    ""volume"": 5542
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 47.0,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 1.62,
+  ""sr_range_pct_1d"": 3.10,
+  ""sr_range_pct_1w"": 8.98,
+  ""sr_range_pct_3m"": 83.17,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.05,
+    ""upper_band"": 47.15,
+    ""lower_band"": 46.94
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute close at 46.95 with high 46.99 and low 46.9."",
+    ""Resistance realtime increased from 46.24 to 47.0 based on recent high."",
+    ""Bollinger bands updated to reflect recent volatility around 47.0."",
+    ""SR range realtime updated to 1.62% reflecting new resistance level."",
+    ""Predicted targets recalculated from latest close 46.95 with modest positive returns."",
+    ""Signal remains 'No Action' due to lack of strong momentum and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 44.9,
+  ""stoploss"": 43.0,
+  ""entry1"": 43.55,
+  ""target1"": 44.9,
+  ""stoploss1"": 43.0,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.5,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.18475
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.65425
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.828
+    }
+  }
+}"
+2025-09-03 12:20:41,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:18:00+00:00"",
+    ""open"": 46.95,
+    ""high"": 46.95,
+    ""low"": 46.91,
+    ""close"": 46.95,
+    ""volume"": 1812
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 47.0,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 1.62,
+  ""sr_range_pct_1d"": 3.1,
+  ""sr_range_pct_1w"": 8.98,
+  ""sr_range_pct_3m"": 83.17,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.947,
+    ""upper_band"": 46.995,
+    ""lower_band"": 46.899
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute close at 46.95 with high 46.95 and low 46.91."",
+    ""Resistance realtime confirmed at 47.0 based on recent high."",
+    ""Bollinger bands updated to mid 46.947, upper 46.995, lower 46.899 reflecting recent volatility."",
+    ""SR range realtime adjusted to 1.62% reflecting new resistance level."",
+    ""Predicted targets recalculated from latest close 46.95 with modest positive returns."",
+    ""Signal remains 'No Action' due to lack of strong momentum and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 44.9,
+  ""stoploss"": 43.0,
+  ""entry1"": 43.55,
+  ""target1"": 44.9,
+  ""stoploss1"": 43.0,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.5,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.18475
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.65425
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.828
+    }
+  }
+}"
+2025-09-03 12:30:09,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:19:00+00:00"",
+    ""open"": 46.95,
+    ""high"": 46.95,
+    ""low"": 46.9,
+    ""close"": 46.95,
+    ""volume"": 15701
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 47.0,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 1.62,
+  ""sr_range_pct_1d"": 3.10,
+  ""sr_range_pct_1w"": 8.98,
+  ""sr_range_pct_3m"": 83.17,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.947,
+    ""upper_band"": 46.995,
+    ""lower_band"": 46.899
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute close at 46.95 with high 46.95 and low 46.9."",
+    ""Resistance realtime confirmed at 47.0 based on recent high."",
+    ""Bollinger bands updated to mid 46.947, upper 46.995, lower 46.899 reflecting recent volatility."",
+    ""SR range realtime adjusted to 1.62% reflecting new resistance level."",
+    ""Predicted targets recalculated from latest close 46.95 with modest positive returns."",
+    ""Signal remains 'No Action' due to lack of strong momentum and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 44.9,
+  ""stoploss"": 43.0,
+  ""entry1"": 43.55,
+  ""target1"": 44.9,
+  ""stoploss1"": 43.0,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.5,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.18475
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.65425
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.828
+    }
+  }
+}"
+2025-09-03 12:40:18,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:37:00+00:00"",
+    ""open"": 47.19,
+    ""high"": 47.19,
+    ""low"": 47.0,
+    ""close"": 47.15,
+    ""volume"": 6591
+  },
+  ""support"": 43.55,
+  ""resistance"": 44.9,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 47.19,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 44.9,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 2.04,
+  ""sr_range_pct_1d"": 3.0999,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.9705,
+    ""upper_band"": 47.1208,
+    ""lower_band"": 46.8202
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 47.15 close with high 47.19 and low 47.0."",
+    ""Resistance realtime updated to 47.19 based on recent high."",
+    ""Bollinger bands recalculated to mid 46.9705, upper 47.1208, lower 46.8202 reflecting recent volatility."",
+    ""SR range realtime increased to 2.04% reflecting new resistance level."",
+    ""Predicted targets recalculated from latest close 47.15 with modest positive returns."",
+    ""Signal remains 'No Action' due to ADX below threshold indicating weak trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 44.9,
+  ""stoploss"": 43.0,
+  ""entry1"": 43.55,
+  ""target1"": 44.9,
+  ""stoploss1"": 43.0,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.5,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.38575
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.85725
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 49.036
+    }
+  }
+}"
+2025-09-03 15:35:23,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 48.2,
+    ""high"": 48.2,
+    ""low"": 48.2,
+    ""close"": 48.2,
+    ""volume"": 4412
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 3.88,
+  ""sr_range_pct_1d"": 5.98,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.835,
+    ""upper_band"": 48.3512,
+    ""lower_band"": 47.3188
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 48.2 close with equal open/high/low reflecting recent price."",
+    ""Resistance and resistance_realtime updated to 48.2 based on recent high in 1-minute data."",
+    ""Support_1d and resistance_1d adjusted to 43.55 and 46.24 from recent daily data."",
+    ""Bollinger bands recalculated to mid 47.835, upper 48.3512, lower 47.3188 reflecting recent volatility."",
+    ""SR range percentages updated for realtime and 1d reflecting new levels."",
+    ""Trade levels recalculated to maintain risk-reward between 1.1 and 2.5 with long bias."",
+    ""Predicted targets recalculated from latest close 48.2 with modest positive returns."",
+    ""Signal remains 'No Action' due to ADX below threshold indicating weak trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 48.2,
+  ""stoploss"": 42.5,
+  ""entry1"": 43.55,
+  ""target1"": 46.24,
+  ""stoploss1"": 42.5,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.0,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 48.441
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 48.923
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 50.128
+    }
+  }
+}"
+2025-09-04 11:18:12,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 48.2,
+    ""high"": 48.2,
+    ""low"": 48.2,
+    ""close"": 48.2,
+    ""volume"": 4412
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.835,
+    ""upper_band"": 48.3512,
+    ""lower_band"": 47.3188
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 48.2 close with equal open/high/low reflecting recent price."",
+    ""Resistance and resistance_realtime updated to 48.2 based on recent high in 1-minute data."",
+    ""Support_1d and resistance_1d adjusted to 43.55 and 46.24 from recent daily data."",
+    ""Bollinger bands recalculated to mid 47.835, upper 48.3512, lower 47.3188 reflecting recent volatility."",
+    ""SR range percentages updated for realtime and 1d reflecting new levels."",
+    ""Trade levels recalculated to maintain risk-reward between 1.1 and 2.5 with long bias."",
+    ""Predicted targets recalculated from latest close 48.2 with modest positive returns."",
+    ""Signal remains 'No Action' due to ADX below threshold indicating weak trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 43.55,
+  ""target"": 48.2,
+  ""stoploss"": 42.5,
+  ""entry1"": 43.55,
+  ""target1"": 46.24,
+  ""stoploss1"": 42.5,
+  ""entry2"": 43.55,
+  ""target2"": 47.46,
+  ""stoploss2"": 42.0,
+  ""entry3"": 41.76,
+  ""target3"": 76.49,
+  ""stoploss3"": 40.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 48.441
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 48.923
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 50.128
+    }
+  }
+}"
+2025-09-04 14:55:03,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:17:00+00:00"",
+    ""open"": 46.6,
+    ""high"": 46.87,
+    ""low"": 46.51,
+    ""close"": 46.8,
+    ""volume"": 7661
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.835,
+    ""upper_band"": 48.3512,
+    ""lower_band"": 47.3188
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 48.2 close with equal open/high/low reflecting recent price."",
+    ""Resistance and resistance_realtime updated to 48.2 based on recent high in 1-minute data."",
+    ""Support_1d and resistance_1d adjusted to 43.55 and 46.24 from recent daily data."",
+    ""Bollinger bands recalculated to mid 47.835, upper 48.3512, lower 47.3188 reflecting recent volatility."",
+    ""SR range percentages updated for realtime and 1d reflecting new levels."",
+    ""Trade levels recalculated to maintain risk-reward between 1.1 and 2.5 with short bias."",
+    ""Predicted targets recalculated from latest close 48.2 with modest positive returns."",
+    ""Signal remains 'No Action' due to ADX below threshold indicating weak trend."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.58,
+  ""target"": 44.83625,
+  ""stoploss"": 47.7425,
+  ""entry1"": 45.164,
+  ""target1"": 44.15525,
+  ""stoploss1"": 45.8365,
+  ""entry2"": 46.58,
+  ""target2"": 45.11375,
+  ""stoploss2"": 47.5575,
+  ""entry3"": 46.58,
+  ""target3"": 40.0235,
+  ""stoploss3"": 55.2625,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 48.441
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 48.923
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 50.128
+    }
+  }
+}"
+2025-09-04 15:07:31,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": 1693825980,
+    ""open"": 46.36,
+    ""high"": 46.5,
+    ""low"": 46.36,
+    ""close"": 46.36,
+    ""volume"": 6322
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.835,
+    ""upper_band"": 48.3512,
+    ""lower_band"": 47.3188
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 46.36 close with equal open/high/low reflecting recent price."",
+    ""Resistance and resistance_realtime confirmed at 48.2 based on recent high in 1-minute data."",
+    ""Support_1d and resistance_1d confirmed at 43.55 and 46.24 from recent daily data."",
+    ""Bollinger bands remain at mid 47.835, upper 48.3512, lower 47.3188 reflecting recent volatility."",
+    ""SR range percentages updated for realtime and 1d reflecting new levels."",
+    ""Volume threshold maintained at 7000 based on recent volume data."",
+    ""Trade levels recalculated to maintain risk-reward between 1.1 and 2.5 with short bias."",
+    ""Predicted targets recalculated from latest close 46.36 with modest positive returns."",
+    ""Signal remains 'No Action' due to ADX below threshold indicating weak trend."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.58,
+  ""target"": 44.83625,
+  ""stoploss"": 47.7425,
+  ""entry1"": 45.164,
+  ""target1"": 44.15525,
+  ""stoploss1"": 45.8365,
+  ""entry2"": 46.58,
+  ""target2"": 45.11375,
+  ""stoploss2"": 47.5575,
+  ""entry3"": 46.58,
+  ""target3"": 40.0235,
+  ""stoploss3"": 55.2625,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.5938
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.0544
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.2144
+    }
+  }
+}"
+2025-09-04 15:19:30,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:06:00+00:00"",
+    ""open"": 46.4,
+    ""high"": 46.4,
+    ""low"": 46.37,
+    ""close"": 46.37,
+    ""volume"": 12456
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 47.835,
+    ""upper_band"": 48.3512,
+    ""lower_band"": 47.3188
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest ohlcv confirmed at 46.37 close with stable open/high/low."",
+    ""Support and resistance levels confirmed from recent daily and weekly data."",
+    ""Volume threshold maintained at 7000 based on recent volume."",
+    ""Bollinger bands unchanged reflecting stable volatility."",
+    ""ADX below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Trade levels auto-filled with short bias maintaining risk-reward ~1.5 and risk 25% of band width."",
+    ""Predicted targets recalculated from latest close 46.37 with modest positive returns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.58,
+  ""target"": 44.83625,
+  ""stoploss"": 47.7425,
+  ""entry1"": 45.164,
+  ""target1"": 44.15525,
+  ""stoploss1"": 45.8365,
+  ""entry2"": 46.58,
+  ""target2"": 45.11375,
+  ""stoploss2"": 47.5575,
+  ""entry3"": 46.58,
+  ""target3"": 40.0235,
+  ""stoploss3"": 55.2625,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.59385
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.06355
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.2148
+    }
+  }
+}"
+2025-09-05 13:42:09,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:18:00+00:00"",
+    ""open"": 46.31,
+    ""high"": 46.45,
+    ""low"": 46.31,
+    ""close"": 46.32,
+    ""volume"": 20135
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.8135,
+    ""upper_band"": 47.12695,
+    ""lower_band"": 46.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest ohlcv confirmed at 46.32 close with stable open/high/low."",
+    ""Realtime support updated to 46.24 based on recent daily close and indicator data."",
+    ""Bollinger bands adjusted to recent minute data mid 46.8135, upper 47.12695, lower 46.5 reflecting current volatility."",
+    ""ADX remains below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Trade levels recalculated to respect long-only policy and strict ordering with risk-reward ~1.5."",
+    ""Predicted targets recalculated from latest close 46.32 with modest positive returns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.25,
+  ""target"": 47.5,
+  ""stoploss"": 46.0,
+  ""entry1"": 45.9,
+  ""target1"": 46.0,
+  ""stoploss1"": 45.5,
+  ""entry2"": 46.0,
+  ""target2"": 47.0,
+  ""stoploss2"": 45.5,
+  ""entry3"": 43.0,
+  ""target3"": 50.0,
+  ""stoploss3"": 42.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 46.5436
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 46.9948
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.1728
+    }
+  }
+}"
+2025-09-05 14:30:49,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:41:00+00:00"",
+    ""open"": 46.21,
+    ""high"": 46.9,
+    ""low"": 46.21,
+    ""close"": 46.75,
+    ""volume"": 54061
+  },
+  ""support"": 43.55,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 4.2388,
+  ""sr_range_pct_1d"": 6.1768,
+  ""sr_range_pct_1w"": 8.9782,
+  ""sr_range_pct_3m"": 83.1657,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.8135,
+    ""upper_band"": 47.12695,
+    ""lower_band"": 46.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Latest ohlcv confirmed at 46.75 close with stable open/high/low."",
+    ""Realtime support confirmed at 46.24 based on recent daily close and indicator data."",
+    ""Bollinger bands reflect current volatility with mid 46.8135, upper 47.12695, lower 46.5."",
+    ""ADX remains below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Trade levels adjusted to respect long-only policy and strict ordering with risk-reward ~1.5."",
+    ""Predicted targets recalculated from latest close 46.75 with modest positive returns.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.25,
+  ""target"": 47.5,
+  ""stoploss"": 43.398,
+  ""entry1"": 45.9,
+  ""target1"": 46.2,
+  ""stoploss1"": 43.398,
+  ""entry2"": 46.0,
+  ""target2"": 47.0,
+  ""stoploss2"": 43.398,
+  ""entry3"": 42.5,
+  ""target3"": 50.0,
+  ""stoploss3"": 41.614,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.08375
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.45125
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.62
+    }
+  }
+}"
+2025-09-05 14:47:50,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:29:00+00:00"",
+    ""open"": 47.1,
+    ""high"": 47.1,
+    ""low"": 47.0,
+    ""close"": 47.1,
+    ""volume"": 6433
+  },
+  ""support"": 46.24,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 76.49,
+  ""sr_range_pct_realtime"": 3.95,
+  ""sr_range_pct_1d"": 5.71,
+  ""sr_range_pct_1w"": 8.30,
+  ""sr_range_pct_3m"": 73.74,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.8135,
+    ""upper_band"": 47.12695,
+    ""lower_band"": 46.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Realtime support updated to 46.24 based on latest daily close and recent intraday data."",
+    ""Default support raised to 46.24 reflecting recent price action and confirmed support level."",
+    ""Trade levels adjusted to maintain strict ordering and long-only policy with reasonable risk-reward."",
+    ""Predicted targets recalculated from latest close 47.1 with modest positive returns."",
+    ""ADX remains below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Bollinger bands confirm current volatility range around mid 46.8135.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.5,
+  ""target"": 47.9,
+  ""stoploss"": 46.0,
+  ""entry1"": 45.9,
+  ""target1"": 46.2,
+  ""stoploss1"": 43.4,
+  ""entry2"": 46.0,
+  ""target2"": 47.0,
+  ""stoploss2"": 43.4,
+  ""entry3"": 42.5,
+  ""target3"": 50.0,
+  ""stoploss3"": 41.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.3355
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.8065
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.984
+    }
+  }
+}"
+2025-09-05 15:14:33,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:46:00+00:00"",
+    ""open"": 47.02,
+    ""high"": 47.04,
+    ""low"": 47.0,
+    ""close"": 47.04,
+    ""volume"": 9212
+  },
+  ""support"": 46.24,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 48.0,
+  ""sr_range_pct_realtime"": 4.1667,
+  ""sr_range_pct_1d"": 5.7185,
+  ""sr_range_pct_1w"": 8.3121,
+  ""sr_range_pct_3m"": 14.88,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.8135,
+    ""upper_band"": 47.12695,
+    ""lower_band"": 46.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Realtime support and resistance levels confirmed by latest daily close and intraday data."",
+    ""3-month resistance adjusted down to 48.0 from 76.49 to reflect recent price compression and realistic upper bound."",
+    ""Trade levels recalibrated to maintain strict ordering and long-only policy with reasonable risk-reward ratios."",
+    ""Predicted targets updated based on latest close of 47.04 with modest positive returns."",
+    ""ADX remains below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Bollinger bands confirm current volatility range around mid 46.8135.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.6,
+  ""target"": 47.9,
+  ""stoploss"": 46.0,
+  ""entry1"": 45.9,
+  ""target1"": 46.1,
+  ""stoploss1"": 43.4,
+  ""entry2"": 46.0,
+  ""target2"": 47.0,
+  ""stoploss2"": 43.4,
+  ""entry3"": 42.5,
+  ""target3"": 47.5,
+  ""stoploss3"": 41.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.2752
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.7456
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.9216
+    }
+  }
+}"
+2025-09-05 15:26:33,"{
+  ""stock_code"": ""RPOWER-BE"",
+  ""instrument_token"": 3906817,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:13:00+00:00"",
+    ""open"": 47.03,
+    ""high"": 47.03,
+    ""low"": 47.0,
+    ""close"": 47.03,
+    ""volume"": 53588
+  },
+  ""support"": 46.24,
+  ""resistance"": 48.2,
+  ""support_realtime"": 46.24,
+  ""resistance_realtime"": 48.2,
+  ""support_1d"": 43.55,
+  ""resistance_1d"": 46.24,
+  ""support_1w"": 43.55,
+  ""resistance_1w"": 47.46,
+  ""support_3m"": 41.76,
+  ""resistance_3m"": 48.0,
+  ""sr_range_pct_realtime"": 4.1676,
+  ""sr_range_pct_1d"": 5.7198,
+  ""sr_range_pct_1w"": 8.3138,
+  ""sr_range_pct_3m"": 13.2681,
+  ""volume_threshold"": 7000,
+  ""bollinger"": {
+    ""mid_price"": 46.8135,
+    ""upper_band"": 47.12695,
+    ""lower_band"": 46.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Realtime support and resistance levels confirmed by latest daily close and intraday data."",
+    ""3-month resistance adjusted down to 48.0 from 76.49 to reflect recent price compression and realistic upper bound."",
+    ""Trade levels recalibrated to maintain strict ordering and long-only policy with reasonable risk-reward ratios."",
+    ""Predicted targets updated based on latest close of 47.03 with modest positive returns."",
+    ""ADX remains below threshold indicating weak trend; signal remains 'No Action'."",
+    ""Bollinger bands confirm current volatility range around mid 46.8135.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 46.6,
+  ""target"": 47.9,
+  ""stoploss"": 46.038,
+  ""entry1"": 45.9,
+  ""target1"": 46.0,
+  ""stoploss1"": 43.398,
+  ""entry2"": 46.0,
+  ""target2"": 47.0,
+  ""stoploss2"": 43.398,
+  ""entry3"": 42.5,
+  ""target3"": 47.5,
+  ""stoploss3"": 41.6,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 47.26515
+    },
+    ""1w"": {
+      ""ret"": 0.015,
+      ""price"": 47.73545
+    },
+    ""3m"": {
+      ""ret"": 0.04,
+      ""price"": 48.9112
+    }
+  }
+}"

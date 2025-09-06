@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:26:37,"{
+  ""stock_code"": ""SOBHA"",
+  ""instrument_token"": 3539457,
+  ""support"": 1498.3,
+  ""resistance"": 1499.9,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 1498.4,
+    ""upper_band"": 1499.9,
+    ""lower_band"": 1496.9
+  },
+  ""macd"": {
+    ""signal_line"": 0.0097,
+    ""histogram"": 0.0097,
+    ""ma_fast"": 1498.4222,
+    ""ma_slow"": 1498.36,
+    ""ma_signal"": 1498.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1498.4222,
+    ""ma_slow"": 1498.36
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with no clear breakout, maintaining support at 1498.3."",
+    ""No significant trend change observed; resistance adjusted slightly to 1499.9 based on recent upper bounds."",
+    ""Volume remains high, but no breakout signals; support and resistance levels refined for current range.""
+  ],
+  ""last_updated"": ""2025-08-19 14:25:00"",
+  ""signal"": ""Hold""
+}"

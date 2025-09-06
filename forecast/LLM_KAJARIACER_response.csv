@@ -1,0 +1,2911 @@
+timestamp,raw_response
+2025-08-19 13:25:54,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1250.0,
+  ""resistance"": 1315.0,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1288.01,
+    ""upper_band"": 1289.20816526406,
+    ""lower_band"": 1286.81183473594
+  },
+  ""macd"": {
+    ""signal_line"": 0.009238895261759333,
+    ""histogram"": 0.08459670913511311,
+    ""ma_fast"": 1288.0111111111112,
+    ""ma_slow"": 1288.01,
+    ""ma_signal"": 0.09383560439687244
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.44
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute candle values indicating tighter range near 1288."",
+    ""MACD parameters updated to positive histogram and signal line values showing improving momentum."",
+    ""ADX threshold increased slightly to 21.44 based on recent ADX value indicating strengthening trend."",
+    ""Support and resistance levels retained as recent price action remains within previous range."",
+    ""Volume threshold unchanged due to low recent volume in 1-minute candles and no significant volume spikes."",
+    ""Signal changed to Buy due to improving momentum and ADX above threshold indicating potential upward breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:30:04,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1250.0,
+  ""resistance"": 1315.0,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1288.01,
+    ""upper_band"": 1289.20816526406,
+    ""lower_band"": 1286.81183473594
+  },
+  ""macd"": {
+    ""signal_line"": 0.009238895261759333,
+    ""histogram"": 0.08459670913511311,
+    ""ma_fast"": 1288.0111111111112,
+    ""ma_slow"": 1288.01,
+    ""ma_signal"": 0.09383560439687244
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.44
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No significant breakout or breakdown in recent 1-minute candles; price remains within historical support and resistance."",
+    ""Volume remains low in recent data; no adjustment to volume threshold justified."",
+    ""Bollinger Bands, MACD, and ADX parameters remain consistent with recent momentum and trend strength."",
+    ""Support and resistance levels retained as recent price action remains within previous range."",
+    ""Signal maintained as Buy due to improving momentum and ADX above threshold indicating potential upward breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:35:56,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1250.0,
+  ""resistance"": 1315.0,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1288.01,
+    ""upper_band"": 1289.20816526406,
+    ""lower_band"": 1286.81183473594
+  },
+  ""macd"": {
+    ""signal_line"": 0.009238895261759333,
+    ""histogram"": 0.08459670913511311,
+    ""ma_fast"": 1288.0111111111112,
+    ""ma_slow"": 1288.01,
+    ""ma_signal"": 0.09383560439687244
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.44
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No significant breakout or breakdown in recent 1-minute candles; price remains within historical support and resistance."",
+    ""Volume remains low in recent data; no adjustment to volume threshold justified."",
+    ""Bollinger Bands, MACD, and ADX parameters remain consistent with recent momentum and trend strength."",
+    ""Support and resistance levels retained as recent price action remains within previous range."",
+    ""Signal maintained as Buy due to improving momentum and ADX above threshold indicating potential upward breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:55:11,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1286.4,
+  ""resistance"": 1292.1,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1289.26,
+    ""upper_band"": 1292.13,
+    ""lower_band"": 1286.40
+  },
+  ""macd"": {
+    ""signal_line"": 0.54399,
+    ""histogram"": 0.3905,
+    ""ma_fast"": 1290.43,
+    ""ma_slow"": 1289.26,
+    ""ma_signal"": 0.93449
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 14.04
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-minute candles show price breaking above previous resistance near 1292, justifying resistance update."",
+    ""Support updated to recent lower Bollinger Band level reflecting short-term price floor."",
+    ""ADX threshold lowered from 21.44 to 14.04 due to recent ADX decline indicating weaker trend strength."",
+    ""MACD histogram and signal line values updated to reflect recent momentum changes."",
+    ""Volume remains below threshold; no change to volume threshold."",
+    ""Signal changed to Hold as breakout is marginal and ADX indicates weakening trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:00:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:55,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1250.0,
+  ""resistance"": 1315.0,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1290.7050000000002,
+    ""upper_band"": 1293.9190161791746,
+    ""lower_band"": 1287.4909838208257
+  },
+  ""macd"": {
+    ""signal_line"": 0.9747802938382268,
+    ""histogram"": 0.05082142997431549,
+    ""ma_fast"": 1292.1888888888889,
+    ""ma_slow"": 1290.7050000000002,
+    ""ma_signal"": 0.9747802938382268
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute candle values showing tighter range near 1290.7 mid price."",
+    ""MACD parameters updated to positive histogram and signal line indicating slight bullish momentum in recent minutes."",
+    ""Support and resistance levels unchanged as recent price action remains within historical range without breakout."",
+    ""Volume threshold unchanged due to low volume in recent 1-minute candles not justifying adjustment."",
+    ""Signal updated to Hold due to consolidation near mid Bollinger Band with mild positive MACD momentum but no breakout.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:21:26,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1250.0,
+  ""resistance"": 1315.0,
+  ""volume_threshold"": 1100000,
+  ""bollinger"": {
+    ""mid_price"": 1290.7050000000002,
+    ""upper_band"": 1293.9190161791746,
+    ""lower_band"": 1287.4909838208257
+  },
+  ""macd"": {
+    ""signal_line"": 0.9747802938382268,
+    ""histogram"": 0.05082142997431549,
+    ""ma_fast"": 1292.1888888888889,
+    ""ma_slow"": 1290.7050000000002,
+    ""ma_signal"": 0.9747802938382268
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No significant breakout or breakdown in recent 1-minute candles; price remains within historical support and resistance."",
+    ""Volume in recent candles remains below threshold; no adjustment to volume threshold justified."",
+    ""MACD histogram remains slightly positive, indicating mild bullish momentum but no strong signal for change."",
+    ""ADX remains above threshold indicating trend presence but no directional change to adjust parameters."",
+    ""Bollinger Bands remain consistent with recent price action; no update needed."",
+    ""Signal remains Hold due to consolidation and absence of strong directional cues.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:12:25,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""support"": 1274.11,
+  ""resistance"": 1297.93,
+  ""volume_threshold"": 1525,
+  ""bollinger"": {
+    ""mid_price"": 1286.02,
+    ""upper_band"": 1297.93,
+    ""lower_band"": 1274.11
+  },
+  ""macd"": {
+    ""signal_line"": 0.9747802938382268,
+    ""histogram"": 0.05082142997431549,
+    ""ma_fast"": 1292.1888888888889,
+    ""ma_slow"": 1290.7050000000002,
+    ""ma_signal"": 0.9747802938382268
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent 1-minute candles show price consolidating near support without breakout above resistance"",
+    ""ADX remains stable around 28 indicating no strong trend change"",
+    ""MACD histogram slightly negative recently indicating weakening momentum"",
+    ""No significant volume increase to justify changing volume threshold"",
+    ""No breakout or breakdown in recent data to justify updating support or resistance""
+  ],
+  ""last_updated"": ""2025-08-22 12:15:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""basic_algo""
+}"
+2025-09-01 14:46:59,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:43:00+00:00"",
+    ""open"": 1222.3,
+    ""high"": 1224.3,
+    ""low"": 1222.3,
+    ""close"": 1224.3,
+    ""volume"": 668
+  },
+  ""support"": 1212.37,
+  ""resistance"": 1283.5,
+  ""volume_threshold"": 668,
+  ""bollinger"": {
+    ""mid_price"": 1218.66,
+    ""upper_band"": 1224.94,
+    ""lower_band"": 1212.37
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price dropped below previous support 1275.34, new support adjusted to Bollinger lower band 1212.37."",
+    ""Volume threshold updated to recent minute volume 668 due to increased activity."",
+    ""Bollinger bands narrowed, mid price and bands updated to recent values indicating lower volatility."",
+    ""ADX remains above threshold indicating trend strength, no change."",
+    ""Signal changed from 'Potential Breakdown' to 'No Action' due to price stabilizing near new support and low momentum in recent MACD histogram.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1226.75
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1236.54
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 1267.15
+    }
+  }
+}"
+2025-09-01 14:55:02,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:51:00+00:00"",
+    ""open"": 1229.1,
+    ""high"": 1229.7,
+    ""low"": 1227.7,
+    ""close"": 1227.8,
+    ""volume"": 310
+  },
+  ""support"": 1209.55,
+  ""resistance"": 1235.0,
+  ""volume_threshold"": 668,
+  ""bollinger"": {
+    ""mid_price"": 1222.21,
+    ""upper_band"": 1234.87,
+    ""lower_band"": 1209.55
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-minute data for accuracy."",
+    ""Support adjusted slightly lower to recent Bollinger lower band 1209.55 reflecting current volatility."",
+    ""Resistance set near recent upper Bollinger band 1234.87 indicating potential upside cap."",
+    ""Volume threshold retained at 668 due to stable recent volume levels."",
+    ""Signal remains 'No Action' as price stabilizes near support with low momentum and ADX below threshold.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1230.25
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1240.08
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 1272.77
+    }
+  }
+}"
+2025-09-01 15:01:36,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:53:00+00:00"",
+    ""open"": 1228.9,
+    ""high"": 1229.0,
+    ""low"": 1228.0,
+    ""close"": 1229.0,
+    ""volume"": 398
+  },
+  ""support"": 1209.55,
+  ""resistance"": 1235.62,
+  ""volume_threshold"": 668,
+  ""bollinger"": {
+    ""mid_price"": 1223.68,
+    ""upper_band"": 1235.62,
+    ""lower_band"": 1211.74
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest OHLCV from recent 1-minute data for accuracy."",
+    ""Resistance adjusted slightly higher to 1235.62 based on recent Bollinger upper band from 1-minute data."",
+    ""Bollinger bands updated to reflect recent volatility and price levels."",
+    ""Support and volume threshold retained as recent data confirms stability near these levels."",
+    ""Signal remains 'No Action' due to ADX below threshold and stable price near support.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1231.46
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1241.29
+    },
+    ""3m"": {
+      ""ret"": 0.035,
+      ""price"": 1273.02
+    }
+  }
+}"
+2025-09-02 11:05:37,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:02:00+00:00"",
+    ""open"": 1230.0,
+    ""high"": 1232.0,
+    ""low"": 1230.0,
+    ""close"": 1231.8,
+    ""volume"": 5477
+  },
+  ""support"": 1230.0,
+  ""resistance"": 1232.0,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1230.185,
+    ""upper_band"": 1231.5180791424189,
+    ""lower_band"": 1228.851920857581
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent intraday BB bands (1230.0 support, 1232.0 resistance)."",
+    ""Volume threshold increased to 5000 due to recent volume spike from ~499 to 5477."",
+    ""Bollinger bands updated to recent minute data mid 1230.185, upper 1231.52, lower 1228.85."",
+    ""Price near lower BB and support, ADX steady near threshold indicating potential consolidation."",
+    ""Signal downgraded to 'No Action' due to lack of strong directional momentum in recent data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1234.2636
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1241.8544
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1262.595
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1234.2636,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1241.8544,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1262.595,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-02 11:14:31,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:04:00+00:00"",
+    ""open"": 1232.9,
+    ""high"": 1233.0,
+    ""low"": 1231.8,
+    ""close"": 1233.0,
+    ""volume"": 314
+  },
+  ""support"": 1227.0,
+  ""resistance"": 1238.37,
+  ""support_realtime"": 1227.0,
+  ""resistance_realtime"": 1238.37,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.91,
+  ""sr_range_pct_1d"": 2.0945,
+  ""sr_range_pct_1w"": 4.9115,
+  ""sr_range_pct_3m"": 25.7103,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.685,
+    ""upper_band"": 1238.3715719022925,
+    ""lower_band"": 1226.9984280977073
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent minute Bollinger Bands lower and upper values (1227.0 support, 1238.37 resistance)."",
+    ""Volume threshold maintained at 5000 due to recent volume spike and sustained activity."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.685, upper 1238.37, lower 1227.0 indicating current price near mid-band."",
+    ""ADX steady near threshold with no strong directional momentum, suggesting consolidation."",
+    ""Signal remains 'No Action' due to lack of clear momentum or breakout indications.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1235.466,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1242.896,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1263.825,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 11:23:04,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:13:00+00:00"",
+    ""open"": 1237.1,
+    ""high"": 1240.0,
+    ""low"": 1236.7,
+    ""close"": 1239.9,
+    ""volume"": 2776
+  },
+  ""support"": 1229.68,
+  ""resistance"": 1241.24,
+  ""support_realtime"": 1228.0,
+  ""resistance_realtime"": 1240.0,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.9701,
+  ""sr_range_pct_1d"": 2.0857,
+  ""sr_range_pct_1w"": 4.8909,
+  ""sr_range_pct_3m"": 25.6023,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1235.4599999999998,
+    ""upper_band"": 1241.2404498094809,
+    ""lower_band"": 1229.6795501905187
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent minute Bollinger Bands lower (1229.68) and upper (1241.24) values reflecting latest volatility."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1235.46, upper 1241.24, lower 1229.68 indicating price near mid-band."",
+    ""ADX steady above threshold at ~22 indicating mild trend presence but no strong breakout."",
+    ""Signal remains 'No Action' due to lack of clear momentum or breakout indications.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1242.08
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1249.92
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1269.90
+    }
+  }
+}"
+2025-09-02 11:31:39,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:22:00+00:00"",
+    ""open"": 1233.0,
+    ""high"": 1233.0,
+    ""low"": 1232.9,
+    ""close"": 1233.0,
+    ""volume"": 344
+  },
+  ""support"": 1229.5862073385276,
+  ""resistance"": 1240.683792661472,
+  ""support_realtime"": 1228.0,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.014,
+  ""sr_range_pct_1d"": 2.0928,
+  ""sr_range_pct_1w"": 4.9075,
+  ""sr_range_pct_3m"": 25.6895,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1235.1349999999998,
+    ""upper_band"": 1240.683792661472,
+    ""lower_band"": 1229.5862073385276
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent minute Bollinger Bands lower (1229.59) and upper (1240.68) values reflecting latest volatility."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1235.13, upper 1240.68, lower 1229.59 indicating price near mid-band."",
+    ""ADX steady around 19.3, slightly below threshold 20, indicating weak trend presence."",
+    ""Signal remains 'No Action' due to lack of clear momentum or breakout indications.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1235.466
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1242.864
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1263.825
+    }
+  }
+}"
+2025-09-02 11:40:51,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:30:00+00:00"",
+    ""open"": 1232.9,
+    ""high"": 1233.0,
+    ""low"": 1232.9,
+    ""close"": 1233.0,
+    ""volume"": 354
+  },
+  ""support"": 1229.59,
+  ""resistance"": 1240.68,
+  ""support_realtime"": 1228.0,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.0138,
+  ""sr_range_pct_1d"": 2.0925,
+  ""sr_range_pct_1w"": 4.9067,
+  ""sr_range_pct_3m"": 25.6853,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1235.13,
+    ""upper_band"": 1240.68,
+    ""lower_band"": 1229.59
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance updated to recent minute Bollinger Bands lower (1229.59) and upper (1240.68) values reflecting latest volatility."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1235.13, upper 1240.68, lower 1229.59 indicating price near mid-band."",
+    ""ADX steady around 19.3, slightly below threshold 20, indicating weak trend presence."",
+    ""Signal remains 'No Action' due to lack of clear momentum or breakout indications.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1235.466
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1242.864
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1263.825
+    }
+  }
+}"
+2025-09-02 11:50:04,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:39:00+00:00"",
+    ""open"": 1233.0,
+    ""high"": 1233.0,
+    ""low"": 1233.0,
+    ""close"": 1233.0,
+    ""volume"": 154
+  },
+  ""support"": 1229.38,
+  ""resistance"": 1235.0,
+  ""support_realtime"": 1228.3,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.9895,
+  ""sr_range_pct_1d"": 2.0925,
+  ""sr_range_pct_1w"": 4.9067,
+  ""sr_range_pct_3m"": 25.6853,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.185,
+    ""upper_band"": 1234.9916171808782,
+    ""lower_band"": 1229.3783828191217
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to latest minute Bollinger lower band 1229.38 reflecting current volatility."",
+    ""Resistance updated near recent minute Bollinger mid and upper band around 1235.0 for tighter range."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.19, upper 1234.99, lower 1229.38 indicating price near lower-mid band."",
+    ""ADX steady around 40.85 on daily, indicating moderate trend strength but recent minute ADX below threshold, signaling weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1235.466
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1242.864
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1263.825
+    }
+  }
+}"
+2025-09-02 11:58:54,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:49:00+00:00"",
+    ""open"": 1229.7,
+    ""high"": 1230.0,
+    ""low"": 1229.5,
+    ""close"": 1229.9,
+    ""volume"": 115
+  },
+  ""support"": 1229.38,
+  ""resistance"": 1235.0,
+  ""support_realtime"": 1227.2,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.0817,
+  ""sr_range_pct_1d"": 2.0982,
+  ""sr_range_pct_1w"": 4.9203,
+  ""sr_range_pct_3m"": 25.7563,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.19,
+    ""upper_band"": 1234.99,
+    ""lower_band"": 1229.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to latest minute Bollinger lower band 1229.38 reflecting current volatility."",
+    ""Resistance updated near recent minute Bollinger mid and upper band around 1235.0 for tighter range."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.19, upper 1234.99, lower 1229.38 indicating price near lower-mid band."",
+    ""ADX steady around 40.85 on daily, indicating moderate trend strength but recent minute ADX below threshold, signaling weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1232.36
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1240.23
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1259.65
+    }
+  }
+}"
+2025-09-02 12:07:27,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:57:00+00:00"",
+    ""open"": 1229.3,
+    ""high"": 1230.0,
+    ""low"": 1229.3,
+    ""close"": 1230.0,
+    ""volume"": 75
+  },
+  ""support"": 1229.38,
+  ""resistance"": 1234.99,
+  ""support_realtime"": 1227.2,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.0819,
+  ""sr_range_pct_1d"": 2.0988,
+  ""sr_range_pct_1w"": 4.9215,
+  ""sr_range_pct_3m"": 25.7626,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.19,
+    ""upper_band"": 1234.99,
+    ""lower_band"": 1229.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to latest minute Bollinger lower band 1229.38 reflecting current volatility."",
+    ""Resistance updated near recent minute Bollinger upper band 1234.99 for tighter range."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.19, upper 1234.99, lower 1229.38 indicating price near lower-mid band."",
+    ""ADX steady around 40.85 on daily, indicating moderate trend strength but recent minute ADX below threshold, signaling weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1232.46
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1239.84
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1260.75
+    }
+  }
+}"
+2025-09-02 12:16:06,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:06:00+00:00"",
+    ""open"": 1229.8,
+    ""high"": 1229.9,
+    ""low"": 1229.4,
+    ""close"": 1229.9,
+    ""volume"": 183
+  },
+  ""support"": 1229.38,
+  ""resistance"": 1234.99,
+  ""support_realtime"": 1227.2,
+  ""resistance_realtime"": 1240.5,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.0815,
+  ""sr_range_pct_1d"": 2.0979,
+  ""sr_range_pct_1w"": 4.9195,
+  ""sr_range_pct_3m"": 25.7522,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.19,
+    ""upper_band"": 1234.99,
+    ""lower_band"": 1229.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to latest minute Bollinger lower band 1229.38 reflecting current volatility."",
+    ""Resistance updated near recent minute Bollinger upper band 1234.99 for tighter range."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.19, upper 1234.99, lower 1229.38 indicating price near lower-mid band."",
+    ""ADX steady around 40.85 on daily, indicating moderate trend strength but recent minute ADX below threshold, signaling weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1232.46
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1239.84
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1260.75
+    }
+  }
+}"
+2025-09-02 14:11:02,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:15:00+00:00"",
+    ""open"": 1229.9,
+    ""high"": 1229.9,
+    ""low"": 1228.8,
+    ""close"": 1229.8,
+    ""volume"": 181
+  },
+  ""support"": 1229.38,
+  ""resistance"": 1234.99,
+  ""support_realtime"": 1227.2,
+  ""resistance_realtime"": 1240.0,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.0407,
+  ""sr_range_pct_1d"": 2.0977,
+  ""sr_range_pct_1w"": 4.9191,
+  ""sr_range_pct_3m"": 25.7501,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1232.19,
+    ""upper_band"": 1234.99,
+    ""lower_band"": 1229.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to latest minute Bollinger lower band 1229.38 reflecting current volatility."",
+    ""Resistance updated near recent minute Bollinger upper band 1234.99 for tighter range."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1232.19, upper 1234.99, lower 1229.38 indicating price near lower-mid band."",
+    ""ADX steady around 40.85 on daily, indicating moderate trend strength but recent minute ADX below threshold, signaling weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1232.46
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1239.84
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1260.75
+    }
+  }
+}"
+2025-09-02 14:19:47,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:17:00+00:00"",
+    ""open"": 1208.4,
+    ""high"": 1208.9,
+    ""low"": 1207.0,
+    ""close"": 1208.6,
+    ""volume"": 784
+  },
+  ""support"": 1209.09,
+  ""resistance"": 1218.97,
+  ""support_realtime"": 1201.5,
+  ""resistance_realtime"": 1220.0,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.5239,
+  ""sr_range_pct_1d"": 2.1252,
+  ""sr_range_pct_1w"": 4.9835,
+  ""sr_range_pct_3m"": 26.0873,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1214.03,
+    ""upper_band"": 1218.968056297774,
+    ""lower_band"": 1209.091943702226
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest minute bar at 2025-09-02 14:17:00 with close 1208.6 and volume 784."",
+    ""Support and resistance updated to latest minute Bollinger bands lower 1209.09 and upper 1218.97 reflecting current volatility."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels."",
+    ""Bollinger bands refreshed to latest minute data mid 1214.03, upper 1218.97, lower 1209.09 indicating price near lower-mid band."",
+    ""ADX steady above threshold at 26.85 indicating moderate trend strength but recent momentum weak as MACD histogram negative."",
+    ""Signal remains 'No Action' due to lack of clear breakout or strong momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1211.02
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1217.67
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1239.82
+    }
+  }
+}"
+2025-09-02 14:27:00,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:24:00+00:00"",
+    ""open"": 1209.6,
+    ""high"": 1210.0,
+    ""low"": 1208.2,
+    ""close"": 1208.2,
+    ""volume"": 3326
+  },
+  ""support"": 1205.86,
+  ""resistance"": 1218.06,
+  ""support_realtime"": 1205.86,
+  ""resistance_realtime"": 1218.06,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": 1.02,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1211.96,
+    ""upper_band"": 1218.06,
+    ""lower_band"": 1205.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest minute bar at 2025-09-02 14:24:00 with close 1208.2 and volume 3326."",
+    ""Support and resistance updated to latest minute Bollinger bands lower 1205.86 and upper 1218.06 reflecting current volatility contraction."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels below threshold."",
+    ""Bollinger bands refreshed to latest minute data mid 1211.96, upper 1218.06, lower 1205.86 indicating price near lower band."",
+    ""ADX steady above threshold at 26.29 indicating moderate trend strength but MACD histogram negative showing weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or strong momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1210.62
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1217.87
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1238.41
+    }
+  }
+}"
+2025-09-02 14:35:35,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:33:00+00:00"",
+    ""open"": 1206.1,
+    ""high"": 1207.3,
+    ""low"": 1206.1,
+    ""close"": 1206.3,
+    ""volume"": 438
+  },
+  ""support"": 1205.86,
+  ""resistance"": 1218.06,
+  ""support_realtime"": 1201.5,
+  ""resistance_realtime"": 1220.0,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.5312,
+  ""sr_range_pct_1d"": 2.1354,
+  ""sr_range_pct_1w"": 5.0074,
+  ""sr_range_pct_3m"": 26.2125,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1211.96,
+    ""upper_band"": 1218.06,
+    ""lower_band"": 1205.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest minute bar at 2025-09-02 14:33:00 with close 1206.3 and volume 438."",
+    ""Support and resistance updated to latest Bollinger bands lower 1205.86 and upper 1218.06 reflecting current volatility contraction."",
+    ""Volume threshold maintained at 5000 due to consistent recent volume levels below threshold."",
+    ""Bollinger bands refreshed to latest minute data mid 1211.96, upper 1218.06, lower 1205.86 indicating price near lower band."",
+    ""ADX steady above threshold at 24.38 indicating moderate trend strength but MACD histogram negative showing weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or strong momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1208.71
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1216.25
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1236.91
+    }
+  }
+}"
+2025-09-02 15:19:23,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:34:00+00:00"",
+    ""open"": 1206.3,
+    ""high"": 1206.8,
+    ""low"": 1204.1,
+    ""close"": 1206.7,
+    ""volume"": 644
+  },
+  ""support"": 1205.86,
+  ""resistance"": 1218.06,
+  ""support_realtime"": 1202.9,
+  ""resistance_realtime"": 1220.0,
+  ""support_1d"": 1271.0,
+  ""resistance_1d"": 1296.8,
+  ""support_1w"": 1240.4,
+  ""resistance_1w"": 1300.9,
+  ""support_3m"": 1005.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 1.4179,
+  ""sr_range_pct_1d"": 2.1393,
+  ""sr_range_pct_1w"": 5.0166,
+  ""sr_range_pct_3m"": 26.2604,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1211.96,
+    ""upper_band"": 1218.06,
+    ""lower_band"": 1205.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger bands lower 1205.86 and upper 1218.06 reflecting current volatility contraction and price near lower band."",
+    ""Maintained volume threshold at 5000 due to consistent recent volume levels below threshold."",
+    ""Latest ohlcv confirmed at 2025-09-02 14:34:00 with close 1206.7 and volume 644."",
+    ""ADX steady above threshold at 19.2 indicating moderate trend strength but MACD histogram negative showing weak momentum."",
+    ""Signal remains 'No Action' due to lack of clear breakout or strong momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1209.11
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1216.55
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1237.87
+    }
+  }
+}"
+2025-09-02 15:27:57,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:18:00+00:00"",
+    ""open"": 1206.7,
+    ""high"": 1207.6,
+    ""low"": 1204.8,
+    ""close"": 1204.8,
+    ""volume"": 1005
+  },
+  ""support"": 1205.39,
+  ""resistance"": 1211.68,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1208.53,
+    ""upper_band"": 1211.68,
+    ""lower_band"": 1205.39
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger bands lower 1205.39 and upper 1211.68 reflecting recent minute data volatility and price near lower band."",
+    ""Maintained volume threshold at 5000 due to consistent recent volume below threshold."",
+    ""Latest ohlcv confirmed at 2025-09-02 15:18:00 with close 1204.8 and volume 1005."",
+    ""ADX remains below threshold at ~18 indicating weak trend strength."",
+    ""Signal remains 'No Action' due to lack of breakout and weak momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1207.21
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1213.64
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1235.92
+    }
+  }
+}"
+2025-09-03 11:58:29,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:26:00+00:00"",
+    ""open"": 1210.0,
+    ""high"": 1210.5,
+    ""low"": 1209.2,
+    ""close"": 1210.0,
+    ""volume"": 18492
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1216.0,
+  ""support_realtime"": 1209.3,
+  ""resistance_realtime"": 1216.0,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.56,
+  ""sr_range_pct_1d"": 2.4545,
+  ""sr_range_pct_1w"": 6.9339,
+  ""sr_range_pct_3m"": 26.0909,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1223.21,
+    ""upper_band"": 1224.78,
+    ""lower_band"": 1221.63
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to 1216.0 reflecting recent minute data upper Bollinger band and price action."",
+    ""Adjusted support_realtime to 1209.3 based on latest daily close and recent minute data."",
+    ""Maintained volume threshold at 5000 due to consistent recent volume below threshold."",
+    ""Bollinger bands updated to latest minute data mid 1223.21, upper 1224.78, lower 1221.63 indicating tight range."",
+    ""ADX remains below threshold at ~19 indicating weak trend strength."",
+    ""Signal remains 'No Action' due to lack of breakout and weak momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1216.0,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1212.42
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1219.38
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1239.75
+    }
+  }
+}"
+2025-09-03 12:08:15,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:57:00+00:00"",
+    ""open"": 1222.0,
+    ""high"": 1223.1,
+    ""low"": 1221.9,
+    ""close"": 1221.9,
+    ""volume"": 459
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1221.3559496408593,
+  ""resistance_realtime"": 1225.804050359141,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.37,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1223.5800000000002,
+    ""upper_band"": 1225.804050359141,
+    ""lower_band"": 1221.3559496408593
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated resistance to 1225.8 based on recent daily high and recent minute data upper Bollinger band."",
+    ""Adjusted support_realtime to 1221.3559 reflecting recent minute Bollinger lower band and price action."",
+    ""Updated realtime SR range percent to 0.37% reflecting tighter recent range."",
+    ""Bollinger bands updated to latest minute data mid 1223.58, upper 1225.80, lower 1221.36 indicating slight widening."",
+    ""Maintained volume threshold at 5000 due to consistent recent volume below threshold."",
+    ""ADX remains below threshold at ~20.35 indicating weak trend strength."",
+    ""Signal remains 'No Action' due to lack of breakout and weak momentum in recent minute data.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1224.2438
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1232.59
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1252.99
+    }
+  }
+}"
+2025-09-03 12:17:52,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:15:00+00:00"",
+    ""open"": 1223.0,
+    ""high"": 1224.6,
+    ""low"": 1222.9,
+    ""close"": 1224.6,
+    ""volume"": 317
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1222.0199285727556,
+  ""resistance_realtime"": 1225.8700714272447,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.307,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1223.945,
+    ""upper_band"": 1225.8700714272447,
+    ""lower_band"": 1222.0199285727556
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 12:15 with close 1224.6 reflecting recent price action."",
+    ""Refreshed support_realtime and resistance_realtime to latest Bollinger bands from recent minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.31% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1223.945, upper 1225.87, lower 1222.02 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""ADX remains below threshold indicating weak trend, no signal change."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1227.0492
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1234.5968
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1255.715
+    }
+  }
+}"
+2025-09-03 12:26:51,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:16:00+00:00"",
+    ""open"": 1224.6,
+    ""high"": 1224.6,
+    ""low"": 1222.5,
+    ""close"": 1223.2,
+    ""volume"": 1257
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1222.4552155372642,
+  ""resistance_realtime"": 1224.7747844627359,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.186,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1223.615,
+    ""upper_band"": 1224.7747844627359,
+    ""lower_band"": 1222.4552155372642
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.186% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1223.615, upper 1224.775, lower 1222.455 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No significant change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1227.6496
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1234.5968
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1255.715
+    }
+  }
+}"
+2025-09-03 12:36:44,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:34:00+00:00"",
+    ""open"": 1226.8,
+    ""high"": 1229.0,
+    ""low"": 1226.8,
+    ""close"": 1228.7,
+    ""volume"": 2167
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1220.9982340105046,
+  ""resistance_realtime"": 1226.5917659894951,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.455,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1223.7949999999998,
+    ""upper_band"": 1226.5917659894951,
+    ""lower_band"": 1220.9982340105046
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar from recent data."",
+    ""Refreshed support_realtime and resistance_realtime to latest Bollinger bands from recent minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.455% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1223.795, upper 1226.592, lower 1221.0 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1231.1574
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1238.6296
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1259.4175
+    }
+  }
+}"
+2025-09-03 15:31:37,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:28:00+00:00"",
+    ""open"": 1234.7,
+    ""high"": 1236.0,
+    ""low"": 1234.0,
+    ""close"": 1236.0,
+    ""volume"": 1381
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1234.0126434471215,
+  ""resistance_realtime"": 1238.5873565528784,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.367,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1236.3,
+    ""upper_band"": 1238.5873565528784,
+    ""lower_band"": 1234.0126434471215
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 2025-09-03 15:28:00 with close 1236.0."",
+    ""Refreshed support_realtime and resistance_realtime to latest Bollinger bands from recent minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.367% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1236.3, upper 1238.587, lower 1234.013 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-04 11:14:51,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:12:00+00:00"",
+    ""open"": 1242.0,
+    ""high"": 1243.2,
+    ""low"": 1242.0,
+    ""close"": 1243.2,
+    ""volume"": 6
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1241.9456196389228,
+  ""resistance_realtime"": 1244.2043803610773,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.179,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1243.075,
+    ""upper_band"": 1244.2043803610773,
+    ""lower_band"": 1241.9456196389228
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar at 2025-09-04 11:12:00 with close 1243.2."",
+    ""Refreshed support_realtime and resistance_realtime to latest Bollinger bands from recent minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.179% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1243.075, upper 1244.204, lower 1241.946 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-04 14:22:48,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:13:00+00:00"",
+    ""open"": 1243.2,
+    ""high"": 1243.2,
+    ""low"": 1243.2,
+    ""close"": 1243.2,
+    ""volume"": 2
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1240.204243937663,
+  ""resistance_realtime"": 1242.585756062337,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.194,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1241.395,
+    ""upper_band"": 1242.585756062337,
+    ""lower_band"": 1240.204243937663
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-minute data."",
+    ""Refreshed sr_range_pct_realtime to 0.194% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1241.395, upper 1242.586, lower 1240.204 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-04 14:50:27,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:21:00+00:00"",
+    ""open"": 1241.9,
+    ""high"": 1241.9,
+    ""low"": 1241.9,
+    ""close"": 1241.9,
+    ""volume"": 3
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1240.204243937663,
+  ""resistance_realtime"": 1242.585756062337,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.194,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1241.395,
+    ""upper_band"": 1242.585756062337,
+    ""lower_band"": 1240.204243937663
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-minute data."",
+    ""Refreshed sr_range_pct_realtime to 0.194% reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1241.395, upper 1242.586, lower 1240.204 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-04 15:03:38,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:49:00+00:00"",
+    ""open"": 1244.6,
+    ""high"": 1248.3,
+    ""low"": 1244.6,
+    ""close"": 1248.3,
+    ""volume"": 1795
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1240.204243937663,
+  ""resistance_realtime"": 1242.585756062337,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.192,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000,
+  ""bollinger"": {
+    ""mid_price"": 1241.395,
+    ""upper_band"": 1242.585756062337,
+    ""lower_band"": 1240.204243937663
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-minute data."",
+    ""Refreshed sr_range_pct_realtime to 0.192 reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1241.395, upper 1242.586, lower 1240.204 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-04 15:15:23,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:02:00+00:00"",
+    ""open"": 1245.0,
+    ""high"": 1246.2,
+    ""low"": 1243.4,
+    ""close"": 1246.0,
+    ""volume"": 6770.0
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1240.204243937663,
+  ""resistance_realtime"": 1242.585756062337,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.192,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1241.395,
+    ""upper_band"": 1242.585756062337,
+    ""lower_band"": 1240.204243937663
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to latest Bollinger bands from recent 1-minute data."",
+    ""Refreshed sr_range_pct_realtime to 0.192 reflecting updated realtime support and resistance range."",
+    ""Bollinger bands updated to mid 1241.395, upper 1242.586, lower 1240.204 from recent minute data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels and predicted targets unchanged due to stable price and no breakout.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-05 13:38:12,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": 1693912440000,
+    ""open"": 1236.4,
+    ""high"": 1236.7,
+    ""low"": 1236.0,
+    ""close"": 1236.0,
+    ""volume"": 74
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1231.9763311353388,
+  ""resistance_realtime"": 1237.2336688646612,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.438,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1234.605,
+    ""upper_band"": 1237.2336688646612,
+    ""lower_band"": 1231.9763311353388
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar data at 2025-09-05 13:35:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to 1231.976 and 1237.234 from recent Bollinger bands."",
+    ""Adjusted sr_range_pct_realtime to 0.438 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1234.605, 1237.234, and 1231.976 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels unchanged; all long-only levels respect ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1209.3,
+  ""target"": 1225.8,
+  ""stoploss"": 1207.0,
+  ""entry1"": 1209.3,
+  ""target1"": 1239.0,
+  ""stoploss1"": 1207.0,
+  ""entry2"": 1204.1,
+  ""target2"": 1288.0,
+  ""stoploss2"": 1200.0,
+  ""entry3"": 1006.2,
+  ""target3"": 1321.9,
+  ""stoploss3"": 990.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-05 14:26:44,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:37:00+00:00"",
+    ""open"": 1237.2,
+    ""high"": 1237.2,
+    ""low"": 1237.1,
+    ""close"": 1237.2,
+    ""volume"": 35
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1231.9763311353388,
+  ""resistance_realtime"": 1237.2336688646612,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.438,
+  ""sr_range_pct_1d"": 2.456,
+  ""sr_range_pct_1w"": 6.9679,
+  ""sr_range_pct_3m"": 31.3755,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1234.605,
+    ""upper_band"": 1237.2336688646612,
+    ""lower_band"": 1231.9763311353388
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar data at 2025-09-05 13:37:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to 1231.976 and 1237.234 from recent Bollinger bands."",
+    ""Adjusted sr_range_pct_realtime to 0.438 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1234.605, 1237.234, and 1231.976 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels unchanged; all long-only levels respect ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1216.556,
+  ""target"": 1218.445,
+  ""stoploss"": 1205.067,
+  ""entry1"": 1216.556,
+  ""target1"": 1231.566,
+  ""stoploss1"": 1205.067,
+  ""entry2"": 1211.325,
+  ""target2"": 1280.272,
+  ""stoploss2"": 1199.886,
+  ""entry3"": 1012.237,
+  ""target3"": 1313.969,
+  ""stoploss3"": 1001.798,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1238.472
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1245.888
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1266.9
+    }
+  }
+}"
+2025-09-05 14:43:36,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:25:00+00:00"",
+    ""open"": 1231.3,
+    ""high"": 1231.9,
+    ""low"": 1231.3,
+    ""close"": 1231.9,
+    ""volume"": 52
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1231.9763311353388,
+  ""resistance_realtime"": 1237.2336688646612,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.438,
+  ""sr_range_pct_1d"": 2.4109,
+  ""sr_range_pct_1w"": 6.8106,
+  ""sr_range_pct_3m"": 25.6271,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1234.605,
+    ""upper_band"": 1237.2336688646612,
+    ""lower_band"": 1231.9763311353388
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar data at 2025-09-05 14:25:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to 1231.976 and 1237.234 from recent Bollinger bands."",
+    ""Adjusted sr_range_pct_realtime to 0.438 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1234.605, 1237.234, and 1231.976 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels unchanged; all long-only levels respect ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1216.556,
+  ""target"": 1218.445,
+  ""stoploss"": 1205.067,
+  ""entry1"": 1216.556,
+  ""target1"": 1231.566,
+  ""stoploss1"": 1205.067,
+  ""entry2"": 1211.325,
+  ""target2"": 1280.272,
+  ""stoploss2"": 1199.886,
+  ""entry3"": 1012.237,
+  ""target3"": 1313.969,
+  ""stoploss3"": 1001.798,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1234.5638
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1241.8544
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1261.6975
+    }
+  }
+}"
+2025-09-05 14:55:54,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:42:00+00:00"",
+    ""open"": 1229.6,
+    ""high"": 1230.9,
+    ""low"": 1224.1,
+    ""close"": 1226.3,
+    ""volume"": 25522
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1231.9763311353388,
+  ""resistance_realtime"": 1237.2336688646612,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.438,
+  ""sr_range_pct_1d"": 2.4219,
+  ""sr_range_pct_1w"": 6.8417,
+  ""sr_range_pct_3m"": 25.7441,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1234.605,
+    ""upper_band"": 1237.2336688646612,
+    ""lower_band"": 1231.9763311353388
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar data at 2025-09-05 14:42:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to 1231.976 and 1237.234 from recent Bollinger bands."",
+    ""Adjusted sr_range_pct_realtime to 0.438 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1234.605, 1237.234, and 1231.976 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels unchanged; all long-only levels respect ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1216.556,
+  ""target"": 1218.445,
+  ""stoploss"": 1205.067,
+  ""entry1"": 1216.556,
+  ""target1"": 1231.566,
+  ""stoploss1"": 1205.067,
+  ""entry2"": 1211.325,
+  ""target2"": 1280.272,
+  ""stoploss2"": 1199.886,
+  ""entry3"": 1012.237,
+  ""target3"": 1313.969,
+  ""stoploss3"": 1001.798,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1234.5638
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1241.8544
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1261.6975
+    }
+  }
+}"
+2025-09-05 15:10:10,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:54:00+00:00"",
+    ""open"": 1223.3,
+    ""high"": 1224.0,
+    ""low"": 1222.8,
+    ""close"": 1223.5,
+    ""volume"": 147
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1231.9763311353388,
+  ""resistance_realtime"": 1237.2336688646612,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.438,
+  ""sr_range_pct_1d"": 2.4275,
+  ""sr_range_pct_1w"": 6.8574,
+  ""sr_range_pct_3m"": 25.803,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1234.605,
+    ""upper_band"": 1237.2336688646612,
+    ""lower_band"": 1231.9763311353388
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-minute bar data at 2025-09-05 14:54:00+00:00."",
+    ""Refreshed support_realtime and resistance_realtime to 1231.976 and 1237.234 from recent Bollinger bands."",
+    ""Adjusted sr_range_pct_realtime to 0.438 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1234.605, 1237.234, and 1231.976 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels unchanged; all long-only levels respect ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1216.556,
+  ""target"": 1218.445,
+  ""stoploss"": 1205.067,
+  ""entry1"": 1216.556,
+  ""target1"": 1231.566,
+  ""stoploss1"": 1205.067,
+  ""entry2"": 1211.325,
+  ""target2"": 1280.272,
+  ""stoploss2"": 1199.886,
+  ""entry3"": 1012.237,
+  ""target3"": 1313.969,
+  ""stoploss3"": 1001.798,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1234.5638
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1241.8544
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1261.6975
+    }
+  }
+}"
+2025-09-05 15:22:23,"{
+  ""stock_code"": ""KAJARIACER"",
+  ""instrument_token"": 462849,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:09:00+00:00"",
+    ""open"": 1218.3,
+    ""high"": 1218.5,
+    ""low"": 1217.4,
+    ""close"": 1218.0,
+    ""volume"": 117
+  },
+  ""support"": 1209.3,
+  ""resistance"": 1225.8,
+  ""support_realtime"": 1217.2623086240696,
+  ""resistance_realtime"": 1222.9776913759306,
+  ""support_1d"": 1209.3,
+  ""resistance_1d"": 1239.0,
+  ""support_1w"": 1204.1,
+  ""resistance_1w"": 1288.0,
+  ""support_3m"": 1006.2,
+  ""resistance_3m"": 1321.9,
+  ""sr_range_pct_realtime"": 0.4491,
+  ""sr_range_pct_1d"": 2.4384,
+  ""sr_range_pct_1w"": 6.8883,
+  ""sr_range_pct_3m"": 25.9195,
+  ""volume_threshold"": 5000.0,
+  ""bollinger"": {
+    ""mid_price"": 1220.1200000000001,
+    ""upper_band"": 1222.9776913759306,
+    ""lower_band"": 1217.2623086240696
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support_realtime and resistance_realtime to 1217.262 and 1222.978 based on recent Bollinger bands from 1-minute data."",
+    ""Adjusted sr_range_pct_realtime to 0.4491 reflecting updated realtime support and resistance range."",
+    ""Updated Bollinger bands mid, upper, and lower to 1220.12, 1222.978, and 1217.262 respectively from recent data."",
+    ""Maintained volume_threshold at 5000 due to consistent volume pattern."",
+    ""No change in ADX or moving averages; signal remains No Action."",
+    ""Trade levels adjusted minimally to respect strict ordering and remain within respective S-R bands."",
+    ""Predicted targets retained from previous forecast with price recalculated using latest close.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1216.556,
+  ""target"": 1222.0,
+  ""stoploss"": 1205.0,
+  ""entry1"": 1216.556,
+  ""target1"": 1231.566,
+  ""stoploss1"": 1205.0,
+  ""entry2"": 1211.325,
+  ""target2"": 1280.272,
+  ""stoploss2"": 1199.886,
+  ""entry3"": 1012.237,
+  ""target3"": 1313.969,
+  ""stoploss3"": 1001.798,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1220.436,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1227.744,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1247.45,
+      ""method"": ""llm_v1""
+    }
+  }
+}"

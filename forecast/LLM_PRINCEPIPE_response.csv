@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:32:01,"{
+  ""stock_code"": ""PRINCEPIPE"",
+  ""instrument_token"": 4107521,
+  ""support"": 290.0,
+  ""resistance"": 301.45,
+  ""volume_threshold"": 90000,
+  ""bollinger"": {
+    ""mid_price"": 333.71000000000004,
+    ""upper_band"": 334.31464865831333,
+    ""lower_band"": 333.10535134168674
+  },
+  ""macd"": {
+    ""signal_line"": 0.01606109484131576,
+    ""histogram"": 0.01650753660138452,
+    ""ma_fast"": 333.89444444444445,
+    ""ma_slow"": 333.71000000000004,
+    ""ma_signal"": 0.03256863144270028
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 333.89444444444445,
+    ""ma_slow"": 333.71000000000004
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a tight consolidation near support and resistance levels, with no clear breakout signals."",
+    ""Volume remains below previous high thresholds, indicating no strong breakout momentum."",
+    ""Indicators such as MACD and ADX remain neutral, suggesting no immediate trend change.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

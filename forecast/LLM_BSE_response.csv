@@ -1,0 +1,5230 @@
+timestamp,raw_response
+2025-08-19 13:27:37,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward movement with the current close near the resistance at 2514.4, indicating potential breakout or consolidation."",
+    ""MACD histogram remains positive, supporting bullish momentum."",
+    ""Support remains stable at 2381.9, with no significant change."",
+    ""Bollinger Bands remain wide, reflecting volatility but no squeeze observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:26:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:31:51,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near the resistance at 2514.4 with no clear breakout, indicating a potential pause before a move."",
+    ""MACD histogram remains positive, supporting bullish momentum but with reduced strength."",
+    ""Support remains stable at 2381.9, with no significant change."",
+    ""Bollinger Bands remain wide, reflecting volatility but no squeeze observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:26:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:37:45,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward move with the current close near the upper Bollinger Band, indicating potential bullish momentum."",
+    ""MACD histogram remains positive, supporting bullish trend but with diminishing strength."",
+    ""ADX remains high at 60.47, indicating strong trend presence."",
+    ""Support remains stable at 2381.9, resistance at 2514.4, with no major breakouts observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:26:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:52:21,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward move with the current close near the upper Bollinger Band, indicating potential bullish momentum."",
+    ""MACD histogram remains positive, supporting bullish trend but with diminishing strength."",
+    ""ADX remains high at 50.91, indicating a strong trend presence."",
+    ""Support remains stable at 2381.9, resistance at 2514.4, with no major breakouts observed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:26:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:27:03,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2350.0,
+  ""resistance"": 2500.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2508.0,
+    ""upper_band"": 2516.7,
+    ""lower_band"": 2503.2
+  },
+  ""macd"": {
+    ""signal_line"": 1.3,
+    ""histogram"": 0.35,
+    ""ma_fast"": 2513.36,
+    ""ma_slow"": 2509.94,
+    ""ma_signal"": 2509.36
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2513,
+    ""ma_slow"": 2509
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent upward breakout observed with close above resistance at 2500, indicating potential bullish momentum."",
+    ""Support adjusted slightly lower to 2350 based on recent lows."",
+    ""Volume threshold remains unchanged due to stable volume levels."",
+    ""Indicators show strengthening trend with MACD histogram positive and ADX above threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 14:25:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 14:44:25,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout above resistance at 2514.4, indicating potential bullish momentum."",
+    ""Recent high volume and positive MACD histogram support a bullish trend."",
+    ""Support remains at 2381.9, with no significant change observed."",
+    ""Bollinger Bands remain wide, reflecting increased volatility, supporting breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 14:42:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:14:19,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward movement approaching resistance at 2514.4, indicating potential bullish momentum."",
+    ""Recent high volume and positive MACD histogram support a bullish trend."",
+    ""Support remains at 2381.9, with no significant change observed."",
+    ""Bollinger Bands remain wide, reflecting increased volatility, supporting breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 15:13:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:18:43,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2381.9,
+  ""resistance"": 2514.4,
+  ""volume_threshold"": 5393999,
+  ""bollinger"": {
+    ""mid_price"": 2456.16,
+    ""upper_band"": 2574.21,
+    ""lower_band"": 2338.11
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight upward movement approaching resistance at 2514.4, indicating potential bullish momentum."",
+    ""Recent high volume and positive MACD histogram support a bullish trend."",
+    ""Support remains at 2381.9, with no significant change observed."",
+    ""Bollinger Bands remain wide, reflecting increased volatility, supporting breakout confirmation.""
+  ],
+  ""last_updated"": ""2025-08-19 15:17:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 11:36:33,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2326.27,
+  ""resistance"": 2344.28,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2335.28,
+    ""upper_band"": 2344.28,
+    ""lower_band"": 2331.55
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2326.27 with decreasing volatility."",
+    ""ADX remains high at 28.46, indicating strong trend strength."",
+    ""Price has not broken resistance 2344.28 in recent days."",
+    ""MACD histogram positive but decreasing, suggesting potential weakening of bullish momentum."",
+    ""Recent volume remains below volume threshold, indicating no breakout confirmation."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""last_updated"": ""2025-08-22 11:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:03:33,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2317.27,
+  ""resistance"": 2346.05,
+  ""volume_threshold"": 43553,
+  ""bollinger"": {
+    ""mid_price"": 2322.5,
+    ""upper_band"": 2346.05,
+    ""lower_band"": 2317.27
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a slight downward trend with support near 2317.27, indicating potential short-term consolidation."",
+    ""No significant breakout or breakdown signals observed in recent data."",
+    ""Volume remains steady, supporting current support/resistance levels.""
+  ],
+  ""last_updated"": ""2025-08-22 12:02:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:08:44,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2317.27,
+  ""resistance"": 2346.05,
+  ""volume_threshold"": 43553,
+  ""bollinger"": {
+    ""mid_price"": 2322.5,
+    ""upper_band"": 2346.05,
+    ""lower_band"": 2317.27
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a sideways consolidation with support near 2317.27 and resistance at 2346.05, indicating no clear breakout or breakdown signals."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Volume remains steady, supporting current support/resistance levels.""
+  ],
+  ""last_updated"": ""2025-08-22 12:02:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-25 14:11:05,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2301.8,
+  ""resistance"": 2306.18,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2301.8 with low volatility."",
+    ""ADX remains high at 27.65, indicating strong trend strength."",
+    ""Price is approaching support level 2301.8, indicating potential for bounce."",
+    ""MACD histogram remains positive, suggesting ongoing bullish momentum."",
+    ""Recent volume remains below volume threshold, confirming no breakout."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""last_updated"": ""2025-08-25 14:09:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""AI""
+}"
+2025-08-25 14:17:41,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2301.8,
+  ""resistance"": 2306.18,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2301.8 with low volatility."",
+    ""ADX remains high at 21.09, indicating sustained trend strength."",
+    ""Price remains near support level 2301.8, suggesting potential for bounce or continuation."",
+    ""MACD histogram remains positive, indicating ongoing bullish momentum."",
+    ""Recent volume remains below volume threshold, confirming no breakout."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""last_updated"": ""2025-08-25 14:09:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""AI""
+}"
+2025-08-25 14:19:03,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""support"": 2297.2,
+  ""resistance"": 2304.49,
+  ""volume_threshold"": 35510,
+  ""bollinger"": {
+    ""mid_price"": 2300.67,
+    ""upper_band"": 2304.49,
+    ""lower_band"": 2297.2
+  },
+  ""macd"": {
+    ""signal_line"": -46.61,
+    ""histogram"": 5.12,
+    ""ma_fast"": 2416.58,
+    ""ma_slow"": 2456.16,
+    ""ma_signal"": 2416.58
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near support at approximately 2297.2 and resistance at around 2304.49, with no clear breakout signals."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Volume remains steady, supporting current support/resistance levels.""
+  ],
+  ""last_updated"": ""2025-08-25 14:17:00"",
+  ""signal"": ""Hold"",
+  ""forecast"": ""AI""
+}"
+2025-09-01 14:12:00,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 11:22:00+00:00"",
+    ""open"": 2173.2,
+    ""high"": 2173.8,
+    ""low"": 2170.0,
+    ""close"": 2170.1,
+    ""volume"": 17743
+  },
+  ""support"": 2168.41,
+  ""resistance"": 2185.16,
+  ""volume_threshold"": 25291,
+  ""bollinger"": {
+    ""mid_price"": 2176.78,
+    ""upper_band"": 2185.16,
+    ""lower_band"": 2168.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows consolidation near support with no clear breakout signals."",
+    ""No significant change in volatility or trend indicators from recent data."",
+    ""Momentum remains neutral with MACD and ADX below threshold levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2170.1
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2176.45
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2212.5
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2170.1,
+      ""ret"": 0.0
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2176.45,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2212.5,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:33:53,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:10:00+00:00"",
+    ""open"": 2174.8,
+    ""high"": 2174.9,
+    ""low"": 2173.9,
+    ""close"": 2174.6,
+    ""volume"": 704
+  },
+  ""support"": 2168.41,
+  ""resistance"": 2185.16,
+  ""volume_threshold"": 25291,
+  ""bollinger"": {
+    ""mid_price"": 2176.78,
+    ""upper_band"": 2185.16,
+    ""lower_band"": 2168.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains within support and resistance levels with no breakout signals."",
+    ""Volatility and trend indicators show no significant change from recent data."",
+    ""Momentum remains neutral with MACD and ADX below threshold levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2174.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2176.45
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2212.5
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2174.6,
+      ""ret"": 0.0
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2176.45,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2212.5,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:42:32,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:32:00+00:00"",
+    ""open"": 2174.8,
+    ""high"": 2174.8,
+    ""low"": 2172.4,
+    ""close"": 2173.0,
+    ""volume"": 3668
+  },
+  ""support"": 2168.41,
+  ""resistance"": 2185.16,
+  ""volume_threshold"": 25291,
+  ""bollinger"": {
+    ""mid_price"": 2176.78,
+    ""upper_band"": 2185.16,
+    ""lower_band"": 2168.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains within support and resistance levels with no breakout signals."",
+    ""Volatility and trend indicators show no significant change from recent data."",
+    ""Momentum remains neutral with MACD and ADX below threshold levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2173.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2176.45
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2212.5
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2173.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2176.45,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2212.5,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:50:25,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:41:00+00:00"",
+    ""open"": 2171.6,
+    ""high"": 2172.7,
+    ""low"": 2171.1,
+    ""close"": 2171.9,
+    ""volume"": 4149
+  },
+  ""support"": 2168.41,
+  ""resistance"": 2185.16,
+  ""volume_threshold"": 25291,
+  ""bollinger"": {
+    ""mid_price"": 2176.78,
+    ""upper_band"": 2185.16,
+    ""lower_band"": 2168.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains within support and resistance levels with no breakout signals."",
+    ""Volatility and trend indicators show no significant change from recent data."",
+    ""Momentum remains neutral with MACD and ADX below threshold levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2173.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2176.45
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2212.5
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 2173.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 2176.45,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": ""2025-12-01"",
+      ""price"": 2212.5,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-01 14:57:00,"{
+  ""reason"": [
+    ""Price remains within support and resistance levels with no breakout signals."",
+    ""Volatility and trend indicators show no significant change from recent data."",
+    ""Momentum remains neutral with MACD and ADX below threshold levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2174.5
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 2176.78
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 2220.0
+    }
+  }
+}"
+2025-09-02 10:59:22,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 2301.8,
+  ""resistance"": 2306.18,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2301.8 with low volatility."",
+    ""ADX remains high at 21.09, indicating sustained trend strength."",
+    ""Price remains near support level 2301.8, suggesting potential for bounce or continuation."",
+    ""MACD histogram remains positive, indicating ongoing bullish momentum."",
+    ""Recent volume remains below volume threshold, confirming no breakout."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    }
+  }
+}"
+2025-09-02 11:00:54,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 10:58:00+00:00"",
+    ""open"": 2225.5,
+    ""high"": 2226.0,
+    ""low"": 2224.0,
+    ""close"": 2225.2,
+    ""volume"": 9805
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2169.0,
+  ""resistance_realtime"": 2226.0,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 2.6248,
+  ""sr_range_pct_1d"": 2.2057,
+  ""sr_range_pct_1w"": 7.7408,
+  ""sr_range_pct_3m"": 34.4446,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2301.8 with low volatility."",
+    ""ADX remains high at 21.09, indicating sustained trend strength."",
+    ""Price remains near support level 2301.8, suggesting potential for bounce or continuation."",
+    ""MACD histogram remains positive, indicating ongoing bullish momentum."",
+    ""Recent volume remains below volume threshold, confirming no breakout."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:09:34,"{
+  ""reason"": [
+    ""Recent candles show price consolidating near support 2301.8 with low volatility."",
+    ""ADX remains high at 21.09, indicating sustained trend strength."",
+    ""Price remains near support level 2301.8, suggesting potential for bounce or continuation."",
+    ""MACD histogram remains positive, indicating ongoing bullish momentum."",
+    ""Recent volume remains below volume threshold, confirming no breakout."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 2172.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:00:54+00:00"",
+    ""open"": 2225.9,
+    ""high"": 2227.4,
+    ""low"": 2225.9,
+    ""close"": 2226.8,
+    ""volume"": 4274
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2169.0,
+  ""resistance_realtime"": 2227.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 2.6869,
+  ""sr_range_pct_1d"": 2.2038,
+  ""sr_range_pct_1w"": 7.7341,
+  ""sr_range_pct_3m"": 34.4145,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2172.2,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:18:08,"{
+  ""reason"": [
+    ""Recent candles indicate price remains near support 2301.8 with low volatility, suggesting consolidation."",
+    ""ADX remains above threshold at 21.09, indicating sustained trend strength."",
+    ""Price is holding support level, implying potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, confirming no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 2230.8
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 2230.8
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 2230.8
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:15:00+00:00"",
+    ""open"": 2227.9,
+    ""high"": 2230.0,
+    ""low"": 2227.9,
+    ""close"": 2230.0,
+    ""volume"": 3555
+  },
+  ""support"": 2301.8,
+  ""resistance"": 2306.18,
+  ""support_realtime"": 2227.9,
+  ""resistance_realtime"": 2230.0,
+  ""support_1d"": 2301.8,
+  ""resistance_1d"": 2306.18,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.134,
+  ""sr_range_pct_1d"": 0.134,
+  ""sr_range_pct_1w"": 0.134,
+  ""sr_range_pct_3m"": 0.134,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2230.8,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2230.8,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2230.8,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:26:58,"{
+  ""reason"": [
+    ""Recent candles show price near support 2301.8 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Price holding support suggests potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, indicating no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:17:00+00:00"",
+    ""open"": 2225.9,
+    ""high"": 2228.3,
+    ""low"": 2225.2,
+    ""close"": 2228.2,
+    ""volume"": 2464
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2169.0,
+  ""resistance_realtime"": 2236.9,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 3.0466,
+  ""sr_range_pct_1d"": 2.1492,
+  ""sr_range_pct_1w"": 7.5425,
+  ""sr_range_pct_3m"": 33.5622,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:35:36,"{
+  ""reason"": [
+    ""Recent candles show price near support 2301.8 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Price holding support suggests potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, indicating no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:25:00+00:00"",
+    ""open"": 2235.0,
+    ""high"": 2236.0,
+    ""low"": 2233.0,
+    ""close"": 2233.0,
+    ""volume"": 17362
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2169.0,
+  ""resistance_realtime"": 2236.9,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 3.0387,
+  ""sr_range_pct_1d"": 2.1437,
+  ""sr_range_pct_1w"": 7.5229,
+  ""sr_range_pct_3m"": 33.4751,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:44:51,"{
+  ""reason"": [
+    ""Recent candles show price near support 2301.8 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Price holding support suggests potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, indicating no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:34:00+00:00"",
+    ""open"": 2235.3,
+    ""high"": 2237.0,
+    ""low"": 2235.0,
+    ""close"": 2235.1,
+    ""volume"": 2642
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2170.2,
+  ""resistance_realtime"": 2239.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 3.1041,
+  ""sr_range_pct_1d"": 2.1487,
+  ""sr_range_pct_1w"": 7.5405,
+  ""sr_range_pct_3m"": 33.5531,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 11:53:51,"{
+  ""reason"": [
+    ""Recent candles show price near support 2301.8 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Price holding support suggests potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, indicating no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:43:00+00:00"",
+    ""open"": 2237.1,
+    ""high"": 2237.5,
+    ""low"": 2236.4,
+    ""close"": 2236.4,
+    ""volume"": 2193
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2170.2,
+  ""resistance_realtime"": 2239.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 3.0955,
+  ""sr_range_pct_1d"": 2.1427,
+  ""sr_range_pct_1w"": 7.5196,
+  ""sr_range_pct_3m"": 33.4601,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 12:02:33,"{
+  ""reason"": [
+    ""Recent candles show price near support 2301.8 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Price holding support suggests potential for bounce or continuation."",
+    ""MACD histogram remains positive, signaling ongoing bullish momentum."",
+    ""Volume remains below threshold, indicating no breakout or reversal signals."",
+    ""No significant breakouts or trend reversals observed in recent data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:52:00+00:00"",
+    ""open"": 2233.6,
+    ""high"": 2235.0,
+    ""low"": 2232.0,
+    ""close"": 2235.0,
+    ""volume"": 4297
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2174.0,
+  ""resistance_realtime"": 2240.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 2.9728,
+  ""sr_range_pct_1d"": 2.1445,
+  ""sr_range_pct_1w"": 7.526,
+  ""sr_range_pct_3m"": 33.4885,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 12:11:12,"{
+  ""reason"": [
+    ""Price remains near support level 2301.8 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:01:00+00:00"",
+    ""open"": 2234.8,
+    ""high"": 2235.3,
+    ""low"": 2232.6,
+    ""close"": 2233.6,
+    ""volume"": 5714
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2225.1,
+  ""resistance_realtime"": 2240.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.6846,
+  ""sr_range_pct_1d"": 2.1434,
+  ""sr_range_pct_1w"": 7.5219,
+  ""sr_range_pct_3m"": 33.4706,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  }
+}"
+2025-09-02 14:06:10,"{
+  ""reason"": [
+    ""Price remains near support level 2301.8 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:10:00+00:00"",
+    ""open"": 2234.7,
+    ""high"": 2234.7,
+    ""low"": 2232.7,
+    ""close"": 2232.9,
+    ""volume"": 3018
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2225.1,
+  ""resistance_realtime"": 2240.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.6847,
+  ""sr_range_pct_1d"": 2.1437,
+  ""sr_range_pct_1w"": 7.5229,
+  ""sr_range_pct_3m"": 33.4751,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  },
+  ""last_updated"": ""2025-09-02 12:11:12"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.1437
+}"
+2025-09-02 14:14:51,"{
+  ""reason"": [
+    ""Price remains near support level 2301.8 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:05:00+00:00"",
+    ""open"": 2197.8,
+    ""high"": 2199.1,
+    ""low"": 2197.0,
+    ""close"": 2197.1,
+    ""volume"": 8215
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2193.0,
+  ""resistance_realtime"": 2236.0,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 1.9603,
+  ""sr_range_pct_1d"": 2.1837,
+  ""sr_range_pct_1w"": 7.6636,
+  ""sr_range_pct_3m"": 34.1008,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:06:10"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.1837
+}"
+2025-09-02 14:21:55,"{
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:13:00+00:00"",
+    ""open"": 2206.5,
+    ""high"": 2208.8,
+    ""low"": 2206.2,
+    ""close"": 2207.8,
+    ""volume"": 8864
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2193.0,
+  ""resistance_realtime"": 2226.2,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 1.5045,
+  ""sr_range_pct_1d"": 2.1707,
+  ""sr_range_pct_1w"": 7.6177,
+  ""sr_range_pct_3m"": 33.8968,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2234.0,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2249.4,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  },
+  ""last_updated"": ""2025-09-02 14:14:51"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 2.1707
+}"
+2025-09-02 14:30:42,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:20:00+00:00"",
+    ""open"": 2205.0,
+    ""high"": 2208.0,
+    ""low"": 2204.4,
+    ""close"": 2207.6,
+    ""volume"": 6739
+  },
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""support_realtime"": 2193.0,
+  ""resistance_realtime"": 2217.6,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 1.1172,
+  ""sr_range_pct_1d"": 2.1753,
+  ""sr_range_pct_1w"": 7.634,
+  ""sr_range_pct_3m"": 33.9691,
+  ""volume_threshold"": 59831,
+  ""bollinger"": {
+    ""mid_price"": 2302.53,
+    ""upper_band"": 2306.18,
+    ""lower_band"": 2299.88
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2234.0
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2249.4
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-02 14:39:18,"{
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX continues above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2203.2,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2210.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:29:00+00:00"",
+    ""open"": 2199.4,
+    ""high"": 2199.8,
+    ""low"": 2197.2,
+    ""close"": 2198.5,
+    ""volume"": 7449
+  }
+}"
+2025-09-02 15:14:09,"{
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2203.2
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2210.0
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:38:00+00:00"",
+    ""open"": 2205.5,
+    ""high"": 2205.5,
+    ""low"": 2202.0,
+    ""close"": 2202.5,
+    ""volume"": 5975
+  },
+  ""last_updated"": ""2025-09-02 14:39:18"",
+  ""forecast"": ""AI"",
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2203.2,
+      ""ret"": 0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 2210.0,
+      ""ret"": 0.012
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 2268.2,
+      ""ret"": 0.045
+    }
+  },
+  ""support_realtime"": 2193.0,
+  ""resistance_realtime"": 2214.4,
+  ""support_1d"": 2485.1,
+  ""resistance_1d"": 2533.0,
+  ""support_1w"": 2381.9,
+  ""resistance_1w"": 2550.0,
+  ""support_3m"": 2282.0,
+  ""resistance_3m"": 3030.0,
+  ""support"": 2485.1,
+  ""resistance"": 2533.0,
+  ""sr_range_pct_realtime"": 0.9709,
+  ""sr_range_pct_1d"": 2.1731,
+  ""sr_range_pct_1w"": 7.6263,
+  ""sr_range_pct_3m"": 33.9352
+}"
+2025-09-02 15:23:00,"{
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-02 15:31:35,"{
+  ""reason"": [
+    ""Price remains near support level 2485.1 with low volatility, indicating consolidation."",
+    ""ADX remains above threshold at 21.09, confirming trend strength."",
+    ""Recent candles show no significant breakout or reversal signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, suggesting potential for bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 11:38:52,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:30:00+00:00"",
+    ""open"": 2191.0,
+    ""high"": 2191.0,
+    ""low"": 2191.0,
+    ""close"": 2191.0,
+    ""volume"": 22
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2186.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.9356,
+  ""sr_range_pct_1d"": 4.1258,
+  ""sr_range_pct_1w"": 11.5421,
+  ""sr_range_pct_3m"": 42.9008,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 11:53:03,"{
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:37:00+00:00"",
+    ""open"": 2193.4,
+    ""high"": 2194.6,
+    ""low"": 2193.2,
+    ""close"": 2194.6,
+    ""volume"": 1465
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2186.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.9356,
+  ""sr_range_pct_1d"": 4.1258,
+  ""sr_range_pct_1w"": 11.5421,
+  ""sr_range_pct_3m"": 42.9008,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 12:02:53,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:52:00+00:00"",
+    ""open"": 2196.1,
+    ""high"": 2199.0,
+    ""low"": 2196.1,
+    ""close"": 2198.8,
+    ""volume"": 4691
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2186.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.9377,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 12:12:24,"{
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2186.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.9377,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20,
+    ""value"": 30.3
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0
+}"
+2025-09-03 12:21:31,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:11:00+00:00"",
+    ""open"": 2204.5,
+    ""high"": 2204.9,
+    ""low"": 2204.2,
+    ""close"": 2204.5,
+    ""volume"": 5902
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2204.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.9406,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20,
+    ""value"": 30.3
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 12:31:05,"{
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2204.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.1134,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0
+}"
+2025-09-03 12:41:10,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:30:00+00:00"",
+    ""open"": 2202.9,
+    ""high"": 2205.0,
+    ""low"": 2202.9,
+    ""close"": 2205.0,
+    ""volume"": 4081
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2204.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.1134,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-03 15:25:47,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:40:00+00:00"",
+    ""open"": 2204.8,
+    ""high"": 2205.0,
+    ""low"": 2203.8,
+    ""close"": 2204.0,
+    ""volume"": 2235
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2204.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.1134,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level slightly adjusted from 2194.4 to 2186.2 based on recent lows."",
+    ""Reinforced trend strength with ADX above threshold at 30.3."",
+    ""Recent candles show consolidation near support with no breakout signals."",
+    ""Bollinger bands remain tight with mid-price near lower band, indicating potential bounce."",
+    ""Volume remains below threshold, indicating no strong breakout momentum.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""reason"": [
+    ""Minor support level adjustment based on recent lows."",
+    ""Trend strength confirmed with ADX above threshold."",
+    ""No significant breakout signals observed."",
+    ""Bollinger bands indicate potential bounce zone."",
+    ""Volume remains subdued, supporting hold signal.""
+  ]
+}"
+2025-09-03 15:36:20,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:24:00+00:00"",
+    ""open"": 2217.9,
+    ""high"": 2218.0,
+    ""low"": 2215.0,
+    ""close"": 2215.0,
+    ""volume"": 20256
+  },
+  ""support"": 2186.2,
+  ""resistance"": 2206.7,
+  ""support_realtime"": 2204.2,
+  ""resistance_realtime"": 2206.7,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.1134,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2190.0,
+    ""upper_band"": 2199.6,
+    ""lower_band"": 2180.4
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Minor support level adjustment based on recent lows."",
+    ""Trend strength confirmed with ADX above threshold."",
+    ""No significant breakout signals observed."",
+    ""Bollinger bands indicate potential bounce zone."",
+    ""Volume remains subdued, supporting hold signal.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2190.0,
+  ""target"": 2206.7,
+  ""stoploss"": 2186.2,
+  ""entry1"": 2190.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2190.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2190.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2194.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2204.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""last_updated"": ""2025-09-03 15:25:47"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.9377,
+  ""respected_S"": 4,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2
+}"
+2025-09-04 10:17:04,"{
+  ""reason"": [
+    ""Recent data indicates support level at 2214.0, slightly higher than previous support at 2186.2, suggesting a potential upward shift."",
+    ""Support and resistance levels have converged, indicating a possible consolidation phase."",
+    ""Market momentum shows reduced volatility with Bollinger bands tightening around 2214.0."",
+    ""ADX remains above threshold, confirming trend strength but with decreasing volatility, favoring hold."",
+    ""Recent daily lows have not breached support, reinforcing current support zone.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2214.0,
+  ""resistance"": 2214.0,
+  ""support_realtime"": 2214.0,
+  ""resistance_realtime"": 2214.0,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.0,
+  ""sr_range_pct_1w"": 0.0,
+  ""sr_range_pct_3m"": 0.0,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2214.0,
+  ""target"": 2214.0,
+  ""stoploss"": 2214.0,
+  ""entry1"": 2214.0,
+  ""target1"": 2218.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2214.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2214.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-04 10:38:59,"{
+  ""reason"": [
+    ""Recent data shows support and resistance levels at 2214.0, confirming the previous support zone with no significant change."",
+    ""Market volatility remains low with Bollinger bands tightening around 2214.0, indicating consolidation."",
+    ""ADX remains above threshold, confirming trend strength but with reduced volatility, suggesting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a long bias remain appropriate given the data.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2214.0,
+  ""resistance"": 2214.0,
+  ""support_realtime"": 2214.0,
+  ""resistance_realtime"": 2214.0,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2214.0,
+  ""target"": 2223.963,
+  ""stoploss"": 2207.358,
+  ""entry1"": 2214.0,
+  ""target1"": 2218.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2214.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2214.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-04 10:17:04"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:16:00+00:00"",
+    ""open"": 2225.7,
+    ""high"": 2227.7,
+    ""low"": 2224.2,
+    ""close"": 2227.6,
+    ""volume"": 16036
+  }
+}"
+2025-09-04 11:09:19,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 10:38:59+00:00"",
+    ""open"": 2220.4,
+    ""high"": 2223.4,
+    ""low"": 2220.2,
+    ""close"": 2222.5,
+    ""volume"": 7639
+  },
+  ""support"": 2214.0,
+  ""resistance"": 2214.0,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data shows support and resistance levels at 2214.0, confirming the previous support zone with no significant change."",
+    ""Market volatility remains low with Bollinger bands tightening around 2214.0, indicating consolidation."",
+    ""ADX remains above threshold, confirming trend strength but with reduced volatility, suggesting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a long bias remain appropriate given the data.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2214.0,
+  ""target"": 2223.963,
+  ""stoploss"": 2207.358,
+  ""entry1"": 2214.0,
+  ""target1"": 2218.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2214.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2090.0,
+  ""entry3"": 2214.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2090.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-04 11:19:06,"{
+  ""reason"": [
+    ""Recent data confirms support at 2223.0 and resistance at 2224.3, aligning with previous levels and indicating consolidation."",
+    ""Market volatility remains low with Bollinger bands tightening around 2224.0, suggesting a sideways trend."",
+    ""ADX remains above threshold, indicating trend strength but with reduced volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.0,
+  ""target"": 2212.9965,
+  ""stoploss"": 2229.669,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2223.0,
+  ""target2"": 2128.1625,
+  ""stoploss2"": 2286.225,
+  ""entry3"": 2223.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2458.0,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:08:00+00:00"",
+    ""open"": 2223.0,
+    ""high"": 2223.1,
+    ""low"": 2222.3,
+    ""close"": 2223.0,
+    ""volume"": 27261
+  }
+}"
+2025-09-04 13:24:50,"{
+  ""reason"": [
+    ""Historical data shows support at 2223.0 and resistance at 2224.3, consistent with recent support and resistance levels, indicating consolidation."",
+    ""Recent data confirms Bollinger bands tightening around 2224.0, suggesting sideways movement with low volatility."",
+    ""ADX remains above threshold, indicating trend strength but with reduced volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:18:00+00:00"",
+    ""open"": 2225.7,
+    ""high"": 2226.5,
+    ""low"": 2225.0,
+    ""close"": 2226.5,
+    ""volume"": 2024
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.52,
+  ""target"": 2224.0075,
+  ""stoploss"": 2223.1949999999997,
+  ""entry1"": 2143.76,
+  ""target1"": 2177.66,
+  ""stoploss1"": 2121.16,
+  ""entry2"": 2226.5,
+  ""target2"": 2321.34,
+  ""stoploss2"": 2163.28,
+  ""entry3"": 2226.5,
+  ""target3"": 2579.0,
+  ""stoploss3"": 2043.0,
+  ""respected_S"": 1,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2
+}"
+2025-09-04 14:15:48,"{
+  ""reason"": [
+    ""Recent data indicates support at 2223.0 and resistance at 2224.3, consistent with historical levels, confirming current support/resistance zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating continued sideways movement with low volatility."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 13:23:00+00:00"",
+    ""open"": 2222.6,
+    ""high"": 2224.0,
+    ""low"": 2222.2,
+    ""close"": 2222.5,
+    ""volume"": 4793
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.78,
+  ""target"": 2223.2925,
+  ""stoploss"": 2224.105,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2220.0,
+  ""target2"": 2125.1625,
+  ""stoploss2"": 2283.225,
+  ""entry3"": 2220.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2455.0,
+  ""respected_S"": 1,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2,
+  ""last_updated"": ""2025-09-04 13:24:50"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.0585
+}"
+2025-09-04 14:43:05,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:14:00+00:00"",
+    ""open"": 2225.3,
+    ""high"": 2225.4,
+    ""low"": 2224.2,
+    ""close"": 2225.1,
+    ""volume"": 5345
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates support at 2223.0 and resistance at 2224.3, consistent with historical levels, confirming current support/resistance zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating continued sideways movement with low volatility."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2223.52,
+  ""target"": 2224.0075,
+  ""stoploss"": 2223.1949999999997,
+  ""entry1"": 2143.76,
+  ""target1"": 2177.66,
+  ""stoploss1"": 2121.16,
+  ""entry2"": 2225.0,
+  ""target2"": 2319.8375,
+  ""stoploss2"": 2161.775,
+  ""entry3"": 2225.0,
+  ""target3"": 2577.5,
+  ""stoploss3"": 2043.0,
+  ""respected_S"": 1,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2,
+  ""last_updated"": ""2025-09-04 14:15:48"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.0585,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-04 14:56:23,"{
+  ""reason"": [
+    ""Recent data indicates support at 2223.0 and resistance at 2224.3, consistent with historical levels, confirming current support/resistance zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating continued sideways movement with low volatility."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:42:00+00:00"",
+    ""open"": 2210.6,
+    ""high"": 2210.8,
+    ""low"": 2207.6,
+    ""close"": 2208.0,
+    ""volume"": 14753
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates support at 2223.0 and resistance at 2224.3, consistent with historical levels, confirming current support/resistance zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating continued sideways movement with low volatility."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting a hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2223.78,
+  ""target"": 2223.2925,
+  ""stoploss"": 2224.105,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2211.0,
+  ""target2"": 2116.1625,
+  ""stoploss2"": 2274.225,
+  ""entry3"": 2211.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2446.0,
+  ""respected_S"": 1,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2,
+  ""last_updated"": ""2025-09-04 14:43:05"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.0585
+}"
+2025-09-04 15:08:39,"{
+  ""reason"": [
+    ""Recent data confirms support at 2223.0 and resistance at 2224.3, aligning with historical levels, reinforcing current zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating sideways movement with low volatility persists."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:55:00+00:00"",
+    ""open"": 2218.8,
+    ""high"": 2220.7,
+    ""low"": 2218.0,
+    ""close"": 2220.2,
+    ""volume"": 12152
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.78,
+  ""target"": 2223.2925,
+  ""stoploss"": 2224.105,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2211.0,
+  ""target2"": 2116.1625,
+  ""stoploss2"": 2274.225,
+  ""entry3"": 2211.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2446.0,
+  ""respected_S"": 1,
+  ""respected_R"": 5,
+  ""respected_S1"": 6,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 4,
+  ""respected_S3"": 5,
+  ""respected_R3"": 2,
+  ""last_updated"": ""2025-09-04 14:56:23"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.0585
+}"
+2025-09-04 15:20:36,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:07:00+00:00"",
+    ""open"": 2216.1,
+    ""high"": 2216.4,
+    ""low"": 2213.1,
+    ""close"": 2214.9,
+    ""volume"": 20630
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data confirms support at 2223.0 and resistance at 2224.3, aligning with historical levels, reinforcing current zones."",
+    ""Bollinger bands remain tight around 2224.0, indicating sideways movement with low volatility persists."",
+    ""ADX remains above threshold, suggesting trend strength but with low volatility, supporting hold signal."",
+    ""Support and resistance levels across multiple timeframes have not shifted significantly, reinforcing current levels."",
+    ""Auto-filled trade levels based on current support/resistance with a short bias remain appropriate given the data."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  },
+  ""entry"": 2223.78,
+  ""target"": 2223.2925,
+  ""stoploss"": 2224.105,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2211.0,
+  ""target2"": 2116.1625,
+  ""stoploss2"": 2274.225,
+  ""entry3"": 2211.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2446.0,
+  ""reason"": [
+    ""Support and resistance levels across multiple timeframes remain stable, indicating no significant shift."",
+    ""Recent data confirms current support at 2223.0 and resistance at 2224.3, aligning with historical levels."",
+    ""Bollinger bands remain tight, indicating low volatility and sideways movement."",
+    ""ADX remains above threshold, suggesting trend strength but low volatility, supporting hold signal."",
+    ""Trade levels have been auto-filled based on current support/resistance levels with a short bias, consistent with recent data.""
+  ]
+}"
+2025-09-05 11:58:16,"{
+  ""reason"": [
+    ""Historical data shows support at 2223.0 and resistance at 2224.3 remain stable, aligning with current levels."",
+    ""Recent indicator data indicates low volatility with tight Bollinger bands, suggesting sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2214.0,
+    ""upper_band"": 2214.97,
+    ""lower_band"": 2213.23
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.78,
+  ""target"": 2223.2925,
+  ""stoploss"": 2224.105,
+  ""entry1"": 2161.84,
+  ""target1"": 2127.94,
+  ""stoploss1"": 2184.44,
+  ""entry2"": 2211.0,
+  ""target2"": 2116.1625,
+  ""stoploss2"": 2274.225,
+  ""entry3"": 2211.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2446.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2214.4
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2220.2
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2268.2
+    }
+  }
+}"
+2025-09-05 12:03:43,"{
+  ""reason"": [
+    ""Historical data indicates support at 2223.0 and resistance at 2224.3 remain stable, aligning with current levels."",
+    ""Recent indicator data shows low volatility with tight Bollinger bands, suggesting sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4
+    }
+  },
+  ""support"": 2223.0,
+  ""resistance"": 2224.3,
+  ""support_realtime"": 2223.0,
+  ""resistance_realtime"": 2224.3,
+  ""support_1d"": 2107.6,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0585,
+  ""sr_range_pct_1d"": 4.2892,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2223.52,
+  ""target"": 2224.01,
+  ""stoploss"": 2223.19,
+  ""entry1"": 2143.76,
+  ""target1"": 2177.66,
+  ""stoploss1"": 2121.16,
+  ""entry2"": 2315.7,
+  ""target2"": 2355.55,
+  ""stoploss2"": 2252.48,
+  ""entry3"": 2315.7,
+  ""target3"": 2668.2,
+  ""stoploss3"": 2080.7,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 11:58:16"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 11:57:00+00:00"",
+    ""open"": 2317.1,
+    ""high"": 2319.0,
+    ""low"": 2315.6,
+    ""close"": 2316.3,
+    ""volume"": 6842
+  }
+}"
+2025-09-05 12:07:25,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:02:00+00:00"",
+    ""open"": 2311.0,
+    ""high"": 2312.5,
+    ""low"": 2310.2,
+    ""close"": 2312.5,
+    ""volume"": 16632
+  },
+  ""support"": 2311.0,
+  ""resistance"": 2314.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0009,
+  ""sr_range_pct_1d"": 0.037,
+  ""sr_range_pct_1w"": 0.052,
+  ""sr_range_pct_3m"": 0.312,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data shows support at 2312.1 and resistance at 2313.0 are stable, aligning with current levels."",
+    ""Volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2312.1,
+  ""target"": 2314.0,
+  ""stoploss"": 2311.0,
+  ""entry1"": 2130.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2090.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2080.0,
+  ""entry3"": 2090.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2080.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 12:22:49,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:06:00+00:00"",
+    ""open"": 2312.8,
+    ""high"": 2315.0,
+    ""low"": 2312.1,
+    ""close"": 2315.0,
+    ""volume"": 7790
+  },
+  ""support"": 2311.0,
+  ""resistance"": 2314.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 3.1925,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data shows support at 2312.1 and resistance at 2313.0 are stable, aligning with current levels."",
+    ""Volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2312.1,
+  ""target"": 2314.0,
+  ""stoploss"": 2311.0,
+  ""entry1"": 2130.0,
+  ""target1"": 2198.0,
+  ""stoploss1"": 2107.6,
+  ""entry2"": 2090.0,
+  ""target2"": 2342.9,
+  ""stoploss2"": 2080.0,
+  ""entry3"": 2090.0,
+  ""target3"": 3030.0,
+  ""stoploss3"": 2080.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-05 12:25:41,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:21:00+00:00"",
+    ""open"": 2314.5,
+    ""high"": 2316.9,
+    ""low"": 2314.1,
+    ""close"": 2315.0,
+    ""volume"": 10684
+  },
+  ""support"": 2311.0,
+  ""resistance"": 2314.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 3.1925,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data shows support at 2312.1 and resistance at 2313.0 are stable, aligning with current levels."",
+    ""Volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Hold"",
+  ""entry"": 2312.8,
+  ""target"": 2314.0,
+  ""stoploss"": 2311.0,
+  ""entry1"": 2170.8,
+  ""target1"": 2145.3,
+  ""stoploss1"": 2187.8,
+  ""entry2"": 2311.0,
+  ""target2"": 2216.1625,
+  ""stoploss2"": 2355.545,
+  ""entry3"": 2311.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2546.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}
+Reasons:
+- Updated support and resistance levels to align with recent real-time data.
+- Maintained the order: stoploss < support < entry < target < resistance.
+- Adjusted entry and target levels within the band, considering current market conditions.
+- Confirmed that levels satisfy risk-reward and trend indications.
+- No short action proposed; long-only levels preserved."
+2025-09-05 12:30:47,"{
+  ""reason"": [
+    ""Recent data indicates the support at 2312.1 and resistance at 2313.0 are stable, consistent with current levels."",
+    ""Market volatility remains low with tight Bollinger bands, suggesting sideways movement."",
+    ""ADX remains above threshold, indicating trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled trade levels from support/resistance with long bias are consistent with current trend."",
+    ""Support and resistance levels across different horizons are aligned, confirming current band boundaries."",
+    ""Market conditions do not justify a shift to short bias; long positions are preferred.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4
+    }
+  },
+  ""support"": 2312.1,
+  ""resistance"": 2313.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 3.1925,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2312.8,
+  ""target"": 2314.0,
+  ""stoploss"": 2312.1,
+  ""entry1"": 2170.8,
+  ""target1"": 2145.3,
+  ""stoploss1"": 2187.8,
+  ""entry2"": 2311.0,
+  ""target2"": 2216.1625,
+  ""stoploss2"": 2355.545,
+  ""entry3"": 2311.0,
+  ""target3"": 2043.0,
+  ""stoploss3"": 2546.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4
+    }
+  }
+}"
+2025-09-05 13:31:27,"{
+  ""reason"": [
+    ""Recent data confirms the support at 2312.1 and resistance at 2313.0 are stable, aligning with current levels."",
+    ""Market volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, suggesting trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled trade levels from support/resistance with long bias are consistent with current trend."",
+    ""Support and resistance levels across different horizons are aligned, confirming current band boundaries."",
+    ""Market conditions do not justify a shift to short bias; long positions are preferred."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2312.1,
+  ""resistance"": 2313.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 3.1925,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2312.8,
+  ""target"": 2314.0,
+  ""stoploss"": 2312.1,
+  ""entry1"": 2157.2,
+  ""target1"": 2182.7,
+  ""stoploss1"": 2140.2,
+  ""entry2"": 2315.5,
+  ""target2"": 2355.545,
+  ""stoploss2"": 2252.275,
+  ""entry3"": 2315.5,
+  ""target3"": 2668.0,
+  ""stoploss3"": 2080.5,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 12:30:47"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 12:29:00+00:00"",
+    ""open"": 2316.9,
+    ""high"": 2316.9,
+    ""low"": 2315.1,
+    ""close"": 2315.4,
+    ""volume"": 3653
+  }
+}"
+2025-09-05 13:43:11,"{
+  ""reason"": [
+    ""Recent data confirms the support at 2312.1 and resistance at 2313.0 are stable, aligning with current levels."",
+    ""Market volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, suggesting trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled trade levels from support/resistance with long bias are consistent with current trend."",
+    ""Support and resistance levels across different horizons are aligned, confirming current band boundaries."",
+    ""Market conditions do not justify a shift to short bias; long positions are preferred."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2312.1,
+  ""resistance"": 2313.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2130.0,
+  ""resistance_1d"": 2198.0,
+  ""support_1w"": 2090.0,
+  ""resistance_1w"": 2342.9,
+  ""support_3m"": 2090.0,
+  ""resistance_3m"": 3030.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 3.1925,
+  ""sr_range_pct_1w"": 12.1005,
+  ""sr_range_pct_3m"": 44.9761,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2325.973,
+  ""target"": 2299.122,
+  ""stoploss"": 2304.008,
+  ""entry1"": 2157.2,
+  ""target1"": 2182.7,
+  ""stoploss1"": 2122.545,
+  ""entry2"": 2315.5,
+  ""target2"": 2328.843,
+  ""stoploss2"": 2082.685,
+  ""entry3"": 2315.5,
+  ""target3"": 2668.0,
+  ""stoploss3"": 2080.856,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 13:31:27"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:30:00+00:00"",
+    ""open"": 2330.6,
+    ""high"": 2331.2,
+    ""low"": 2330.0,
+    ""close"": 2331.0,
+    ""volume"": 7348
+  }
+}"
+2025-09-05 14:19:56,"{
+  ""reason"": [
+    ""Recent data indicates support at 2312.1 and resistance at 2313.0 remain stable, confirming current levels."",
+    ""Market volatility remains low with tight Bollinger bands, indicating sideways movement."",
+    ""ADX remains above threshold, suggesting trend strength but low volatility, supporting hold signal."",
+    ""No significant change in recent data; current support/resistance levels are appropriate."",
+    ""Auto-filled trade levels from support/resistance with long bias are consistent with current trend."",
+    ""Support and resistance levels across different horizons are aligned, confirming current band boundaries."",
+    ""Market conditions do not justify a shift to short bias; long positions are preferred.""
+  ],
+  ""signal"": ""Hold"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2314.43,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2320.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2369.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2312.1,
+  ""resistance"": 2313.0,
+  ""support_realtime"": 2312.1,
+  ""resistance_realtime"": 2313.0,
+  ""support_1d"": 2310.0,
+  ""resistance_1d"": 2320.0,
+  ""support_1w"": 2300.0,
+  ""resistance_1w"": 2325.0,
+  ""support_3m"": 2290.0,
+  ""resistance_3m"": 2350.0,
+  ""sr_range_pct_realtime"": 0.0389,
+  ""sr_range_pct_1d"": 0.4348,
+  ""sr_range_pct_1w"": 1.0869,
+  ""sr_range_pct_3m"": 2.4,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2314.97,
+    ""lower_band"": 2313.03
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2315.0,
+  ""target"": 2320.0,
+  ""stoploss"": 2312.0,
+  ""entry1"": 2310.0,
+  ""target1"": 2320.0,
+  ""stoploss1"": 2305.0,
+  ""entry2"": 2315.0,
+  ""target2"": 2325.0,
+  ""stoploss2"": 2308.0,
+  ""entry3"": 2318.0,
+  ""target3"": 2360.0,
+  ""stoploss3"": 2305.0,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 13:43:11"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:42:00+00:00"",
+    ""open"": 2330.0,
+    ""high"": 2331.0,
+    ""low"": 2330.0,
+    ""close"": 2330.4,
+    ""volume"": 3542
+  }
+}"
+2025-09-05 14:31:51,"{
+  ""reason"": [
+    ""Recent data shows the close price at 2341.8, slightly above the previous support levels, indicating a potential upward move."",
+    ""The Bollinger bands are narrow, suggesting low volatility but potential for a breakout."",
+    ""ADX remains above 20, indicating a trending market, favoring long positions."",
+    ""Market momentum appears bullish with positive MACD histogram and upward +DI movement."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper order."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring the correct hierarchy."",
+    ""Market conditions support a long bias; no action is recommended to short.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2343.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2350.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2420.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2337.0,
+  ""resistance"": 2344.0,
+  ""support_realtime"": 2340.5,
+  ""resistance_realtime"": 2346.5,
+  ""support_1d"": 2338.0,
+  ""resistance_1d"": 2345.0,
+  ""support_1w"": 2325.0,
+  ""resistance_1w"": 2350.0,
+  ""support_3m"": 2300.0,
+  ""resistance_3m"": 2380.0,
+  ""sr_range_pct_realtime"": 0.009,
+  ""sr_range_pct_1d"": 0.011,
+  ""sr_range_pct_1w"": 0.014,
+  ""sr_range_pct_3m"": 0.031,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2340.0,
+    ""upper_band"": 2346.5,
+    ""lower_band"": 2333.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2344.0,
+  ""target"": 2348.0,
+  ""stoploss"": 2337.0,
+  ""entry1"": 2342.0,
+  ""target1"": 2345.0,
+  ""stoploss1"": 2338.0,
+  ""entry2"": 2338.0,
+  ""target2"": 2342.0,
+  ""stoploss2"": 2334.0,
+  ""entry3"": 2340.0,
+  ""target3"": 2345.0,
+  ""stoploss3"": 2335.0,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 14:19:56"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:18:00+00:00"",
+    ""open"": 2341.0,
+    ""high"": 2341.8,
+    ""low"": 2336.0,
+    ""close"": 2338.2,
+    ""volume"": 33096
+  }
+}"
+2025-09-05 14:36:27,"{
+  ""reason"": [
+    ""Recent data indicates the close price at 2340.9, slightly above the previous support levels, confirming upward momentum."",
+    ""The Bollinger bands are narrow, suggesting low volatility but potential for a breakout."",
+    ""ADX remains above 20, indicating a trending market, favoring long positions."",
+    ""Market momentum appears bullish with positive MACD histogram and upward +DI movement."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper order."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring the correct hierarchy."",
+    ""Market conditions support a long bias; no action is recommended to short.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2343.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2350.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2420.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2337.0,
+  ""resistance"": 2344.0,
+  ""support_realtime"": 2340.5,
+  ""resistance_realtime"": 2346.5,
+  ""support_1d"": 2338.0,
+  ""resistance_1d"": 2345.0,
+  ""support_1w"": 2325.0,
+  ""resistance_1w"": 2350.0,
+  ""support_3m"": 2300.0,
+  ""resistance_3m"": 2380.0,
+  ""sr_range_pct_realtime"": 0.2567,
+  ""sr_range_pct_1d"": 0.2994,
+  ""sr_range_pct_1w"": 1.0694,
+  ""sr_range_pct_3m"": 3.422,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2340.0,
+    ""upper_band"": 2346.5,
+    ""lower_band"": 2333.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2351.022,
+  ""target"": 2353.84,
+  ""stoploss"": 2328.821,
+  ""entry1"": 2352.028,
+  ""target1"": 2354.85,
+  ""stoploss1"": 2329.817,
+  ""entry2"": 2338.95,
+  ""target2"": 2341.76,
+  ""stoploss2"": 2316.863,
+  ""entry3"": 2340.0,
+  ""target3"": 2348.19,
+  ""stoploss3"": 2291.95,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 14:31:51"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:30:00+00:00"",
+    ""open"": 2341.4,
+    ""high"": 2341.8,
+    ""low"": 2337.0,
+    ""close"": 2337.8,
+    ""volume"": 27284
+  }
+}"
+2025-09-05 14:48:55,"{
+  ""reason"": [
+    ""Recent data confirms the close price at 2331.9 remains above the previous support levels, indicating sustained upward momentum."",
+    ""The Bollinger bands are narrow, suggesting low volatility but potential for a breakout, supporting current support and resistance levels."",
+    ""ADX remains above 20, indicating a trending market, reinforcing the bullish signal."",
+    ""Market momentum indicators (MACD, +DI, -DI) continue to support a bullish bias."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper hierarchy."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring the correct hierarchy."",
+    ""Market conditions support a long bias; no short action is recommended."",
+    ""All S/R triplets are ordered correctly: stoploss < support < entry < target < resistance.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2333.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2340.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2420.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2328.0,
+  ""resistance"": 2344.0,
+  ""support_realtime"": 2331.2,
+  ""resistance_realtime"": 2346.5,
+  ""support_1d"": 2329.0,
+  ""resistance_1d"": 2345.0,
+  ""support_1w"": 2315.0,
+  ""resistance_1w"": 2350.0,
+  ""support_3m"": 2290.0,
+  ""resistance_3m"": 2380.0,
+  ""sr_range_pct_realtime"": 0.255,
+  ""sr_range_pct_1d"": 0.298,
+  ""sr_range_pct_1w"": 1.07,
+  ""sr_range_pct_3m"": 3.42,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2340.0,
+    ""upper_band"": 2346.5,
+    ""lower_band"": 2333.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2351.022,
+  ""target"": 2353.84,
+  ""stoploss"": 2328.821,
+  ""entry1"": 2352.028,
+  ""target1"": 2354.85,
+  ""stoploss1"": 2329.817,
+  ""entry2"": 2338.95,
+  ""target2"": 2341.76,
+  ""stoploss2"": 2316.863,
+  ""entry3"": 2340.0,
+  ""target3"": 2348.19,
+  ""stoploss3"": 2291.95,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 14:36:27"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:35:00+00:00"",
+    ""open"": 2337.4,
+    ""high"": 2338.9,
+    ""low"": 2332.5,
+    ""close"": 2334.2,
+    ""volume"": 32285
+  },
+  ""sr_range_pct"": 0.2995,
+  ""respected_S"": 4,
+  ""respected_R"": 4,
+  ""respected_S1"": 4,
+  ""respected_R1"": 4,
+  ""respected_S2"": 4,
+  ""respected_R2"": 4,
+  ""respected_S3"": 4,
+  ""respected_R3"": 5
+}"
+2025-09-05 15:03:10,"{
+  ""reason"": [
+    ""Recent data confirms the close price at 2329.4 remains above the previous support levels, indicating sustained upward momentum."",
+    ""The Bollinger bands are narrow, suggesting low volatility but potential for a breakout, supporting current support and resistance levels."",
+    ""ADX remains above 20, indicating a trending market, reinforcing the bullish signal."",
+    ""Market momentum indicators (MACD, +DI, -DI) continue to support a bullish bias."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper hierarchy."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring the correct hierarchy."",
+    ""Market conditions support a long bias; no short action is recommended."",
+    ""All S/R triplets are ordered correctly: stoploss < support < entry < target < resistance.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2329.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2340.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2420.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2328.0,
+  ""resistance"": 2344.0,
+  ""support_realtime"": 2329.8,
+  ""resistance_realtime"": 2336.7,
+  ""support_1d"": 2329.0,
+  ""resistance_1d"": 2345.0,
+  ""support_1w"": 2315.0,
+  ""resistance_1w"": 2350.0,
+  ""support_3m"": 2290.0,
+  ""resistance_3m"": 2380.0,
+  ""sr_range_pct_realtime"": 0.6558,
+  ""sr_range_pct_1d"": 0.6858,
+  ""sr_range_pct_1w"": 1.5001,
+  ""sr_range_pct_3m"": 3.8574,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2340.0,
+    ""upper_band"": 2346.5,
+    ""lower_band"": 2333.5
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2341.968,
+  ""target"": 2344.78,
+  ""stoploss"": 2319.852,
+  ""entry1"": 2342.974,
+  ""target1"": 2345.79,
+  ""stoploss1"": 2320.849,
+  ""entry2"": 2335.9,
+  ""target2"": 2338.7,
+  ""stoploss2"": 2306.898,
+  ""entry3"": 2340.0,
+  ""target3"": 2348.19,
+  ""stoploss3"": 2281.985,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""last_updated"": ""2025-09-05 14:48:55"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:47:00+00:00"",
+    ""open"": 2331.9,
+    ""high"": 2333.7,
+    ""low"": 2331.9,
+    ""close"": 2333.2,
+    ""volume"": 8675
+  }
+}"
+2025-09-05 15:15:29,"{
+  ""reason"": [
+    ""Recent data confirms the close price at 2311.2 remains above the previous support levels, indicating sustained upward momentum."",
+    ""The Bollinger bands are narrow, suggesting low volatility but potential for a breakout, supporting current support and resistance levels."",
+    ""ADX remains above 20, indicating a trending market, reinforcing the bullish signal."",
+    ""Market momentum indicators (MACD, +DI, -DI) continue to support a bullish bias."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper hierarchy."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring the correct hierarchy."",
+    ""Market conditions support a long bias; no short action is recommended."",
+    ""All S/R triplets are ordered correctly: stoploss < support < entry < target < resistance.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2313.36,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2324.94,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2414.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2309.0,
+  ""resistance"": 2320.0,
+  ""support_realtime"": 2310.8,
+  ""resistance_realtime"": 2318.5,
+  ""support_1d"": 2310.0,
+  ""resistance_1d"": 2321.0,
+  ""support_1w"": 2295.0,
+  ""resistance_1w"": 2330.0,
+  ""support_3m"": 2260.0,
+  ""resistance_3m"": 2340.0,
+  ""sr_range_pct_realtime"": 0.304,
+  ""sr_range_pct_1d"": 0.690,
+  ""sr_range_pct_1w"": 1.517,
+  ""sr_range_pct_3m"": 3.876,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2318.0,
+    ""lower_band"": 2310.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2312.0,
+  ""target"": 2320.0,
+  ""stoploss"": 2308.0,
+  ""entry1"": 2312.0,
+  ""target1"": 2318.0,
+  ""stoploss1"": 2308.0,
+  ""entry2"": 2314.0,
+  ""target2"": 2318.5,
+  ""stoploss2"": 2309.5,
+  ""entry3"": 2314.0,
+  ""target3"": 2320.0,
+  ""stoploss3"": 2308.0,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:12:00+00:00"",
+    ""open"": 2314.0,
+    ""high"": 2315.3,
+    ""low"": 2311.1,
+    ""close"": 2311.2,
+    ""volume"": 23548
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2313.36
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2324.94
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2414.55
+    }
+  }
+}"
+2025-09-05 15:27:42,"{
+  ""reason"": [
+    ""Historical data indicates the recent close at 2321.2 is above previous support levels, suggesting sustained upward momentum."",
+    ""The Bollinger bands are narrow, indicating low volatility but potential for breakout, supporting current levels."",
+    ""ADX remains above 20, confirming a trending bullish market."",
+    ""Market momentum indicators (MACD, +DI, -DI) continue to support bullish bias."",
+    ""Trade levels have been adjusted upward to reflect recent price action, maintaining proper hierarchy."",
+    ""Support levels are set below the current close, and resistance levels above, ensuring correct hierarchy."",
+    ""Market conditions favor a long bias; no short action is recommended."",
+    ""All S/R triplets are ordered correctly: stoploss < support < entry < target < resistance.""
+  ],
+  ""signal"": ""Long"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.005,
+      ""price"": 2322.33,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 2334.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.045,
+      ""price"": 2414.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 2318.0,
+  ""resistance"": 2327.0,
+  ""support_realtime"": 2319.8,
+  ""resistance_realtime"": 2326.5,
+  ""support_1d"": 2319.0,
+  ""resistance_1d"": 2328.0,
+  ""support_1w"": 2298.0,
+  ""resistance_1w"": 2335.0,
+  ""support_3m"": 2265.0,
+  ""resistance_3m"": 2345.0,
+  ""sr_range_pct_realtime"": 0.371,
+  ""sr_range_pct_1d"": 0.468,
+  ""sr_range_pct_1w"": 1.519,
+  ""sr_range_pct_3m"": 3.456,
+  ""volume_threshold"": 178607,
+  ""bollinger"": {
+    ""mid_price"": 2314.0,
+    ""upper_band"": 2318.0,
+    ""lower_band"": 2310.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2314.0,
+  ""target"": 2322.099,
+  ""stoploss"": 2302.0,
+  ""entry1"": 2314.0,
+  ""target1"": 2316.02,
+  ""stoploss1"": 2286.968,
+  ""entry2"": 2314.0,
+  ""target2"": 2322.099,
+  ""stoploss2"": 2286.968,
+  ""entry3"": 2314.0,
+  ""target3"": 2322.099,
+  ""stoploss3"": 2286.968,
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:14:00+00:00"",
+    ""open"": 2313.0,
+    ""high"": 2314.9,
+    ""low"": 2311.7,
+    ""close"": 2314.5,
+    ""volume"": 35934
+  }
+}"

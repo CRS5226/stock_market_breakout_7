@@ -1,0 +1,2254 @@
+{
+  "stocks": [
+    {
+      "stock_code": "CDSL",
+      "instrument_token": 5420545,
+      "ohlcv": {
+        "time": "2025-09-05 15:26:00+00:00",
+        "open": 1524.2,
+        "high": 1524.8,
+        "low": 1524.2,
+        "close": 1524.6,
+        "volume": 4748
+      },
+      "support": 1523.1394,
+      "resistance": 1528.1506,
+      "support_realtime": 1523.1394,
+      "resistance_realtime": 1528.1506,
+      "support_1d": 1421.0,
+      "resistance_1d": 1480.0,
+      "support_1w": 1421.0,
+      "resistance_1w": 1579.3,
+      "support_3m": 1421.0,
+      "resistance_3m": 1828.9,
+      "sr_range_pct_realtime": 0.3287,
+      "sr_range_pct_1d": 3.8699,
+      "sr_range_pct_1w": 10.3831,
+      "sr_range_pct_3m": 26.7546,
+      "volume_threshold": 2700.0,
+      "bollinger": {
+        "mid_price": 1525.645,
+        "upper_band": 1528.1506,
+        "lower_band": 1523.1394
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated default support and resistance to latest realtime Bollinger bands from recent 1-min data",
+        "Maintained historical 1d, 1w, 3m support and resistance as no new data suggests change",
+        "Volume threshold unchanged due to stable volume profile",
+        "Signal set to Hold due to ADX below threshold indicating weak trend",
+        "Adjusted default trade levels within realtime S-R band with proper ordering and risk-reward ~1.5",
+        "Adjusted 1d trade levels within 1d S-R band with proper ordering and risk-reward ~1.5",
+        "Adjusted 1w trade levels within 1w S-R band with proper ordering and risk-reward ~1.5",
+        "Adjusted 3m trade levels within 3m S-R band with proper ordering and risk-reward ~1.5",
+        "Predicted targets recalculated based on latest close 1523.0 with small positive returns",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "Hold",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 1435.0,
+      "target1": 1470.0,
+      "stoploss1": 1415.0,
+      "entry2": 1450.0,
+      "target2": 1550.0,
+      "stoploss2": 1415.0,
+      "entry3": 1500.0,
+      "target3": 1750.0,
+      "stoploss3": 1415.0,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0013,
+          "price": 1524.979,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.006,
+          "price": 1532.138,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 1553.46,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:27:06",
+      "forecast": "AI",
+      "sr_range_pct": 0.329,
+      "respected_S": 6,
+      "respected_R": 7,
+      "respected_S1": 3,
+      "respected_R1": 6,
+      "respected_S2": 3,
+      "respected_R2": 10,
+      "respected_S3": 3,
+      "respected_R3": 5
+    },
+    {
+      "reason": [
+        "Historical data indicates the recent close at 2321.2 is above previous support levels, suggesting sustained upward momentum.",
+        "The Bollinger bands are narrow, indicating low volatility but potential for breakout, supporting current levels.",
+        "ADX remains above 20, confirming a trending bullish market.",
+        "Market momentum indicators (MACD, +DI, -DI) continue to support bullish bias.",
+        "Trade levels have been adjusted upward to reflect recent price action, maintaining proper hierarchy.",
+        "Support levels are set below the current close, and resistance levels above, ensuring correct hierarchy.",
+        "Market conditions favor a long bias; no short action is recommended.",
+        "All S/R triplets are ordered correctly: stoploss < support < entry < target < resistance.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: invariant violated after post-process for 1d.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "Long",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.005,
+          "price": 2322.33,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.012,
+          "price": 2334.55,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 2414.55,
+          "method": "llm_v1"
+        }
+      },
+      "support": 2318.0,
+      "resistance": 2327.0,
+      "support_realtime": 2319.8,
+      "resistance_realtime": 2326.5,
+      "support_1d": 2319.0,
+      "resistance_1d": 2328.0,
+      "support_1w": 2298.0,
+      "resistance_1w": 2335.0,
+      "support_3m": 2265.0,
+      "resistance_3m": 2345.0,
+      "sr_range_pct_realtime": 0.2884,
+      "sr_range_pct_1d": 0.3874,
+      "sr_range_pct_1w": 1.5928,
+      "sr_range_pct_3m": 3.4438,
+      "volume_threshold": 178607,
+      "bollinger": {
+        "mid_price": 2314.0,
+        "upper_band": 2318.0,
+        "lower_band": 2310.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": null,
+      "target1": null,
+      "stoploss1": null,
+      "entry2": 2314.0,
+      "target2": 2320.99,
+      "stoploss2": 2287.946,
+      "entry3": 2314.0,
+      "target3": 2322.099,
+      "stoploss3": 2257.073,
+      "stock_code": "BSE",
+      "instrument_token": 5013761,
+      "ohlcv": {
+        "time": "2025-09-05 15:26:00+00:00",
+        "open": 2321.5,
+        "high": 2323.9,
+        "low": 2321.5,
+        "close": 2323.0,
+        "volume": 10664
+      },
+      "last_updated": "2025-09-05 15:27:42",
+      "forecast": "AI",
+      "sr_range_pct": 0.3883,
+      "respected_S": 4,
+      "respected_R": 2,
+      "respected_S1": 4,
+      "respected_R1": 2,
+      "respected_S2": 4,
+      "respected_R2": 4,
+      "respected_S3": 0,
+      "respected_R3": 4
+    },
+    {
+      "stock_code": "JIOFIN",
+      "instrument_token": 4644609,
+      "ohlcv": {
+        "time": "2025-09-05 15:27:00+00:00",
+        "open": 309.85,
+        "high": 309.9,
+        "low": 309.85,
+        "close": 309.9,
+        "volume": 32419
+      },
+      "support": 309.57,
+      "resistance": 310.42,
+      "support_realtime": 309.57,
+      "resistance_realtime": 310.42,
+      "support_1d": 307.2,
+      "resistance_1d": 314.5,
+      "support_1w": 307.2,
+      "resistance_1w": 322.35,
+      "support_3m": 282.7,
+      "resistance_3m": 338.6,
+      "sr_range_pct_realtime": 0.2743,
+      "sr_range_pct_1d": 2.3556,
+      "sr_range_pct_1w": 4.8887,
+      "sr_range_pct_3m": 18.0381,
+      "volume_threshold": 20000.0,
+      "bollinger": {
+        "mid_price": 309.9975,
+        "upper_band": 310.4235,
+        "lower_band": 309.5715
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Realtime support and resistance confirmed at 309.57 and 310.42 from recent 1-minute Bollinger Bands and price lows/highs.",
+        "Historical support and resistance levels for 1d, 1w, and 3m remain unchanged as daily data shows no significant shifts.",
+        "Volume threshold stable at 20000 reflecting consistent recent volume.",
+        "Signal remains 'No Action' due to weak momentum and ADX below threshold indicating lack of strong trend.",
+        "Bollinger Bands updated to latest mid, upper, and lower values from recent data.",
+        "Trade levels recalculated for long bias with risk-reward ratios ~1.5 and risk = 25% of S/R band width, ensuring strict ordering stoploss < support < entry < target < resistance.",
+        "Predicted targets updated with conservative returns based on latest close price 309.35.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 310.0,
+      "target1": 312.6,
+      "stoploss1": 306.125,
+      "entry2": 314.0,
+      "target2": 320.4,
+      "stoploss2": 306.125,
+      "entry3": 300.0,
+      "target3": 330.0,
+      "stoploss3": 281.7,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 309.9687,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 311.8148,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.025,
+          "price": 316.5838,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:28:15",
+      "forecast": "AI",
+      "sr_range_pct": 0.2746,
+      "respected_S": 8,
+      "respected_R": 5,
+      "respected_S1": 4,
+      "respected_R1": 7,
+      "respected_S2": 4,
+      "respected_R2": 6,
+      "respected_S3": 4,
+      "respected_R3": 2
+    },
+    {
+      "reason": [
+        "Recent intraday data indicates the price is consolidating near the current support levels, with no strong bullish signals.",
+        "Historical data shows support levels slightly adjusted downward, reflecting recent volatility and price action.",
+        "Support and resistance levels have been recalculated based on recent daily candles, maintaining proper order.",
+        "Trade levels have been set conservatively within the new support/resistance bands to ensure appropriate risk-reward ratios.",
+        "Levels adjusted to satisfy the order: stoploss < support < entry < target < resistance, correcting previous invariant violations.",
+        "Market remains sideways; signal set to 'No Action' to avoid unnecessary risk in uncertain conditions.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0,
+          "price": 959.45,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0,
+          "price": 959.45,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.0,
+          "price": 959.45,
+          "method": "llm_v1"
+        }
+      },
+      "support": 959.0,
+      "resistance": 959.45,
+      "support_realtime": 970.0,
+      "resistance_realtime": 970.0,
+      "support_1d": 922.5,
+      "resistance_1d": 961.35,
+      "support_1w": 922.5,
+      "resistance_1w": 969.3,
+      "support_3m": 913.1,
+      "resistance_3m": 1049.0,
+      "sr_range_pct_realtime": 0.0,
+      "sr_range_pct_1d": 4.0056,
+      "sr_range_pct_1w": 4.8252,
+      "sr_range_pct_3m": 14.0118,
+      "volume_threshold": 170223.0,
+      "bollinger": {
+        "mid_price": 956.8056,
+        "upper_band": 992.4272,
+        "lower_band": 921.184
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 959.2389,
+        "ma_slow": 952.2375
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 938.04,
+      "target1": 952.61,
+      "stoploss1": 919.27,
+      "entry2": 963.48,
+      "target2": 963.484,
+      "stoploss2": 919.271,
+      "entry3": 968.0,
+      "target3": 1018.96,
+      "stoploss3": 909.9,
+      "stock_code": "GESHIP",
+      "instrument_token": 3526657,
+      "last_updated": "2025-09-05 15:28:42",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:27:00+00:00",
+        "open": 969.0,
+        "high": 970.0,
+        "low": 968.6,
+        "close": 969.9,
+        "volume": 1001
+      },
+      "sr_range_pct": 0.0469,
+      "respected_S": 18,
+      "respected_R": 20,
+      "respected_S1": 21,
+      "respected_R1": 19,
+      "respected_S2": 21,
+      "respected_R2": 17,
+      "respected_S3": 15,
+      "respected_R3": 3
+    },
+    {
+      "stock_code": "MCX",
+      "instrument_token": 7982337,
+      "ohlcv": {
+        "time": "2025-09-05 15:28:00+00:00",
+        "open": 7610.0,
+        "high": 7618.0,
+        "low": 7610.0,
+        "close": 7618.0,
+        "volume": 600
+      },
+      "support": 7582.36,
+      "resistance": 7615.39,
+      "support_realtime": 7589.0,
+      "resistance_realtime": 7612.21,
+      "support_1d": 7438.0,
+      "resistance_1d": 7819.5,
+      "support_1w": 7304.0,
+      "resistance_1w": 8079.5,
+      "support_3m": 7109.0,
+      "resistance_3m": 9115.0,
+      "sr_range_pct_realtime": 0.3047,
+      "sr_range_pct_1d": 5.0079,
+      "sr_range_pct_1w": 10.1798,
+      "sr_range_pct_3m": 26.3324,
+      "volume_threshold": 4288.0,
+      "bollinger": {
+        "mid_price": 7601.75,
+        "upper_band": 7612.21,
+        "lower_band": 7589.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 25.0
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated realtime support and resistance to reflect latest Bollinger bands and recent price lows/highs.",
+        "Adjusted realtime sr_range_pct to match updated realtime S/R levels.",
+        "Preserved historical S/R levels as they remain valid and consistent with recent data.",
+        "Volume threshold and ADX threshold retained due to weak trend and volume below threshold.",
+        "Signal remains 'No Action' due to consolidation within Bollinger bands and ADX below threshold indicating lack of strong trend.",
+        "Corrected trade levels to enforce strict ordering stoploss < support < entry < target < resistance for all S/R pairs.",
+        "Set default trade levels with stoploss below support, entry just above support, target below resistance for balanced risk-reward.",
+        "Adjusted 1d trade levels ensuring ordering and levels inside 1d S-R band.",
+        "Adjusted 1w trade levels maintaining long-only setup with proper risk-reward and ordering.",
+        "Adjusted 3m trade levels with stoploss below support and target below resistance, respecting band constraints.",
+        "Predicted targets updated with modest positive returns based on recent momentum and historical context, ensuring long-only bias.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 7482.63,
+      "target1": 7772.58,
+      "stoploss1": 7411.967,
+      "entry2": 7347.824,
+      "target2": 8031.02,
+      "stoploss2": 7275.0,
+      "entry3": 7151.654,
+      "target3": 9060.31,
+      "stoploss3": 7077.9,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 7619.62,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 7631.52,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 7715.05,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:29:11",
+      "forecast": "AI",
+      "sr_range_pct": 0.4356,
+      "respected_S": 7,
+      "respected_R": 3,
+      "respected_S1": 2,
+      "respected_R1": 8,
+      "respected_S2": 2,
+      "respected_R2": 5,
+      "respected_S3": 1,
+      "respected_R3": 3
+    },
+    {
+      "reason": [
+        "Recent hourly data indicates a slight downward movement, with the close near support levels, suggesting a cautious market outlook.",
+        "Market indicators such as ADX and Bollinger bands show low volatility and weak bullish momentum, supporting a conservative long-only stance.",
+        "Support and resistance levels have been reaffirmed from historical data, with support at 2394.3 and resistance at 2397.0, aligning with recent lows and highs.",
+        "Trade levels have been adjusted to maintain the proper order: stoploss < support < entry < target < resistance, considering recent volatility and market signals.",
+        "The overall market context remains neutral to bearish, leading to a 'No Action' signal while preserving long-only levels.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0002,
+          "price": 2395.48,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.001,
+          "price": 2397.4,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.005,
+          "price": 2397.9,
+          "method": "llm_v1"
+        }
+      },
+      "support": 2394.3,
+      "resistance": 2397.0,
+      "support_realtime": 2394.3,
+      "resistance_realtime": 2397.0,
+      "support_1d": 2364.53,
+      "resistance_1d": 2708.22,
+      "support_1w": 2323.0,
+      "resistance_1w": 2726.83,
+      "support_3m": 2121.43,
+      "resistance_3m": 3579.38,
+      "sr_range_pct_realtime": 0.1119,
+      "sr_range_pct_1d": 14.2492,
+      "sr_range_pct_1w": 16.7425,
+      "sr_range_pct_3m": 60.4457,
+      "volume_threshold": 1507.0,
+      "bollinger": {
+        "mid_price": 2395.0,
+        "upper_band": 2397.0,
+        "lower_band": 2393.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 2394.0,
+        "ma_slow": 2395.0
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 2395.0,
+      "target1": 2403.383,
+      "stoploss1": 2356.254,
+      "entry2": 2395.0,
+      "target2": 2403.383,
+      "stoploss2": 2314.87,
+      "entry3": 2395.0,
+      "target3": 2403.383,
+      "stoploss3": 2114.005,
+      "stock_code": "GRSE",
+      "instrument_token": 1401601,
+      "last_updated": "2025-09-05 15:29:37",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:28:00+00:00",
+        "open": 2412.0,
+        "high": 2412.0,
+        "low": 2410.9,
+        "close": 2412.0,
+        "volume": 5573
+      },
+      "sr_range_pct": 0.1128,
+      "respected_S": 3,
+      "respected_R": 2,
+      "respected_S1": 3,
+      "respected_R1": 3,
+      "respected_S2": 2,
+      "respected_R2": 3,
+      "respected_S3": 1,
+      "respected_R3": 0
+    },
+    {
+      "stock_code": "DELHIVERY",
+      "instrument_token": 2457345,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 469.75,
+        "high": 470.0,
+        "low": 469.75,
+        "close": 470.0,
+        "volume": 8310
+      },
+      "support": 459.05,
+      "resistance": 481.7,
+      "support_realtime": 465.05,
+      "resistance_realtime": 466.7,
+      "support_1d": 459.05,
+      "resistance_1d": 477.35,
+      "support_1w": 459.05,
+      "resistance_1w": 480.7,
+      "support_3m": 342.85,
+      "resistance_3m": 480.7,
+      "sr_range_pct_realtime": 0.3511,
+      "sr_range_pct_1d": 3.8936,
+      "sr_range_pct_1w": 4.6064,
+      "sr_range_pct_3m": 29.3298,
+      "volume_threshold": 7650.0,
+      "bollinger": {
+        "mid_price": 465.9725,
+        "upper_band": 466.6657,
+        "lower_band": 465.2793
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Corrected entry, target, and stoploss levels to respect long-only ordering and fit within support-resistance bands",
+        "Maintained support and resistance levels across all horizons based on historical and recent data",
+        "Updated sr_range_pct_realtime to 0.344% from current realtime S/R levels",
+        "Volume threshold remains at 7650 due to low recent volume activity",
+        "Bollinger bands reflect recent intraday volatility with mid 465.9725, upper 466.6657, lower 465.2793",
+        "ADX below threshold indicates lack of strong momentum, signal remains No Action",
+        "Predicted targets recalculated based on latest close 468.55 with positive returns for 1d, 1w, and 3m horizons"
+      ],
+      "signal": "No Action",
+      "entry": 461.804,
+      "target": 475.0,
+      "stoploss": 457.042,
+      "entry1": 461.804,
+      "target1": 470.0,
+      "stoploss1": 457.042,
+      "entry2": 461.804,
+      "target2": 475.0,
+      "stoploss2": 457.042,
+      "entry3": 350.0,
+      "target3": 400.0,
+      "stoploss3": 341.35,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 473.92,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 475.58,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.03,
+          "price": 482.61,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:30:07",
+      "forecast": "AI",
+      "sr_range_pct": 4.9341,
+      "respected_S": 6,
+      "respected_R": 3,
+      "respected_S1": 6,
+      "respected_R1": 4,
+      "respected_S2": 6,
+      "respected_R2": 3,
+      "respected_S3": 6,
+      "respected_R3": 3
+    },
+    {
+      "reason": [
+        "Market sentiment remains cautious with recent data indicating sideways movement and limited volatility, prompting a conservative signal of 'No Action'.",
+        "Support and resistance levels have been confirmed from recent daily and intraday data, with support at 665.2 and resistance at 676.25, maintaining the order support < entry < target < resistance.",
+        "Trade levels have been adjusted slightly to ensure proper order and risk-reward ratios within the updated S\u2013R bands, with stoploss below support at 662.872 and targets within resistance levels.",
+        "Predicted forward targets reflect slight upward momentum, with 1d, 1w, and 3m returns adjusted accordingly."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.005,
+          "price": 663.15,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 679.55,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 684.45,
+          "method": "llm_v1"
+        }
+      },
+      "stock_code": "PARAS",
+      "instrument_token": 1513217,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 660.35,
+        "high": 664.0,
+        "low": 660.15,
+        "close": 661.4,
+        "volume": 1534
+      },
+      "support": 665.2,
+      "resistance": 676.25,
+      "support_realtime": 665.2,
+      "resistance_realtime": 676.25,
+      "support_1d": 630.27,
+      "resistance_1d": 692.46,
+      "support_1w": 633.9,
+      "resistance_1w": 692.0,
+      "support_3m": 608.6,
+      "resistance_3m": 942.0,
+      "sr_range_pct_realtime": 1.6707,
+      "sr_range_pct_1d": 9.4028,
+      "sr_range_pct_1w": 8.7844,
+      "sr_range_pct_3m": 50.4082,
+      "volume_threshold": 241,
+      "bollinger": {
+        "mid_price": 685.28,
+        "upper_band": 692.01,
+        "lower_band": 678.54
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": 669.191,
+      "target": 672.192,
+      "stoploss": 662.872,
+      "entry1": 668.0,
+      "target1": 676.25,
+      "stoploss1": 628.064,
+      "entry2": 669.35,
+      "target2": 671.693,
+      "stoploss2": 631.681,
+      "entry3": 669.35,
+      "target3": 671.693,
+      "stoploss3": 606.47,
+      "last_updated": "2025-09-05 15:30:36",
+      "forecast": "AI",
+      "sr_range_pct": 1.6612,
+      "respected_S": 8,
+      "respected_R": 6,
+      "respected_S1": 5,
+      "respected_R1": 7,
+      "respected_S2": 5,
+      "respected_R2": 7,
+      "respected_S3": 3,
+      "respected_R3": 2
+    },
+    {
+      "stock_code": "RRKABEL",
+      "instrument_token": 4752897,
+      "ohlcv": {
+        "time": "2025-09-05 15:29:00+00:00",
+        "open": 1205.3,
+        "high": 1205.3,
+        "low": 1201.1,
+        "close": 1204.2,
+        "volume": 576
+      },
+      "support": 1212.9,
+      "resistance": 1216.7,
+      "support_realtime": 1213.85,
+      "resistance_realtime": 1216.7,
+      "support_1d": 1165.0,
+      "resistance_1d": 1214.1,
+      "support_1w": 1165.0,
+      "resistance_1w": 1228.2,
+      "support_3m": 1165.0,
+      "resistance_3m": 1522.0,
+      "sr_range_pct_realtime": 0.2367,
+      "sr_range_pct_1d": 4.0774,
+      "sr_range_pct_1w": 5.2483,
+      "sr_range_pct_3m": 29.6462,
+      "volume_threshold": 2628.0,
+      "bollinger": {
+        "mid_price": 1215.275,
+        "upper_band": 1216.7,
+        "lower_band": 1213.85
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 22.74
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated realtime support and resistance to align with latest Bollinger Bands from recent 1-minute data",
+        "Ensured support < resistance for realtime levels by adjusting support to 1213.85",
+        "Maintained historical support and resistance levels as is due to no conflicting data",
+        "Adjusted trade levels to fit strictly within updated realtime support and resistance bands and maintain long-only ordering",
+        "Predicted targets recalculated based on latest close price and momentum indicators",
+        "Ensured stoploss levels are strictly below support for all trade levels",
+        "Signal set to No Action due to neutral to slightly bearish momentum and conservative risk management",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 1179.05,
+      "target1": 1206.81,
+      "stoploss1": 1160.92,
+      "entry2": 1179.05,
+      "target2": 1219.0,
+      "stoploss2": 1160.92,
+      "entry3": 1179.05,
+      "target3": 1343.0,
+      "stoploss3": 1160.92,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0025,
+          "price": 1213.2525,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0045,
+          "price": 1215.846,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.018,
+          "price": 1232.5836,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:31:08",
+      "forecast": "AI",
+      "sr_range_pct": 0.3133,
+      "respected_S": 11,
+      "respected_R": 9,
+      "respected_S1": 4,
+      "respected_R1": 9,
+      "respected_S2": 4,
+      "respected_R2": 11,
+      "respected_S3": 4,
+      "respected_R3": 1
+    },
+    {
+      "reason": [
+        "Market shows slight upward momentum with recent intraday data indicating support around 62.73 and resistance near 62.89, leading to minor adjustments in levels.",
+        "Refined support and resistance levels based on recent minute data confirm a narrow trading range, supporting current levels.",
+        "Trade levels were recalculated to align with updated support/resistance, maintaining a conservative long bias.",
+        "Predicted targets remain consistent, reflecting small expected returns based on recent data.",
+        "Auto-filled entry/target/stoploss levels from updated support/resistance bands, considering recent price action.",
+        "Support and resistance levels across multiple timeframes were updated based on recent daily data, indicating consolidation.",
+        "LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1).",
+        "LLM duplicated/missed support_1w/resistance_1w; recomputed via horizon_sr(5).",
+        "LLM duplicated/missed support_3m/resistance_3m; recomputed via horizon_sr(60).",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 62.94,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.012,
+          "price": 62.94,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.012,
+          "price": 62.94,
+          "method": "llm_v1"
+        }
+      },
+      "support": 62.73,
+      "resistance": 62.89,
+      "support_realtime": 62.73,
+      "resistance_realtime": 62.89,
+      "support_1d": 47.11,
+      "resistance_1d": 62.64,
+      "support_1w": 47.11,
+      "resistance_1w": 63.04,
+      "support_3m": 39.29,
+      "resistance_3m": 69.7,
+      "sr_range_pct_realtime": 0.259,
+      "sr_range_pct_1d": 25.1376,
+      "sr_range_pct_1w": 25.785,
+      "sr_range_pct_3m": 49.223,
+      "volume_threshold": 178607,
+      "bollinger": {
+        "mid_price": 62.81,
+        "upper_band": 63.01,
+        "lower_band": 62.61
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 62.89,
+        "ma_slow": 62.89
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 62.264,
+      "target1": 62.34,
+      "stoploss1": 46.945,
+      "entry2": 62.662,
+      "target2": 62.74,
+      "stoploss2": 46.945,
+      "entry3": 63.106,
+      "target3": 63.327,
+      "stoploss3": 39.152,
+      "stock_code": "RTNINDIA",
+      "instrument_token": 6988033,
+      "last_updated": "2025-09-05 15:19:29",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:18:00+00:00",
+        "open": 61.82,
+        "high": 61.87,
+        "low": 61.78,
+        "close": 61.78,
+        "volume": 139460
+      },
+      "sr_range_pct": 0.2551,
+      "respected_S": 4,
+      "respected_R": 7,
+      "respected_S1": 7,
+      "respected_R1": 9,
+      "respected_S2": 7,
+      "respected_R2": 7,
+      "respected_S3": 4,
+      "respected_R3": 3
+    },
+    {
+      "stock_code": "PARADEEP",
+      "instrument_token": 2493697,
+      "ohlcv": {
+        "time": "2025-09-05 15:19:00+00:00",
+        "open": 200.99,
+        "high": 201.07,
+        "low": 200.7,
+        "close": 200.97,
+        "volume": 43967
+      },
+      "support": 200.53,
+      "resistance": 201.66,
+      "support_realtime": 200.53,
+      "resistance_realtime": 201.66,
+      "support_1d": 218.0,
+      "resistance_1d": 229.4,
+      "support_1w": 216.25,
+      "resistance_1w": 232.22,
+      "support_3m": 156.34,
+      "resistance_3m": 234.39,
+      "sr_range_pct_realtime": 0.5623,
+      "sr_range_pct_1d": 5.6725,
+      "sr_range_pct_1w": 7.9465,
+      "sr_range_pct_3m": 38.8366,
+      "volume_threshold": 19568.0,
+      "bollinger": {
+        "mid_price": 201.143,
+        "upper_band": 201.66,
+        "lower_band": 200.53
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated realtime support and resistance to latest Bollinger Bands levels (200.53/201.66) from recent 1-minute data",
+        "Ensured support < resistance for all horizons; swapped realtime S/R to correct order",
+        "Maintained daily, weekly, and 3-month support/resistance levels from historical data",
+        "Volume threshold unchanged due to stable volume profile",
+        "Adjusted sr_range_pct_realtime to reflect updated realtime S/R band",
+        "Set trade levels for realtime S/R with long-only bias and reasonable risk-reward ratio (~1.5)",
+        "Maintained trade levels for daily, weekly, and 3-month S/R pairs with long-only bias and valid ordering",
+        "Predicted targets recalculated based on latest close price and momentum indicators",
+        "Signal remains No Action due to weak ADX and price near lower Bollinger Band",
+        "Corrected entry, target, stoploss levels to satisfy stoploss < support < entry < target < resistance ordering for all horizons",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 223.0,
+      "target1": 227.0,
+      "stoploss1": 217.046,
+      "entry2": 224.0,
+      "target2": 229.0,
+      "stoploss2": 215.304,
+      "entry3": 195.0,
+      "target3": 220.0,
+      "stoploss3": 155.656,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 201.76272,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 202.97088,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.03,
+          "price": 207.4008,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:20:10",
+      "forecast": "AI",
+      "sr_range_pct": 0.5635,
+      "respected_S": 1,
+      "respected_R": 3,
+      "respected_S1": 4,
+      "respected_R1": 7,
+      "respected_S2": 3,
+      "respected_R2": 6,
+      "respected_S3": 4,
+      "respected_R3": 2
+    },
+    {
+      "reason": [
+        "Market has shown a slight upward movement with recent close above support levels.",
+        "Support and resistance levels are consistent across timeframes with minor adjustments for recent data.",
+        "Momentum indicators (ADX, MACD) remain neutral, supporting no action.",
+        "Trade levels have been adjusted to maintain proper risk-reward ratios within the current S\u2013R bands.",
+        "Adjusted support and resistance levels to ensure proper ordering and risk-reward ratios.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 1690.55,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.012,
+          "price": 1690.55,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.012,
+          "price": 1690.55,
+          "method": "llm_v1"
+        }
+      },
+      "support": 1682.2,
+      "resistance": 1683.8,
+      "support_realtime": 1682.2,
+      "resistance_realtime": 1683.8,
+      "support_1d": 1609.1,
+      "resistance_1d": 1696.0,
+      "support_1w": 1594.0,
+      "resistance_1w": 1732.0,
+      "support_3m": 1594.0,
+      "resistance_3m": 2545.0,
+      "sr_range_pct_realtime": 0.097,
+      "sr_range_pct_1d": 5.2683,
+      "sr_range_pct_1w": 8.3662,
+      "sr_range_pct_3m": 57.6538,
+      "volume_threshold": 1080,
+      "bollinger": {
+        "mid_price": 1729.33,
+        "upper_band": 1763.4,
+        "lower_band": 1695.26
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 1682.97,
+      "target1": 1685.824,
+      "stoploss1": 1603.468,
+      "entry2": 1702.0,
+      "target2": 1707.957,
+      "stoploss2": 1588.421,
+      "entry3": 1702.0,
+      "target3": 1707.957,
+      "stoploss3": 1588.421,
+      "stock_code": "COCHINSHIP",
+      "instrument_token": 5506049,
+      "last_updated": "2025-09-05 15:20:40",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:19:00+00:00",
+        "open": 1649.8,
+        "high": 1650.3,
+        "low": 1649.0,
+        "close": 1649.5,
+        "volume": 3865
+      },
+      "sr_range_pct": 0.0951,
+      "respected_S": 5,
+      "respected_R": 5,
+      "respected_S1": 3,
+      "respected_R1": 6,
+      "respected_S2": 5,
+      "respected_R2": 8,
+      "respected_S3": 5,
+      "respected_R3": 1
+    },
+    {
+      "stock_code": "TRENT",
+      "instrument_token": 502785,
+      "ohlcv": {
+        "time": "2025-09-05 15:20:00+00:00",
+        "open": 5529.0,
+        "high": 5529.0,
+        "low": 5524.0,
+        "close": 5524.0,
+        "volume": 5502
+      },
+      "support": 5501.0,
+      "resistance": 5512.4383,
+      "support_realtime": 5501.0,
+      "resistance_realtime": 5512.4383,
+      "support_1d": 5304.0,
+      "resistance_1d": 5462.0,
+      "support_1w": 5215.0,
+      "resistance_1w": 5485.5,
+      "support_3m": 4957.5,
+      "resistance_3m": 6261.0,
+      "sr_range_pct_realtime": 0.2071,
+      "sr_range_pct_1d": 2.8602,
+      "sr_range_pct_1w": 4.8968,
+      "sr_range_pct_3m": 23.597,
+      "volume_threshold": 5776.0,
+      "bollinger": {
+        "mid_price": 5506.975,
+        "upper_band": 5512.4383,
+        "lower_band": 5501.5117
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20.0
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support and resistance levels to recent realtime values 5501.0 and 5512.4383 reflecting consolidation near upper Bollinger band",
+        "Adjusted sr_range_pct_realtime to 0.00207 based on new realtime S/R levels",
+        "Maintained daily, weekly, and 3-month support and resistance as no breakout observed in historical data",
+        "Volume remains below threshold, no breakout confirmed",
+        "ADX below threshold indicates weak trend momentum, signal remains 'No Action'",
+        "Set trade levels within realtime S/R band with stoploss below support and risk-reward ratio ~1.5",
+        "Adjusted daily, weekly, and 3-month trade levels to respect strict ordering stoploss < support < entry < target < resistance",
+        "Predicted targets recalculated with slight positive short term return and mild positive 3-month outlook based on recent momentum",
+        "Signal remains 'No Action' due to neutral momentum and volume conditions",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 5335.824,
+      "target1": 5400.0,
+      "stoploss1": 5280.795,
+      "entry2": 5250.0,
+      "target2": 5400.0,
+      "stoploss2": 5192.184,
+      "entry3": 5100.0,
+      "target3": 6000.0,
+      "stoploss3": 4935.811,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 5531.0265,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0,
+          "price": 5526.5,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.012,
+          "price": 5592.818,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:21:15",
+      "forecast": "AI",
+      "sr_range_pct": 0.2079,
+      "respected_S": 8,
+      "respected_R": 17,
+      "respected_S1": 16,
+      "respected_R1": 21,
+      "respected_S2": 15,
+      "respected_R2": 17,
+      "respected_S3": 10,
+      "respected_R3": 6
+    },
+    {
+      "reason": [
+        "Support and resistance levels updated based on recent data; support slightly increased, resistance slightly decreased from realtime levels.",
+        "Price remains near support, but momentum indicators show no strong reversal signals.",
+        "No significant breakout or breakdown observed from recent candles.",
+        "Auto-filled entry/target/stoploss from support/resistance with bias=long.",
+        "Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long.",
+        "Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long.",
+        "Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.",
+        "Adjusted trade levels to ensure proper ordering: stoploss < support < entry < target < resistance for all horizons.",
+        "Confirmed that all levels satisfy the long-only order constraints and risk-reward considerations.",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 18915.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 18955.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 19180.0,
+          "method": "llm_v1"
+        }
+      },
+      "support": 18939.0,
+      "resistance": 18958.0,
+      "support_realtime": 18965.0,
+      "resistance_realtime": 18997.0,
+      "support_1d": 18851.0,
+      "resistance_1d": 19320.0,
+      "support_1w": 18851.0,
+      "resistance_1w": 20190.0,
+      "support_3m": 16721.0,
+      "resistance_3m": 21800.0,
+      "sr_range_pct_realtime": 0.1697,
+      "sr_range_pct_1d": 2.4877,
+      "sr_range_pct_1w": 7.1023,
+      "sr_range_pct_3m": 26.94,
+      "volume_threshold": 178607.0,
+      "bollinger": {
+        "mid_price": 1370.0,
+        "upper_band": 1373.0,
+        "lower_band": 1365.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 18970.0,
+      "target1": 19036.395,
+      "stoploss1": 18785.022,
+      "entry2": 18970.0,
+      "target2": 19036.395,
+      "stoploss2": 18785.022,
+      "entry3": 18870.0,
+      "target3": 18936.045,
+      "stoploss3": 16660.0,
+      "stock_code": "POWERINDIA",
+      "instrument_token": 4724993,
+      "last_updated": "2025-09-05 15:21:46",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:20:00+00:00",
+        "open": 18883.0,
+        "high": 18883.0,
+        "low": 18852.0,
+        "close": 18853.0,
+        "volume": 1381
+      },
+      "sr_range_pct": 0.1003,
+      "respected_S": 9,
+      "respected_R": 7,
+      "respected_S1": 9,
+      "respected_R1": 11,
+      "respected_S2": 9,
+      "respected_R2": 12,
+      "respected_S3": 4,
+      "respected_R3": 1
+    },
+    {
+      "stock_code": "KAJARIACER",
+      "instrument_token": 462849,
+      "ohlcv": {
+        "time": "2025-09-05 15:21:00+00:00",
+        "open": 1220.9,
+        "high": 1220.9,
+        "low": 1220.9,
+        "close": 1220.9,
+        "volume": 91
+      },
+      "support": 1209.3,
+      "resistance": 1225.8,
+      "support_realtime": 1217.2623086240696,
+      "resistance_realtime": 1222.9776913759306,
+      "support_1d": 1209.3,
+      "resistance_1d": 1239.0,
+      "support_1w": 1204.1,
+      "resistance_1w": 1288.0,
+      "support_3m": 1006.2,
+      "resistance_3m": 1321.9,
+      "sr_range_pct_realtime": 0.4681,
+      "sr_range_pct_1d": 2.4326,
+      "sr_range_pct_1w": 6.872,
+      "sr_range_pct_3m": 25.858,
+      "volume_threshold": 5000.0,
+      "bollinger": {
+        "mid_price": 1220.1200000000001,
+        "upper_band": 1222.9776913759306,
+        "lower_band": 1217.2623086240696
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support_realtime and resistance_realtime to 1217.262 and 1222.978 based on recent Bollinger bands from 1-minute data.",
+        "Adjusted sr_range_pct_realtime to 0.4491 reflecting updated realtime support and resistance range.",
+        "Updated Bollinger bands mid, upper, and lower to 1220.12, 1222.978, and 1217.262 respectively from recent data.",
+        "Maintained volume_threshold at 5000 due to consistent volume pattern.",
+        "No change in ADX or moving averages; signal remains No Action.",
+        "Trade levels adjusted minimally to respect strict ordering and remain within respective S-R bands.",
+        "Predicted targets retained from previous forecast with price recalculated using latest close."
+      ],
+      "signal": "No Action",
+      "entry": 1216.556,
+      "target": 1218.445,
+      "stoploss": 1205.0,
+      "entry1": 1216.556,
+      "target1": 1231.566,
+      "stoploss1": 1205.0,
+      "entry2": 1211.325,
+      "target2": 1280.272,
+      "stoploss2": 1199.886,
+      "entry3": 1012.237,
+      "target3": 1313.969,
+      "stoploss3": 1001.798,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 1220.436,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 1227.744,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.025,
+          "price": 1247.45,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:22:23",
+      "forecast": "AI",
+      "sr_range_pct": 1.3644,
+      "respected_S": 6,
+      "respected_R": 3,
+      "respected_S1": 6,
+      "respected_R1": 5,
+      "respected_S2": 5,
+      "respected_R2": 4,
+      "respected_S3": 6,
+      "respected_R3": 1
+    },
+    {
+      "reason": [
+        "Market remains within the established support and resistance levels, indicating no breakout or breakdown signals.",
+        "Recent indicator data shows sideways movement with no significant trend development.",
+        "Support and resistance levels across all time horizons are consistent with historical data, requiring no adjustments.",
+        "Predicted targets remain stable, reflecting a neutral market outlook."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.0,
+          "price": 18165.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.0,
+          "price": 18165.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.0,
+          "price": 18165.0,
+          "method": "llm_v1"
+        }
+      },
+      "support": 18761.0,
+      "resistance": 19800.0,
+      "support_realtime": 19310.0,
+      "resistance_realtime": 19552.0,
+      "support_1d": 17424.67,
+      "resistance_1d": 21572.73,
+      "support_1w": 18761.0,
+      "resistance_1w": 20599.0,
+      "support_3m": 12035.0,
+      "resistance_3m": 21990.0,
+      "sr_range_pct_realtime": 1.3629,
+      "sr_range_pct_1d": 23.3615,
+      "sr_range_pct_1w": 10.3514,
+      "sr_range_pct_3m": 56.0656,
+      "volume_threshold": 78.0,
+      "bollinger": {
+        "mid_price": 21246.2,
+        "upper_band": 21915.58,
+        "lower_band": 20576.82
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": 19080.0,
+      "target": 19146.78,
+      "stoploss": 18695.337,
+      "entry1": 19080.0,
+      "target1": 19146.78,
+      "stoploss1": 17363.684,
+      "entry2": 19080.0,
+      "target2": 19146.78,
+      "stoploss2": 18695.337,
+      "entry3": 19080.0,
+      "target3": 19146.78,
+      "stoploss3": 11992.878,
+      "stock_code": "FORCEMOT",
+      "instrument_token": 2962689,
+      "last_updated": "2025-09-05 15:22:52",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:21:00+00:00",
+        "open": 17715.0,
+        "high": 17799.0,
+        "low": 17715.0,
+        "close": 17756.0,
+        "volume": 2264
+      },
+      "sr_range_pct": 5.5381,
+      "respected_S": 3,
+      "respected_R": 5,
+      "respected_S1": 4,
+      "respected_R1": 1,
+      "respected_S2": 3,
+      "respected_R2": 2,
+      "respected_S3": 4,
+      "respected_R3": 1
+    },
+    {
+      "stock_code": "POLYCAB",
+      "instrument_token": 2455041,
+      "ohlcv": {
+        "time": "2025-09-05 15:22:00+00:00",
+        "open": 7233.0,
+        "high": 7233.0,
+        "low": 7225.5,
+        "close": 7226.0,
+        "volume": 225
+      },
+      "support": 7059.0,
+      "resistance": 7203.4552,
+      "support_realtime": 7241.0,
+      "resistance_realtime": 7252.1239,
+      "support_1d": 6728.17,
+      "resistance_1d": 7302.58,
+      "support_1w": 6985.0,
+      "resistance_1w": 7271.0426,
+      "support_3m": 5760.0,
+      "resistance_3m": 7271.0426,
+      "sr_range_pct_realtime": 0.1539,
+      "sr_range_pct_1d": 7.9492,
+      "sr_range_pct_1w": 3.9585,
+      "sr_range_pct_3m": 20.9112,
+      "volume_threshold": 806.0,
+      "bollinger": {
+        "mid_price": 7246.525,
+        "upper_band": 7252.1239,
+        "lower_band": 7241.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated support_realtime and resistance_realtime to latest 1-min Bollinger bands and VWAP levels",
+        "Corrected support_realtime and resistance_realtime to ensure support < resistance",
+        "Preserved historical support and resistance levels from daily, weekly, and 3-month data",
+        "Maintained volume_threshold as volume remains below threshold",
+        "Signal remains No Action due to lack of confirmed breakout or trend change",
+        "Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance",
+        "Set trade levels inside respective S-R bands with reasonable risk-reward ratios",
+        "Recalculated predicted_targets based on latest close price 7246.5 with slight positive momentum",
+        "LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)"
+      ],
+      "signal": "No Action",
+      "entry": 7120.0,
+      "target": 7160.234,
+      "stoploss": 7028.117,
+      "entry1": 7101.354,
+      "target1": 7160.234,
+      "stoploss1": 6704.621,
+      "entry2": 7100.0,
+      "target2": 7200.0,
+      "stoploss2": 6954.441,
+      "entry3": 6500.0,
+      "target3": 7200.0,
+      "stoploss3": 5734.8,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 7261.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.008,
+          "price": 7304.7,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.025,
+          "price": 7427.7,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:23:27",
+      "forecast": "AI",
+      "sr_range_pct": 2.0464,
+      "respected_S": 8,
+      "respected_R": 7,
+      "respected_S1": 12,
+      "respected_R1": 3,
+      "respected_S2": 4,
+      "respected_R2": 3,
+      "respected_S3": 8,
+      "respected_R3": 3
+    },
+    {
+      "reason": [
+        "Support level adjusted from 2804.4 to 2900.0 based on recent daily lows.",
+        "Revised support and resistance levels to reflect current intraday data.",
+        "Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.",
+        "Support and resistance levels for 1d, 1w, and 3m horizons recalculated to ensure proper order and reflect recent data.",
+        "Trade levels adjusted to maintain order: stoploss < support < entry < target < resistance, considering market conditions.",
+        "Volume threshold lowered to 45 based on recent volume data, indicating lower activity.",
+        "Signal remains 'No Action' due to market conditions, with levels set conservatively."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.012,
+          "price": 2950.4,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.035,
+          "price": 3024.4,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.085,
+          "price": 3224.4,
+          "method": "llm_v1"
+        }
+      },
+      "support": 2900.0,
+      "resistance": 2948.0,
+      "support_realtime": 2954.7,
+      "resistance_realtime": 2958.4,
+      "support_1d": 2571.32,
+      "resistance_1d": 2964.7,
+      "support_1w": 2555.57,
+      "resistance_1w": 2965.0,
+      "support_3m": 1760.72,
+      "resistance_3m": 2965.0,
+      "sr_range_pct_realtime": 0.126,
+      "sr_range_pct_1d": 13.4003,
+      "sr_range_pct_1w": 13.9471,
+      "sr_range_pct_3m": 41.0233,
+      "volume_threshold": 45,
+      "bollinger": {
+        "mid_price": 2940.6,
+        "upper_band": 2943.16,
+        "lower_band": 2938.04
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 2959.768,
+        "ma_slow": 2955.94
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": 2930.312,
+      "target": 2933.83,
+      "stoploss": 2889.85,
+      "entry1": 2930.312,
+      "target1": 2946.912,
+      "stoploss1": 2562.32,
+      "entry2": 2930.312,
+      "target2": 2947.21,
+      "stoploss2": 2546.626,
+      "entry3": 2930.312,
+      "target3": 2947.21,
+      "stoploss3": 1754.557,
+      "stock_code": "ANANDRATHI",
+      "instrument_token": 1829121,
+      "last_updated": "2025-09-05 15:23:52",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:22:00+00:00",
+        "open": 2937.6,
+        "high": 2937.6,
+        "low": 2934.2,
+        "close": 2935.6,
+        "volume": 395
+      },
+      "sr_range_pct": 1.6552,
+      "respected_S": 2,
+      "respected_R": 1,
+      "respected_S1": 6,
+      "respected_R1": 1,
+      "respected_S2": 4,
+      "respected_R2": 1,
+      "respected_S3": 10,
+      "respected_R3": 1
+    },
+    {
+      "stock_code": "CHOLAHLDNG",
+      "instrument_token": 5565441,
+      "ohlcv": {
+        "time": "2025-09-05 15:23:00+00:00",
+        "open": 1755.3,
+        "high": 1756.3,
+        "low": 1754.5,
+        "close": 1755.5,
+        "volume": 356
+      },
+      "support": 1748.57,
+      "resistance": 1766.83,
+      "support_realtime": 1748.57,
+      "resistance_realtime": 1766.83,
+      "support_1d": 1721.1,
+      "resistance_1d": 1816.0,
+      "support_1w": 1721.1,
+      "resistance_1w": 1873.7,
+      "support_3m": 1721.1,
+      "resistance_3m": 2231.6,
+      "sr_range_pct_realtime": 1.0402,
+      "sr_range_pct_1d": 5.4059,
+      "sr_range_pct_1w": 8.6927,
+      "sr_range_pct_3m": 29.08,
+      "volume_threshold": 57.0,
+      "bollinger": {
+        "mid_price": 1757.7,
+        "upper_band": 1766.83,
+        "lower_band": 1748.57
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Confirmed support and resistance levels maintain support < resistance for all horizons",
+        "Trade levels adjusted to enforce strict ordering stoploss < support < entry < target < resistance",
+        "Default S/R band trade levels set with entry inside band and risk-reward ~1.5",
+        "1d S/R band trade levels set with entry inside band and reasonable risk-reward",
+        "1w S/R band trade levels set with entry inside band and reasonable risk-reward",
+        "3m S/R band trade levels set with entry inside band and reasonable risk-reward",
+        "Removed any short-side trade levels to comply with long-only policy",
+        "Predicted targets updated with positive returns based on recent data and forecasts",
+        "Signal remains No Action due to ADX near threshold and no strong trend confirmation",
+        "WARNING: invariant violated after post-process for base.",
+        "WARNING: Some trade levels still missing after synthesis."
+      ],
+      "signal": "No Action",
+      "entry": null,
+      "target": null,
+      "stoploss": null,
+      "entry1": 1731.43,
+      "target1": 1800.0,
+      "stoploss1": 1713.57,
+      "entry2": 1731.43,
+      "target2": 1850.0,
+      "stoploss2": 1713.57,
+      "entry3": 1731.43,
+      "target3": 2100.0,
+      "stoploss3": 1713.57,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.002,
+          "price": 1764.92,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.01,
+          "price": 1778.91,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.015,
+          "price": 1787.72,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:24:26",
+      "forecast": "AI",
+      "sr_range_pct": 1.0443,
+      "respected_S": 7,
+      "respected_R": 6,
+      "respected_S1": 5,
+      "respected_R1": 9,
+      "respected_S2": 5,
+      "respected_R2": 16,
+      "respected_S3": 5,
+      "respected_R3": 1
+    },
+    {
+      "reason": [
+        "Support and resistance levels across daily and weekly horizons are consistent with recent historical data, confirming stability.",
+        "Momentum indicators (MACD, ADX, RSI) suggest a neutral or slightly bullish trend, aligning with the current 'No Action' signal.",
+        "Recent indicator data shows no strong breakout or breakdown signals, maintaining the current levels.",
+        "Auto-calculated support and resistance bands are within the proper order, with support below support_1d and resistance above resistance_1d.",
+        "Trade levels (entry, target, stoploss) are adjusted to ensure the order stoploss < support < entry < target < resistance, respecting the long-only policy.",
+        "Predicted upward targets are modest, consistent with the neutral market outlook."
+      ],
+      "signal": "No Action",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.001,
+          "price": 860.91,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.005,
+          "price": 864.86,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.02,
+          "price": 876.27,
+          "method": "llm_v1"
+        }
+      },
+      "support": 859.65,
+      "resistance": 870.25,
+      "support_realtime": 859.65,
+      "resistance_realtime": 870.25,
+      "support_1d": 840.7,
+      "resistance_1d": 934.35,
+      "support_1w": 849.0,
+      "resistance_1w": 891.95,
+      "support_3m": 849.0,
+      "resistance_3m": 1059.0,
+      "sr_range_pct_realtime": 1.2425,
+      "sr_range_pct_1d": 10.9776,
+      "sr_range_pct_1w": 5.0346,
+      "sr_range_pct_3m": 24.6161,
+      "volume_threshold": 1633,
+      "bollinger": {
+        "mid_price": 881.91,
+        "upper_band": 883.32,
+        "lower_band": 880.25
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": 864.808,
+      "target": 865.029,
+      "stoploss": 856.641,
+      "entry1": 864.808,
+      "target1": 867.835,
+      "stoploss1": 837.758,
+      "entry2": 859.7,
+      "target2": 862.709,
+      "stoploss2": 846.029,
+      "entry3": 859.7,
+      "target3": 862.709,
+      "stoploss3": 846.029,
+      "stock_code": "NATCOPHARM",
+      "instrument_token": 1003009,
+      "ohlcv": {
+        "time": "2025-09-05 15:23:00+00:00",
+        "open": 853.6,
+        "high": 853.7,
+        "low": 852.85,
+        "close": 853.1,
+        "volume": 966
+      },
+      "last_updated": "2025-09-05 15:24:57",
+      "forecast": "AI",
+      "sr_range_pct": 1.2331,
+      "respected_S": 14,
+      "respected_R": 11,
+      "respected_S1": 3,
+      "respected_R1": 9,
+      "respected_S2": 8,
+      "respected_R2": 14,
+      "respected_S3": 8,
+      "respected_R3": 2
+    },
+    {
+      "stock_code": "GMDCLTD",
+      "instrument_token": 1332225,
+      "ohlcv": {
+        "time": "2025-09-05 15:24:00+00:00",
+        "open": 512.6,
+        "high": 514.9,
+        "low": 511.3,
+        "close": 511.3,
+        "volume": 163352
+      },
+      "support": 431.4,
+      "resistance": 459.24,
+      "support_realtime": 507.31125,
+      "resistance_realtime": 510.01375,
+      "support_1d": 431.4,
+      "resistance_1d": 445.0,
+      "support_1w": 400.0,
+      "resistance_1w": 459.8,
+      "support_3m": 374.8,
+      "resistance_3m": 472.4,
+      "sr_range_pct_realtime": 0.5286,
+      "sr_range_pct_1d": 2.6599,
+      "sr_range_pct_1w": 11.6957,
+      "sr_range_pct_3m": 19.0886,
+      "volume_threshold": 7586.0,
+      "bollinger": {
+        "mid_price": 508.6625,
+        "upper_band": 510.01375,
+        "lower_band": 507.31125
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Updated realtime support and resistance to Bollinger Bands lower and upper bands at 507.31 and 510.01 based on recent 1-min data",
+        "Corrected support_realtime and resistance_realtime to ensure support < resistance",
+        "Recalculated sr_range_pct_realtime to 0.53% based on updated realtime S/R levels",
+        "Preserved historical daily, weekly, and 3-month support and resistance levels from historical data",
+        "Recalculated trade levels to align with updated realtime S/R and maintain risk-reward between 1.1 and 2.5",
+        "Signal remains 'No Action' due to ADX below threshold and lack of strong momentum",
+        "Predicted targets recalculated using latest close 508.9 with moderate positive momentum",
+        "Adjusted all trade levels to respect strict ordering: stoploss < support < entry < target < resistance"
+      ],
+      "signal": "No Action",
+      "entry": 456.485,
+      "target": 457.03,
+      "stoploss": 429.89,
+      "entry1": 433.99,
+      "target1": 442.33,
+      "stoploss1": 429.89,
+      "entry2": 405.0,
+      "target2": 455.0,
+      "stoploss2": 398.25,
+      "entry3": 380.0,
+      "target3": 469.566,
+      "stoploss3": 373.16,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.004,
+          "price": 510.0356,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 516.5335,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 531.8505,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:25:30",
+      "forecast": "AI",
+      "sr_range_pct": 6.4534,
+      "respected_S": 5,
+      "respected_R": 2,
+      "respected_S1": 5,
+      "respected_R1": 5,
+      "respected_S2": 11,
+      "respected_R2": 3,
+      "respected_S3": 3,
+      "respected_R3": 1
+    },
+    {
+      "reason": [
+        "Market shows sideways movement with low trend strength, supported by ADX below threshold and stable Bollinger bands.",
+        "Support and resistance levels remain consistent with recent data; no significant breakout or breakdown signals.",
+        "Predicted upward targets are modest, aligning with current neutral stance and lack of strong momentum signals.",
+        "Auto-filled entry/target/stoploss from support/resistance with bias=long.",
+        "Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long.",
+        "Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long.",
+        "Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.",
+        "Support and resistance levels have been confirmed and aligned across horizons; support is below entry, resistance above target.",
+        "Support and resistance levels have been recomputed to ensure proper order and band constraints.",
+        "LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1)."
+      ],
+      "signal": "Hold",
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.003,
+          "price": 324.0,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.012,
+          "price": 328.0,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.045,
+          "price": 334.0,
+          "method": "llm_v1"
+        }
+      },
+      "support": 297.7,
+      "resistance": 331.27,
+      "support_realtime": 324.2,
+      "resistance_realtime": 324.25,
+      "support_1d": 297.7,
+      "resistance_1d": 331.27,
+      "support_1w": 307.75,
+      "resistance_1w": 323.8,
+      "support_3m": 243.26,
+      "resistance_3m": 331.35,
+      "sr_range_pct_realtime": 0.0152,
+      "sr_range_pct_1d": 10.2036,
+      "sr_range_pct_1w": 4.8784,
+      "sr_range_pct_3m": 26.7751,
+      "volume_threshold": 178607,
+      "bollinger": {
+        "mid_price": 1370.0,
+        "upper_band": 1373.0,
+        "lower_band": 1365.0
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "entry": 317.37,
+      "target": 320.565,
+      "stoploss": 296.658,
+      "entry1": 317.37,
+      "target1": 320.565,
+      "stoploss1": 296.658,
+      "entry2": 314.17,
+      "target2": 320.189,
+      "stoploss2": 306.673,
+      "entry3": 324.15,
+      "target3": 329.362,
+      "stoploss3": 242.409,
+      "stock_code": "ETERNAL",
+      "instrument_token": 1304833,
+      "last_updated": "2025-09-05 15:26:01",
+      "forecast": "AI",
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 328.95,
+        "high": 329.25,
+        "low": 328.9,
+        "close": 329.0,
+        "volume": 117820
+      },
+      "sr_range_pct": 11.2765,
+      "respected_S": 3,
+      "respected_R": 1,
+      "respected_S1": 4,
+      "respected_R1": 1,
+      "respected_S2": 5,
+      "respected_R2": 5,
+      "respected_S3": 6,
+      "respected_R3": 1
+    },
+    {
+      "stock_code": "RPOWER-BE",
+      "instrument_token": 3906817,
+      "ohlcv": {
+        "time": "2025-09-05 15:25:00+00:00",
+        "open": 46.95,
+        "high": 46.96,
+        "low": 46.8,
+        "close": 46.92,
+        "volume": 14979
+      },
+      "support": 46.24,
+      "resistance": 48.2,
+      "support_realtime": 46.24,
+      "resistance_realtime": 48.2,
+      "support_1d": 43.55,
+      "resistance_1d": 46.24,
+      "support_1w": 43.55,
+      "resistance_1w": 47.46,
+      "support_3m": 41.76,
+      "resistance_3m": 48.0,
+      "sr_range_pct_realtime": 4.1773,
+      "sr_range_pct_1d": 5.7332,
+      "sr_range_pct_1w": 8.3333,
+      "sr_range_pct_3m": 13.2992,
+      "volume_threshold": 7000,
+      "bollinger": {
+        "mid_price": 46.8135,
+        "upper_band": 47.12695,
+        "lower_band": 46.5
+      },
+      "adx": {
+        "period": 14,
+        "threshold": 20
+      },
+      "moving_averages": {
+        "ma_fast": 9,
+        "ma_slow": 20
+      },
+      "inside_bar": {
+        "lookback": 1
+      },
+      "candle": {
+        "min_body_percent": 0.7
+      },
+      "reason": [
+        "Realtime support and resistance levels confirmed by latest daily close and intraday data.",
+        "3-month resistance adjusted down to 48.0 from 76.49 to reflect recent price compression and realistic upper bound.",
+        "Trade levels recalibrated to maintain strict ordering and long-only policy with reasonable risk-reward ratios.",
+        "Predicted targets updated based on latest close of 47.03 with modest positive returns.",
+        "ADX remains below threshold indicating weak trend; signal remains 'No Action'.",
+        "Bollinger bands confirm current volatility range around mid 46.8135."
+      ],
+      "signal": "No Action",
+      "entry": 46.6,
+      "target": 47.9,
+      "stoploss": 46.038,
+      "entry1": 45.9,
+      "target1": 45.963,
+      "stoploss1": 43.398,
+      "entry2": 46.0,
+      "target2": 47.0,
+      "stoploss2": 43.398,
+      "entry3": 42.5,
+      "target3": 47.5,
+      "stoploss3": 41.6,
+      "predicted_targets": {
+        "1d": {
+          "ret": 0.005,
+          "price": 47.26515,
+          "method": "llm_v1"
+        },
+        "1w": {
+          "ret": 0.015,
+          "price": 47.73545,
+          "method": "llm_v1"
+        },
+        "3m": {
+          "ret": 0.04,
+          "price": 48.9112,
+          "method": "llm_v1"
+        }
+      },
+      "last_updated": "2025-09-05 15:26:33",
+      "forecast": "AI",
+      "sr_range_pct": 4.2388,
+      "respected_S": 8,
+      "respected_R": 3,
+      "respected_S1": 11,
+      "respected_R1": 8,
+      "respected_S2": 11,
+      "respected_R2": 6,
+      "respected_S3": 10,
+      "respected_R3": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:20:35,"{
+  ""stock_code"": ""TRIDENT"",
+  ""instrument_token"": 2479361,
+  ""support"": 27.65,
+  ""resistance"": 28.71,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 28.683999999999997,
+    ""upper_band"": 28.706271057451318,
+    ""lower_band"": 28.6607055052823
+  },
+  ""macd"": {
+    ""signal_line"": -0.0003261882812635032,
+    ""histogram"": 0.003176488065044225,
+    ""ma_fast"": 28.688888888888886,
+    ""ma_slow"": 28.683999999999997,
+    ""ma_signal"": 0.0035026763463077283
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support to recent low of 27.65 from recent daily candles indicating stronger short-term support."",
+    ""Updated resistance to recent high of 28.71 from recent 1-minute data indicating breakout level."",
+    ""Updated Bollinger Bands to recent values from 1-minute data reflecting current volatility and price range."",
+    ""Updated MACD parameters to recent values indicating slight bullish momentum."",
+    ""Signal set to Hold due to price near resistance with moderate bullish indicators but volume below threshold.""
+  ],
+  ""last_updated"": ""2025-08-19 14:20:00"",
+  ""signal"": ""Hold""
+}"

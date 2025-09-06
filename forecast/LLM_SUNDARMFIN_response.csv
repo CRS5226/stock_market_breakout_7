@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:23:30,"{
+  ""stock_code"": ""SUNDARMFIN"",
+  ""instrument_token"": 854785,
+  ""support"": 4500.0,
+  ""resistance"": 4885.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 4880.53,
+    ""upper_band"": 4883.75,
+    ""lower_band"": 4877.31
+  },
+  ""macd"": {
+    ""signal_line"": 0.4152,
+    ""histogram"": -0.1526,
+    ""ma_fast"": 0.2626,
+    ""ma_slow"": 0.4152,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low around 4500 based on last week daily closes."",
+    ""Resistance updated to recent upper Bollinger Band and recent high ~4885 from 1-min data."",
+    ""Bollinger Bands updated to recent 1-min data values."",
+    ""MACD values updated to recent 1-min data reflecting slight positive momentum but histogram negative."",
+    ""Signal remains Hold due to consolidation near resistance with no strong breakout or volume surge.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:24:36,"{
+  ""stock_code"": ""METROBRAND"",
+  ""instrument_token"": 1853953,
+  ""support"": 1100.5,
+  ""resistance"": 1146.6,
+  ""volume_threshold"": 92090,
+  ""bollinger"": {
+    ""mid_price"": 1145.845,
+    ""upper_band"": 1146.6025618786607,
+    ""lower_band"": 1145.0874381213393
+  },
+  ""macd"": {
+    ""signal_line"": 0.07008446112983391,
+    ""histogram"": -0.02194548077879288,
+    ""ma_fast"": 0.04813898035104103,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 28.5
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low 1100.5 from last daily candle."",
+    ""Resistance updated to recent upper Bollinger Band 1146.6 reflecting short-term breakout attempt."",
+    ""Volume threshold lowered to 92090 matching recent average daily volume indicating reduced liquidity."",
+    ""Bollinger Bands updated to recent values from 1-minute data for short-term accuracy."",
+    ""ADX threshold increased to 28.5 from 20 due to rising ADX indicating stronger trend."",
+    ""MACD parameters updated to recent values reflecting current momentum."",
+    ""Signal changed to Hold due to price near resistance with moderate volume and mixed momentum indicators.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

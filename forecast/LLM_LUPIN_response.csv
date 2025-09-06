@@ -1,0 +1,44 @@
+timestamp,raw_response
+2025-08-19 14:09:56,"{
+  ""stock_code"": ""LUPIN"",
+  ""instrument_token"": 2672641,
+  ""support"": 1900.0,
+  ""resistance"": 2010.0,
+  ""volume_threshold"": 850000,
+  ""bollinger"": {
+    ""mid_price"": 1929.51,
+    ""upper_band"": 2007.66,
+    ""lower_band"": 1851.95
+  },
+  ""macd"": {
+    ""signal_line"": -6.12,
+    ""histogram"": 7.78,
+    ""ma_fast"": 1909.61,
+    ""ma_slow"": 1929.51,
+    ""ma_signal"": -8.06
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 15
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 1900 based on recent lows around 1906-1912."",
+    ""Resistance updated to 2010 reflecting recent highs near 2009.8."",
+    ""Volume threshold lowered to 850000 due to recent average volumes around 850k-1.1M."",
+    ""Bollinger Bands updated to recent values indicating current volatility."",
+    ""MACD parameters updated to reflect recent histogram and signal line values."",
+    ""ADX threshold lowered to 15 due to ADX values mostly below 20 indicating weaker trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

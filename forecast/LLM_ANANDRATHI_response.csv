@@ -1,0 +1,2767 @@
+timestamp,raw_response
+2025-08-19 13:26:26,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2690.0,
+  ""resistance"": 2780.0,
+  ""volume_threshold"": 380000,
+  ""bollinger"": {
+    ""mid_price"": 2822.76,
+    ""upper_band"": 2824.94,
+    ""lower_band"": 2819.82
+  },
+  ""macd"": {
+    ""signal_line"": 0.421,
+    ""histogram"": 0.141,
+    ""ma_fast"": 2822.76,
+    ""ma_slow"": 2822.38,
+    ""ma_signal"": 2822.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2822,
+    ""ma_slow"": 2822
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near current levels with narrow Bollinger bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of strong momentum in either direction."",
+    ""ADX remains around 50, indicating sideways trend with no clear breakout signals."",
+    ""Volume remains stable and not significantly above recent averages, supporting the sideways movement."",
+    ""Support and resistance levels adjusted slightly based on recent high and low prices, with no clear breakout confirmed.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:30:36,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2690.0,
+  ""resistance"": 2780.0,
+  ""volume_threshold"": 380000,
+  ""bollinger"": {
+    ""mid_price"": 2822.76,
+    ""upper_band"": 2824.94,
+    ""lower_band"": 2819.82
+  },
+  ""macd"": {
+    ""signal_line"": 0.421,
+    ""histogram"": 0.141,
+    ""ma_fast"": 2822.76,
+    ""ma_slow"": 2822.38,
+    ""ma_signal"": 2822.38
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2822,
+    ""ma_slow"": 2822
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a breakout above resistance at 2780, with the current close at 2825.0, indicating strong upward momentum."",
+    ""Volume has increased significantly compared to recent averages, supporting the breakout."",
+    ""Bollinger bands are widening, suggesting increased volatility and a potential trend continuation."",
+    ""MACD remains positive with a widening histogram, confirming bullish momentum."",
+    ""ADX remains above 50, indicating a strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 13:36:33,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2824.0,
+  ""resistance"": 2828.0,
+  ""volume_threshold"": 150,
+  ""bollinger"": {
+    ""mid_price"": 2823.71,
+    ""upper_band"": 2827.90,
+    ""lower_band"": 2819.76
+  },
+  ""macd"": {
+    ""signal_line"": 0.908,
+    ""histogram"": 0.395,
+    ""ma_fast"": 2823.71,
+    ""ma_slow"": 2823.71,
+    ""ma_signal"": 2823.71
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2823,
+    ""ma_slow"": 2823
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 2824, with no clear breakout or breakdown signals."",
+    ""Volume remains stable and does not indicate significant accumulation or distribution."",
+    ""Bollinger bands are narrow, indicating low volatility and lack of strong trend."",
+    ""MACD remains positive but shows no widening or divergence, suggesting sideways movement."",
+    ""ADX remains around 50, indicating a weak trend or consolidation phase.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 14:32:12,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2816.1,
+  ""resistance"": 2825.8,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 2821.58,
+    ""upper_band"": 2825.8367,
+    ""lower_band"": 2817.5233
+  },
+  ""macd"": {
+    ""signal_line"": 0.1127,
+    ""histogram"": 0.3349,
+    ""ma_fast"": 0.4348,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 44.26
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent lower Bollinger Band level (2816.1) reflecting recent price floor."",
+    ""Resistance updated to recent upper Bollinger Band level (2825.8) reflecting recent price ceiling."",
+    ""Bollinger bands updated to recent values indicating current volatility range."",
+    ""MACD histogram and signal line updated to recent positive values indicating bullish momentum."",
+    ""ADX threshold increased from 20 to 44.26 reflecting stronger trend strength in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:17:30,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2690.0,
+  ""resistance"": 2780.0,
+  ""volume_threshold"": 380000,
+  ""bollinger"": {
+    ""mid_price"": 2822.0,
+    ""upper_band"": 2826.5,
+    ""lower_band"": 2817.5
+  },
+  ""macd"": {
+    ""signal_line"": 0.060,
+    ""histogram"": 0.060,
+    ""ma_fast"": 2822.0,
+    ""ma_slow"": 2822.0,
+    ""ma_signal"": 2822.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout above previous resistance levels, indicating bullish momentum."",
+    ""MACD has crossed above zero, confirming increasing bullish momentum."",
+    ""ADX remains high (~50), indicating a strong trend."",
+    ""Volume remains elevated, supporting the breakout."",
+    ""Bollinger bands are widening, indicating increased volatility and potential for further upward movement.""
+  ],
+  ""last_updated"": ""2025-08-19 15:16:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:21:59,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""support"": 2690.0,
+  ""resistance"": 2780.0,
+  ""volume_threshold"": 380000,
+  ""bollinger"": {
+    ""mid_price"": 2822.0,
+    ""upper_band"": 2826.5,
+    ""lower_band"": 2817.5
+  },
+  ""macd"": {
+    ""signal_line"": 0.06,
+    ""histogram"": 0.06,
+    ""ma_fast"": 2822.0,
+    ""ma_slow"": 2822.0,
+    ""ma_signal"": 2822.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward movement, with close near resistance levels and high volume."",
+    ""Price is trading above the Bollinger upper band, indicating potential overbought condition but also strong bullish momentum."",
+    ""MACD remains positive and above signal line, confirming bullish trend."",
+    ""ADX remains high (~50), indicating a strong trend."",
+    ""Recent support levels are holding, but resistance is being tested.""
+  ],
+  ""last_updated"": ""2025-08-19 15:16:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:47:58,"{
+  ""reason"": [
+    ""Recent price action shows a significant upward move, crossing above the resistance level of 2828.8, indicating potential bullish momentum."",
+    ""The latest candle indicates a strong bullish body with a body percent exceeding 0.7, supporting a bullish bias."",
+    ""The ADX value remains above the threshold of 20, confirming the trend strength is still significant."",
+    ""The recent momentum indicators (MACD, +DI, -DI) suggest continued bullish pressure."",
+    ""Support and resistance levels are close, but the breakout above resistance suggests a potential new upward trend.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2928.8
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 2974.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3194.4
+    }
+  },
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:44:00+00:00"",
+    ""open"": 2911.7,
+    ""high"": 2913.8,
+    ""low"": 2911.3,
+    ""close"": 2913.8,
+    ""volume"": 395
+  },
+  ""support"": 2792.13,
+  ""resistance"": 2828.8,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2912.7,
+    ""upper_band"": 2914.6,
+    ""lower_band"": 2910.8
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2912.7,
+    ""ma_slow"": 2911.7
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-02 11:06:48,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:03:00+00:00"",
+    ""open"": 2935.8,
+    ""high"": 2939.9,
+    ""low"": 2935.8,
+    ""close"": 2937.4,
+    ""volume"": 1040
+  },
+  ""support"": 2792.13,
+  ""resistance"": 2828.8,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2810.46,
+    ""upper_band"": 2827.87,
+    ""lower_band"": 2792.13
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2934.14,
+    ""ma_slow"": 2922.48
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above resistance level of 2828.8, indicating potential bullish momentum."",
+    ""Recent daily candles show strong upward movement with increasing volume."",
+    ""MACD histogram remains positive with increasing delta, supporting bullish trend."",
+    ""Price is near upper Bollinger band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  }
+}"
+2025-09-02 11:15:37,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:05:00+00:00"",
+    ""open"": 2936.7,
+    ""high"": 2940.7,
+    ""low"": 2936.7,
+    ""close"": 2938.8,
+    ""volume"": 67
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2905.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.532,
+  ""sr_range_pct_1d"": 2.0018,
+  ""sr_range_pct_1w"": 6.1619,
+  ""sr_range_pct_3m"": 33.6794,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2810.46,
+    ""upper_band"": 2827.87,
+    ""lower_band"": 2792.13
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2934.14,
+    ""ma_slow"": 2922.48
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above resistance level of 2828.8, indicating potential bullish momentum."",
+    ""Recent daily candles show strong upward movement with increasing volume."",
+    ""MACD histogram remains positive with increasing delta, supporting bullish trend."",
+    ""Price is near upper Bollinger band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 11:24:12,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:14:00+00:00"",
+    ""open"": 2941.9,
+    ""high"": 2942.0,
+    ""low"": 2940.5,
+    ""close"": 2940.5,
+    ""volume"": 51
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2905.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.5292,
+  ""sr_range_pct_1d"": 1.9981,
+  ""sr_range_pct_1w"": 6.1506,
+  ""sr_range_pct_3m"": 33.6176,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2810.46,
+    ""upper_band"": 2827.87,
+    ""lower_band"": 2792.13
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2934.14,
+    ""ma_slow"": 2922.48
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above resistance level of 2828.8, indicating potential bullish momentum."",
+    ""Recent daily candles show strong upward movement with increasing volume."",
+    ""MACD histogram remains positive with increasing delta, supporting bullish trend."",
+    ""Price is near upper Bollinger band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 2950.4,
+      ""ret"": 0.012
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 3024.4,
+      ""ret"": 0.035
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 3224.4,
+      ""ret"": 0.085
+    }
+  }
+}"
+2025-09-02 11:32:44,"{
+  ""reason"": [
+    ""Price has moved above the resistance level of 2844.0, indicating potential bullish momentum."",
+    ""Recent daily candles show strong upward movement with increasing volume."",
+    ""MACD histogram remains positive with increasing delta, supporting bullish trend."",
+    ""Price is near the upper Bollinger band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:23:00+00:00"",
+    ""open"": 2940.0,
+    ""high"": 2942.8,
+    ""low"": 2938.9,
+    ""close"": 2941.0,
+    ""volume"": 286
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2906.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.4956,
+  ""sr_range_pct_1d"": 1.9987,
+  ""sr_range_pct_1w"": 6.1525,
+  ""sr_range_pct_3m"": 33.6279,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2921.139,
+    ""ma_slow"": 2921.139
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  }
+}"
+2025-09-02 11:41:59,"{
+  ""reason"": [
+    ""Price has moved above the resistance level of 2844.0, indicating potential bullish momentum."",
+    ""Recent daily candles show strong upward movement with increasing volume."",
+    ""MACD histogram remains positive with increasing delta, supporting bullish trend."",
+    ""Price is near the upper Bollinger band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:31:00+00:00"",
+    ""open"": 2940.1,
+    ""high"": 2942.0,
+    ""low"": 2940.1,
+    ""close"": 2942.0,
+    ""volume"": 59
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2906.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.4958,
+  ""sr_range_pct_1d"": 1.999,
+  ""sr_range_pct_1w"": 6.1533,
+  ""sr_range_pct_3m"": 33.6325,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2921.139,
+    ""ma_slow"": 2921.139
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:51:08,"{
+  ""reason"": [
+    ""Price has moved above the resistance level of 2844.0, indicating potential bullish momentum."",
+    ""Recent intraday data shows strong upward movement with increasing volume and positive momentum indicators."",
+    ""Moving averages are aligned with the fast MA crossing above the slow MA, supporting bullish trend."",
+    ""Bollinger bands are tight with price near the upper band, suggesting continued upward volatility.""
+  ],
+  ""signal"": ""Bullish Breakout"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:49:00+00:00"",
+    ""open"": 2943.1,
+    ""high"": 2943.1,
+    ""low"": 2941.0,
+    ""close"": 2941.0,
+    ""volume"": 17
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2906.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.4966,
+  ""sr_range_pct_1d"": 2.0,
+  ""sr_range_pct_1w"": 6.1565,
+  ""sr_range_pct_3m"": 33.6497,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:00:00,"{
+  ""reason"": [
+    ""Price remains near the upper Bollinger band, indicating sustained bullish momentum."",
+    ""Recent intraday data shows consistent upward movement with high volume and positive ADX, confirming trend strength."",
+    ""Moving averages continue to support bullish trend with fast MA above slow MA."",
+    ""Support levels are well below current price, providing a strong base for upward continuation.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:51:08+00:00"",
+    ""open"": 2943.1,
+    ""high"": 2944.0,
+    ""low"": 2941.0,
+    ""close"": 2944.0,
+    ""volume"": 173
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2906.0,
+  ""resistance_realtime"": 2950.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.495,
+  ""sr_range_pct_1d"": 1.9979,
+  ""sr_range_pct_1w"": 6.15,
+  ""sr_range_pct_3m"": 33.6142,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:08:29,"{
+  ""reason"": [
+    ""Price remains near the upper Bollinger band, indicating sustained bullish momentum."",
+    ""Recent intraday data shows consistent upward movement with high volume and positive ADX, confirming trend strength."",
+    ""Moving averages continue to support bullish trend with fast MA above slow MA."",
+    ""Support levels are well below current price, providing a strong base for upward continuation.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:00:00"",
+    ""open"": 2944.0,
+    ""high"": 2944.2,
+    ""low"": 2941.8,
+    ""close"": 2944.2,
+    ""volume"": 150
+  },
+  ""support"": 2930.3,
+  ""resistance"": 2947.0159385352804,
+  ""support_realtime"": 2944.0,
+  ""resistance_realtime"": 2947.0159385352804,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 0.05558,
+  ""sr_range_pct_1d"": 2.005,
+  ""sr_range_pct_1w"": 6.172,
+  ""sr_range_pct_3m"": 33.7346,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:17:14,"{
+  ""reason"": [
+    ""Price remains near the upper Bollinger band, indicating continued bullish momentum."",
+    ""Recent intraday data shows sustained upward movement with high volume and positive ADX, confirming trend strength."",
+    ""Moving averages continue to support bullish trend with fast MA above slow MA."",
+    ""Support levels are well below current price, providing a strong base for upward continuation.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:07:00+00:00"",
+    ""open"": 2944.2,
+    ""high"": 2944.2,
+    ""low"": 2940.0,
+    ""close"": 2940.0,
+    ""volume"": 11
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2930.3,
+  ""resistance_realtime"": 2944.5,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 0.4823,
+  ""sr_range_pct_1d"": 1.9971,
+  ""sr_range_pct_1w"": 6.1477,
+  ""sr_range_pct_3m"": 33.6017,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 14:12:08,"{
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:17:14+00:00"",
+    ""open"": 2947.9,
+    ""high"": 2948.1,
+    ""low"": 2945.3,
+    ""close"": 2948.1,
+    ""volume"": 66
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2930.3,
+  ""resistance_realtime"": 2955.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 0.8377,
+  ""sr_range_pct_1d"": 1.9942,
+  ""sr_range_pct_1w"": 6.1387,
+  ""sr_range_pct_3m"": 33.5527,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:28:08,"{
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:11:00+00:00"",
+    ""open"": 2908.8,
+    ""high"": 2912.0,
+    ""low"": 2908.8,
+    ""close"": 2912.0,
+    ""volume"": 326
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2942.0,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 1.4441,
+  ""sr_range_pct_1d"": 2.0218,
+  ""sr_range_pct_1w"": 6.2236,
+  ""sr_range_pct_3m"": 34.0164,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:36:39,"{
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:27:00+00:00"",
+    ""open"": 2916.0,
+    ""high"": 2918.1,
+    ""low"": 2913.8,
+    ""close"": 2917.7,
+    ""volume"": 73
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2923.8,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 0.8161,
+  ""sr_range_pct_1d"": 2.0162,
+  ""sr_range_pct_1w"": 6.2063,
+  ""sr_range_pct_3m"": 33.922,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:20:29,"{
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:35:00+00:00"",
+    ""open"": 2914.6,
+    ""high"": 2919.6,
+    ""low"": 2914.6,
+    ""close"": 2919.6,
+    ""volume"": 117
+  },
+  ""support"": 2785.2,
+  ""resistance"": 2844.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2923.5,
+  ""support_1d"": 2785.2,
+  ""resistance_1d"": 2844.0,
+  ""support_1w"": 2668.1,
+  ""resistance_1w"": 2849.1,
+  ""support_3m"": 1859.8,
+  ""resistance_3m"": 2849.1,
+  ""sr_range_pct_realtime"": 0.8063,
+  ""sr_range_pct_1d"": 2.0174,
+  ""sr_range_pct_1w"": 6.2101,
+  ""sr_range_pct_3m"": 33.9429,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:29:07,"{
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:19:00+00:00"",
+    ""open"": 2936.3,
+    ""high"": 2938.0,
+    ""low"": 2935.8,
+    ""close"": 2935.9,
+    ""volume"": 448
+  },
+  ""support"": 2804.4,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2910.3,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2804.4,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2735.6,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 1966.2,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 1.2333,
+  ""sr_range_pct_1d"": 4.8925,
+  ""sr_range_pct_1w"": 7.2366,
+  ""sr_range_pct_3m"": 33.4503,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 11:59:42,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:28:00+00:00"",
+    ""open"": 2929.6,
+    ""high"": 2929.6,
+    ""low"": 2915.2,
+    ""close"": 2922.3,
+    ""volume"": 737
+  },
+  ""support"": 2804.4,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2913.5,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2804.4,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2735.6,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 1966.2,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 1.1252,
+  ""sr_range_pct_1d"": 4.8963,
+  ""sr_range_pct_1w"": 7.2422,
+  ""sr_range_pct_3m"": 33.4765,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent resistance level of 2844.0, indicating potential bullish breakout."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  }
+}"
+2025-09-03 12:09:19,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:58:00+00:00"",
+    ""open"": 2900.2,
+    ""high"": 2900.2,
+    ""low"": 2897.7,
+    ""close"": 2898.9,
+    ""volume"": 285
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2804.4,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2735.6,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 1966.2,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 3.0,
+  ""sr_range_pct_1w"": 7.0,
+  ""sr_range_pct_3m"": 49.9,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent support level of 2804.4, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-03 12:18:58,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:08:00+00:00"",
+    ""open"": 2898.6,
+    ""high"": 2899.9,
+    ""low"": 2898.6,
+    ""close"": 2899.9,
+    ""volume"": 208
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.0,
+  ""sr_range_pct_1w"": 0.0,
+  ""sr_range_pct_3m"": 0.0,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-03 12:28:07,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:17:00+00:00"",
+    ""open"": 2893.0,
+    ""high"": 2893.8,
+    ""low"": 2893.0,
+    ""close"": 2893.8,
+    ""volume"": 4
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-03 12:38:08,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:27:00+00:00"",
+    ""open"": 2899.1,
+    ""high"": 2899.7,
+    ""low"": 2896.4,
+    ""close"": 2898.9,
+    ""volume"": 47
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-03 15:32:58,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:37:00+00:00"",
+    ""open"": 2894.6,
+    ""high"": 2895.0,
+    ""low"": 2894.0,
+    ""close"": 2895.0,
+    ""volume"": 19
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the recent support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-04 11:16:03,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 2925.0,
+    ""high"": 2925.0,
+    ""low"": 2925.0,
+    ""close"": 2925.0,
+    ""volume"": 0
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2948.0,
+  ""target"": 3024.4,
+  ""stoploss"": 2913.5,
+  ""entry1"": 2948.0,
+  ""target1"": 3024.4,
+  ""stoploss1"": 2913.5,
+  ""entry2"": 2948.0,
+  ""target2"": 3024.4,
+  ""stoploss2"": 2913.5,
+  ""entry3"": 2948.0,
+  ""target3"": 3224.4,
+  ""stoploss3"": 2913.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-04 14:24:19,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:15:00+00:00"",
+    ""open"": 2882.0,
+    ""high"": 2886.3,
+    ""low"": 2882.0,
+    ""close"": 2886.3,
+    ""volume"": 246
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2928.8,
+  ""target"": 2910.8,
+  ""stoploss"": 2940.8,
+  ""entry1"": 2928.8,
+  ""target1"": 2910.8,
+  ""stoploss1"": 2940.8,
+  ""entry2"": 2928.8,
+  ""target2"": 2910.8,
+  ""stoploss2"": 2940.8,
+  ""entry3"": 2928.8,
+  ""target3"": 2910.8,
+  ""stoploss3"": 2940.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4,
+      ""method"": ""llm_v1""
+    }
+  ],
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ],
+  ""last_updated"": ""2025-09-04 11:16:03"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.6552,
+  ""respected_S"": 2,
+  ""respected_R"": 1,
+  ""respected_S1"": 2,
+  ""respected_R1"": 2,
+  ""respected_S2"": 2,
+  ""respected_R2"": 2,
+  ""respected_S3"": 2,
+  ""respected_R3"": 2
+}"
+2025-09-04 14:51:54,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:15:00+00:00"",
+    ""open"": 2882.0,
+    ""high"": 2886.3,
+    ""low"": 2882.0,
+    ""close"": 2886.3,
+    ""volume"": 246
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2900.0,
+  ""resistance_realtime"": 2946.5,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.0,
+  ""sr_range_pct_1d"": 0.0,
+  ""sr_range_pct_1w"": 0.0,
+  ""sr_range_pct_3m"": 0.0,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2928.8,
+  ""target"": 2910.8,
+  ""stoploss"": 2940.8,
+  ""entry1"": 2928.8,
+  ""target1"": 2910.8,
+  ""stoploss1"": 2940.8,
+  ""entry2"": 2928.8,
+  ""target2"": 2910.8,
+  ""stoploss2"": 2940.8,
+  ""entry3"": 2928.8,
+  ""target3"": 2910.8,
+  ""stoploss3"": 2940.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.0 due to price near support, indicating no immediate support/resistance range change.""
+  ]
+}"
+2025-09-04 15:05:01,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:50:00+00:00"",
+    ""open"": 2954.4,
+    ""high"": 2958.5,
+    ""low"": 2954.4,
+    ""close"": 2958.4,
+    ""volume"": 14
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 0.174,
+  ""sr_range_pct_1w"": 0.174,
+  ""sr_range_pct_3m"": 0.174,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2941.922,
+    ""ma_slow"": 2941.49
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price has moved above the support level of 2900.0, indicating potential bullish momentum."",
+    ""Recent intraday momentum shows sustained upward movement with increasing volume and positive ADX, confirming trend strength."",
+    ""Moving averages (fast MA) are now above the slow MA, supporting bullish momentum."",
+    ""The current price is near the upper Bollinger band, suggesting continued upward pressure."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=long."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2919.2,
+  ""target"": 2937.2,
+  ""stoploss"": 2907.2,
+  ""entry1"": 2919.2,
+  ""target1"": 2937.2,
+  ""stoploss1"": 2907.2,
+  ""entry2"": 2919.2,
+  ""target2"": 2937.2,
+  ""stoploss2"": 2907.2,
+  ""entry3"": 2919.2,
+  ""target3"": 2937.2,
+  ""stoploss3"": 2907.2,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""last_updated"": ""2025-09-04 14:51:54"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 0.174,
+  ""respected_S"": 2,
+  ""respected_R"": 2,
+  ""respected_S1"": 2,
+  ""respected_R1"": 2,
+  ""respected_S2"": 2,
+  ""respected_R2"": 2,
+  ""respected_S3"": 2,
+  ""respected_R3"": 2
+}"
+2025-09-04 15:16:55,"{
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:03:00+00:00"",
+    ""open"": 2954.8,
+    ""high"": 2965.0,
+    ""low"": 2954.8,
+    ""close"": 2962.7,
+    ""volume"": 2356
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.767,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""entry"": 2940.8,
+  ""target"": 2958.4,
+  ""stoploss"": 2928.8,
+  ""entry1"": 2940.8,
+  ""target1"": 2958.4,
+  ""stoploss1"": 2928.8,
+  ""entry2"": 2940.8,
+  ""target2"": 2958.4,
+  ""stoploss2"": 2928.8,
+  ""entry3"": 2940.8,
+  ""target3"": 2958.4,
+  ""stoploss3"": 2928.8,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""last_updated"": ""2025-09-04 15:05:01"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.6552,
+  ""respected_S"": 2,
+  ""respected_R"": 1,
+  ""respected_S1"": 2,
+  ""respected_R1"": 2,
+  ""respected_S2"": 2,
+  ""respected_R2"": 2,
+  ""respected_S3"": 2,
+  ""respected_R3"": 2
+}"
+2025-09-05 13:39:42,"{
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""signal"": ""Strong Bullish"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.767,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason_changes"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""entry"": 2940.8,
+  ""target"": 2958.4,
+  ""stoploss"": 2928.8,
+  ""entry1"": 2940.8,
+  ""target1"": 2958.4,
+  ""stoploss1"": 2928.8,
+  ""entry2"": 2940.8,
+  ""target2"": 2958.4,
+  ""stoploss2"": 2928.8,
+  ""entry3"": 2940.8,
+  ""target3"": 2958.4,
+  ""stoploss3"": 2928.8
+}"
+2025-09-05 14:28:16,"{
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2900.0,
+  ""resistance_1d"": 2948.0,
+  ""support_1w"": 2900.0,
+  ""resistance_1w"": 2948.0,
+  ""support_3m"": 2900.0,
+  ""resistance_3m"": 2948.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 1.6552,
+  ""sr_range_pct_1w"": 1.6552,
+  ""sr_range_pct_3m"": 1.6552,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.767,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2930.312,
+  ""target"": 2948.0,
+  ""stoploss"": 2900.0,
+  ""entry1"": 2930.312,
+  ""target1"": 2948.0,
+  ""stoploss1"": 2900.0,
+  ""entry2"": 2930.312,
+  ""target2"": 2948.0,
+  ""stoploss2"": 2900.0,
+  ""entry3"": 2930.312,
+  ""target3"": 2948.0,
+  ""stoploss3"": 2900.0,
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""last_updated"": ""2025-09-05 13:39:42"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:38:00+00:00"",
+    ""open"": 2953.9,
+    ""high"": 2953.9,
+    ""low"": 2953.0,
+    ""close"": 2953.0,
+    ""volume"": 5
+  }
+}"
+2025-09-05 14:45:19,"{
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support."",
+    ""Support and resistance levels for 1d, 1w, and 3m horizons recalculated to ensure proper order and reflect recent data."",
+    ""Trade levels adjusted to maintain order: stoploss < support < entry < target < resistance, considering market context."",
+    ""Volume threshold lowered to 45 based on recent volume data, indicating lower activity."",
+    ""Signal remains 'No Action' due to market conditions, with levels set conservatively.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2571.32,
+  ""resistance_1d"": 2964.7,
+  ""support_1w"": 2555.57,
+  ""resistance_1w"": 2965.0,
+  ""support_3m"": 1760.72,
+  ""resistance_3m"": 2965.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 13.3485,
+  ""sr_range_pct_1w"": 13.8931,
+  ""sr_range_pct_3m"": 40.8646,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.767,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2930.312,
+  ""target"": 2933.83,
+  ""stoploss"": 2889.85,
+  ""entry1"": 2930.312,
+  ""target1"": 2946.912,
+  ""stoploss1"": 2562.32,
+  ""entry2"": 2930.312,
+  ""target2"": 2947.21,
+  ""stoploss2"": 2546.626,
+  ""entry3"": 2930.312,
+  ""target3"": 2947.21,
+  ""stoploss3"": 1754.557,
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""last_updated"": ""2025-09-05 14:28:16"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:27:00+00:00"",
+    ""open"": 2949.2,
+    ""high"": 2949.2,
+    ""low"": 2947.0,
+    ""close"": 2947.0,
+    ""volume"": 5
+  }
+}"
+2025-09-05 15:11:41,"{
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support."",
+    ""Support and resistance levels for 1d, 1w, and 3m horizons recalculated to ensure proper order and reflect recent data."",
+    ""Trade levels adjusted to maintain order: stoploss < support < entry < target < resistance, considering market conditions."",
+    ""Volume threshold lowered to 45 based on recent volume data, indicating lower activity."",
+    ""Signal remains 'No Action' due to market conditions, with levels set conservatively.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2571.32,
+  ""resistance_1d"": 2964.7,
+  ""support_1w"": 2555.57,
+  ""resistance_1w"": 2965.0,
+  ""support_3m"": 1760.72,
+  ""resistance_3m"": 2965.0,
+  ""sr_range_pct_realtime"": 0.1256,
+  ""sr_range_pct_1d"": 13.3562,
+  ""sr_range_pct_1w"": 13.9011,
+  ""sr_range_pct_3m"": 40.8882,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.767,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2930.312,
+  ""target"": 2933.83,
+  ""stoploss"": 2889.85,
+  ""entry1"": 2930.312,
+  ""target1"": 2946.912,
+  ""stoploss1"": 2562.32,
+  ""entry2"": 2930.312,
+  ""target2"": 2947.21,
+  ""stoploss2"": 2546.626,
+  ""entry3"": 2930.312,
+  ""target3"": 2947.21,
+  ""stoploss3"": 1754.557,
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""last_updated"": ""2025-09-05 14:45:19"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:44:00+00:00"",
+    ""open"": 2947.4,
+    ""high"": 2948.7,
+    ""low"": 2945.3,
+    ""close"": 2945.3,
+    ""volume"": 54
+  }
+}"
+2025-09-05 15:23:52,"{
+  ""reason"": [
+    ""Support level adjusted from 2804.4 to 2900.0 based on recent daily lows."",
+    ""Revised support and resistance levels to reflect current intraday data."",
+    ""Updated sr_range_pct_realtime to 0.174 due to current price proximity to resistance, indicating slight upward support."",
+    ""Support and resistance levels for 1d, 1w, and 3m horizons recalculated to ensure proper order and reflect recent data."",
+    ""Trade levels adjusted to maintain order: stoploss < support < entry < target < resistance, considering market conditions."",
+    ""Volume threshold lowered to 45 based on recent volume data, indicating lower activity."",
+    ""Signal remains 'No Action' due to market conditions, with levels set conservatively.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 2950.4
+    },
+    ""1w"": {
+      ""ret"": 0.035,
+      ""price"": 3024.4
+    },
+    ""3m"": {
+      ""ret"": 0.085,
+      ""price"": 3224.4
+    }
+  },
+  ""support"": 2900.0,
+  ""resistance"": 2948.0,
+  ""support_realtime"": 2954.7,
+  ""resistance_realtime"": 2958.4,
+  ""support_1d"": 2571.32,
+  ""resistance_1d"": 2964.7,
+  ""support_1w"": 2555.57,
+  ""resistance_1w"": 2965.0,
+  ""support_3m"": 1760.72,
+  ""resistance_3m"": 2965.0,
+  ""sr_range_pct_realtime"": 0.174,
+  ""sr_range_pct_1d"": 13.353,
+  ""sr_range_pct_1w"": 13.898,
+  ""sr_range_pct_3m"": 40.878,
+  ""volume_threshold"": 45,
+  ""bollinger"": {
+    ""mid_price"": 2940.6,
+    ""upper_band"": 2943.16,
+    ""lower_band"": 2938.04
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 2959.768,
+    ""ma_slow"": 2955.94
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 2930.312,
+  ""target"": 2933.83,
+  ""stoploss"": 2889.85,
+  ""entry1"": 2930.312,
+  ""target1"": 2946.912,
+  ""stoploss1"": 2562.32,
+  ""entry2"": 2930.312,
+  ""target2"": 2947.21,
+  ""stoploss2"": 2546.626,
+  ""entry3"": 2930.312,
+  ""target3"": 2947.21,
+  ""stoploss3"": 1754.557,
+  ""stock_code"": ""ANANDRATHI"",
+  ""instrument_token"": 1829121,
+  ""last_updated"": ""2025-09-05 15:11:41"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:10:00+00:00"",
+    ""open"": 2946.0,
+    ""high"": 2946.9,
+    ""low"": 2945.1,
+    ""close"": 2946.0,
+    ""volume"": 320
+  },
+  ""sr_range_pct"": 1.6552,
+  ""respected_S"": 2,
+  ""respected_R"": 1,
+  ""respected_S1"": 6,
+  ""respected_R1"": 1,
+  ""respected_S2"": 4,
+  ""respected_R2"": 1,
+  ""respected_S3"": 10,
+  ""respected_R3"": 1
+}"

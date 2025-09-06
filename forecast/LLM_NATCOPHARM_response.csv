@@ -1,0 +1,2763 @@
+timestamp,raw_response
+2025-08-19 13:26:47,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""support"": 870.0,
+  ""resistance"": 950.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 900.0,
+    ""upper_band"": 950.0,
+    ""lower_band"": 850.0
+  },
+  ""macd"": {
+    ""signal_line"": -0.3,
+    ""histogram"": -0.1,
+    ""ma_fast"": 884.0,
+    ""ma_slow"": 900.0,
+    ""ma_signal"": 885.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent downward trend in MACD and price movement indicates potential short-term bearishness."",
+    ""Support remains at 870.0 based on recent lows, resistance unchanged."",
+    ""Bollinger Bands show narrowing, indicating reduced volatility but no clear breakout."",
+    ""ADX remains stable, suggesting no strong trend change.""
+  ],
+  ""last_updated"": ""2025-08-19 13:25:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:31:00,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""support"": 870.0,
+  ""resistance"": 950.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 900.0,
+    ""upper_band"": 950.0,
+    ""lower_band"": 850.0
+  },
+  ""macd"": {
+    ""signal_line"": -0.3,
+    ""histogram"": -0.1,
+    ""ma_fast"": 884.0,
+    ""ma_slow"": 900.0,
+    ""ma_signal"": 885.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent short-term trend shows stabilization with MACD and price consolidating near support levels."",
+    ""No significant breakout signals observed in recent candles; support remains at 870.0, resistance unchanged."",
+    ""Bollinger Bands remain narrow, indicating low volatility; no breakout confirmed."",
+    ""ADX remains stable, suggesting no strong trend change in short-term.""
+  ],
+  ""last_updated"": ""2025-08-19 13:29:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:36:55,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""support"": 870.0,
+  ""resistance"": 950.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 900.0,
+    ""upper_band"": 950.0,
+    ""lower_band"": 850.0
+  },
+  ""macd"": {
+    ""signal_line"": -0.3,
+    ""histogram"": -0.1,
+    ""ma_fast"": 884.0,
+    ""ma_slow"": 900.0,
+    ""ma_signal"": 885.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent short-term trend shows slight downward movement with MACD and price near support levels."",
+    ""No clear breakout signals; support remains at 870.0, resistance unchanged."",
+    ""Bollinger Bands remain narrow, indicating low volatility; no breakout confirmed."",
+    ""ADX remains stable, suggesting no strong trend change in short-term.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:17:53,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""support"": 870.0,
+  ""resistance"": 950.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 900.0,
+    ""upper_band"": 950.0,
+    ""lower_band"": 850.0
+  },
+  ""macd"": {
+    ""signal_line"": -0.3,
+    ""histogram"": -0.1,
+    ""ma_fast"": 884.0,
+    ""ma_slow"": 900.0,
+    ""ma_signal"": 885.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent upward breakout observed as close moved above resistance at 950.0."",
+    ""Support adjusted to 870.0 based on recent lows."",
+    ""Bollinger Bands updated to reflect recent price range."",
+    ""MACD remains negative but shows signs of convergence, indicating potential trend reversal."",
+    ""ADX remains above 20, indicating a strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 15:16:00"",
+  ""signal"": ""Buy""
+}"
+2025-08-19 15:22:22,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""support"": 870.0,
+  ""resistance"": 950.0,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 894.1167,
+    ""upper_band"": 895.5249,
+    ""lower_band"": 889.7701
+  },
+  ""macd"": {
+    ""signal_line"": -0.049999999999954525,
+    ""histogram"": 0.14999999999997726,
+    ""ma_fast"": 894.1167,
+    ""ma_slow"": 892.6475,
+    ""ma_signal"": 894.1167
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support at 870.0 with no clear breakout."",
+    ""No significant trend change observed in recent data."",
+    ""Bollinger Bands remain tight, indicating low volatility."",
+    ""MACD remains near neutral, with slight positive histogram suggesting no strong momentum."",
+    ""ADX remains above 20, indicating a persistent trend but no new breakout signals.""
+  ],
+  ""last_updated"": ""2025-08-19 15:21:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:48:39,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 880.22,
+  ""resistance"": 883.6,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent daily candles show a slight upward momentum with support near 880.22 and resistance at 883.6."",
+    ""Historical data indicates a consolidation phase with Bollinger bands tight around current price, suggesting low volatility breakout potential."",
+    ""Recent indicator readings (MACD, ADX, DMI) show no strong trend, supporting a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 888.74
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 888.83
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 894.09
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:07:30,"{
+  ""reason"": [
+    ""Price is near support level, indicating potential bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent MACD histogram shows slight positive momentum, but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 879.5
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 883.4
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.9
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 879.5,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 883.4,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.9,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": 879.0,
+    ""high"": 879.5,
+    ""low"": 878.75,
+    ""close"": 879.5,
+    ""volume"": 86
+  },
+  ""support"": 880.22,
+  ""resistance"": 883.6,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-02 11:16:22,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 879.5,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 883.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 879.5,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 883.4,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.9,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:06:00+00:00"",
+    ""open"": 880.05,
+    ""high"": 880.05,
+    ""low"": 879.35,
+    ""close"": 879.5,
+    ""volume"": 263
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 880.05,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.7453,
+  ""sr_range_pct_1d"": 1.3132,
+  ""sr_range_pct_1w"": 4.4059,
+  ""sr_range_pct_3m"": 23.4736,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:07:30"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3132
+}"
+2025-09-02 11:25:01,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:15:00+00:00"",
+    ""open"": 880.5,
+    ""high"": 880.5,
+    ""low"": 879.5,
+    ""close"": 880.0,
+    ""volume"": 43
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.922,
+  ""sr_range_pct_1d"": 1.3135,
+  ""sr_range_pct_1w"": 4.4069,
+  ""sr_range_pct_3m"": 23.4789,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  }
+}"
+2025-09-02 11:33:33,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:23:00+00:00"",
+    ""open"": 881.3,
+    ""high"": 881.3,
+    ""low"": 881.15,
+    ""close"": 881.3,
+    ""volume"": 165
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.9182,
+  ""sr_range_pct_1d"": 1.3109,
+  ""sr_range_pct_1w"": 4.3982,
+  ""sr_range_pct_3m"": 23.4323,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:25:01"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3109
+}"
+2025-09-02 11:42:46,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:32:00+00:00"",
+    ""open"": 879.9,
+    ""high"": 879.9,
+    ""low"": 879.0,
+    ""close"": 879.0,
+    ""volume"": 118
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.9215,
+  ""sr_range_pct_1d"": 1.3132,
+  ""sr_range_pct_1w"": 4.4059,
+  ""sr_range_pct_3m"": 23.4736,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:33:33"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3132
+}"
+2025-09-02 11:51:56,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:41:00+00:00"",
+    ""open"": 879.95,
+    ""high"": 879.95,
+    ""low"": 878.9,
+    ""close"": 878.9,
+    ""volume"": 594
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.9222,
+  ""sr_range_pct_1d"": 1.3137,
+  ""sr_range_pct_1w"": 4.4074,
+  ""sr_range_pct_3m"": 23.4816,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:42:46"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3137
+}"
+2025-09-02 12:00:43,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:50:00+00:00"",
+    ""open"": 879.95,
+    ""high"": 879.95,
+    ""low"": 879.0,
+    ""close"": 879.0,
+    ""volume"": 110
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 864.7,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.921,
+  ""sr_range_pct_1d"": 1.3129,
+  ""sr_range_pct_1w"": 4.4047,
+  ""sr_range_pct_3m"": 23.4669,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 11:51:56"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3129
+}"
+2025-09-02 12:09:18,"{
+  ""reason"": [
+    ""Price remains near support level, indicating potential for bounce or consolidation."",
+    ""Bollinger bands are tight with low std deviation, suggesting low volatility and squeeze condition."",
+    ""ADX remains below threshold, indicating weak trend strength."",
+    ""Recent momentum indicators show slight positive bias but overall signals are neutral."",
+    ""No significant change in recent momentum or volatility to justify support/resistance update.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 878.25 * (1 + 0.001),
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 878.25 * (1 + 0.005),
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 878.25 * (1 + 0.02),
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 878.25 * (1 + 0.001),
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 878.25 * (1 + 0.005),
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 878.25 * (1 + 0.02),
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:07:00+00:00"",
+    ""open"": 878.5,
+    ""high"": 879.6,
+    ""low"": 878.25,
+    ""close"": 878.25,
+    ""volume"": 446
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 877.3,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.4884,
+  ""sr_range_pct_1d"": 1.3118,
+  ""sr_range_pct_1w"": 4.4009,
+  ""sr_range_pct_3m"": 23.4469,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 12:00:43"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3118
+}"
+2025-09-02 12:18:05,"{
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 880.6,
+      ""ret"": 0.001
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 884.0,
+      ""ret"": 0.005
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 898.4,
+      ""ret"": 0.02
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:00:43+00:00"",
+    ""open"": 880.85,
+    ""high"": 880.95,
+    ""low"": 879.45,
+    ""close"": 879.45,
+    ""volume"": 125
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 877.3,
+  ""resistance_realtime"": 881.6,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.4884,
+  ""sr_range_pct_1d"": 1.3118,
+  ""sr_range_pct_1w"": 4.4009,
+  ""sr_range_pct_3m"": 23.4469,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""last_updated"": ""2025-09-02 12:00:43"",
+  ""forecast"": ""AI"",
+  ""sr_range_pct"": 1.3118
+}"
+2025-09-02 14:12:53,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:10:00+00:00"",
+    ""open"": 864.8,
+    ""high"": 865.1,
+    ""low"": 864.15,
+    ""close"": 864.95,
+    ""volume"": 1806
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 876.4,
+  ""resistance_realtime"": 881.3,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.5587,
+  ""sr_range_pct_1d"": 1.317,
+  ""sr_range_pct_1w"": 4.4185,
+  ""sr_range_pct_3m"": 23.5405,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 880.6
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 884.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 898.4
+    }
+  }
+}"
+2025-09-02 14:28:53,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:11:00+00:00"",
+    ""open"": 865.0,
+    ""high"": 866.2,
+    ""low"": 864.55,
+    ""close"": 864.7,
+    ""volume"": 1269
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 862.15,
+  ""resistance_realtime"": 872.9,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2428,
+  ""sr_range_pct_1d"": 1.3353,
+  ""sr_range_pct_1w"": 4.48,
+  ""sr_range_pct_3m"": 23.8684,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 865.7
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 869.1
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 882.0
+    }
+  }
+}"
+2025-09-02 14:37:26,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:27:00+00:00"",
+    ""open"": 866.2,
+    ""high"": 867.0,
+    ""low"": 866.2,
+    ""close"": 867.0,
+    ""volume"": 443
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 862.15,
+  ""resistance_realtime"": 870.95,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.0153,
+  ""sr_range_pct_1d"": 1.3326,
+  ""sr_range_pct_1w"": 4.4707,
+  ""sr_range_pct_3m"": 23.8189,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:21:12,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:36:00+00:00"",
+    ""open"": 867.05,
+    ""high"": 867.85,
+    ""low"": 867.05,
+    ""close"": 867.7,
+    ""volume"": 333
+  },
+  ""support"": 883.05,
+  ""resistance"": 894.6,
+  ""support_realtime"": 862.15,
+  ""resistance_realtime"": 869.35,
+  ""support_1d"": 883.05,
+  ""resistance_1d"": 894.6,
+  ""support_1w"": 870.0,
+  ""resistance_1w"": 908.75,
+  ""support_3m"": 852.55,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.8299,
+  ""sr_range_pct_1d"": 1.3313,
+  ""sr_range_pct_1w"": 4.4666,
+  ""sr_range_pct_3m"": 23.7969,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:29:48,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:20:00+00:00"",
+    ""open"": 866.75,
+    ""high"": 866.9,
+    ""low"": 865.45,
+    ""close"": 866.15,
+    ""volume"": 3262
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 864.3,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.5427,
+  ""sr_range_pct_1d"": 1.224,
+  ""sr_range_pct_1w"": 4.9596,
+  ""sr_range_pct_3m"": 24.2494,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 883.05 and resistance at 894.6."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 12:00:37,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:28:00+00:00"",
+    ""open"": 864.5,
+    ""high"": 864.9,
+    ""low"": 864.5,
+    ""close"": 864.9,
+    ""volume"": 760
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6359,
+  ""sr_range_pct_1d"": 1.2256,
+  ""sr_range_pct_1w"": 4.9659,
+  ""sr_range_pct_3m"": 24.2803,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-03 12:10:14,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:59:00+00:00"",
+    ""open"": 864.35,
+    ""high"": 864.35,
+    ""low"": 863.8,
+    ""close"": 864.35,
+    ""volume"": 103
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-03 12:19:42,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:09:00+00:00"",
+    ""open"": 863.6,
+    ""high"": 863.9,
+    ""low"": 863.15,
+    ""close"": 863.75,
+    ""volume"": 316
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-03 12:28:56,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:18:00+00:00"",
+    ""open"": 863.7,
+    ""high"": 866.4,
+    ""low"": 862.85,
+    ""close"": 866.35,
+    ""volume"": 7489
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-03 12:39:00,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:27:00+00:00"",
+    ""open"": 870.65,
+    ""high"": 872.3,
+    ""low"": 870.65,
+    ""close"": 872.2,
+    ""volume"": 2310
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-03 15:33:53,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:37:00+00:00"",
+    ""open"": 869.5,
+    ""high"": 869.95,
+    ""low"": 868.25,
+    ""close"": 869.5,
+    ""volume"": 3172
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight decline towards support level, but remains within Bollinger bands, indicating no strong breakout or breakdown."",
+    ""Support and resistance levels have not significantly shifted based on recent daily data, maintaining current support at 859.65 and resistance at 870.25."",
+    ""ADX remains below threshold, indicating weak trend strength, supporting a neutral stance."",
+    ""Recent momentum indicators (MACD, DI, ATR) show no strong directional bias, aligning with current 'No Action' signal."",
+    ""No notable change in volatility or momentum to justify updating core support/resistance levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-04 11:16:53,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:30:00+00:00"",
+    ""open"": 874.1,
+    ""high"": 874.1,
+    ""low"": 874.1,
+    ""close"": 874.1,
+    ""volume"": 0
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 863.5,
+  ""resistance_realtime"": 869.0,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-04 14:25:15,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:15:00+00:00"",
+    ""open"": 868.5,
+    ""high"": 869.1,
+    ""low"": 868.2,
+    ""close"": 868.2,
+    ""volume"": 477
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 0.6369,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 868.25,
+  ""target"": 870.78,
+  ""stoploss"": 865.6,
+  ""entry1"": 868.25,
+  ""target1"": 870.78,
+  ""stoploss1"": 865.6,
+  ""entry2"": 868.25,
+  ""target2"": 884.35625,
+  ""stoploss2"": 857.5125,
+  ""entry3"": 868.25,
+  ""target3"": 947.0,
+  ""stoploss3"": 838.5,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 868.0
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 872.0
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 885.0
+    }
+  },
+  ""reason_changes"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ]
+}"
+2025-09-04 14:53:13,"{
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:24:00+00:00"",
+    ""open"": 858.75,
+    ""high"": 858.85,
+    ""low"": 858.25,
+    ""close"": 858.5,
+    ""volume"": 249
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2331,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 858.75,
+  ""target"": 860.91,
+  ""stoploss"": 857.59,
+  ""entry1"": 858.75,
+  ""target1"": 860.91,
+  ""stoploss1"": 857.59,
+  ""entry2"": 849.0,
+  ""target2"": 860.91,
+  ""stoploss2"": 837.0,
+  ""entry3"": 849.0,
+  ""target3"": 860.91,
+  ""stoploss3"": 837.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-04 15:06:03,"{
+  ""reason"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27
+    }
+  },
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:52:00+00:00"",
+    ""open"": 858.15,
+    ""high"": 858.95,
+    ""low"": 858.1,
+    ""close"": 858.1,
+    ""volume"": 593
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2331,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 859.7,
+  ""target"": 859.12,
+  ""stoploss"": 862.35,
+  ""entry1"": 859.7,
+  ""target1"": 859.12,
+  ""stoploss1"": 862.35,
+  ""entry2"": 859.7,
+  ""target2"": 846.8525,
+  ""stoploss2"": 870.4375,
+  ""entry3"": 859.7,
+  ""target3"": 838.5,
+  ""stoploss3"": 912.2,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27
+    }
+  }
+}"
+2025-09-04 15:17:59,"{
+  ""reason"": [
+    ""Support and resistance levels remain stable based on recent daily and weekly data."",
+    ""No significant trend strength or momentum change detected in recent indicator data."",
+    ""Predicted targets suggest slight upward movement, but current signals remain neutral."",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2331,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 859.7,
+  ""target"": 859.12,
+  ""stoploss"": 862.35,
+  ""entry1"": 859.7,
+  ""target1"": 859.12,
+  ""stoploss1"": 862.35,
+  ""entry2"": 859.7,
+  ""target2"": 846.8525,
+  ""stoploss2"": 870.4375,
+  ""entry3"": 859.7,
+  ""target3"": 838.5,
+  ""stoploss3"": 912.2
+}"
+2025-09-05 13:40:32,"{
+  ""reason"": [
+    ""Market support and resistance levels are confirmed stable across recent daily and weekly data."",
+    ""No significant change in trend indicators or momentum signals detected in recent indicator data."",
+    ""Predicted upward targets remain modest, aligning with current neutral signals."",
+    ""Auto-filled levels from support/resistance bands are consistent with recent data, maintaining proper order."",
+    ""Levels adjusted to ensure stoploss is below support, and entry/target are within the band, respecting the long-only policy.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2331,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 859.7,
+  ""target"": 859.12,
+  ""stoploss"": 858.0,
+  ""entry1"": 859.7,
+  ""target1"": 859.12,
+  ""stoploss1"": 858.0,
+  ""entry2"": 859.7,
+  ""target2"": 846.8525,
+  ""stoploss2"": 858.0,
+  ""entry3"": 859.7,
+  ""target3"": 838.5,
+  ""stoploss3"": 858.0,
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:37:00+00:00"",
+    ""open"": 854.7,
+    ""high"": 854.85,
+    ""low"": 854.7,
+    ""close"": 854.8,
+    ""volume"": 118
+  }
+}"
+2025-09-05 14:29:12,"{
+  ""reason"": [
+    ""Market support and resistance levels are confirmed stable across recent daily and weekly data."",
+    ""No significant change in trend indicators or momentum signals detected in recent indicator data."",
+    ""Predicted upward targets remain modest, aligning with current neutral signals."",
+    ""Auto-filled levels from support/resistance bands are consistent with recent data, maintaining proper order."",
+    ""Levels adjusted to ensure stoploss is below support, and entry/target are within the band, respecting the long-only policy.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 859.65,
+  ""resistance_1d"": 870.25,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2331,
+  ""sr_range_pct_1d"": 1.2331,
+  ""sr_range_pct_1w"": 5.0589,
+  ""sr_range_pct_3m"": 24.735,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 864.808,
+  ""target"": 865.029,
+  ""stoploss"": 856.641,
+  ""entry1"": 864.808,
+  ""target1"": 865.029,
+  ""stoploss1"": 856.641,
+  ""entry2"": 859.7,
+  ""target2"": 862.709,
+  ""stoploss2"": 846.029,
+  ""entry3"": 859.7,
+  ""target3"": 862.709,
+  ""stoploss3"": 846.029,
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:39:00+00:00"",
+    ""open"": 854.5,
+    ""high"": 854.5,
+    ""low"": 853.1,
+    ""close"": 853.35,
+    ""volume"": 1035
+  }
+}"
+2025-09-05 14:46:19,"{
+  ""reason"": [
+    ""Market support and resistance levels are confirmed stable across recent daily and weekly data."",
+    ""No significant change in trend indicators or momentum signals detected in recent indicator data."",
+    ""Predicted upward targets remain modest, aligning with current neutral signals."",
+    ""Auto-filled levels from support/resistance bands are consistent with recent data, maintaining proper order."",
+    ""Levels adjusted to ensure stoploss is below support, and entry/target are within the band, respecting the long-only policy."",
+    ""LLM duplicated/missed support_1d/resistance_1d; recomputed via horizon_sr(1).""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 840.7,
+  ""resistance_1d"": 934.35,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2424,
+  ""sr_range_pct_1d"": 10.9763,
+  ""sr_range_pct_1w"": 5.034,
+  ""sr_range_pct_3m"": 24.6132,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 864.808,
+  ""target"": 865.029,
+  ""stoploss"": 856.641,
+  ""entry1"": 864.808,
+  ""target1"": 867.835,
+  ""stoploss1"": 837.758,
+  ""entry2"": 859.7,
+  ""target2"": 862.709,
+  ""stoploss2"": 846.029,
+  ""entry3"": 859.7,
+  ""target3"": 862.709,
+  ""stoploss3"": 846.029,
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:28:00+00:00"",
+    ""open"": 853.15,
+    ""high"": 853.2,
+    ""low"": 853.0,
+    ""close"": 853.2,
+    ""volume"": 643
+  }
+}"
+2025-09-05 15:12:51,"{
+  ""reason"": [
+    ""Support and resistance levels across daily and weekly horizons are consistent with recent historical data, confirming stability."",
+    ""Momentum indicators (MACD, ADX, RSI) suggest a neutral or slightly bullish trend, aligning with the current 'No Action' signal."",
+    ""Recent indicator data shows no strong breakout or breakdown signals, maintaining the current levels."",
+    ""Auto-calculated support and resistance bands are within the proper order, with support below support_1d and resistance above resistance_1d."",
+    ""Trade levels (entry, target, stoploss) are adjusted to ensure the order stoploss < support < entry < target < resistance, respecting the long-only policy."",
+    ""Predicted upward targets are modest, consistent with the neutral market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 840.7,
+  ""resistance_1d"": 934.35,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2409,
+  ""sr_range_pct_1d"": 10.9635,
+  ""sr_range_pct_1w"": 5.0281,
+  ""sr_range_pct_3m"": 24.5844,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 864.808,
+  ""target"": 865.029,
+  ""stoploss"": 856.641,
+  ""entry1"": 864.808,
+  ""target1"": 867.835,
+  ""stoploss1"": 837.758,
+  ""entry2"": 859.7,
+  ""target2"": 862.709,
+  ""stoploss2"": 846.029,
+  ""entry3"": 859.7,
+  ""target3"": 862.709,
+  ""stoploss3"": 846.029,
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:45:00+00:00"",
+    ""open"": 853.85,
+    ""high"": 854.2,
+    ""low"": 853.75,
+    ""close"": 854.2,
+    ""volume"": 20
+  }
+}"
+2025-09-05 15:24:57,"{
+  ""reason"": [
+    ""Support and resistance levels across daily and weekly horizons are consistent with recent historical data, confirming stability."",
+    ""Momentum indicators (MACD, ADX, RSI) suggest a neutral or slightly bullish trend, aligning with the current 'No Action' signal."",
+    ""Recent indicator data shows no strong breakout or breakdown signals, maintaining the current levels."",
+    ""Auto-calculated support and resistance bands are within the proper order, with support below support_1d and resistance above resistance_1d."",
+    ""Trade levels (entry, target, stoploss) are adjusted to ensure the order stoploss < support < entry < target < resistance, respecting the long-only policy."",
+    ""Predicted upward targets are modest, consistent with the neutral market outlook.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.001,
+      ""price"": 860.91,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.005,
+      ""price"": 864.86,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 876.27,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 859.65,
+  ""resistance"": 870.25,
+  ""support_realtime"": 859.65,
+  ""resistance_realtime"": 870.25,
+  ""support_1d"": 840.7,
+  ""resistance_1d"": 934.35,
+  ""support_1w"": 849.0,
+  ""resistance_1w"": 891.95,
+  ""support_3m"": 849.0,
+  ""resistance_3m"": 1059.0,
+  ""sr_range_pct_realtime"": 1.2434,
+  ""sr_range_pct_1d"": 10.9853,
+  ""sr_range_pct_1w"": 5.0381,
+  ""sr_range_pct_3m"": 24.6334,
+  ""volume_threshold"": 1633,
+  ""bollinger"": {
+    ""mid_price"": 881.91,
+    ""upper_band"": 883.32,
+    ""lower_band"": 880.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 864.808,
+  ""target"": 865.029,
+  ""stoploss"": 856.641,
+  ""entry1"": 864.808,
+  ""target1"": 867.835,
+  ""stoploss1"": 837.758,
+  ""entry2"": 859.7,
+  ""target2"": 862.709,
+  ""stoploss2"": 846.029,
+  ""entry3"": 859.7,
+  ""target3"": 862.709,
+  ""stoploss3"": 846.029,
+  ""stock_code"": ""NATCOPHARM"",
+  ""instrument_token"": 1003009,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:11:00+00:00"",
+    ""open"": 852.6,
+    ""high"": 852.8,
+    ""low"": 852.5,
+    ""close"": 852.5,
+    ""volume"": 893
+  }
+}"

@@ -1,0 +1,43 @@
+timestamp,raw_response
+2025-08-19 14:23:42,"{
+  ""stock_code"": ""CAMS"",
+  ""instrument_token"": 87553,
+  ""support"": 3780.0,
+  ""resistance"": 3850.0,
+  ""volume_threshold"": 600000,
+  ""bollinger"": {
+    ""mid_price"": 3820.0,
+    ""upper_band"": 3854.0,
+    ""lower_band"": 3786.0
+  },
+  ""macd"": {
+    ""signal_line"": 9.0,
+    ""histogram"": 0.2,
+    ""ma_fast"": 3828.9556,
+    ""ma_slow"": 3836.335,
+    ""ma_signal"": 3854.6168
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a consolidation near resistance with no clear breakout."",
+    ""Support adjusted slightly downward based on recent lows."",
+    ""Volume threshold reduced to reflect recent lower volume activity."",
+    ""ADX increased slightly, indicating rising trend strength but still below previous threshold."",
+    ""No significant trend or breakout observed in recent data; maintained current indicator parameters.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

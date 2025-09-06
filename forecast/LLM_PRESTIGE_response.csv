@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:20:57,"{
+  ""stock_code"": ""PRESTIGE"",
+  ""instrument_token"": 5197313,
+  ""support"": 1600.0,
+  ""resistance"": 1655.0,
+  ""volume_threshold"": 900000,
+  ""bollinger"": {
+    ""mid_price"": 1632.52,
+    ""upper_band"": 1634.39,
+    ""lower_band"": 1630.65
+  },
+  ""macd"": {
+    ""signal_line"": 0.3219,
+    ""histogram"": 0.0212,
+    ""ma_fast"": 1632.87,
+    ""ma_slow"": 1632.52,
+    ""ma_signal"": 0.3432
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 15
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to recent low range around 1600 based on last 5 days lows."",
+    ""Resistance adjusted to recent high near 1655 reflecting recent peak."",
+    ""Volume threshold lowered to 900000 due to recent lower volumes."",
+    ""Bollinger bands updated to recent 1-minute candle values indicating tight range."",
+    ""MACD parameters updated to recent values showing slight positive histogram."",
+    ""ADX threshold lowered to 15 reflecting reduced trend strength but still relevant."",
+    ""Signal set to Hold due to price consolidation near resistance with low volume.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

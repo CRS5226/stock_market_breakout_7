@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:10:35,"{
+  ""stock_code"": ""DEEPAKNTR"",
+  ""instrument_token"": 5105409,
+  ""support"": 1800.0,
+  ""resistance"": 1877.0,
+  ""volume_threshold"": 474235,
+  ""bollinger"": {
+    ""mid_price"": 1814.9444,
+    ""upper_band"": 1815.3520,
+    ""lower_band"": 1814.3813
+  },
+  ""macd"": {
+    ""signal_line"": 0.2409,
+    ""histogram"": 0.0406,
+    ""ma_fast"": 1814.9444,
+    ""ma_slow"": 1814.8667,
+    ""ma_signal"": 1814.8667
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 1814,
+    ""ma_slow"": 1814
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support around 1800 and resistance near 1877, with tight Bollinger bands indicating low volatility."",
+    ""MACD histogram remains positive, suggesting upward momentum, but recent candles are within support/resistance zones, indicating a potential breakout or reversal."",
+    ""No significant trend change or breakout observed in recent data; support and resistance levels adjusted slightly based on recent high/low points.""
+  ],
+  ""last_updated"": ""2025-08-19 14:10:00"",
+  ""signal"": ""Hold""
+}"

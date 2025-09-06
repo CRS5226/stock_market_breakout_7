@@ -1,0 +1,42 @@
+timestamp,raw_response
+2025-08-19 14:30:44,"{
+  ""stock_code"": ""GHCL"",
+  ""instrument_token"": 288513,
+  ""support"": 548.0,
+  ""resistance"": 574.65,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 577.225,
+    ""upper_band"": 577.8673,
+    ""lower_band"": 576.5827
+  },
+  ""macd"": {
+    ""signal_line"": 0.2408,
+    ""histogram"": -0.1374,
+    ""ma_fast"": 577.3,
+    ""ma_slow"": 577.225,
+    ""ma_signal"": 0.3782
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 577.3,
+    ""ma_slow"": 577.225
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows consolidation near support at 548.0 and resistance at 574.65, with no clear breakout signals."",
+    ""MACD remains slightly negative but close to zero, indicating a neutral momentum."",
+    ""Bollinger bands are narrow, suggesting low volatility and no breakout imminent."",
+    ""ADX remains below 20, indicating a non-trending market.""
+  ],
+  ""last_updated"": ""2025-08-19 14:30:00"",
+  ""signal"": ""Hold""
+}"

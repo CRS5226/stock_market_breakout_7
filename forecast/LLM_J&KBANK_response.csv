@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:33:54,"{
+  ""stock_code"": ""J&KBANK"",
+  ""instrument_token"": 1442049,
+  ""support"": 104.32,
+  ""resistance"": 104.49,
+  ""volume_threshold"": 3000,
+  ""bollinger"": {
+    ""mid_price"": 104.44,
+    ""upper_band"": 104.5428,
+    ""lower_band"": 104.1522
+  },
+  ""macd"": {
+    ""signal_line"": 0.0529,
+    ""histogram"": 0.0117,
+    ""ma_fast"": 104.44,
+    ""ma_slow"": 104.3475,
+    ""ma_signal"": 104.33
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 104.44,
+    ""ma_slow"": 104.3475
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger bands and stable moving averages, indicating low volatility and no clear breakout signals."",
+    ""Volume remains steady with no significant spike, supporting a hold stance."",
+    ""ADX remains below 20, indicating a lack of strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 14:32:00"",
+  ""signal"": ""Hold""
+}"

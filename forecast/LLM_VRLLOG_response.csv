@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:32:40,"{
+  ""stock_code"": ""VRLLOG"",
+  ""instrument_token"": 2226177,
+  ""support"": 278.0,
+  ""resistance"": 285.0,
+  ""volume_threshold"": 250000,
+  ""bollinger"": {
+    ""mid_price"": 280.0,
+    ""upper_band"": 282.14,
+    ""lower_band"": 277.74
+  },
+  ""macd"": {
+    ""signal_line"": 0.108,
+    ""histogram"": 0.045,
+    ""ma_fast"": 280.15,
+    ""ma_slow"": 279.94,
+    ""ma_signal"": 0.152
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 21.8
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 278.0 based on recent lows around 278.0-278.8."",
+    ""Resistance updated to 285.0 reflecting recent highs near 285.6."",
+    ""Volume threshold lowered to 250000 due to recent volume averaging around 200k-300k, down from 1,000,000."",
+    ""Bollinger Bands updated to recent values from last 1-minute candle."",
+    ""MACD parameters updated to reflect recent positive histogram and signal line values."",
+    ""ADX threshold slightly increased to 21.8 reflecting recent ADX value around 25.7 indicating moderate trend strength."",
+    ""Signal set to Hold due to lack of strong breakout or breakdown signals in recent data.""
+  ],
+  ""last_updated"": ""2025-08-19 14:35:00"",
+  ""signal"": ""Hold""
+}"

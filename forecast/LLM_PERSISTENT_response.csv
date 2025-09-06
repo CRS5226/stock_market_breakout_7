@@ -1,0 +1,41 @@
+timestamp,raw_response
+2025-08-19 14:12:33,"{
+  ""stock_code"": ""PERSISTENT"",
+  ""instrument_token"": 4701441,
+  ""support"": 5190.0,
+  ""resistance"": 5300.0,
+  ""volume_threshold"": 500000,
+  ""bollinger"": {
+    ""mid_price"": 5218.7,
+    ""upper_band"": 5222.37,
+    ""lower_band"": 5215.05
+  },
+  ""macd"": {
+    ""signal_line"": -0.36,
+    ""histogram"": -0.29,
+    ""ma_fast"": 5218.22,
+    ""ma_slow"": 5218.71,
+    ""ma_signal"": 5218.7
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 21,
+    ""ma_slow"": 50
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support with tight Bollinger bands, indicating low volatility."",
+    ""MACD histogram remains negative but shows signs of decreasing magnitude, suggesting potential bullish divergence."",
+    ""ADX remains below 25, indicating a weak trend, but recent upward momentum warrants cautious adjustment of support levels.""
+  ],
+  ""last_updated"": ""2025-08-19 15:00:00"",
+  ""signal"": ""Hold""
+}"

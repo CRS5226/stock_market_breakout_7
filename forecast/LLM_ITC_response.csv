@@ -1,0 +1,40 @@
+timestamp,raw_response
+2025-08-19 15:25:12,"{
+  ""stock_code"": ""ITC"",
+  ""instrument_token"": 424961,
+  ""support"": 413.6,
+  ""resistance"": 417.5,
+  ""volume_threshold"": 1000000,
+  ""bollinger"": {
+    ""mid_price"": 414.9833,
+    ""upper_band"": 423.1571,
+    ""lower_band"": 405.8279
+  },
+  ""macd"": {
+    ""signal_line"": 0.12239050695296783,
+    ""histogram"": 0.019044799302648574,
+    ""ma_fast"": 408.9111111111111,
+    ""ma_slow"": 408.7175,
+    ""ma_signal"": 409.1825537603328
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 408.9111111111111,
+    ""ma_slow"": 408.7175
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with support around 413.6 and resistance near 417.5, indicating a narrow trading range."",
+    ""No significant breakout or breakdown observed in recent data; parameters remain stable.""
+  ],
+  ""last_updated"": ""2025-08-19 15:23:00"",
+  ""signal"": ""Hold""
+}"

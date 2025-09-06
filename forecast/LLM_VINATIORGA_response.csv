@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 14:16:25,"{
+  ""stock_code"": ""VINATIORGA"",
+  ""instrument_token"": 4445185,
+  ""support"": 1639.9,
+  ""resistance"": 1755.0,
+  ""volume_threshold"": 47050,
+  ""bollinger"": {
+    ""mid_price"": 1702.0111,
+    ""upper_band"": 2047.5994,
+    ""lower_band"": 1627.1
+  },
+  ""macd"": {
+    ""signal_line"": 1579.9806,
+    ""histogram"": -22.6945,
+    ""ma_fast"": 1702.0111,
+    ""ma_slow"": 1813.79,
+    ""ma_signal"": 1579.9806
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward breakout above support, indicating short-term bullish momentum."",
+    ""Support adjusted upward to recent low of 1639.9 based on recent lows."",
+    ""Resistance slightly increased to 1755.0 reflecting recent high activity."",
+    ""Volume threshold remains unchanged due to high recent volume of 47050, supporting breakout validity."",
+    ""Bollinger bands expanded, indicating increased volatility and potential continuation of trend."",
+    ""MACD histogram shows a slight negative divergence but overall supports current trend."",
+    ""ADX remains above 20, confirming trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 14:15:00"",
+  ""signal"": ""Buy""
+}"

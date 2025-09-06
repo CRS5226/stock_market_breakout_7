@@ -1,0 +1,3343 @@
+timestamp,raw_response
+2025-08-19 13:25:18,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1715.22,
+    ""upper_band"": 1716.90,
+    ""lower_band"": 1713.88
+  },
+  ""macd"": {
+    ""signal_line"": 0.7529,
+    ""histogram"": -0.0614,
+    ""ma_fast"": 1715.22,
+    ""ma_slow"": 1715.39,
+    ""ma_signal"": 1715.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger Bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of clear momentum."",
+    ""No significant trend or breakout observed in recent data."",
+    ""Support and resistance levels remain unchanged based on historical and recent data."",
+    ""Volume remains stable without unusual spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:29:25,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1715.22,
+    ""upper_band"": 1716.9,
+    ""lower_band"": 1713.88
+  },
+  ""macd"": {
+    ""signal_line"": 0.7529,
+    ""histogram"": -0.0614,
+    ""ma_fast"": 1715.22,
+    ""ma_slow"": 1715.39,
+    ""ma_signal"": 1715.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger Bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of clear momentum."",
+    ""No significant trend or breakout observed in recent data."",
+    ""Support and resistance levels remain unchanged based on historical and recent data."",
+    ""Volume remains stable without unusual spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:24:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:35:24,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1715.22,
+    ""upper_band"": 1716.9,
+    ""lower_band"": 1713.88
+  },
+  ""macd"": {
+    ""signal_line"": 0.7529,
+    ""histogram"": -0.0614,
+    ""ma_fast"": 1715.22,
+    ""ma_slow"": 1715.39,
+    ""ma_signal"": 1715.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger Bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of clear momentum."",
+    ""No significant trend or breakout observed in recent data."",
+    ""Support and resistance levels remain unchanged based on historical and recent data."",
+    ""Volume remains stable without unusual spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:34:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:39:38,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1715.22,
+    ""upper_band"": 1716.9,
+    ""lower_band"": 1713.88
+  },
+  ""macd"": {
+    ""signal_line"": 0.7529,
+    ""histogram"": -0.0614,
+    ""ma_fast"": 1715.22,
+    ""ma_slow"": 1715.39,
+    ""ma_signal"": 1715.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger Bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of clear momentum."",
+    ""No significant trend or breakout observed in recent data."",
+    ""Support and resistance levels remain unchanged based on historical and recent data."",
+    ""Volume remains stable without unusual spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:38:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:54:30,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1715.22,
+    ""upper_band"": 1716.9,
+    ""lower_band"": 1713.88
+  },
+  ""macd"": {
+    ""signal_line"": 0.7529,
+    ""histogram"": -0.0614,
+    ""ma_fast"": 1715.22,
+    ""ma_slow"": 1715.39,
+    ""ma_signal"": 1715.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation with tight Bollinger Bands, indicating low volatility."",
+    ""MACD remains near zero, suggesting a lack of clear momentum."",
+    ""No significant trend or breakout observed in recent data."",
+    ""Support and resistance levels remain unchanged based on historical and recent data."",
+    ""Volume remains stable without unusual spikes.""
+  ],
+  ""last_updated"": ""2025-08-19 13:38:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:16:22,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1690.0,
+    ""upper_band"": 1735.0,
+    ""lower_band"": 1655.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.7117137550318986,
+    ""histogram"": 0.6620015133324231,
+    ""ma_fast"": 1707.975,
+    ""ma_slow"": 1707.975,
+    ""ma_signal"": 1707.975
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support level of 1647.3 with no clear breakout."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Volume remains stable without spike, supporting unchanged volume threshold."",
+    ""Bollinger Bands indicate slight volatility but no breakout beyond bands."",
+    ""MACD remains near neutral, suggesting no strong bullish or bearish momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:20:47,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1647.3,
+  ""resistance"": 1735.0,
+  ""volume_threshold"": 1500416,
+  ""bollinger"": {
+    ""mid_price"": 1690.0,
+    ""upper_band"": 1735.0,
+    ""lower_band"": 1655.0
+  },
+  ""macd"": {
+    ""signal_line"": 0.7117137550318986,
+    ""histogram"": 0.6620015133324231,
+    ""ma_fast"": 1707.975,
+    ""ma_slow"": 1707.975,
+    ""ma_signal"": 1707.975
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show consolidation near support level of 1647.3 with no clear breakout."",
+    ""No significant trend change or breakout observed in recent data."",
+    ""Volume remains stable without spike, supporting unchanged volume threshold."",
+    ""Bollinger Bands indicate slight volatility but no breakout beyond bands."",
+    ""MACD remains near neutral, suggesting no strong bullish or bearish momentum.""
+  ],
+  ""last_updated"": ""2025-08-19 15:15:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-22 12:11:29,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""support"": 1690.77,
+  ""resistance"": 1759.78,
+  ""volume_threshold"": 3770,
+  ""bollinger"": {
+    ""mid_price"": 1725.28,
+    ""upper_band"": 1759.78,
+    ""lower_band"": 1690.77
+  },
+  ""macd"": {
+    ""signal_line"": 0.7117137550318986,
+    ""histogram"": 0.6620015133324231,
+    ""ma_fast"": 1707.975,
+    ""ma_slow"": 1707.975,
+    ""ma_signal"": 1707.975
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent candles show a strong upward move with price crossing above support levels and resistance levels tightening, indicating potential breakout."",
+    ""Volume has increased significantly in recent candles, supporting a bullish breakout scenario."",
+    ""MACD histogram is positive and increasing, indicating bullish momentum."",
+    ""ADX remains above 20, confirming trend strength."",
+    ""Recent price action suggests a bullish breakout above resistance.""
+  ],
+  ""last_updated"": ""2025-08-21 11:34:00"",
+  ""signal"": ""Buy""
+}"
+2025-09-01 14:45:58,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:42:00+00:00"",
+    ""open"": 1668.8,
+    ""high"": 1670.0,
+    ""low"": 1666.2,
+    ""close"": 1670.0,
+    ""volume"": 11268
+  },
+  ""support"": 1695.26,
+  ""resistance"": 1763.4,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight upward momentum with close near resistance."",
+    ""ADX remains below threshold, indicating no strong trend."",
+    ""Price is within Bollinger bands, suggesting no breakout signal."",
+    ""Moving averages are flat with no clear crossover."",
+    ""Recent volume is below threshold, indicating lack of strong buying interest.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1673.34
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1684.56
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1714.25
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 1673.34,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 1684.56,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": ""2025-11-01"",
+      ""price"": 1714.25,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-01 14:54:00,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:44:00+00:00"",
+    ""open"": 1668.0,
+    ""high"": 1670.0,
+    ""low"": 1668.0,
+    ""close"": 1668.8,
+    ""volume"": 2171
+  },
+  ""support"": 1695.26,
+  ""resistance"": 1763.4,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight upward momentum with close near resistance."",
+    ""ADX remains below threshold, indicating no strong trend."",
+    ""Price is within Bollinger bands, suggesting no breakout signal."",
+    ""Moving averages are flat with no clear crossover."",
+    ""Recent volume is below threshold, indicating lack of strong buying interest.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1673.34,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1684.56,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1714.25,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 1673.34,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 1684.56,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": ""2025-11-01"",
+      ""price"": 1714.25,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-01 15:00:34,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01 14:52:00+00:00"",
+    ""open"": 1666.0,
+    ""high"": 1667.0,
+    ""low"": 1664.4,
+    ""close"": 1666.9,
+    ""volume"": 1740
+  },
+  ""support"": 1695.26,
+  ""resistance"": 1763.4,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows slight upward momentum with close near resistance."",
+    ""ADX remains below threshold, indicating no strong trend."",
+    ""Price is within Bollinger bands, suggesting no breakout signal."",
+    ""Moving averages are flat with no clear crossover."",
+    ""Recent volume is below threshold, indicating lack of strong buying interest.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1673.34,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.008,
+      ""price"": 1684.56,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.025,
+      ""price"": 1714.25,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": ""2025-09-02"",
+      ""price"": 1673.34,
+      ""ret"": 0.002
+    },
+    ""1w"": {
+      ""time"": ""2025-09-08"",
+      ""price"": 1684.56,
+      ""ret"": 0.008
+    },
+    ""3m"": {
+      ""time"": ""2025-11-01"",
+      ""price"": 1714.25,
+      ""ret"": 0.025
+    }
+  }
+}"
+2025-09-02 11:04:32,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": null,
+    ""open"": null,
+    ""high"": null,
+    ""low"": null,
+    ""close"": null,
+    ""volume"": null
+  },
+  ""support"": 1695.26,
+  ""resistance"": 1763.4,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price action shows consolidation near support with no clear breakout signals."",
+    ""Historical data indicates sideways movement with Bollinger bands narrowing, suggesting low volatility."",
+    ""Momentum indicators (MACD, ADX) remain neutral, supporting a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1704.5,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1704.5,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1704.5,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:13:21,"{
+  ""reason"": [
+    ""Recent price action indicates consolidation near support with no clear breakout signals."",
+    ""Historical data shows sideways movement with Bollinger bands narrowing, suggesting low volatility."",
+    ""Momentum indicators (MACD, ADX) remain neutral, supporting a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:03:00+00:00"",
+    ""open"": 1704.5,
+    ""high"": 1704.5,
+    ""low"": 1703.0,
+    ""close"": 1703.3,
+    ""volume"": 1192
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1621.1,
+  ""resistance_realtime"": 1704.8,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 4.9105,
+  ""sr_range_pct_1d"": 2.3115,
+  ""sr_range_pct_1w"": 4.5175,
+  ""sr_range_pct_3m"": 53.8105,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1704.5
+    }
+  }
+}"
+2025-09-02 11:21:51,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating continued sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:19:00+00:00"",
+    ""open"": 1709.8,
+    ""high"": 1711.0,
+    ""low"": 1709.2,
+    ""close"": 1709.9,
+    ""volume"": 424
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1700.25,
+  ""resistance_realtime"": 1710.57,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.34,
+  ""sr_range_pct_1d"": 2.31,
+  ""sr_range_pct_1w"": 4.52,
+  ""sr_range_pct_3m"": 53.83,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1709.9,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1709.9,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1709.9,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1709.9,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1709.9,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1709.9,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:30:34,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating continued sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:20:00+00:00"",
+    ""open"": 1709.9,
+    ""high"": 1711.0,
+    ""low"": 1709.8,
+    ""close"": 1710.0,
+    ""volume"": 1229
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1644.0,
+  ""resistance_realtime"": 1712.0,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 3.9764,
+  ""sr_range_pct_1d"": 2.304,
+  ""sr_range_pct_1w"": 4.5027,
+  ""sr_range_pct_3m"": 53.6343,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:39:44,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating continued sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:29:00+00:00"",
+    ""open"": 1708.8,
+    ""high"": 1709.8,
+    ""low"": 1707.4,
+    ""close"": 1709.5,
+    ""volume"": 681
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1664.0,
+  ""resistance_realtime"": 1712.0,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 2.8124,
+  ""sr_range_pct_1d"": 2.3085,
+  ""sr_range_pct_1w"": 4.5116,
+  ""sr_range_pct_3m"": 53.7411,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1710.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1710.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:48:44,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating continued sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:38:00+00:00"",
+    ""open"": 1710.8,
+    ""high"": 1711.6,
+    ""low"": 1710.8,
+    ""close"": 1711.0,
+    ""volume"": 205
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1664.0,
+  ""resistance_realtime"": 1713.8,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 2.9075,
+  ""sr_range_pct_1d"": 2.3003,
+  ""sr_range_pct_1w"": 4.4956,
+  ""sr_range_pct_3m"": 53.5497,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 11:57:43,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:47:00+00:00"",
+    ""open"": 1718.5,
+    ""high"": 1718.5,
+    ""low"": 1715.8,
+    ""close"": 1717.0,
+    ""volume"": 2390
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1710.0,
+  ""resistance_realtime"": 1718.5,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.89,
+  ""sr_range_pct_1d"": 2.29,
+  ""sr_range_pct_1w"": 4.48,
+  ""sr_range_pct_3m"": 53.37,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:06:12,"{
+  ""reason"": [
+    ""Recent price action remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:56:00+00:00"",
+    ""open"": 1718.3,
+    ""high"": 1719.8,
+    ""low"": 1718.2,
+    ""close"": 1719.8,
+    ""volume"": 1669
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1700.4,
+  ""resistance_realtime"": 1722.0,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 1.2571,
+  ""sr_range_pct_1d"": 2.293,
+  ""sr_range_pct_1w"": 4.4812,
+  ""sr_range_pct_3m"": 53.3783,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 12:14:54,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:05:00+00:00"",
+    ""open"": 1721.3,
+    ""high"": 1722.5,
+    ""low"": 1720.0,
+    ""close"": 1720.9,
+    ""volume"": 2059
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1700.4,
+  ""resistance_realtime"": 1724.5,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 1.3992,
+  ""sr_range_pct_1d"": 2.2875,
+  ""sr_range_pct_1w"": 4.4705,
+  ""sr_range_pct_3m"": 53.2513,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1711.0,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1711.0,
+      ""ret"": 0
+    }
+  }
+}"
+2025-09-02 14:10:00,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:13:00+00:00"",
+    ""open"": 1729.6,
+    ""high"": 1736.8,
+    ""low"": 1729.6,
+    ""close"": 1734.6,
+    ""volume"": 20955
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1704.0,
+  ""resistance_realtime"": 1736.8,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 1.8961,
+  ""sr_range_pct_1d"": 2.2776,
+  ""sr_range_pct_1w"": 4.4511,
+  ""sr_range_pct_3m"": 53.0204,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  }
+}"
+2025-09-02 14:18:45,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Reinforcement of support and resistance levels with recent data suggests no significant change in trend.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:08:00+00:00"",
+    ""open"": 1731.8,
+    ""high"": 1738.0,
+    ""low"": 1731.8,
+    ""close"": 1736.4,
+    ""volume"": 7870
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1730.6,
+  ""resistance_realtime"": 1751.0,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 1.1776,
+  ""sr_range_pct_1d"": 2.2743,
+  ""sr_range_pct_1w"": 4.4447,
+  ""sr_range_pct_3m"": 52.9439,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:25:32,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:17:00+00:00"",
+    ""open"": 1738.0,
+    ""high"": 1739.2,
+    ""low"": 1738.0,
+    ""close"": 1738.7,
+    ""volume"": 781
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1730.6,
+  ""resistance_realtime"": 1746.3,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.9033,
+  ""sr_range_pct_1d"": 2.2668,
+  ""sr_range_pct_1w"": 4.4301,
+  ""sr_range_pct_3m"": 52.7703,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 14:34:23,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:24:00+00:00"",
+    ""open"": 1740.6,
+    ""high"": 1740.6,
+    ""low"": 1737.0,
+    ""close"": 1738.0,
+    ""volume"": 2057
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1730.6,
+  ""resistance_realtime"": 1743.8,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7581,
+  ""sr_range_pct_1d"": 2.2627,
+  ""sr_range_pct_1w"": 4.422,
+  ""sr_range_pct_3m"": 52.6733,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:18:11,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:33:00+00:00"",
+    ""open"": 1739.8,
+    ""high"": 1739.9,
+    ""low"": 1738.2,
+    ""close"": 1739.5,
+    ""volume"": 534
+  },
+  ""support"": 1693.0,
+  ""resistance"": 1732.4,
+  ""support_realtime"": 1730.6,
+  ""resistance_realtime"": 1743.8,
+  ""support_1d"": 1693.0,
+  ""resistance_1d"": 1732.4,
+  ""support_1w"": 1655.9,
+  ""resistance_1w"": 1732.9,
+  ""support_3m"": 1627.8,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7599,
+  ""sr_range_pct_1d"": 2.2681,
+  ""sr_range_pct_1w"": 4.4327,
+  ""sr_range_pct_3m"": 52.8006,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-02 15:26:47,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:17:00+00:00"",
+    ""open"": 1738.7,
+    ""high"": 1739.7,
+    ""low"": 1737.0,
+    ""close"": 1738.8,
+    ""volume"": 6743
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7135,
+  ""sr_range_pct_1d"": 5.0,
+  ""sr_range_pct_1w"": 7.9402,
+  ""sr_range_pct_3m"": 54.7181,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4,
+      ""method"": ""llm_v1""
+    }
+  }
+}"
+2025-09-03 11:57:14,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:25:00+00:00"",
+    ""open"": 1739.0,
+    ""high"": 1740.0,
+    ""low"": 1739.0,
+    ""close"": 1739.4,
+    ""volume"": 2308
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7132,
+  ""sr_range_pct_1d"": 4.9983,
+  ""sr_range_pct_1w"": 7.9374,
+  ""sr_range_pct_3m"": 54.6992,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:06:52,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:56:00+00:00"",
+    ""open"": 1750.7,
+    ""high"": 1750.7,
+    ""low"": 1745.8,
+    ""close"": 1747.4,
+    ""volume"": 14783
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:16:38,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:05:00+00:00"",
+    ""open"": 1750.7,
+    ""high"": 1750.8,
+    ""low"": 1748.8,
+    ""close"": 1749.7,
+    ""volume"": 761
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:25:32,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:15:00+00:00"",
+    ""open"": 1746.9,
+    ""high"": 1748.9,
+    ""low"": 1746.9,
+    ""close"": 1748.1,
+    ""volume"": 3873
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 12:35:21,"{
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:24:00+00:00"",
+    ""open"": 1748.0,
+    ""high"": 1748.7,
+    ""low"": 1746.7,
+    ""close"": 1747.4,
+    ""volume"": 3446
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-03 15:30:15,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:34:00+00:00"",
+    ""open"": 1744.4,
+    ""high"": 1744.8,
+    ""low"": 1740.9,
+    ""close"": 1742.1,
+    ""volume"": 8287
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  }
+}"
+2025-09-04 11:13:35,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:29:00+00:00"",
+    ""open"": 1734.5,
+    ""high"": 1735.4,
+    ""low"": 1734.0,
+    ""close"": 1735.4,
+    ""volume"": 2404
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent price remains within the Bollinger bands, indicating sideways movement."",
+    ""Historical data shows consolidation with narrow Bollinger bands and neutral ADX, supporting no immediate breakout."",
+    ""Momentum indicators (MACD, +DI, -DI) remain neutral, reinforcing a 'No Action' stance."",
+    ""Support and resistance levels have not significantly changed based on recent data, suggesting trend stability.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""1w"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    },
+    ""3m"": {
+      ""ret"": 0.0,
+      ""price"": 1732.4
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels remain stable, indicating no significant trend change."",
+    ""Recent data shows sideways movement with no breakout signals."",
+    ""Momentum indicators are neutral, supporting 'No Action' decision.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": null,
+  ""target"": null,
+  ""stoploss"": null,
+  ""entry1"": null,
+  ""target1"": null,
+  ""stoploss1"": null,
+  ""entry2"": null,
+  ""target2"": null,
+  ""stoploss2"": null,
+  ""entry3"": null,
+  ""target3"": null,
+  ""stoploss3"": null
+}"
+2025-09-04 11:23:19,"{
+  ""reason"": [
+    ""Recent data indicates support and resistance levels remain stable, with no significant breakout signals."",
+    ""Momentum indicators such as ADX and MACD show neutral readings, supporting 'No Action' decision."",
+    ""Support and resistance levels from historical and recent data are consistent, indicating no trend change."",
+    ""Auto-filled trade levels from support/resistance bands with a conservative risk-reward ratio (~1.5) and risk=25%."",
+    ""Support and resistance levels are aligned across multiple timeframes, reinforcing current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1661.24,
+  ""target"": 1628.65,
+  ""stoploss"": 1682.97,
+  ""entry1"": 1661.24,
+  ""target1"": 1628.65,
+  ""stoploss1"": 1682.97,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    }
+  }
+}"
+2025-09-04 14:21:10,"{
+  ""reason"": [
+    ""Recent data indicates support and resistance levels remain stable, with no significant breakout signals."",
+    ""Momentum indicators such as ADX and MACD show neutral readings, supporting 'No Action' decision."",
+    ""Support and resistance levels from historical and recent data are consistent, indicating no trend change."",
+    ""Auto-filled trade levels from support/resistance bands with a conservative risk-reward ratio (~1.5) and risk=25%."",
+    ""Support and resistance levels are aligned across multiple timeframes, reinforcing current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1722.2
+    }
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1735.1,
+  ""resistance_realtime"": 1747.5,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.7147,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1661.24,
+  ""target"": 1628.65,
+  ""stoploss"": 1682.97,
+  ""entry1"": 1661.24,
+  ""target1"": 1628.65,
+  ""stoploss1"": 1682.97,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-04 11:23:19"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 11:22:00+00:00"",
+    ""open"": 1702.2,
+    ""high"": 1702.2,
+    ""low"": 1701.2,
+    ""close"": 1702.0,
+    ""volume"": 317
+  }
+}"
+2025-09-04 14:48:46,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:20:00+00:00"",
+    ""open"": 1681.7,
+    ""high"": 1682.0,
+    ""low"": 1681.0,
+    ""close"": 1681.0,
+    ""volume"": 466
+  },
+  ""support"": 1609.1,
+  ""resistance"": 1696.0,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0947,
+  ""sr_range_pct_1d"": 0.7147,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates support and resistance levels remain stable, with no significant breakout signals."",
+    ""Momentum indicators such as ADX and MACD show neutral readings, supporting 'No Action' decision."",
+    ""Support and resistance levels from historical and recent data are consistent, indicating no trend change."",
+    ""Auto-filled trade levels from support/resistance bands with a conservative risk-reward ratio (~1.5) and risk=25%."",
+    ""Support and resistance levels are aligned across multiple timeframes, reinforcing current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1661.24,
+  ""target"": 1628.65,
+  ""stoploss"": 1682.97,
+  ""entry1"": 1661.24,
+  ""target1"": 1628.65,
+  ""stoploss1"": 1682.97,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    }
+  }
+}"
+2025-09-04 15:01:59,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:47:00+00:00"",
+    ""open"": 1682.9,
+    ""high"": 1683.9,
+    ""low"": 1682.2,
+    ""close"": 1683.9,
+    ""volume"": 823
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0951,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Recent data indicates support and resistance levels remain stable, with no significant breakout signals."",
+    ""Momentum indicators such as ADX and MACD show neutral readings, supporting 'No Action' decision."",
+    ""Support and resistance levels from historical and recent data are consistent, indicating no trend change."",
+    ""Auto-filled trade levels from support/resistance bands with a conservative risk-reward ratio (~1.5) and risk=25%."",
+    ""Support and resistance levels are aligned across multiple timeframes, reinforcing current levels.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1682.97,
+  ""target"": 1661.24,
+  ""stoploss"": 1683.8,
+  ""entry1"": 1682.97,
+  ""target1"": 1661.24,
+  ""stoploss1"": 1683.8,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    }
+  },
+  ""reason"": [
+    ""Support and resistance levels are stable and aligned across timeframes."",
+    ""Momentum indicators remain neutral, supporting no action."",
+    ""Trade levels are derived from current support/resistance bands with appropriate risk-reward ratios.""
+  ]
+}"
+2025-09-04 15:13:58,"{
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:00:00+00:00"",
+    ""open"": 1681.3,
+    ""high"": 1682.4,
+    ""low"": 1681.0,
+    ""close"": 1681.0,
+    ""volume"": 1688
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0951,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support and resistance levels are stable and aligned across timeframes."",
+    ""Momentum indicators remain neutral, supporting no action."",
+    ""Trade levels are derived from current support/resistance bands with appropriate risk-reward ratios.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1682.97,
+  ""target"": 1661.24,
+  ""stoploss"": 1683.8,
+  ""entry1"": 1682.97,
+  ""target1"": 1661.24,
+  ""stoploss1"": 1683.8,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    }
+  }
+}"
+2025-09-05 13:36:37,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0951,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1682.97,
+  ""target"": 1661.24,
+  ""stoploss"": 1683.8,
+  ""entry1"": 1682.97,
+  ""target1"": 1661.24,
+  ""stoploss1"": 1683.8,
+  ""entry2"": 1702.0,
+  ""target2"": 1650.25,
+  ""stoploss2"": 1736.5,
+  ""entry3"": 1702.0,
+  ""target3"": 1546.45,
+  ""stoploss3"": 1939.75
+}"
+2025-09-05 13:48:24,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0951,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1692.293,
+  ""target"": 1673.697,
+  ""stoploss"": 1676.312,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 13:36:37"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:35:00+00:00"",
+    ""open"": 1657.0,
+    ""high"": 1658.6,
+    ""low"": 1657.0,
+    ""close"": 1657.6,
+    ""volume"": 3696
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"
+2025-09-05 14:25:04,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0951,
+  ""sr_range_pct_1d"": 5.4005,
+  ""sr_range_pct_1w"": 8.6575,
+  ""sr_range_pct_3m"": 59.6612,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1692.293,
+  ""target"": 1673.697,
+  ""stoploss"": 1676.312,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 13:48:24"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:47:00+00:00"",
+    ""open"": 1659.2,
+    ""high"": 1660.0,
+    ""low"": 1658.5,
+    ""close"": 1660.0,
+    ""volume"": 1368
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"
+2025-09-05 14:41:53,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands."",
+    ""Adjusted support and resistance levels to ensure proper ordering and risk-reward ratios.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0965,
+  ""sr_range_pct_1d"": 5.2394,
+  ""sr_range_pct_1w"": 8.3203,
+  ""sr_range_pct_3m"": 57.3375,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1692.293,
+  ""target"": 1694.32,
+  ""stoploss"": 1676.312,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 14:25:04"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:24:00+00:00"",
+    ""open"": 1658.9,
+    ""high"": 1659.9,
+    ""low"": 1658.0,
+    ""close"": 1658.6,
+    ""volume"": 753
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"
+2025-09-05 14:54:14,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands."",
+    ""Adjusted support and resistance levels to ensure proper ordering and risk-reward ratios.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0965,
+  ""sr_range_pct_1d"": 5.2409,
+  ""sr_range_pct_1w"": 8.3228,
+  ""sr_range_pct_3m"": 57.3548,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1692.293,
+  ""target"": 1694.32,
+  ""stoploss"": 1676.312,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 14:41:53"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:40:00+00:00"",
+    ""open"": 1657.5,
+    ""high"": 1658.1,
+    ""low"": 1656.5,
+    ""close"": 1658.1,
+    ""volume"": 467
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"
+2025-09-05 15:08:35,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands."",
+    ""Adjusted support and resistance levels to ensure proper ordering and risk-reward ratios.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0965,
+  ""sr_range_pct_1d"": 5.2413,
+  ""sr_range_pct_1w"": 8.3233,
+  ""sr_range_pct_3m"": 57.3583,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1692.293,
+  ""target"": 1694.32,
+  ""stoploss"": 1676.312,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 14:54:14"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:53:00+00:00"",
+    ""open"": 1657.1,
+    ""high"": 1658.2,
+    ""low"": 1657.0,
+    ""close"": 1658.0,
+    ""volume"": 754
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"
+2025-09-05 15:20:40,"{
+  ""reason"": [
+    ""Market has shown a slight upward movement with recent close above support levels."",
+    ""Support and resistance levels are consistent across timeframes with minor adjustments for recent data."",
+    ""Momentum indicators (ADX, MACD) remain neutral, supporting no action."",
+    ""Trade levels have been adjusted to maintain proper risk-reward ratios within the current S–R bands."",
+    ""Adjusted support and resistance levels to ensure proper ordering and risk-reward ratios.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""1w"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    },
+    ""3m"": {
+      ""ret"": 0.012,
+      ""price"": 1690.55,
+      ""method"": ""llm_v1""
+    }
+  },
+  ""support"": 1682.2,
+  ""resistance"": 1683.8,
+  ""support_realtime"": 1682.2,
+  ""resistance_realtime"": 1683.8,
+  ""support_1d"": 1609.1,
+  ""resistance_1d"": 1696.0,
+  ""support_1w"": 1594.0,
+  ""resistance_1w"": 1732.0,
+  ""support_3m"": 1594.0,
+  ""resistance_3m"": 2545.0,
+  ""sr_range_pct_realtime"": 0.0968,
+  ""sr_range_pct_1d"": 5.2587,
+  ""sr_range_pct_1w"": 8.351,
+  ""sr_range_pct_3m"": 57.5492,
+  ""volume_threshold"": 1080,
+  ""bollinger"": {
+    ""mid_price"": 1729.33,
+    ""upper_band"": 1763.4,
+    ""lower_band"": 1695.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""entry"": 1654.1,
+  ""target"": 1658.2,
+  ""stoploss"": 1649.0,
+  ""entry1"": 1682.97,
+  ""target1"": 1685.824,
+  ""stoploss1"": 1603.468,
+  ""entry2"": 1702.0,
+  ""target2"": 1707.957,
+  ""stoploss2"": 1588.421,
+  ""entry3"": 1702.0,
+  ""target3"": 1707.957,
+  ""stoploss3"": 1588.421,
+  ""stock_code"": ""COCHINSHIP"",
+  ""instrument_token"": 5506049,
+  ""last_updated"": ""2025-09-05 15:08:35"",
+  ""forecast"": ""AI"",
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:07:00+00:00"",
+    ""open"": 1654.1,
+    ""high"": 1654.4,
+    ""low"": 1652.5,
+    ""close"": 1652.5,
+    ""volume"": 5732
+  },
+  ""sr_range_pct"": 0.0951,
+  ""respected_S"": 5,
+  ""respected_R"": 5,
+  ""respected_S1"": 3,
+  ""respected_R1"": 6,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 5,
+  ""respected_R3"": 1
+}"

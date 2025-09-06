@@ -1,0 +1,2572 @@
+timestamp,raw_response
+2025-08-19 13:26:37,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""support"": 1815.0,
+  ""resistance"": 1964.3,
+  ""volume_threshold"": 135159,
+  ""bollinger"": {
+    ""mid_price"": 1870.5454545454545,
+    ""upper_band"": 1873.5549711316598,
+    ""lower_band"": 1867.5359379592492
+  },
+  ""macd"": {
+    ""signal_line"": -0.8653663805629008,
+    ""histogram"": -0.3481613536654635,
+    ""ma_fast"": 1870.111111111111,
+    ""ma_slow"": 1870.5454545454545,
+    ""ma_signal"": 1870.5454545454545
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data range around 1870.5."",
+    ""MACD values updated to reflect recent 1-minute data showing slight negative histogram."",
+    ""Support retained at 1815.0 as no recent lower breakout observed."",
+    ""Resistance retained at 1964.3 as recent prices remain below this level."",
+    ""Volume threshold retained at 135159 due to no significant volume spike in recent data."",
+    ""ADX threshold retained at 20 as ADX remains below threshold indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:30:51,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""support"": 1815.0,
+  ""resistance"": 1964.3,
+  ""volume_threshold"": 135159,
+  ""bollinger"": {
+    ""mid_price"": 1870.1,
+    ""upper_band"": 1873.08,
+    ""lower_band"": 1867.12
+  },
+  ""macd"": {
+    ""signal_line"": -1.1147,
+    ""histogram"": -0.1496,
+    ""ma_fast"": 1869.12,
+    ""ma_slow"": 1870.1,
+    ""ma_signal"": 1870.1
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data range around 1870.1."",
+    ""MACD values updated to reflect recent 1-minute data showing slight negative histogram."",
+    ""Support retained at 1815.0 as no recent lower breakout observed in last few days."",
+    ""Resistance retained at 1964.3 as recent prices remain below this level without breakout."",
+    ""Volume threshold retained at 135159 due to no significant volume spike in recent data."",
+    ""ADX threshold retained at 20 as ADX remains below threshold indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:30:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 13:36:46,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""support"": 1815.0,
+  ""resistance"": 1964.3,
+  ""volume_threshold"": 135159,
+  ""bollinger"": {
+    ""mid_price"": 1869.53,
+    ""upper_band"": 1872.08,
+    ""lower_band"": 1866.98
+  },
+  ""macd"": {
+    ""signal_line"": -1.0928,
+    ""histogram"": -0.1047,
+    ""ma_fast"": 1868.88,
+    ""ma_slow"": 1869.53,
+    ""ma_signal"": 1869.53
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Bollinger Bands updated to reflect recent 1-minute data range around 1869.53."",
+    ""MACD values updated to reflect recent 1-minute data showing slight negative histogram."",
+    ""Support retained at 1815.0 as no recent lower breakout observed in last few days."",
+    ""Resistance retained at 1964.3 as recent prices remain below this level without breakout."",
+    ""Volume threshold retained at 135159 due to no significant volume spike in recent data."",
+    ""ADX threshold retained at 20 as ADX remains below threshold indicating no strong trend.""
+  ],
+  ""last_updated"": ""2025-08-19 13:35:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:17:43,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""support"": 1815.0,
+  ""resistance"": 1876.35,
+  ""volume_threshold"": 135159,
+  ""bollinger"": {
+    ""mid_price"": 1860.53,
+    ""upper_band"": 1876.35,
+    ""lower_band"": 1844.72
+  },
+  ""macd"": {
+    ""signal_line"": -4.11,
+    ""histogram"": -1.38,
+    ""ma_fast"": 1853.44,
+    ""ma_slow"": 1860.53,
+    ""ma_signal"": 1860.53
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated from 1964.3 to 1876.35 based on recent 1-minute candle upper Bollinger Band and recent high."",
+    ""Bollinger Bands updated to reflect recent 1-minute data range with mid price at 1860.53, upper band at 1876.35, and lower band at 1844.72."",
+    ""MACD values updated to reflect recent 1-minute data: signal line -4.11, histogram -1.38, moving averages adjusted accordingly."",
+    ""Support retained at 1815.0 as no recent breakout below this level was observed."",
+    ""Volume threshold retained at 135159 due to no significant volume spike in recent data."",
+    ""ADX threshold and period retained as recent ADX is above threshold indicating trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:20:00"",
+  ""signal"": ""Hold""
+}"
+2025-08-19 15:22:12,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""support"": 1815.0,
+  ""resistance"": 1871.81,
+  ""volume_threshold"": 135159,
+  ""bollinger"": {
+    ""mid_price"": 1856.44,
+    ""upper_band"": 1871.81,
+    ""lower_band"": 1841.06
+  },
+  ""macd"": {
+    ""signal_line"": -4.95,
+    ""histogram"": -0.37,
+    ""ma_fast"": 1849.43,
+    ""ma_slow"": 1856.44,
+    ""ma_signal"": 1856.44
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Resistance updated from 1876.35 to 1871.81 based on recent 1-minute candle upper Bollinger Band and recent high of 1871.81."",
+    ""Bollinger Bands updated to reflect recent 1-minute data range with mid price at 1856.44, upper band at 1871.81, and lower band at 1841.06."",
+    ""MACD values updated to reflect recent 1-minute data: signal line -4.95, histogram -0.37, moving averages adjusted accordingly."",
+    ""Support retained at 1815.0 as no recent breakout below this level was observed."",
+    ""Volume threshold retained at 135159 due to no significant volume spike in recent data."",
+    ""ADX threshold and period retained as recent ADX is above threshold indicating trend strength.""
+  ],
+  ""last_updated"": ""2025-08-19 15:22:00"",
+  ""signal"": ""Hold""
+}"
+2025-09-01 14:48:18,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-01T14:44:00+00:00"",
+    ""open"": 1765.5,
+    ""high"": 1767.7,
+    ""low"": 1765.1,
+    ""close"": 1766.5,
+    ""volume"": 275
+  },
+  ""support"": 1765.1,
+  ""resistance"": 1769.5,
+  ""volume_threshold"": 600,
+  ""bollinger"": {
+    ""mid_price"": 1767.2,
+    ""upper_band"": 1769.1339079605943,
+    ""lower_band"": 1765.2660920394057
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent Bollinger lower and upper bands"",
+    ""Volume threshold adjusted to recent average volume (~275) rounded to 600 for noise tolerance"",
+    ""Bollinger bands updated to recent values from 1-min data"",
+    ""Signal remains 'No Action' due to weak momentum and ADX below threshold""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1757.6675
+    },
+    ""1w"": {
+      ""ret"": 0.002,
+      ""price"": 1770.833
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1793.4975
+    }
+  }
+}"
+2025-09-02 11:07:12,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02T11:04:00+00:00"",
+    ""open"": 1783.4,
+    ""high"": 1784.5,
+    ""low"": 1783.4,
+    ""close"": 1784.3,
+    ""volume"": 89
+  },
+  ""support"": 1777.35,
+  ""resistance"": 1786.72,
+  ""support_realtime"": null,
+  ""resistance_realtime"": null,
+  ""support_1d"": null,
+  ""resistance_1d"": null,
+  ""support_1w"": null,
+  ""resistance_1w"": null,
+  ""support_3m"": null,
+  ""resistance_3m"": null,
+  ""sr_range_pct_realtime"": null,
+  ""sr_range_pct_1d"": null,
+  ""sr_range_pct_1w"": null,
+  ""sr_range_pct_3m"": null,
+  ""volume_threshold"": 90,
+  ""bollinger"": {
+    ""mid_price"": 1782.03,
+    ""upper_band"": 1786.72,
+    ""lower_band"": 1777.35
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent Bollinger Bands lower and upper bands (1777.35 and 1786.72) based on latest 1-min data"",
+    ""Lowered volume_threshold from 610 to 90 reflecting recent low volume in 1-min data"",
+    ""Updated Bollinger Bands mid, upper, and lower to recent 1-min values"",
+    ""Price dropped significantly from ~1880s to ~1784 indicating bearish momentum"",
+    ""ADX remains below threshold indicating weak trend strength, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1775.38
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 1757.73
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 1819.99
+    }
+  },
+  ""targets"": {
+    ""1d"": {
+      ""time"": null,
+      ""price"": 1775.38,
+      ""ret"": -0.005
+    },
+    ""1w"": {
+      ""time"": null,
+      ""price"": 1757.73,
+      ""ret"": -0.015
+    },
+    ""3m"": {
+      ""time"": null,
+      ""price"": 1819.99,
+      ""ret"": 0.02
+    }
+  }
+}"
+2025-09-02 11:15:59,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:13:00+00:00"",
+    ""open"": 1779.3,
+    ""high"": 1779.3,
+    ""low"": 1777.9,
+    ""close"": 1778.6,
+    ""volume"": 216
+  },
+  ""support"": 1777.7,
+  ""resistance"": 1784.6,
+  ""support_realtime"": 1746.0,
+  ""resistance_realtime"": 1786.8,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 2.2878,
+  ""sr_range_pct_1d"": 2.4672,
+  ""sr_range_pct_1w"": 8.2034,
+  ""sr_range_pct_3m"": 26.4383,
+  ""volume_threshold"": 90,
+  ""bollinger"": {
+    ""mid_price"": 1781.17,
+    ""upper_band"": 1784.64,
+    ""lower_band"": 1777.7
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent Bollinger Bands lower and upper bands (1777.7 and 1784.64) based on latest 1-min data"",
+    ""Lowered volume_threshold from 610 to 90 reflecting recent low volume in 1-min data"",
+    ""Updated Bollinger Bands mid, upper, and lower to recent 1-min values"",
+    ""Latest close at 1778.6 shows bearish momentum from prior levels near 1880s"",
+    ""ADX remains below threshold indicating weak trend strength, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1770.71
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 1751.32
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 1814.17
+    }
+  }
+}"
+2025-09-02 11:24:39,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:21:00+00:00"",
+    ""open"": 1775.9,
+    ""high"": 1776.1,
+    ""low"": 1774.0,
+    ""close"": 1775.1,
+    ""volume"": 568
+  },
+  ""support"": 1775.4582419539045,
+  ""resistance"": 1785.6417580460954,
+  ""support_realtime"": 1775.4582419539045,
+  ""resistance_realtime"": 1785.6417580460954,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.58,
+  ""sr_range_pct_1d"": 2.4727,
+  ""sr_range_pct_1w"": 8.2219,
+  ""sr_range_pct_3m"": 26.4977,
+  ""volume_threshold"": 90,
+  ""bollinger"": {
+    ""mid_price"": 1780.55,
+    ""upper_band"": 1785.6417580460954,
+    ""lower_band"": 1775.4582419539045
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent 1-min Bollinger Bands lower and upper bands (1775.46 and 1785.64) reflecting current price compression"",
+    ""Volume threshold lowered to 90 based on recent low 1-min volumes"",
+    ""Bollinger Bands mid, upper, and lower updated to recent 1-min indicator values"",
+    ""Latest close at 1775.1 indicates bearish momentum continuation below prior support levels"",
+    ""ADX remains below threshold indicating weak trend strength, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1766.22
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 1748.72
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 1810.60
+    }
+  }
+}"
+2025-09-02 11:33:09,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:30:00+00:00"",
+    ""open"": 1771.5,
+    ""high"": 1772.0,
+    ""low"": 1771.3,
+    ""close"": 1771.9,
+    ""volume"": 219
+  },
+  ""support"": 1768.62,
+  ""resistance"": 1783.15,
+  ""support_realtime"": 1768.62,
+  ""resistance_realtime"": 1783.15,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.81,
+  ""sr_range_pct_1d"": 2.4787,
+  ""sr_range_pct_1w"": 8.2418,
+  ""sr_range_pct_3m"": 26.5619,
+  ""volume_threshold"": 90,
+  ""bollinger"": {
+    ""mid_price"": 1775.885,
+    ""upper_band"": 1783.151986996001,
+    ""lower_band"": 1768.6180130039995
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to recent 1-min Bollinger Bands lower and upper bands (1768.62 and 1783.15) reflecting current price compression"",
+    ""Volume threshold remains at 90 based on recent low 1-min volumes"",
+    ""Bollinger Bands mid, upper, and lower updated to recent 1-min indicator values"",
+    ""Latest close at 1771.9 shows price below prior support, indicating bearish momentum continuation"",
+    ""ADX remains below threshold indicating weak trend strength, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1762.04
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 1745.02
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 1806.34
+    }
+  }
+}"
+2025-09-02 11:42:25,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:39:00+00:00"",
+    ""open"": 1767.0,
+    ""high"": 1767.6,
+    ""low"": 1764.5,
+    ""close"": 1764.5,
+    ""volume"": 1133
+  },
+  ""support"": 1766.15,
+  ""resistance"": 1780.37,
+  ""support_realtime"": 1766.15,
+  ""resistance_realtime"": 1780.37,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.81,
+  ""sr_range_pct_1d"": 2.4838,
+  ""sr_range_pct_1w"": 8.2585,
+  ""sr_range_pct_3m"": 26.6159,
+  ""volume_threshold"": 90,
+  ""bollinger"": {
+    ""mid_price"": 1773.26,
+    ""upper_band"": 1780.37,
+    ""lower_band"": 1766.15
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar showing close at 1764.5 with volume 1133"",
+    ""Adjusted support and resistance to recent 1-min Bollinger Bands lower and upper bands (1766.15 and 1780.37) reflecting current price compression"",
+    ""Volume threshold remains at 90 based on recent low 1-min volumes"",
+    ""Bollinger Bands mid, upper, and lower updated to recent 1-min indicator values"",
+    ""Price below updated support indicates bearish momentum continuation"",
+    ""ADX remains below threshold indicating weak trend strength, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.005,
+      ""price"": 1755.68
+    },
+    ""1w"": {
+      ""ret"": -0.015,
+      ""price"": 1740.03
+    },
+    ""3m"": {
+      ""ret"": 0.02,
+      ""price"": 1799.79
+    }
+  }
+}"
+2025-09-02 11:51:35,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:49:00+00:00"",
+    ""open"": 1761.5,
+    ""high"": 1764.0,
+    ""low"": 1760.2,
+    ""close"": 1764.0,
+    ""volume"": 69
+  },
+  ""support"": 1757.24,
+  ""resistance"": 1780.76,
+  ""support_realtime"": 1757.24,
+  ""resistance_realtime"": 1780.76,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.33,
+  ""sr_range_pct_1d"": 2.49,
+  ""sr_range_pct_1w"": 8.29,
+  ""sr_range_pct_3m"": 26.72,
+  ""volume_threshold"": 69,
+  ""bollinger"": {
+    ""mid_price"": 1769.0,
+    ""upper_band"": 1780.76,
+    ""lower_band"": 1757.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 11:49 with close 1764.0 and volume 69"",
+    ""Adjusted support and resistance to latest Bollinger Bands lower and upper (1757.24 and 1780.76) reflecting recent compression"",
+    ""Volume threshold lowered to 69 based on recent 1-min volume"",
+    ""Bollinger Bands mid updated to 1769.0 from recent indicator"",
+    ""Price near lower Bollinger Band support indicates potential short-term support"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1758.71
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1746.36
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1790.46
+    }
+  }
+}"
+2025-09-02 12:00:23,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:50:00+00:00"",
+    ""open"": 1764.0,
+    ""high"": 1768.8,
+    ""low"": 1763.7,
+    ""close"": 1768.8,
+    ""volume"": 795
+  },
+  ""support"": 1757.24,
+  ""resistance"": 1780.76,
+  ""support_realtime"": 1759.2,
+  ""resistance_realtime"": 1786.8,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.5646,
+  ""sr_range_pct_1d"": 2.4943,
+  ""sr_range_pct_1w"": 8.2937,
+  ""sr_range_pct_3m"": 26.729,
+  ""volume_threshold"": 69,
+  ""bollinger"": {
+    ""mid_price"": 1769.0,
+    ""upper_band"": 1780.76,
+    ""lower_band"": 1757.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1757.24 and 1780.76) reflecting recent compression"",
+    ""Volume threshold lowered to 69 based on recent 1-min volume"",
+    ""Bollinger Bands mid updated to 1769.0 from recent indicator"",
+    ""Price near lower Bollinger Band support indicates potential short-term support"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1763.13
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1751.11
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1795.83
+    }
+  }
+}"
+2025-09-02 12:08:56,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 11:59:00+00:00"",
+    ""open"": 1764.1,
+    ""high"": 1765.6,
+    ""low"": 1764.1,
+    ""close"": 1765.6,
+    ""volume"": 36
+  },
+  ""support"": 1761.85,
+  ""resistance"": 1767.03,
+  ""support_realtime"": 1759.2,
+  ""resistance_realtime"": 1784.9,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.4568,
+  ""sr_range_pct_1d"": 2.4942,
+  ""sr_range_pct_1w"": 8.2932,
+  ""sr_range_pct_3m"": 26.7275,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1764.44,
+    ""upper_band"": 1767.03,
+    ""lower_band"": 1761.85
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1761.85 and 1767.03) reflecting recent compression"",
+    ""Volume threshold lowered to 56 based on recent 1-min volume data"",
+    ""Bollinger Bands mid updated to 1764.44 from recent indicator"",
+    ""Price near lower Bollinger Band support indicates potential short-term support"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1760.9
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1748.94
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1792.04
+    }
+  }
+}"
+2025-09-02 12:17:40,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:07:00+00:00"",
+    ""open"": 1765.2,
+    ""high"": 1765.2,
+    ""low"": 1764.7,
+    ""close"": 1764.7,
+    ""volume"": 22
+  },
+  ""support"": 1763.21,
+  ""resistance"": 1765.47,
+  ""support_realtime"": 1759.2,
+  ""resistance_realtime"": 1783.0,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.3483,
+  ""sr_range_pct_1d"": 2.4926,
+  ""sr_range_pct_1w"": 8.288,
+  ""sr_range_pct_3m"": 26.7109,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1764.34,
+    ""upper_band"": 1765.47,
+    ""lower_band"": 1763.21
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1763.21 and 1765.47) based on recent 1-min indicator data"",
+    ""Volume threshold maintained at 56 reflecting recent volume patterns"",
+    ""Bollinger Bands mid updated to 1764.34 from recent indicator data"",
+    ""Price near lower Bollinger Band support indicates potential short-term support"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1760.9
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1748.94
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1792.04
+    }
+  }
+}"
+2025-09-02 14:12:33,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 12:16:00+00:00"",
+    ""open"": 1765.3,
+    ""high"": 1765.3,
+    ""low"": 1764.2,
+    ""close"": 1765.1,
+    ""volume"": 139
+  },
+  ""support"": 1763.21,
+  ""resistance"": 1765.47,
+  ""support_realtime"": 1759.2,
+  ""resistance_realtime"": 1781.9,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.2859,
+  ""sr_range_pct_1d"": 2.4925,
+  ""sr_range_pct_1w"": 8.2875,
+  ""sr_range_pct_3m"": 26.7093,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1764.34,
+    ""upper_band"": 1765.47,
+    ""lower_band"": 1763.21
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1763.21 and 1765.47) based on recent 1-min indicator data"",
+    ""Volume threshold maintained at 56 reflecting recent volume patterns"",
+    ""Bollinger Bands mid updated to 1764.34 from recent indicator data"",
+    ""Price near lower Bollinger Band support indicates potential short-term support"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1760.9
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1748.94
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1792.04
+    }
+  }
+}"
+2025-09-02 14:28:30,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:26:00+00:00"",
+    ""open"": 1758.6,
+    ""high"": 1758.6,
+    ""low"": 1758.0,
+    ""close"": 1758.5,
+    ""volume"": 62
+  },
+  ""support"": 1756.26,
+  ""resistance"": 1759.79,
+  ""support_realtime"": 1752.7,
+  ""resistance_realtime"": 1763.1,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.5916,
+  ""sr_range_pct_1d"": 2.5028,
+  ""sr_range_pct_1w"": 8.322,
+  ""sr_range_pct_3m"": 26.8203,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1758.03,
+    ""upper_band"": 1759.79,
+    ""lower_band"": 1756.26
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1756.26 and 1759.79) based on recent 1-min indicator data"",
+    ""Bollinger Bands mid_price adjusted to 1758.03 from recent 1-min data"",
+    ""Latest close near lower Bollinger Band suggests short-term support"",
+    ""Volume threshold maintained at 56 reflecting recent volume patterns"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1753.98
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1741.92
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1785.88
+    }
+  }
+}"
+2025-09-02 14:37:05,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 14:34:00+00:00"",
+    ""open"": 1760.3,
+    ""high"": 1760.3,
+    ""low"": 1760.3,
+    ""close"": 1760.3,
+    ""volume"": 0
+  },
+  ""support"": 1756.74,
+  ""resistance"": 1760.92,
+  ""support_realtime"": 1752.7,
+  ""resistance_realtime"": 1763.1,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.5914,
+  ""sr_range_pct_1d"": 2.5021,
+  ""sr_range_pct_1w"": 8.3196,
+  ""sr_range_pct_3m"": 26.8126,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1758.83,
+    ""upper_band"": 1760.92,
+    ""lower_band"": 1756.74
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1756.74 and 1760.92) based on recent 1-min indicator data"",
+    ""Bollinger Bands mid_price adjusted to 1758.83 from recent 1-min data"",
+    ""Latest close near lower Bollinger Band suggests short-term support"",
+    ""Volume threshold maintained at 56 reflecting recent volume patterns"",
+    ""ADX remains below threshold indicating weak trend, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1755.72
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1742.70
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1786.20
+    }
+  }
+}"
+2025-09-02 15:20:52,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:18:00+00:00"",
+    ""open"": 1758.3,
+    ""high"": 1758.3,
+    ""low"": 1757.0,
+    ""close"": 1757.8,
+    ""volume"": 220
+  },
+  ""support"": 1757.07,
+  ""resistance"": 1762.41,
+  ""support_realtime"": 1752.7,
+  ""resistance_realtime"": 1761.4,
+  ""support_1d"": 1822.3,
+  ""resistance_1d"": 1866.3,
+  ""support_1w"": 1822.3,
+  ""resistance_1w"": 1968.6,
+  ""support_3m"": 1760.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.4942,
+  ""sr_range_pct_1d"": 2.4996,
+  ""sr_range_pct_1w"": 8.3111,
+  ""sr_range_pct_3m"": 26.7852,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1759.74,
+    ""upper_band"": 1762.41,
+    ""lower_band"": 1757.07
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1757.07 and 1762.41) from recent 1-min data"",
+    ""Bollinger Bands mid_price adjusted to 1759.74 reflecting recent momentum"",
+    ""Latest close (1757.8) near lower Bollinger Band supports short-term support level"",
+    ""Volume threshold maintained at 56 consistent with recent volume patterns"",
+    ""ADX remains below threshold indicating weak trend, no change in signal""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1752.13
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1740.22
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1784.17
+    }
+  }
+}"
+2025-09-02 15:29:30,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:27:00+00:00"",
+    ""open"": 1760.5,
+    ""high"": 1760.5,
+    ""low"": 1758.5,
+    ""close"": 1758.5,
+    ""volume"": 233
+  },
+  ""support"": 1756.82,
+  ""resistance"": 1760.33,
+  ""support_realtime"": 1756.82,
+  ""resistance_realtime"": 1760.33,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.196,
+  ""sr_range_pct_1d"": 4.4146,
+  ""sr_range_pct_1w"": 8.6813,
+  ""sr_range_pct_3m"": 29.042,
+  ""volume_threshold"": 56,
+  ""bollinger"": {
+    ""mid_price"": 1758.575,
+    ""upper_band"": 1760.33,
+    ""lower_band"": 1756.82
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest Bollinger Bands lower and upper (1756.82 and 1760.33) from recent 1-min data"",
+    ""Bollinger Bands mid_price adjusted to 1758.575 reflecting recent momentum"",
+    ""Latest close (1758.5) near lower Bollinger Band supports short-term support level"",
+    ""Volume threshold maintained at 56 consistent with recent volume patterns"",
+    ""ADX slightly above threshold (20.96) but no strong trend confirmation, signal unchanged""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1753.98
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1740.92
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1785.88
+    }
+  }
+}"
+2025-09-03 12:00:08,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-02 15:28:00+00:00"",
+    ""open"": 1758.4,
+    ""high"": 1758.5,
+    ""low"": 1755.0,
+    ""close"": 1758.0,
+    ""volume"": 362
+  },
+  ""support"": 1748.22,
+  ""resistance"": 1760.75,
+  ""support_realtime"": 1757.1,
+  ""resistance_realtime"": 1759.1,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.67,
+  ""sr_range_pct_1d"": 4.41,
+  ""sr_range_pct_1w"": 8.67,
+  ""sr_range_pct_3m"": 29.01,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1754.49,
+    ""upper_band"": 1760.75,
+    ""lower_band"": 1748.22
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest 1-min Bollinger Bands (1748.22 and 1760.75) from recent data"",
+    ""Adjusted realtime support and resistance to recent 1-min low and high (1757.1 and 1759.1)"",
+    ""Volume threshold slightly increased to 57 reflecting recent volume average"",
+    ""Bollinger mid_price recalculated to 1754.49 based on recent 1-min data"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1757.0,
+  ""target"": 1760.75,
+  ""stoploss"": 1755.0,
+  ""entry1"": 1755.0,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.003,
+      ""price"": 1752.27
+    },
+    ""1w"": {
+      ""ret"": -0.01,
+      ""price"": 1739.42
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1784.37
+    }
+  }
+}"
+2025-09-03 12:09:50,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 11:59:00+00:00"",
+    ""open"": 1760.0,
+    ""high"": 1762.5,
+    ""low"": 1759.2,
+    ""close"": 1761.9,
+    ""volume"": 532
+  },
+  ""support"": 1753.63,
+  ""resistance"": 1762.37,
+  ""support_realtime"": 1754.9,
+  ""resistance_realtime"": 1762.37,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.49,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1758.0,
+    ""upper_band"": 1762.37,
+    ""lower_band"": 1753.63
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated support and resistance to latest 1-min Bollinger Bands (1753.63 and 1762.37) from recent data"",
+    ""Adjusted realtime support and resistance to recent 1-min low and upper Bollinger Band (1754.9 and 1762.37)"",
+    ""Recalculated Bollinger mid_price to 1758.0 based on recent 1-min data"",
+    ""Maintained volume threshold at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1755.0,
+  ""target"": 1762.37,
+  ""stoploss"": 1753.0,
+  ""entry1"": 1755.0,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1765.22
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1780.52
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1788.14
+    }
+  }
+}"
+2025-09-03 12:19:21,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:16:00+00:00"",
+    ""open"": 1760.6,
+    ""high"": 1761.2,
+    ""low"": 1759.2,
+    ""close"": 1760.4,
+    ""volume"": 82
+  },
+  ""support"": 1755.2,
+  ""resistance"": 1763.1,
+  ""support_realtime"": 1753.9,
+  ""resistance_realtime"": 1762.78,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.49,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1758.99,
+    ""upper_band"": 1762.78,
+    ""lower_band"": 1755.2
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar"",
+    ""Refined support and resistance to recent 1-min Bollinger Bands low and upper band (1755.2 and 1763.1)"",
+    ""Adjusted realtime resistance slightly lower to 1762.78 from recent data"",
+    ""Recalculated Bollinger mid_price to 1758.99 based on recent 1-min data"",
+    ""Maintained volume threshold at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1756.0,
+  ""target"": 1763.1,
+  ""stoploss"": 1754.0,
+  ""entry1"": 1755.0,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.56
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1780.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1786.21
+    }
+  }
+}"
+2025-09-03 12:28:35,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:26:00+00:00"",
+    ""open"": 1760.5,
+    ""high"": 1760.5,
+    ""low"": 1758.1,
+    ""close"": 1760.0,
+    ""volume"": 220
+  },
+  ""support"": 1755.2,
+  ""resistance"": 1763.26,
+  ""support_realtime"": 1756.24,
+  ""resistance_realtime"": 1763.26,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.395,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1759.75,
+    ""upper_band"": 1763.26,
+    ""lower_band"": 1756.24
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 12:26"",
+    ""Refined support and resistance to recent 1-min Bollinger Bands low and upper band (1756.24 and 1763.26)"",
+    ""Updated realtime support and resistance to Bollinger lower and upper bands"",
+    ""Recalculated Bollinger mid_price to 1759.75 based on recent 1-min data"",
+    ""Maintained volume threshold at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1756.24,
+  ""target"": 1763.26,
+  ""stoploss"": 1754.0,
+  ""entry1"": 1755.0,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.52
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1780.6
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1786.4
+    }
+  }
+}"
+2025-09-03 12:38:35,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:36:00+00:00"",
+    ""open"": 1760.9,
+    ""high"": 1761.4,
+    ""low"": 1758.8,
+    ""close"": 1759.9,
+    ""volume"": 62
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1758.1,
+  ""resistance_realtime"": 1762.9,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.2613,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1760.7,
+    ""upper_band"": 1762.9,
+    ""lower_band"": 1758.1
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated ohlcv to latest 1-min bar at 12:36"",
+    ""Refined support and resistance to recent 1-min Bollinger Bands low and upper band (1758.1 and 1762.9)"",
+    ""Updated realtime support and resistance to Bollinger lower and upper bands"",
+    ""Recalculated Bollinger mid_price to 1760.7 based on recent 1-min data"",
+    ""Maintained volume threshold at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX below threshold and lack of strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1758.1,
+  ""target"": 1762.9,
+  ""stoploss"": 1756.0,
+  ""entry1"": 1755.0,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.52
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1780.6
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1786.4
+    }
+  }
+}"
+2025-09-03 15:33:29,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 12:37:00+00:00"",
+    ""open"": 1759.9,
+    ""high"": 1761.5,
+    ""low"": 1758.8,
+    ""close"": 1760.0,
+    ""volume"": 811
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1741.25,
+  ""resistance_realtime"": 1756.58,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.87,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1748.91,
+    ""upper_band"": 1756.58,
+    ""lower_band"": 1741.25
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1741.25 and 1756.58)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range"",
+    ""Updated Bollinger mid_price to 1748.91 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1758.1,
+  ""target"": 1762.9,
+  ""stoploss"": 1756.0,
+  ""entry1"": 1741.25,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.52
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1780.6
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1786.4
+    }
+  }
+}"
+2025-09-04 11:16:32,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-03 15:29:00+00:00"",
+    ""open"": 1751.1,
+    ""high"": 1755.8,
+    ""low"": 1746.0,
+    ""close"": 1754.5,
+    ""volume"": 903
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1756.6,
+  ""resistance_realtime"": 1760.27,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.201,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1758.435,
+    ""upper_band"": 1760.2737767673148,
+    ""lower_band"": 1756.5962232326851
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1756.6 and 1760.27)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range of approx 0.201%"",
+    ""Updated Bollinger mid_price to 1758.435 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation"",
+    ""Adjusted trade levels for realtime S/R band with risk-reward ~1.5 and risk 25% of band width""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1758.1,
+  ""target"": 1762.9,
+  ""stoploss"": 1756.0,
+  ""entry1"": 1756.6,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1758.5
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1771.05
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1780.82
+    }
+  }
+}"
+2025-09-04 14:24:42,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": 1759.0,
+    ""open"": 1759.0,
+    ""high"": 1759.1,
+    ""low"": 1759.0,
+    ""close"": 1759.0,
+    ""volume"": 71
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1742.66,
+  ""resistance_realtime"": 1747.12,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.255,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1744.89,
+    ""upper_band"": 1747.12,
+    ""lower_band"": 1742.66
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1742.66 and 1747.12)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range of approx 0.255%"",
+    ""Updated Bollinger mid_price to 1744.89 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation"",
+    ""Adjusted trade levels for realtime S/R band with risk-reward ~1.5 and risk 25% of band width""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1758.1,
+  ""target"": 1762.9,
+  ""stoploss"": 1753.85,
+  ""entry1"": 1742.66,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1738.4,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1650.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1762.9
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1816.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1873.7
+    }
+  }
+}"
+2025-09-04 14:52:37,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:23:00+00:00"",
+    ""open"": 1743.7,
+    ""high"": 1744.3,
+    ""low"": 1743.7,
+    ""close"": 1744.3,
+    ""volume"": 148
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1755.283106132302,
+  ""resistance_realtime"": 1763.0468938676975,
+  ""support_1d"": 1738.4,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 0.4413,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1759.1649999999997,
+    ""upper_band"": 1763.0468938676975,
+    ""lower_band"": 1755.283106132302
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1755.28 and 1763.05)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range of approx 0.44%"",
+    ""Updated Bollinger mid_price to 1759.16 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation"",
+    ""Adjusted trade levels for realtime S/R band with risk-reward ~1.5 and risk 25% of band width"",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1760.98,
+  ""target"": 1759.1799999999998,
+  ""stoploss"": 1762.18,
+  ""entry1"": 1743.7,
+  ""target1"": 1734.52,
+  ""stoploss1"": 1763.1,
+  ""entry2"": 1743.7,
+  ""target2"": 1713.4699999999998,
+  ""stoploss2"": 1781.8500000000001,
+  ""entry3"": 1743.7,
+  ""target3"": 1695.5749999999998,
+  ""stoploss3"": 1871.325,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1762.9
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1816.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1873.7
+    }
+  }
+}"
+2025-09-04 15:05:33,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 14:51:00+00:00"",
+    ""open"": 1759.6,
+    ""high"": 1761.0,
+    ""low"": 1756.7,
+    ""close"": 1759.1,
+    ""volume"": 836
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1748.5735549089443,
+  ""resistance_realtime"": 1766.8264450910558,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.04,
+  ""sr_range_pct_1d"": 4.4639,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.8264450910558,
+    ""lower_band"": 1748.5735549089443
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1748.57 and 1766.83)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range of approx 1.04%"",
+    ""Updated Bollinger mid_price to 1757.7 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation"",
+    ""Adjusted trade levels for realtime S/R band with risk-reward ~1.5 and risk 25% of band width"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1748.5735549089443,
+  ""target"": 1766.8264450910558,
+  ""stoploss"": 1743.9301661810833,
+  ""entry1"": 1721.1,
+  ""target1"": 1816.0,
+  ""stoploss1"": 1706.725,
+  ""entry2"": 1721.1,
+  ""target2"": 1873.7,
+  ""stoploss2"": 1697.825,
+  ""entry3"": 1721.1,
+  ""target3"": 2231.6,
+  ""stoploss3"": 1653.575,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1762.9
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1816.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1873.7
+    }
+  }
+}"
+2025-09-04 15:17:34,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:04:00+00:00"",
+    ""open"": 1747.4,
+    ""high"": 1747.4,
+    ""low"": 1744.7,
+    ""close"": 1747.3,
+    ""volume"": 496
+  },
+  ""support"": 1758.1,
+  ""resistance"": 1762.9,
+  ""support_realtime"": 1748.5735549089443,
+  ""resistance_realtime"": 1766.8264450910558,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0439,
+  ""sr_range_pct_1d"": 5.5139,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.8264450910558,
+    ""lower_band"": 1748.5735549089443
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated realtime support and resistance to latest Bollinger Bands lower and upper from recent 1-min data (1748.57 and 1766.83)"",
+    ""Adjusted sr_range_pct_realtime to reflect new realtime S/R range of approx 1.04%"",
+    ""Updated Bollinger mid_price to 1757.7 based on recent 1-min data"",
+    ""Maintained core daily, weekly, and 3-month support and resistance levels from historical data"",
+    ""Volume threshold unchanged at 57 reflecting recent volume average"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation"",
+    ""Adjusted trade levels for realtime S/R band with risk-reward ~1.5 and risk 25% of band width"",
+    ""Auto-filled entry/target/stoploss from support_realtime/resistance_realtime with bias=long"",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=long"",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=long"",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=long"",
+    ""Auto-filled entry/target/stoploss from support/resistance with bias=short."",
+    ""Auto-filled entry1/target1/stoploss1 from support_1d/resistance_1d with bias=short."",
+    ""Auto-filled entry2/target2/stoploss2 from support_1w/resistance_1w with bias=short."",
+    ""Auto-filled entry3/target3/stoploss3 from support_3m/resistance_3m with bias=short.""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1760.98,
+  ""target"": 1759.18,
+  ""stoploss"": 1762.18,
+  ""entry1"": 1746.1,
+  ""target1"": 1716.355,
+  ""stoploss1"": 1769.825,
+  ""entry2"": 1746.1,
+  ""target2"": 1713.47,
+  ""stoploss2"": 1784.25,
+  ""entry3"": 1746.1,
+  ""target3"": 1695.575,
+  ""stoploss3"": 1873.725,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1762.9
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1816.0
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1873.7
+    }
+  }
+}"
+2025-09-05 13:40:07,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-04 15:16:00+00:00"",
+    ""open"": 1736.7,
+    ""high"": 1738.2,
+    ""low"": 1733.6,
+    ""close"": 1734.1,
+    ""volume"": 881
+  },
+  ""support"": 1748.57,
+  ""resistance"": 1766.83,
+  ""support_realtime"": 1748.57,
+  ""resistance_realtime"": 1766.83,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0439,
+  ""sr_range_pct_1d"": 5.5139,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.83,
+    ""lower_band"": 1748.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected support and resistance levels to ensure support < resistance for all horizons"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Updated trade levels for default S/R band with entry inside band and risk-reward ~1.5"",
+    ""Updated trade levels for 1d S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 1w S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 3m S/R band with entry inside band and reasonable risk-reward"",
+    ""Removed contradictory short-side trade levels and replaced with valid long-only levels"",
+    ""Maintained predicted targets with positive returns based on recent data and forecasts"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1755.0,
+  ""target"": 1765.0,
+  ""stoploss"": 1745.0,
+  ""entry1"": 1730.0,
+  ""target1"": 1800.0,
+  ""stoploss1"": 1710.0,
+  ""entry2"": 1730.0,
+  ""target2"": 1850.0,
+  ""stoploss2"": 1700.0,
+  ""entry3"": 1730.0,
+  ""target3"": 2100.0,
+  ""stoploss3"": 1700.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1737.4682
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1751.441
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1755.6115
+    }
+  }
+}"
+2025-09-05 14:28:46,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 13:39:00+00:00"",
+    ""open"": 1760.0,
+    ""high"": 1760.2,
+    ""low"": 1759.6,
+    ""close"": 1759.6,
+    ""volume"": 174
+  },
+  ""support"": 1748.57,
+  ""resistance"": 1766.83,
+  ""support_realtime"": 1748.57,
+  ""resistance_realtime"": 1766.83,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0443,
+  ""sr_range_pct_1d"": 5.5139,
+  ""sr_range_pct_1w"": 8.8664,
+  ""sr_range_pct_3m"": 29.6613,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.83,
+    ""lower_band"": 1748.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected support and resistance levels to ensure support < resistance for all horizons"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Updated trade levels for default S/R band with entry inside band and risk-reward ~1.5"",
+    ""Updated trade levels for 1d S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 1w S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 3m S/R band with entry inside band and reasonable risk-reward"",
+    ""Removed contradictory short-side trade levels and replaced with valid long-only levels"",
+    ""Maintained predicted targets with positive returns based on recent data and forecasts"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1755.0,
+  ""target"": 1765.0,
+  ""stoploss"": 1745.0,
+  ""entry1"": 1730.0,
+  ""target1"": 1800.0,
+  ""stoploss1"": 1710.0,
+  ""entry2"": 1730.0,
+  ""target2"": 1850.0,
+  ""stoploss2"": 1710.0,
+  ""entry3"": 1730.0,
+  ""target3"": 2100.0,
+  ""stoploss3"": 1710.0,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.9188
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1777.196
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1785.394
+    }
+  }
+}"
+2025-09-05 14:45:51,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:27:00+00:00"",
+    ""open"": 1761.9,
+    ""high"": 1761.9,
+    ""low"": 1761.8,
+    ""close"": 1761.8,
+    ""volume"": 278
+  },
+  ""support"": 1748.57,
+  ""resistance"": 1766.83,
+  ""support_realtime"": 1748.57,
+  ""resistance_realtime"": 1766.83,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0364,
+  ""sr_range_pct_1d"": 5.3865,
+  ""sr_range_pct_1w"": 8.6616,
+  ""sr_range_pct_3m"": 28.976,
+  ""volume_threshold"": 57,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.83,
+    ""lower_band"": 1748.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected support and resistance levels to ensure support < resistance for all horizons"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Updated trade levels for default S/R band with entry inside band and risk-reward ~1.5"",
+    ""Updated trade levels for 1d S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 1w S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 3m S/R band with entry inside band and reasonable risk-reward"",
+    ""Removed contradictory short-side trade levels and replaced with valid long-only levels"",
+    ""Maintained predicted targets with positive returns based on recent data and forecasts"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1759.06,
+  ""target"": 1761.17,
+  ""stoploss"": 1742.45,
+  ""entry1"": 1731.43,
+  ""target1"": 1800.0,
+  ""stoploss1"": 1713.57,
+  ""entry2"": 1731.43,
+  ""target2"": 1850.0,
+  ""stoploss2"": 1713.57,
+  ""entry3"": 1731.43,
+  ""target3"": 2100.0,
+  ""stoploss3"": 1713.57,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.92
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1777.20
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1785.39
+    }
+  }
+}"
+2025-09-05 15:12:22,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 14:44:00+00:00"",
+    ""open"": 1760.0,
+    ""high"": 1760.0,
+    ""low"": 1760.0,
+    ""close"": 1760.0,
+    ""volume"": 147
+  },
+  ""support"": 1748.57,
+  ""resistance"": 1766.83,
+  ""support_realtime"": 1748.57,
+  ""resistance_realtime"": 1766.83,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0375,
+  ""sr_range_pct_1d"": 5.392,
+  ""sr_range_pct_1w"": 8.6705,
+  ""sr_range_pct_3m"": 29.0057,
+  ""volume_threshold"": 57.0,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.83,
+    ""lower_band"": 1748.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Corrected support and resistance levels to ensure support < resistance for all horizons"",
+    ""Adjusted trade levels to respect strict ordering stoploss < support < entry < target < resistance"",
+    ""Updated trade levels for default S/R band with entry inside band and risk-reward ~1.5"",
+    ""Updated trade levels for 1d S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 1w S/R band with entry inside band and reasonable risk-reward"",
+    ""Updated trade levels for 3m S/R band with entry inside band and reasonable risk-reward"",
+    ""Removed contradictory short-side trade levels and replaced with valid long-only levels"",
+    ""Maintained predicted targets with positive returns based on recent data and forecasts"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1759.061,
+  ""target"": 1761.17,
+  ""stoploss"": 1742.45,
+  ""entry1"": 1731.43,
+  ""target1"": 1800.0,
+  ""stoploss1"": 1713.57,
+  ""entry2"": 1731.43,
+  ""target2"": 1850.0,
+  ""stoploss2"": 1713.57,
+  ""entry3"": 1731.43,
+  ""target3"": 2100.0,
+  ""stoploss3"": 1713.57,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1763.92
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1777.2
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1785.39
+    }
+  }
+}"
+2025-09-05 15:24:26,"{
+  ""stock_code"": ""CHOLAHLDNG"",
+  ""instrument_token"": 5565441,
+  ""ohlcv"": {
+    ""time"": ""2025-09-05 15:11:00+00:00"",
+    ""open"": 1761.3,
+    ""high"": 1761.9,
+    ""low"": 1761.3,
+    ""close"": 1761.3,
+    ""volume"": 179
+  },
+  ""support"": 1748.57,
+  ""resistance"": 1766.83,
+  ""support_realtime"": 1748.57,
+  ""resistance_realtime"": 1766.83,
+  ""support_1d"": 1721.1,
+  ""resistance_1d"": 1816.0,
+  ""support_1w"": 1721.1,
+  ""resistance_1w"": 1873.7,
+  ""support_3m"": 1721.1,
+  ""resistance_3m"": 2231.6,
+  ""sr_range_pct_realtime"": 1.0367,
+  ""sr_range_pct_1d"": 5.3881,
+  ""sr_range_pct_1w"": 8.6641,
+  ""sr_range_pct_3m"": 28.9843,
+  ""volume_threshold"": 57.0,
+  ""bollinger"": {
+    ""mid_price"": 1757.7,
+    ""upper_band"": 1766.83,
+    ""lower_band"": 1748.57
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Confirmed support and resistance levels maintain support < resistance for all horizons"",
+    ""Trade levels adjusted to enforce strict ordering stoploss < support < entry < target < resistance"",
+    ""Default S/R band trade levels set with entry inside band and risk-reward ~1.5"",
+    ""1d S/R band trade levels set with entry inside band and reasonable risk-reward"",
+    ""1w S/R band trade levels set with entry inside band and reasonable risk-reward"",
+    ""3m S/R band trade levels set with entry inside band and reasonable risk-reward"",
+    ""Removed any short-side trade levels to comply with long-only policy"",
+    ""Predicted targets updated with positive returns based on recent data and forecasts"",
+    ""Signal remains No Action due to ADX near threshold and no strong trend confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""entry"": 1750.0,
+  ""target"": 1765.0,
+  ""stoploss"": 1745.0,
+  ""entry1"": 1731.43,
+  ""target1"": 1800.0,
+  ""stoploss1"": 1713.57,
+  ""entry2"": 1731.43,
+  ""target2"": 1850.0,
+  ""stoploss2"": 1713.57,
+  ""entry3"": 1731.43,
+  ""target3"": 2100.0,
+  ""stoploss3"": 1713.57,
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.002,
+      ""price"": 1764.92
+    },
+    ""1w"": {
+      ""ret"": 0.01,
+      ""price"": 1778.91
+    },
+    ""3m"": {
+      ""ret"": 0.015,
+      ""price"": 1787.72
+    }
+  }
+}"

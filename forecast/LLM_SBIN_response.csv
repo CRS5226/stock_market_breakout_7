@@ -1,0 +1,45 @@
+timestamp,raw_response
+2025-08-19 15:24:33,"{
+  ""stock_code"": ""SBIN"",
+  ""instrument_token"": 779521,
+  ""support"": 820.0,
+  ""resistance"": 832.0,
+  ""volume_threshold"": 7000000,
+  ""bollinger"": {
+    ""mid_price"": 829.2875,
+    ""upper_band"": 830.1902042705121,
+    ""lower_band"": 828.3847957294879
+  },
+  ""macd"": {
+    ""signal_line"": 0.2203468188159829,
+    ""histogram"": 0.04039431219439421,
+    ""ma_fast"": 0.2607411310103771,
+    ""ma_slow"": 0.0,
+    ""ma_signal"": 0.0
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 25
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Support updated to 820.0 based on recent lows around 819.1-820.0."",
+    ""Resistance updated to 832.0 reflecting recent highs near 828-830 and upper Bollinger Band."",
+    ""Volume threshold lowered to 7,000,000 reflecting recent average volumes around 7 million."",
+    ""Bollinger Bands updated to recent mid, upper, and lower values from 1-minute data."",
+    ""MACD parameters updated to recent signal line and histogram values indicating mild bullish momentum."",
+    ""ADX threshold increased to 25 due to ADX values around 24-25 indicating stronger trend."",
+    ""Signal set to 'Buy' due to price breaking above recent resistance and positive MACD histogram.""
+  ],
+  ""last_updated"": ""2025-08-19 15:30:00"",
+  ""signal"": ""Buy""
+}"
