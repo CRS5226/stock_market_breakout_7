@@ -1,0 +1,4 @@
+.env
+historical_data
+__pycache__
+cred.json
