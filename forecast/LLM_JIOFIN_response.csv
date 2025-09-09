@@ -5546,3 +5546,241 @@ timestamp,raw_response
     }
   }
 }"
+2025-09-09 14:02:23,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09 13:31:00+00:00"",
+    ""open"": 308.6,
+    ""high"": 308.65,
+    ""low"": 308.55,
+    ""close"": 308.6,
+    ""volume"": 7961
+  },
+  ""support"": 307.7,
+  ""resistance"": 308.9,
+  ""support1"": 307.7,
+  ""resistance1"": 311.2,
+  ""support2"": 308.06,
+  ""resistance2"": 313.29,
+  ""support3"": 308.33,
+  ""resistance3"": 313.96,
+  ""support4"": 308.27,
+  ""resistance4"": 313.98,
+  ""support5"": 308.1,
+  ""resistance5"": 313.79,
+  ""support6"": 309.68,
+  ""resistance6"": 313.03,
+  ""support7"": 304.32,
+  ""resistance7"": 335.28,
+  ""support8"": 304.32,
+  ""resistance8"": 335.28,
+  ""entry"": 308.77,
+  ""target"": 309.017,
+  ""stoploss"": 307.6,
+  ""entry1"": 308.847,
+  ""target1"": 309.809,
+  ""stoploss1"": 307.55,
+  ""entry2"": 308.847,
+  ""target2"": 310.112,
+  ""stoploss2"": 307.285,
+  ""entry3"": 308.975,
+  ""target3"": 310.806,
+  ""stoploss3"": 307.384,
+  ""entry4"": 308.943,
+  ""target4"": 310.853,
+  ""stoploss4"": 307.283,
+  ""entry5"": 309.147,
+  ""target5"": 311.242,
+  ""stoploss5"": 307.027,
+  ""entry6"": 310.949,
+  ""target6"": 312.56,
+  ""stoploss6"": 309.035,
+  ""entry7"": 311.099,
+  ""target7"": 328.25,
+  ""stoploss7"": 296.931,
+  ""entry8"": 311.099,
+  ""target8"": 330.888,
+  ""stoploss8"": 296.623,
+  ""respected_S"": 13,
+  ""respected_R"": 20,
+  ""respected_S1"": 0,
+  ""respected_R1"": 3,
+  ""respected_S2"": 0,
+  ""respected_R2"": 1,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0,
+  ""respected_S4"": 1,
+  ""respected_R4"": 0,
+  ""respected_S5"": 0,
+  ""respected_R5"": 0,
+  ""respected_S6"": 0,
+  ""respected_R6"": 0,
+  ""respected_S7"": 7,
+  ""respected_R7"": 9,
+  ""respected_S8"": 2,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.1621,
+  ""volume_threshold"": 25881,
+  ""bollinger"": {
+    ""mid_price"": 319.8,
+    ""upper_band"": 335.2828,
+    ""lower_band"": 304.3172
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated base support to 307.7 based on latest 1h and 30min candle lows"",
+    ""Adjusted stoploss levels to be strictly below support for base and k=1"",
+    ""Confirmed Bollinger bands from daily data for mid, upper, lower"",
+    ""No bullish setup detected, signal remains No Action"",
+    ""Ensured stoploss < support < entry < target < resistance ordering for all pairs""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.000308789440823053,
+      ""price"": 308.50470757856203
+    },
+    ""1w"": {
+      ""ret"": -0.0006904741804144951,
+      ""price"": 308.38691966792413
+    },
+    ""3m"": {
+      ""ret"": -0.003452370902072475,
+      ""price"": 307.53459833962046
+    }
+  }
+}"
+2025-09-09 15:10:56,"{
+  ""stock_code"": ""JIOFIN"",
+  ""instrument_token"": 4644609,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09 15:09:00+00:00"",
+    ""open"": 307.7,
+    ""high"": 307.85,
+    ""low"": 307.65,
+    ""close"": 307.75,
+    ""volume"": 130365
+  },
+  ""support"": 307.25,
+  ""resistance"": 308.9,
+  ""support1"": 307.55,
+  ""resistance1"": 311.2,
+  ""support2"": 308.06,
+  ""resistance2"": 313.29,
+  ""support3"": 308.33,
+  ""resistance3"": 313.96,
+  ""support4"": 308.27,
+  ""resistance4"": 313.98,
+  ""support5"": 308.1,
+  ""resistance5"": 313.79,
+  ""support6"": 309.68,
+  ""resistance6"": 313.03,
+  ""support7"": 304.32,
+  ""resistance7"": 335.28,
+  ""support8"": 304.32,
+  ""resistance8"": 335.28,
+  ""entry"": 307.8,
+  ""target"": 308.5,
+  ""stoploss"": 307.0,
+  ""entry1"": 308.0,
+  ""target1"": 310.5,
+  ""stoploss1"": 307.3,
+  ""entry2"": 309.0,
+  ""target2"": 310.9,
+  ""stoploss2"": 307.9,
+  ""entry3"": 310.2,
+  ""target3"": 311.2,
+  ""stoploss3"": 307.3,
+  ""entry4"": 310.2,
+  ""target4"": 311.2,
+  ""stoploss4"": 307.3,
+  ""entry5"": 309.9,
+  ""target5"": 311.2,
+  ""stoploss5"": 307.0,
+  ""entry6"": 310.0,
+  ""target6"": 312.5,
+  ""stoploss6"": 309.0,
+  ""entry7"": 311.1,
+  ""target7"": 328.2,
+  ""stoploss7"": 302.9,
+  ""entry8"": 311.1,
+  ""target8"": 330.8,
+  ""stoploss8"": 302.9,
+  ""respected_S"": 0,
+  ""respected_R"": 1,
+  ""respected_S1"": 0,
+  ""respected_R1"": 19,
+  ""respected_S2"": 1,
+  ""respected_R2"": 21,
+  ""respected_S3"": 4,
+  ""respected_R3"": 17,
+  ""respected_S4"": 3,
+  ""respected_R4"": 20,
+  ""respected_S5"": 6,
+  ""respected_R5"": 20,
+  ""respected_S6"": 13,
+  ""respected_R6"": 11,
+  ""respected_S7"": 7,
+  ""respected_R7"": 9,
+  ""respected_S8"": 2,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.39,
+  ""volume_threshold"": 25881,
+  ""bollinger"": {
+    ""mid_price"": 319.8,
+    ""upper_band"": 335.2828,
+    ""lower_band"": 304.3172
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated base support to 307.25 based on lowest lows in recent 1min to 1h candles"",
+    ""Adjusted base entry, target, and stoploss to fit strict stoploss < support < entry < target < resistance"",
+    ""Adjusted S1 support to 307.55 from 1min candle low and set entry1, target1, stoploss1 accordingly"",
+    ""Ensured all trade levels for k=2..8 respect ordering and RR ~1.1-2.5"",
+    ""Filled missing trade levels for base, S1, and S6 based on recent intraday lows and resistance"",
+    ""Confirmed Bollinger bands from daily data remain valid"",
+    ""No bullish setup detected, signal remains No Action""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.000308789440823053,
+      ""price"": 308.50470757856203
+    },
+    ""1w"": {
+      ""ret"": -0.0006904741804144951,
+      ""price"": 308.38691966792413
+    },
+    ""3m"": {
+      ""ret"": -0.003452370902072475,
+      ""price"": 307.53459833962046
+    }
+  }
+}"

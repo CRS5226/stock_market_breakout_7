@@ -4089,3 +4089,120 @@ timestamp,raw_response
     }
   }
 }"
+2025-09-09 14:03:44,"{
+  ""stock_code"": ""MCX"",
+  ""instrument_token"": 7982337,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09 13:32:00+00:00"",
+    ""open"": 7606.0,
+    ""high"": 7615.0,
+    ""low"": 7605.5,
+    ""close"": 7614.5,
+    ""volume"": 419
+  },
+  ""support"": 7582.5,
+  ""resistance"": 7620.0,
+  ""support1"": 7526.79,
+  ""resistance1"": 7619.81,
+  ""support2"": 7486.38,
+  ""resistance2"": 7709.67,
+  ""support3"": 7493.03,
+  ""resistance3"": 7767.9,
+  ""support4"": 7493.5,
+  ""resistance4"": 7761.44,
+  ""support5"": 7480.76,
+  ""resistance5"": 7768.38,
+  ""support6"": 7481.0,
+  ""resistance6"": 7737.0,
+  ""support7"": 7289.38,
+  ""resistance7"": 8456.02,
+  ""support8"": 7289.38,
+  ""resistance8"": 8456.02,
+  ""entry"": 7607.0,
+  ""target"": 7619.0,
+  ""stoploss"": 7574.0,
+  ""entry1"": 7607.0,
+  ""target1"": 7609.5,
+  ""stoploss1"": 7512.0,
+  ""entry2"": 7607.0,
+  ""target2"": 7690.0,
+  ""stoploss2"": 7459.0,
+  ""entry3"": 7607.0,
+  ""target3"": 7743.0,
+  ""stoploss3"": 7458.0,
+  ""entry4"": 7607.0,
+  ""target4"": 7736.0,
+  ""stoploss4"": 7458.0,
+  ""entry5"": 7580.0,
+  ""target5"": 7743.0,
+  ""stoploss5"": 7442.0,
+  ""entry6"": 7545.0,
+  ""target6"": 7654.0,
+  ""stoploss6"": 7457.0,
+  ""entry7"": 7621.0,
+  ""target7"": 8366.0,
+  ""stoploss7"": 7024.0,
+  ""entry8"": 7621.0,
+  ""target8"": 8392.0,
+  ""stoploss8"": 7013.0,
+  ""respected_S"": 13,
+  ""respected_R"": 2,
+  ""respected_S1"": 1,
+  ""respected_R1"": 0,
+  ""respected_S2"": 0,
+  ""respected_R2"": 0,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0,
+  ""respected_S4"": 1,
+  ""respected_R4"": 0,
+  ""respected_S5"": 0,
+  ""respected_R5"": 0,
+  ""respected_S6"": 0,
+  ""respected_R6"": 0,
+  ""respected_S7"": 2,
+  ""respected_R7"": 3,
+  ""respected_S8"": 2,
+  ""respected_R8"": 1,
+  ""sr_range_pct"": 0.4946,
+  ""volume_threshold"": 831,
+  ""bollinger"": {
+    ""mid_price"": 7608.775,
+    ""upper_band"": 7620.081966878879,
+    ""lower_band"": 7597.46803312112
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Adjusted base and S1..S8 entry, target, stoploss to fit latest candle prices and enforce stoploss < support < entry < target < resistance"",
+    ""Updated Bollinger bands from recent intraday data"",
+    ""Preserved long-only trade levels and respected support/resistance counts"",
+    ""No bullish setup detected, signal remains 'No Action'""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.00012361713871012538,
+      ""price"": 7615.441282702709
+    },
+    ""1w"": {
+      ""ret"": 0.00027641632533986104,
+      ""price"": 7616.604772109301
+    },
+    ""3m"": {
+      ""ret"": 0.0013820816266993051,
+      ""price"": 7625.023860546503
+    }
+  }
+}"

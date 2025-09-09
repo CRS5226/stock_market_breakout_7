@@ -5228,3 +5228,357 @@ Reasons:
     ""volume"": 35934
   }
 }"
+2025-09-09 14:01:41,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T14:00:00+00:00"",
+    ""open"": 2344.8,
+    ""high"": 2344.8,
+    ""low"": 2342.3,
+    ""close"": 2344.4,
+    ""volume"": 4823
+  },
+  ""support"": 2344.77,
+  ""resistance"": 2352.7,
+  ""support1"": 2337.1,
+  ""resistance1"": 2357.5,
+  ""support2"": 2337.1,
+  ""resistance2"": 2365.0,
+  ""support3"": 2337.1,
+  ""resistance3"": 2367.4,
+  ""support4"": 2337.1,
+  ""resistance4"": 2367.4,
+  ""support5"": 2337.1,
+  ""resistance5"": 2367.4,
+  ""support6"": 2336.47,
+  ""resistance6"": 2365.0,
+  ""support7"": 2081.26,
+  ""resistance7"": 2577.83,
+  ""support8"": 2081.26,
+  ""resistance8"": 2577.83,
+  ""entry"": 2349.402,
+  ""target"": 2354.275,
+  ""stoploss"": 2332.41,
+  ""entry1"": 2349.402,
+  ""target1"": 2354.275,
+  ""stoploss1"": 2332.41,
+  ""entry2"": 2349.402,
+  ""target2"": 2359.225,
+  ""stoploss2"": 2328.73,
+  ""entry3"": 2349.402,
+  ""target3"": 2360.727,
+  ""stoploss3"": 2327.439,
+  ""entry4"": 2349.402,
+  ""target4"": 2361.234,
+  ""stoploss4"": 2328.173,
+  ""entry5"": 2345.602,
+  ""target5"": 2361.08,
+  ""stoploss5"": 2327.117,
+  ""entry6"": 2349.202,
+  ""target6"": 2360.95,
+  ""stoploss6"": 2330.068,
+  ""entry7"": 2350.502,
+  ""target7"": 2562.363,
+  ""stoploss7"": 1991.215,
+  ""entry8"": 2350.502,
+  ""target8"": 2558.496,
+  ""stoploss8"": 1987.463,
+  ""respected_S"": 23,
+  ""respected_R"": 7,
+  ""respected_S1"": 2,
+  ""respected_R1"": 3,
+  ""respected_S2"": 2,
+  ""respected_R2"": 1,
+  ""respected_S3"": 2,
+  ""respected_R3"": 0,
+  ""respected_S4"": 2,
+  ""respected_R4"": 0,
+  ""respected_S5"": 2,
+  ""respected_R5"": 1,
+  ""respected_S6"": 1,
+  ""respected_R6"": 1,
+  ""respected_S7"": 5,
+  ""respected_R7"": 4,
+  ""respected_S8"": 2,
+  ""respected_R8"": 1,
+  ""sr_range_pct"": 0.3382,
+  ""volume_threshold"": 3318,
+  ""bollinger"": {
+    ""mid_price"": 2345.6025,
+    ""upper_band"": 2357.5,
+    ""lower_band"": 2332.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price near support with recent low volume; no bullish setup detected""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.000103291083384648,
+      ""price"": 2351.3571006883126
+    },
+    ""1w"": {
+      ""ret"": -0.00023096588391767204,
+      ""price"": 2351.056860627379
+    },
+    ""3m"": {
+      ""ret"": -0.0011548294195883602,
+      ""price"": 2348.884303136896
+    }
+  }
+}"
+2025-09-09 15:10:09,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T15:08:00+00:00"",
+    ""open"": 2352.7,
+    ""high"": 2352.9,
+    ""low"": 2352.5,
+    ""close"": 2352.7,
+    ""volume"": 2952
+  },
+  ""support"": 2344.77,
+  ""resistance"": 2352.7,
+  ""support1"": 2337.1,
+  ""resistance1"": 2357.5,
+  ""support2"": 2337.1,
+  ""resistance2"": 2365.0,
+  ""support3"": 2337.1,
+  ""resistance3"": 2367.4,
+  ""support4"": 2337.1,
+  ""resistance4"": 2367.4,
+  ""support5"": 2337.1,
+  ""resistance5"": 2367.4,
+  ""support6"": 2336.47,
+  ""resistance6"": 2365.0,
+  ""support7"": 2081.26,
+  ""resistance7"": 2577.83,
+  ""support8"": 2081.26,
+  ""resistance8"": 2577.83,
+  ""entry"": 2351.123,
+  ""target"": 2353.196,
+  ""stoploss"": 2327.439,
+  ""entry1"": 2351.123,
+  ""target1"": 2353.196,
+  ""stoploss1"": 2328.173,
+  ""entry2"": 2351.123,
+  ""target2"": 2353.196,
+  ""stoploss2"": 2327.117,
+  ""entry3"": 2351.123,
+  ""target3"": 2353.196,
+  ""stoploss3"": 2327.439,
+  ""entry4"": 2351.123,
+  ""target4"": 2353.196,
+  ""stoploss4"": 2328.173,
+  ""entry5"": 2351.123,
+  ""target5"": 2353.196,
+  ""stoploss5"": 2327.117,
+  ""entry6"": 2350.489,
+  ""target6"": 2350.81,
+  ""stoploss6"": 2328.292,
+  ""entry7"": 2350.502,
+  ""target7"": 2562.363,
+  ""stoploss7"": 2072.154,
+  ""entry8"": 2350.502,
+  ""target8"": 2558.496,
+  ""stoploss8"": 2072.154,
+  ""respected_S"": 18,
+  ""respected_R"": 33,
+  ""respected_S1"": 4,
+  ""respected_R1"": 16,
+  ""respected_S2"": 8,
+  ""respected_R2"": 5,
+  ""respected_S3"": 7,
+  ""respected_R3"": 9,
+  ""respected_S4"": 7,
+  ""respected_R4"": 7,
+  ""respected_S5"": 5,
+  ""respected_R5"": 7,
+  ""respected_S6"": 5,
+  ""respected_R6"": 3,
+  ""respected_S7"": 5,
+  ""respected_R7"": 4,
+  ""respected_S8"": 2,
+  ""respected_R8"": 1,
+  ""sr_range_pct"": 0.3382,
+  ""volume_threshold"": 3318,
+  ""bollinger"": {
+    ""mid_price"": 2345.6025,
+    ""upper_band"": 2357.5,
+    ""lower_band"": 2332.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price near support with recent low volume; no bullish setup detected"",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for S1/R1."",
+    ""WARNING: invariant violated after post-process for S2/R2."",
+    ""WARNING: Some trade levels still missing after synthesis.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.000103291083384648,
+      ""price"": 2351.3571006883126
+    },
+    ""1w"": {
+      ""ret"": -0.00023096588391767204,
+      ""price"": 2351.056860627379
+    },
+    ""3m"": {
+      ""ret"": -0.0011548294195883602,
+      ""price"": 2348.884303136896
+    }
+  }
+}"
+2025-09-09 15:40:50,"{
+  ""stock_code"": ""BSE"",
+  ""instrument_token"": 5013761,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T15:39:00+00:00"",
+    ""open"": 2353.2,
+    ""high"": 2353.2,
+    ""low"": 2353.2,
+    ""close"": 2353.2,
+    ""volume"": 0
+  },
+  ""support"": 2344.77,
+  ""resistance"": 2352.7,
+  ""support1"": 2337.1,
+  ""resistance1"": 2357.5,
+  ""support2"": 2337.1,
+  ""resistance2"": 2365.0,
+  ""support3"": 2337.1,
+  ""resistance3"": 2367.4,
+  ""support4"": 2337.1,
+  ""resistance4"": 2367.4,
+  ""support5"": 2337.1,
+  ""resistance5"": 2367.4,
+  ""support6"": 2336.47,
+  ""resistance6"": 2365.0,
+  ""support7"": 2081.26,
+  ""resistance7"": 2577.83,
+  ""support8"": 2081.26,
+  ""resistance8"": 2577.83,
+  ""entry"": 2350.502,
+  ""target"": 2558.496,
+  ""stoploss"": 2072.154,
+  ""entry1"": 2351.123,
+  ""target1"": 2353.196,
+  ""stoploss1"": 2327.439,
+  ""entry2"": 2351.123,
+  ""target2"": 2353.196,
+  ""stoploss2"": 2328.173,
+  ""entry3"": 2351.123,
+  ""target3"": 2353.196,
+  ""stoploss3"": 2327.117,
+  ""entry4"": 2350.489,
+  ""target4"": 2350.81,
+  ""stoploss4"": 2328.292,
+  ""entry5"": 2350.502,
+  ""target5"": 2562.363,
+  ""stoploss5"": 2072.154,
+  ""entry6"": 2350.502,
+  ""target6"": 2558.496,
+  ""stoploss6"": 2072.154,
+  ""entry7"": 2350.502,
+  ""target7"": 2562.363,
+  ""stoploss7"": 2072.154,
+  ""entry8"": 2350.502,
+  ""target8"": 2558.496,
+  ""stoploss8"": 2072.154,
+  ""respected_S"": 18,
+  ""respected_R"": 33,
+  ""respected_S1"": 4,
+  ""respected_R1"": 16,
+  ""respected_S2"": 8,
+  ""respected_R2"": 5,
+  ""respected_S3"": 7,
+  ""respected_R3"": 9,
+  ""respected_S4"": 7,
+  ""respected_R4"": 7,
+  ""respected_S5"": 5,
+  ""respected_R5"": 7,
+  ""respected_S6"": 5,
+  ""respected_R6"": 3,
+  ""respected_S7"": 5,
+  ""respected_R7"": 4,
+  ""respected_S8"": 2,
+  ""respected_R8"": 1,
+  ""sr_range_pct"": 0.3382,
+  ""volume_threshold"": 3318,
+  ""bollinger"": {
+    ""mid_price"": 2345.6025,
+    ""upper_band"": 2357.5,
+    ""lower_band"": 2332.41
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price near support with recent low volume; no bullish setup detected"",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for S1/R1."",
+    ""WARNING: invariant violated after post-process for S2/R2."",
+    ""WARNING: Some trade levels still missing after synthesis."",
+    ""WARNING: invariant violated after post-process for base."",
+    ""WARNING: invariant violated after post-process for S1/R1."",
+    ""WARNING: invariant violated after post-process for S2/R2."",
+    ""WARNING: Some trade levels still missing after synthesis.""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.000103291083384648,
+      ""price"": 2351.3571006883126
+    },
+    ""1w"": {
+      ""ret"": -0.00023096588391767204,
+      ""price"": 2351.056860627379
+    },
+    ""3m"": {
+      ""ret"": -0.0011548294195883602,
+      ""price"": 2348.884303136896
+    }
+  }
+}"

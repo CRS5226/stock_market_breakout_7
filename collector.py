@@ -1,29 +1,45 @@
-# collector.py (tick collector + 1min candle builder with per-minute volume)
+# collector.py (tick collector + multi-timeframe candle builder)
 import os
 import json
-import math
 import logging
 from multiprocessing import Process
+from datetime import datetime
 from kiteconnect import KiteTicker
 from dotenv import load_dotenv
 from redis_utils import (
     get_redis,
+    # backward-compat 1m helpers (kept)
     floor_minute,
     set_current_candle,
     finalize_and_roll_new_candle,
+    # new generic TF helpers
+    floor_period,
+    set_current_candle_tf,
+    finalize_and_roll_new_candle_tf,
 )
 
 load_dotenv()
 
 API_KEY = os.getenv("KITE_API_KEY")
 ACCESS_TOKEN = os.getenv("KITE_ACCESS_TOKEN")
+CONFIG_FILE = "config30a.json"
 
-CONFIG_FILE = "config30a.json"  # 🔑 All stocks here
 r = get_redis()
 
-# ==== CONFIG: set only this ====
-SHARDS = 2  # 🔧 Number of shards to run in parallel (0..SHARDS-1 will be started automatically)
+# ==== CONFIG: shards ====
+SHARDS = 2
 SHARD_MODE = "roundrobin"  # ("contiguous" or "roundrobin")
+
+# Timeframe definitions: tf label -> bucket size in minutes
+TF_DEFS = {
+    "1min": 1,
+    "5min": 5,
+    "15min": 15,
+    "30min": 30,
+    "45min": 45,
+    "1hour": 60,
+    "4hour": 240,
+}
 
 
 def load_config():
@@ -37,11 +53,6 @@ def load_config():
 
 
 def split_contiguous_equally(stocks, shard_index, shard_count):
-    """
-    Split into nearly equal contiguous chunks.
-    Example: n=30, k=2 -> [0..14], [15..29]
-             n=5,  k=2 -> [0..2],  [3..4]
-    """
     n = len(stocks)
     base = n // shard_count
     rem = n % shard_count
@@ -55,7 +66,6 @@ def assign_stocks(stocks, shard_index, shard_count, mode="contiguous"):
         return stocks
     if mode == "roundrobin":
         return [s for i, s in enumerate(stocks) if i % shard_count == shard_index]
-    # default: contiguous equal split
     return split_contiguous_equally(stocks, shard_index, shard_count)
 
 
@@ -64,7 +74,6 @@ def start_collector(
 ):
     logging.basicConfig(level=logging.INFO, force=True)
 
-    # split work by shard
     assigned = assign_stocks(stock_configs, shard_index, shard_count, shard_mode)
     if not assigned:
         print(
@@ -74,20 +83,60 @@ def start_collector(
 
     instrument_map = {s["instrument_token"]: s["stock_code"].upper() for s in assigned}
 
-    # print(
-    #     f"🧩 Shard {shard_index + 1}/{shard_count} mode={shard_mode} assigned {len(assigned)} stocks:"
-    # )
-    for s in assigned:
-        pass
-        # print(f"   • {s['stock_code']} ({s['instrument_token']})")
-
-    # in-memory candle state per stock
-    candles_state = {
-        code: {"prev_minute": None, "current": None, "last_tick_volume": None}
+    # Per-symbol, per-timeframe state
+    # Structure: states[CODE][TF] = {"bucket": str, "current": {...}}
+    # We also track last cumulative daily volume to compute delta
+    states = {
+        code: {
+            "_last_cum_vol": None,
+            **{tf: {"bucket": None, "current": None} for tf in TF_DEFS.keys()},
+        }
         for code in instrument_map.values()
     }
 
     kws = KiteTicker(API_KEY, ACCESS_TOKEN)
+
+    def _update_timeframe(
+        code: str, tf: str, bucket_key: str, price: float, delta_vol: int
+    ):
+        st = states[code][tf]
+
+        # New bucket? finalize previous and start a new one.
+        if st["bucket"] is None or bucket_key != st["bucket"]:
+            if st["current"]:
+                finalize_and_roll_new_candle_tf(
+                    r, code, tf, st["current"], max_candles=300
+                )
+
+            st["current"] = {
+                "bucket": bucket_key,  # ISO string start of bucket (UTC minutes)
+                "open": price,
+                "high": price,
+                "low": price,
+                "close": price,
+                "volume": max(0, delta_vol),  # add this tick's delta
+            }
+            st["bucket"] = bucket_key
+        else:
+            cur = st["current"]
+            cur["high"] = max(cur["high"], price)
+            cur["low"] = min(cur["low"], price)
+            cur["close"] = price
+            cur["volume"] += max(0, delta_vol)
+
+        # Persist snapshot for this TF
+        cur = st["current"]
+        set_current_candle_tf(
+            r,
+            code,
+            tf,
+            st["bucket"],
+            cur["open"],
+            cur["high"],
+            cur["low"],
+            cur["close"],
+            cur["volume"],
+        )
 
     def on_ticks(ws, ticks):
         for tick in ticks:
@@ -96,60 +145,58 @@ def start_collector(
             if not code:
                 continue
 
-            ts = tick.get("exchange_timestamp")
+            ts = tick.get("exchange_timestamp")  # tz-aware datetime
             if not ts:
                 continue
 
             price = float(tick.get("last_price"))
-            cum_vol = int(tick.get("volume_traded"))  # cumulative daily volume
-            minute_key = floor_minute(ts)
+            cum_vol = int(
+                tick.get("volume_traded")
+            )  # cumulative daily volume from exchange
 
-            state = candles_state[code]
-
-            # delta volume (per-tick)
-            if state["last_tick_volume"] is None:
+            # Compute delta volume once per symbol
+            prev_cum = states[code]["_last_cum_vol"]
+            if prev_cum is None:
                 delta_vol = 0
             else:
-                delta_vol = max(0, cum_vol - state["last_tick_volume"])
-            state["last_tick_volume"] = cum_vol
+                delta_vol = max(0, cum_vol - prev_cum)
+            states[code]["_last_cum_vol"] = cum_vol
 
-            # new minute -> finalize previous candle, start new
-            if state["prev_minute"] is None or minute_key != state["prev_minute"]:
-                if state["current"]:
-                    finalize_and_roll_new_candle(
-                        r, code, state["current"], max_candles=100
-                    )
+            # ---- Update all TFs ----
+            # 1m path (backward-compat keys as well)
+            minute_key = floor_minute(ts)
+            # Keep legacy "current minute" hash & list
+            # Finalize previous minute candle & start new happens via TF engine too,
+            # but we retain the legacy write so any existing consumers keep working.
+            # We synthesize the 1m candle state off the generic TF state.
+            bucket_1m = floor_period(ts, TF_DEFS["1min"])
+            _update_timeframe(code, "1min", bucket_1m, price, delta_vol)
 
-                state["current"] = {
-                    "minute": str(minute_key),
-                    "open": price,
-                    "high": price,
-                    "low": price,
-                    "close": price,
-                    "volume": delta_vol,
-                }
-                state["prev_minute"] = minute_key
-            else:
-                # update current candle
-                cur = state["current"]
-                cur["high"] = max(cur["high"], price)
-                cur["low"] = min(cur["low"], price)
-                cur["close"] = price
-                cur["volume"] += delta_vol
-
-            # save snapshot in Redis
+            # Mirror current 1m candle into legacy hash for compatibility
+            cur_1m = states[code]["1min"]["current"]
             set_current_candle(
                 r,
                 code,
                 minute_key,
-                state["current"]["open"],
-                state["current"]["high"],
-                state["current"]["low"],
-                state["current"]["close"],
-                state["current"]["volume"],
+                cur_1m["open"],
+                cur_1m["high"],
+                cur_1m["low"],
+                cur_1m["close"],
+                cur_1m["volume"],
             )
+            # NOTE: legacy finalize (finalize_and_roll_new_candle) happens only when TF engine rolls,
+            # because we store finalized 1m into candles:{code}:1min now.
+            # If you need *also* candles:{code} legacy list, uncomment below:
+            # finalize_and_roll_new_candle(r, code, {...}) on 1m bucket flip.
 
-            print(f"[{code}] Tick saved")
+            # Other TFs
+            for tf, mins in TF_DEFS.items():
+                if tf == "1min":
+                    continue
+                bucket_key = floor_period(ts, mins)
+                _update_timeframe(code, tf, bucket_key, price, delta_vol)
+
+            print(f"[{code}] tick ok")
 
     def on_connect(ws, response):
         tokens = list(instrument_map.keys())
@@ -159,18 +206,17 @@ def start_collector(
         ws.subscribe(tokens)
         ws.set_mode(ws.MODE_FULL, tokens)
 
-    def on_close(ws, code, reason):
-        print(f"❌ Shard {shard_index + 1}: Disconnected {code} - {reason}")
+    def on_close(ws, code_, reason):
+        print(f"❌ Shard {shard_index + 1}: Disconnected {code_} - {reason}")
 
-    def on_error(ws, code, reason):
-        print(f"⚠️ Shard {shard_index + 1}: Error {code} - {reason}")
+    def on_error(ws, code_, reason):
+        print(f"⚠️ Shard {shard_index + 1}: Error {code_} - {reason}")
 
     kws.on_ticks = on_ticks
     kws.on_connect = on_connect
     kws.on_close = on_close
     kws.on_error = on_error
 
-    # each shard runs its own websocket connection
     kws.connect(threaded=False)
 
 
@@ -180,20 +226,16 @@ if __name__ == "__main__":
         print("❌ No stocks loaded. Exiting.")
         raise SystemExit(1)
 
-    # Spawn one process per shard automatically (indices 0..SHARDS-1)
     print(
         f"🚀 Launching {SHARDS} shard(s) for {len(stocks)} stock(s) — mode={SHARD_MODE}"
     )
     procs = []
     for idx in range(SHARDS):
         p = Process(
-            target=start_collector,
-            args=(stocks, idx, SHARDS, SHARD_MODE),
-            daemon=False,
+            target=start_collector, args=(stocks, idx, SHARDS, SHARD_MODE), daemon=False
         )
         p.start()
         procs.append(p)
 
-    # Wait for all shards (each runs its own KiteTicker loop)
     for p in procs:
         p.join()

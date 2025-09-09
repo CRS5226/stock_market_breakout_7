@@ -11,165 +11,106 @@ def get_gsheet_client(sheet_name: str):
     return sh
 
 
-def _get_ohlcv_fields(stock_cfg: dict):
-    """
-    Pulls latest OHLCV + current price from config.
-    Expects:
-      stock_cfg["current_price"] = float | None
-      stock_cfg["ohlcv"] = {"time","open","high","low","close","volume"} | None
-    Case-insensitive safe reads, blanks when missing.
-    """
-
-    def pick(d, key):
-        if not isinstance(d, dict) or d is None:
-            return ""
-        # case-insensitive
-        for k, v in d.items():
-            if str(k).lower() == str(key).lower():
-                return "" if v is None else v
-        return ""
-
-    ohlcv = stock_cfg.get("ohlcv") or {}
-    return {
-        # "price_time": pick(ohlcv, "time"),
-        "open": pick(ohlcv, "open"),
-        "high": pick(ohlcv, "high"),
-        "low": pick(ohlcv, "low"),
-        "close": pick(ohlcv, "close"),
-        "volume": pick(ohlcv, "volume"),
-        # "current_price": (
-        #     ""
-        #     if stock_cfg.get("current_price") is None
-        #     else stock_cfg.get("current_price")
-        # ),
-    }
-
-
 def _blank(x):
     return "" if x is None else x
 
 
+def _get_num(d, *keys):
+    if not isinstance(d, dict):
+        return None
+    for k in keys:
+        if k in d and d[k] not in (None, ""):
+            try:
+                return float(d[k])
+            except Exception:
+                pass
+    return None
+
+
+def _sr_pct_from(s, r):
+    try:
+        if s is None or r is None or float(s) == 0.0:
+            return None
+        return ((float(r) - float(s)) / float(s)) * 100.0
+    except Exception:
+        return None
+
+
 def flatten_config(stock_cfg: dict) -> dict:
     """
-    Flatten nested stock config dict for Google Sheet logging.
-
-    Includes:
-    - Legacy SR + % width
-    - Realtime / 1d / 1w / 3m SR + their % widths
-    - Entry/Target/Stoploss for default, S1/R1, S2/R2, S3/R3
-    - Respect counts for each S/R pair
-    - OHLCV close & volume
-    - Signal
+    Flatten the (new) multi-TF config into a single row for Google Sheets.
+    Outputs base (S0) + S1..S8:
+      - S, R, SR*_pct
+      - entry*, target*, stoploss*
+      - respected_S*, respected_R*
+    Also includes timestamp, stock_code, close, volume, signal, model.
     """
-
-    # ---- Core SR values ----
-    S = stock_cfg.get("support")
-    R = stock_cfg.get("resistance")
-    # SRT = stock_cfg.get("support_realtime")
-    # RRT = stock_cfg.get("resistance_realtime")
-    S1 = stock_cfg.get("support_1d")
-    R1 = stock_cfg.get("resistance_1d")
-    S2 = stock_cfg.get("support_1w")
-    R2 = stock_cfg.get("resistance_1w")
-    S3 = stock_cfg.get("support_3m")
-    R3 = stock_cfg.get("resistance_3m")
-
-    # ---- SR widths ----
-    SR_pct = stock_cfg.get("sr_range_pct")
-    # SR_rt_pct = stock_cfg.get("sr_range_pct_realtime")
-    SR1_pct = stock_cfg.get("sr_range_pct_1d")
-    SR2_pct = stock_cfg.get("sr_range_pct_1w")
-    SR3_pct = stock_cfg.get("sr_range_pct_3m")
-
-    # ---- Trade levels (entries/targets/stops) ----
-    entry = stock_cfg.get("entry")
-    target = stock_cfg.get("target")
-    stoploss = stock_cfg.get("stoploss")
-
-    entry1 = stock_cfg.get("entry1")
-    target1 = stock_cfg.get("target1")
-    stoploss1 = stock_cfg.get("stoploss1")
-
-    entry2 = stock_cfg.get("entry2")
-    target2 = stock_cfg.get("target2")
-    stoploss2 = stock_cfg.get("stoploss2")
-
-    entry3 = stock_cfg.get("entry3")
-    target3 = stock_cfg.get("target3")
-    stoploss3 = stock_cfg.get("stoploss3")
-
-    # ---- Respect counts (new) ----
-    respected_S = stock_cfg.get("respected_S")
-    respected_R = stock_cfg.get("respected_R")
-    respected_S1 = stock_cfg.get("respected_S1")
-    respected_R1 = stock_cfg.get("respected_R1")
-    respected_S2 = stock_cfg.get("respected_S2")
-    respected_R2 = stock_cfg.get("respected_R2")
-    respected_S3 = stock_cfg.get("respected_S3")
-    respected_R3 = stock_cfg.get("respected_R3")
-
-    flat = {
-        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    out = {
+        # meta
+        "timestamp": stock_cfg.get("last_updated")
+        or datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "stock_code": stock_cfg.get("stock_code"),
-        # OHLCV
-        "close": stock_cfg.get("ohlcv", {}).get("close"),
-        "volume": stock_cfg.get("ohlcv", {}).get("volume"),
-        # Legacy/default SR (mapped to 1d in your pipeline)
-        "S": _blank(S),
-        "R": _blank(R),
-        "SR_pct": _blank(SR_pct),
-        # Realtime SR
-        # "S_RT": _blank(SRT),
-        # "R_RT": _blank(RRT),
-        # "SR_RT_pct": _blank(SR_rt_pct),
-        # 1d SR
-        "S1": _blank(S1),
-        "R1": _blank(R1),
-        "SR1_pct": _blank(SR1_pct),
-        # 1w SR
-        "S2": _blank(S2),
-        "R2": _blank(R2),
-        "SR2_pct": _blank(SR2_pct),
-        # 3m SR
-        "S3": _blank(S3),
-        "R3": _blank(R3),
-        "SR3_pct": _blank(SR3_pct),
-        # Trade levels
-        "entry": _blank(entry),
-        "target": _blank(target),
-        "stoploss": _blank(stoploss),
-        "entry1": _blank(entry1),
-        "target1": _blank(target1),
-        "stoploss1": _blank(stoploss1),
-        "entry2": _blank(entry2),
-        "target2": _blank(target2),
-        "stoploss2": _blank(stoploss2),
-        "entry3": _blank(entry3),
-        "target3": _blank(target3),
-        "stoploss3": _blank(stoploss3),
-        # Respect counts (new)
-        "respected_S": _blank(respected_S),
-        "respected_R": _blank(respected_R),
-        "respected_S1": _blank(respected_S1),
-        "respected_R1": _blank(respected_R1),
-        "respected_S2": _blank(respected_S2),
-        "respected_R2": _blank(respected_R2),
-        "respected_S3": _blank(respected_S3),
-        "respected_R3": _blank(respected_R3),
-        # Meta
         "signal": stock_cfg.get("signal"),
+        "model": (
+            "GPT"
+            if str(stock_cfg.get("forecast", "")).lower() in ("AI", "LLM")
+            else "ALGO"
+        ),
+        # snapshot
+        "close": _get_num(stock_cfg.get("ohlcv", {}) or {}, "close")
+        or _get_num(stock_cfg, "close"),
+        "volume": _get_num(stock_cfg.get("ohlcv", {}) or {}, "volume"),
     }
 
-    # Latest OHLCV
-    # flat.update(_get_ohlcv_fields(stock_cfg))
+    # ----- base (idx=0) uses unsuffixed keys -----
+    base_s = _get_num(stock_cfg, "support")
+    base_r = _get_num(stock_cfg, "resistance")
+    out["S"] = _blank(base_s)
+    out["R"] = _blank(base_r)
+    # prefer precomputed base width if present
+    base_pct = _get_num(stock_cfg, "sr_range_pct")
+    if base_pct is None:
+        base_pct = _sr_pct_from(base_s, base_r)
+    out["SR_pct"] = _blank(base_pct)
 
-    # Predicted (forecasts)
-    # flat.update(_get_pred_fields(stock_cfg))
+    out["entry"] = _blank(_get_num(stock_cfg, "entry"))
+    out["target"] = _blank(_get_num(stock_cfg, "target"))
+    out["stoploss"] = _blank(_get_num(stock_cfg, "stoploss"))
 
-    # If you also want realized target fields, uncomment:
-    # flat.update(_get_target_fields(stock_cfg))
+    out["respected_S"] = _blank(_get_num(stock_cfg, "respected_S"))
+    out["respected_R"] = _blank(_get_num(stock_cfg, "respected_R"))
 
-    return flat
+    # ----- S1..S8 -----
+    for idx in range(1, 9):
+        s_key = f"support{idx}"
+        r_key = f"resistance{idx}"
+        e_key = f"entry{idx}"
+        t_key = f"target{idx}"
+        sl_key = f"stoploss{idx}"
+        rs_key = f"respected_S{idx}"
+        rr_key = f"respected_R{idx}"
+        pct_key = f"SR{idx}_pct"
+
+        s = _get_num(stock_cfg, s_key)
+        r = _get_num(stock_cfg, r_key)
+
+        # prefer precomputed SR% if you ever store it; else compute on the fly
+        sr_pct = _get_num(stock_cfg, pct_key)
+        if sr_pct is None:
+            sr_pct = _sr_pct_from(s, r)
+
+        out[f"S{idx}"] = _blank(s)
+        out[f"R{idx}"] = _blank(r)
+        out[pct_key] = _blank(sr_pct)
+
+        out[e_key] = _blank(_get_num(stock_cfg, e_key))
+        out[t_key] = _blank(_get_num(stock_cfg, t_key))
+        out[sl_key] = _blank(_get_num(stock_cfg, sl_key))
+
+        out[rs_key] = _blank(_get_num(stock_cfg, rs_key))
+        out[rr_key] = _blank(_get_num(stock_cfg, rr_key))
+
+    return out
 
 
 def ensure_headers(worksheet, desired_headers: list[str]) -> list[str]:

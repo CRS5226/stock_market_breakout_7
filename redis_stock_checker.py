@@ -3,47 +3,83 @@ import json
 import pandas as pd
 
 # Import the utility functions from your redis_utils.py file
-from redis_utils import get_redis, get_recent_candles, get_recent_indicators
+from redis_utils import (
+    get_redis,
+    get_recent_candles_tf,
+    get_recent_indicators_tf,  # <--- NEW import
+)
+
+# Match the TFs you defined in collector.py
+TF_DEFS = {
+    "1min": 1,
+    "5min": 5,
+    "15min": 15,
+    "30min": 30,
+    "45min": 45,
+    "1hour": 60,
+    "4hour": 240,
+}
 
 
-def fetch_candles(stock_code: str, n: int = 2):
-    """Fetch last N candles from Redis (chronological order)."""
+def fetch_candles_tf(stock_code: str, tf: str, n: int = 1):
+    """Fetch last N candles for a given timeframe (chronological order)."""
     r = get_redis()
-    items = get_recent_candles(r, stock_code, n)  # Use the function from redis_utils
+    items = get_recent_candles_tf(r, stock_code, tf, n)
     if not items:
-        print(f"[⚠️] No candles found in Redis for {stock_code}")
         return None
 
     df = pd.DataFrame(items)
-    df["minute"] = pd.to_datetime(df["minute"])
-    # The get_recent_candles function returns newest-first, so sort it for chronological order
-    return df.sort_values("minute").reset_index(drop=True)
+    if "bucket" in df.columns:
+        df["bucket"] = pd.to_datetime(df["bucket"])
+        df = df.sort_values("bucket").reset_index(drop=True)
+    return df
 
 
-def fetch_indicators(stock_code: str, n: int = 2):
-    """Fetch last N indicators from Redis (newest first)."""
+def fetch_indicators_tf(stock_code: str, tf: str, n: int = 1):
+    """Fetch last N indicators for a given timeframe (newest first)."""
     r = get_redis()
-    items = get_recent_indicators(r, stock_code, n)  # Use the function from redis_utils
+    items = get_recent_indicators_tf(r, stock_code, tf, n)
     if not items:
-        print(f"[⚠️] No indicators found in Redis for {stock_code}")
         return None
-
     return pd.DataFrame(items)
 
 
-def fetch_historical(stock_code: str, folder="historical_data"):
+def fetch_all_timeframes(stock_code: str):
+    """
+    Fetch the latest candle + indicator for all timeframes.
+    Returns dict: {tf: {"candle": DataFrame (1 row) or None,
+                        "indicator": DataFrame (1 row) or None}}
+    """
+    out = {}
+    for tf in TF_DEFS.keys():
+        candle_df = fetch_candles_tf(stock_code, tf, n=1)
+        indicator_df = fetch_indicators_tf(stock_code, tf, n=1)
+
+        out[tf] = {
+            "candle": (
+                candle_df if candle_df is not None and not candle_df.empty else None
+            ),
+            "indicator": (
+                indicator_df
+                if indicator_df is not None and not indicator_df.empty
+                else None
+            ),
+        }
+    return out
+
+
+def fetch_historical(stock_code: str, folder="historical_data_candles"):
     """Load the latest historical CSV for a stock."""
     if not os.path.isdir(folder):
-        print(f"[⚠️] No historical_data folder found: {folder}")
+        print(f"[⚠️] No historical_data_candles folder found: {folder}")
         return None
 
     hist_csv = None
-    # Use a more robust way to find the file
-    file_prefix = f"{stock_code.upper()}_historical_"
-    for file in os.listdir(folder):
-        if file.startswith(file_prefix) and file.endswith(".csv"):
-            hist_csv = os.path.join(folder, file)
-            break
+    for root, _, files in os.walk(folder):
+        for file in files:
+            if file.startswith(stock_code.upper()) and file.endswith(".csv"):
+                hist_csv = os.path.join(root, file)
+                break
 
     if hist_csv and os.path.exists(hist_csv):
         try:
@@ -57,20 +93,18 @@ def fetch_historical(stock_code: str, folder="historical_data"):
 
 
 if __name__ == "__main__":
-    stock = "RTNINDIA"
+    stock = "GMDCLTD"
 
-    # You can now uncomment and use the functions
-    df_candles = fetch_candles(stock, n=2)
-    if df_candles is not None:
-        print(f"[🕒] Redis Candles columns for {stock}: {list(df_candles.columns)}")
+    # 🔹 Fetch latest candle + indicator for each TF
+    tf_data = fetch_all_timeframes(stock)
+    for tf, data in tf_data.items():
+        print(f"\n=== {tf} ===")
+        if data["candle"] is not None:
+            print("[🕒] Candle:", data["candle"].iloc[-1].to_dict())
+        else:
+            print("[⏳] Candle: None")
 
-    df_indicators = fetch_indicators(stock, n=2)
-    if df_indicators is not None:
-        print(
-            f"[📈] Redis Indicators columns for {stock}: {list(df_indicators.columns)}",
-            df_indicators.head(1),
-        )
-
-    # df_hist = fetch_historical(stock)
-    # if df_hist is not None:
-    #     print(f"[📚] Historical CSV columns for {stock}: {list(df_hist.columns)}")
+        if data["indicator"] is not None:
+            print("[📈] Indicator:", data["indicator"].iloc[-1].to_dict())
+        else:
+            print("[⏳] Indicator: None")

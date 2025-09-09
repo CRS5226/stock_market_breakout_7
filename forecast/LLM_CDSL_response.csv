@@ -5209,3 +5209,727 @@ timestamp,raw_response
     }
   }
 }"
+2025-09-09 14:00:57,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09 13:31:00+00:00"",
+    ""open"": 1552.9,
+    ""high"": 1553.0,
+    ""low"": 1551.6,
+    ""close"": 1552.2,
+    ""volume"": 1252
+  },
+  ""support"": 1551.32,
+  ""resistance"": 1554.9,
+  ""support1"": 1550.81,
+  ""resistance1"": 1558.0,
+  ""support2"": 1549.1,
+  ""resistance2"": 1559.8,
+  ""support3"": 1549.1,
+  ""resistance3"": 1565.0,
+  ""support4"": 1549.1,
+  ""resistance4"": 1565.0,
+  ""support5"": 1549.1,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1553.182,
+  ""target"": 1554.735,
+  ""stoploss"": 1549.614,
+  ""entry1"": 1552.671,
+  ""target1"": 1556.13,
+  ""stoploss1"": 1548.683,
+  ""entry2"": 1552.002,
+  ""target2"": 1556.92,
+  ""stoploss2"": 1544.906,
+  ""entry3"": 1552.576,
+  ""target3"": 1561.489,
+  ""stoploss3"": 1544.002,
+  ""entry4"": 1552.589,
+  ""target4"": 1561.475,
+  ""stoploss4"": 1543.983,
+  ""entry5"": 1553.602,
+  ""target5"": 1561.478,
+  ""stoploss5"": 1543.522,
+  ""entry6"": 1557.202,
+  ""target6"": 1558.329,
+  ""stoploss6"": 1548.446,
+  ""entry7"": 1556.902,
+  ""target7"": 1612.198,
+  ""stoploss7"": 1374.989,
+  ""entry8"": 1556.902,
+  ""target8"": 1609.766,
+  ""stoploss8"": 1373.071,
+  ""respected_S"": 18,
+  ""respected_R"": 16,
+  ""respected_S1"": 5,
+  ""respected_R1"": 6,
+  ""respected_S2"": 1,
+  ""respected_R2"": 3,
+  ""respected_S3"": 1,
+  ""respected_R3"": 0,
+  ""respected_S4"": 1,
+  ""respected_R4"": 0,
+  ""respected_S5"": 1,
+  ""respected_R5"": 0,
+  ""respected_S6"": 1,
+  ""respected_R6"": 1,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.2308,
+  ""volume_threshold"": 3377,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""No bullish setup"",
+    ""Maintained existing support and resistance levels based on multi-timeframe candles and daily history"",
+    ""Volume threshold unchanged due to recent volume below threshold"",
+    ""Bollinger bands updated from daily history latest values"",
+    ""Trade levels confirmed within support-resistance bands and adjusted minimally to maintain order"",
+    ""Predicted targets updated with latest heuristic forecast values""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"
+2025-09-09 14:25:45,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T14:24:00+00:00"",
+    ""open"": 1551.8,
+    ""high"": 1551.9,
+    ""low"": 1550.5,
+    ""close"": 1550.9,
+    ""volume"": 1070
+  },
+  ""support"": 1550.5,
+  ""resistance"": 1554.9,
+  ""support1"": 1550.81,
+  ""resistance1"": 1558.0,
+  ""support2"": 1549.1,
+  ""resistance2"": 1559.8,
+  ""support3"": 1549.1,
+  ""resistance3"": 1565.0,
+  ""support4"": 1549.1,
+  ""resistance4"": 1565.0,
+  ""support5"": 1549.1,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1551.0,
+  ""target"": 1554.0,
+  ""stoploss"": 1549.9,
+  ""entry1"": 1551.5,
+  ""target1"": 1557.0,
+  ""stoploss1"": 1550.7,
+  ""entry2"": 1550.0,
+  ""target2"": 1558.0,
+  ""stoploss2"": 1548.9,
+  ""entry3"": 1551.0,
+  ""target3"": 1564.0,
+  ""stoploss3"": 1548.9,
+  ""entry4"": 1551.0,
+  ""target4"": 1564.0,
+  ""stoploss4"": 1548.9,
+  ""entry5"": 1551.0,
+  ""target5"": 1564.0,
+  ""stoploss5"": 1548.9,
+  ""entry6"": 1553.0,
+  ""target6"": 1560.0,
+  ""stoploss6"": 1551.9,
+  ""entry7"": 1552.0,
+  ""target7"": 1612.0,
+  ""stoploss7"": 1419.0,
+  ""entry8"": 1552.0,
+  ""target8"": 1610.0,
+  ""stoploss8"": 1419.0,
+  ""respected_S"": 34,
+  ""respected_R"": 25,
+  ""respected_S1"": 10,
+  ""respected_R1"": 11,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 17,
+  ""respected_R3"": 27,
+  ""respected_S4"": 15,
+  ""respected_R4"": 20,
+  ""respected_S5"": 15,
+  ""respected_R5"": 20,
+  ""respected_S6"": 15,
+  ""respected_R6"": 12,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.2308,
+  ""volume_threshold"": 3377,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from 1min candle"",
+    ""Adjusted base support to 1550.5 from latest low to maintain stoploss < support < entry < target < resistance"",
+    ""Adjusted base entry, target, stoploss to 1551.0, 1554.0, 1549.9 respectively to fit within support-resistance band"",
+    ""Adjusted entries, targets, stoplosses for S1 to S8 minimally to maintain strict long-only ordering and RR ratios"",
+    ""Corrected stoploss7 and stoploss8 to 1419.0 to be strictly below support7 and support8"",
+    ""Maintained volume threshold and bollinger bands from daily history and intraday indicators"",
+    ""Predicted targets retained from latest heuristic forecast"",
+    ""Signal remains 'No Action' due to no bullish setup confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"
+2025-09-09 14:31:18,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T14:29:00+00:00"",
+    ""open"": 1552.0,
+    ""high"": 1552.0,
+    ""low"": 1550.6,
+    ""close"": 1551.0,
+    ""volume"": 3014
+  },
+  ""support"": 1550.5,
+  ""resistance"": 1554.9,
+  ""support1"": 1550.81,
+  ""resistance1"": 1558.0,
+  ""support2"": 1549.1,
+  ""resistance2"": 1559.8,
+  ""support3"": 1549.1,
+  ""resistance3"": 1565.0,
+  ""support4"": 1549.1,
+  ""resistance4"": 1565.0,
+  ""support5"": 1549.1,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1551.0,
+  ""target"": 1554.0,
+  ""stoploss"": 1549.9,
+  ""entry1"": 1551.0,
+  ""target1"": 1557.0,
+  ""stoploss1"": 1549.8,
+  ""entry2"": 1550.0,
+  ""target2"": 1557.0,
+  ""stoploss2"": 1548.9,
+  ""entry3"": 1550.0,
+  ""target3"": 1560.0,
+  ""stoploss3"": 1548.9,
+  ""entry4"": 1550.0,
+  ""target4"": 1560.0,
+  ""stoploss4"": 1548.9,
+  ""entry5"": 1550.0,
+  ""target5"": 1560.0,
+  ""stoploss5"": 1548.9,
+  ""entry6"": 1553.0,
+  ""target6"": 1560.0,
+  ""stoploss6"": 1551.9,
+  ""entry7"": 1552.0,
+  ""target7"": 1612.0,
+  ""stoploss7"": 1419.0,
+  ""entry8"": 1552.0,
+  ""target8"": 1610.0,
+  ""stoploss8"": 1419.0,
+  ""respected_S"": 27,
+  ""respected_R"": 25,
+  ""respected_S1"": 10,
+  ""respected_R1"": 11,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 17,
+  ""respected_R3"": 27,
+  ""respected_S4"": 15,
+  ""respected_R4"": 20,
+  ""respected_S5"": 15,
+  ""respected_R5"": 20,
+  ""respected_S6"": 15,
+  ""respected_R6"": 12,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.2838,
+  ""volume_threshold"": 3377.0,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from 1min candle"",
+    ""Adjusted base support to 1550.5 from latest low to maintain stoploss < support < entry < target < resistance"",
+    ""Adjusted base entry, target, stoploss to 1551.0, 1554.0, 1549.9 respectively to fit within support-resistance band"",
+    ""Adjusted entries, targets, stoplosses for S1 to S8 minimally to maintain strict long-only ordering and RR ratios"",
+    ""Corrected stoploss7 and stoploss8 to 1419.0 to be strictly below support7 and support8"",
+    ""Maintained volume threshold and bollinger bands from daily history and intraday indicators"",
+    ""Predicted targets retained from latest heuristic forecast"",
+    ""Signal remains 'No Action' due to no bullish setup confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"
+2025-09-09 15:09:27,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T15:08:00+00:00"",
+    ""open"": 1549.2,
+    ""high"": 1549.8,
+    ""low"": 1549.2,
+    ""close"": 1549.8,
+    ""volume"": 9862
+  },
+  ""support"": 1548.0,
+  ""resistance"": 1554.9,
+  ""support1"": 1548.0,
+  ""resistance1"": 1558.0,
+  ""support2"": 1549.1,
+  ""resistance2"": 1559.8,
+  ""support3"": 1549.1,
+  ""resistance3"": 1565.0,
+  ""support4"": 1549.1,
+  ""resistance4"": 1565.0,
+  ""support5"": 1549.1,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1551.0,
+  ""target"": 1554.0,
+  ""stoploss"": 1547.9,
+  ""entry1"": 1551.0,
+  ""target1"": 1557.0,
+  ""stoploss1"": 1547.9,
+  ""entry2"": 1551.0,
+  ""target2"": 1557.0,
+  ""stoploss2"": 1548.9,
+  ""entry3"": 1551.0,
+  ""target3"": 1560.0,
+  ""stoploss3"": 1548.9,
+  ""entry4"": 1551.0,
+  ""target4"": 1560.0,
+  ""stoploss4"": 1548.9,
+  ""entry5"": 1551.0,
+  ""target5"": 1560.0,
+  ""stoploss5"": 1548.9,
+  ""entry6"": 1554.0,
+  ""target6"": 1560.0,
+  ""stoploss6"": 1551.9,
+  ""entry7"": 1552.0,
+  ""target7"": 1612.0,
+  ""stoploss7"": 1419.0,
+  ""entry8"": 1552.0,
+  ""target8"": 1610.0,
+  ""stoploss8"": 1419.0,
+  ""respected_S"": 27,
+  ""respected_R"": 25,
+  ""respected_S1"": 10,
+  ""respected_R1"": 11,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 17,
+  ""respected_R3"": 27,
+  ""respected_S4"": 15,
+  ""respected_R4"": 20,
+  ""respected_S5"": 15,
+  ""respected_R5"": 20,
+  ""respected_S6"": 15,
+  ""respected_R6"": 12,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.2838,
+  ""volume_threshold"": 3377.0,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from 1min candle"",
+    ""Adjusted base support to 1548.0 from latest 1min low to maintain stoploss < support < entry < target < resistance"",
+    ""Set base entry, target, stoploss to 1551.0, 1554.0, 1547.9 respectively to fit within support-resistance band"",
+    ""Adjusted entries, targets, stoplosses for S1 to S6 minimally to maintain strict long-only ordering and RR ratios"",
+    ""Corrected stoploss7 and stoploss8 to 1419.0 to be strictly below support7 and support8"",
+    ""Maintained volume threshold and bollinger bands from daily history and intraday indicators"",
+    ""Predicted targets retained from latest heuristic forecast"",
+    ""Signal remains 'No Action' due to no bullish setup confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"
+2025-09-09 15:37:05,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T15:32:00+00:00"",
+    ""open"": 1548.9,
+    ""high"": 1548.9,
+    ""low"": 1548.9,
+    ""close"": 1548.9,
+    ""volume"": 0
+  },
+  ""support"": 1547.9,
+  ""resistance"": 1554.9,
+  ""support1"": 1547.9,
+  ""resistance1"": 1558.0,
+  ""support2"": 1548.0,
+  ""resistance2"": 1559.8,
+  ""support3"": 1548.0,
+  ""resistance3"": 1565.0,
+  ""support4"": 1548.0,
+  ""resistance4"": 1565.0,
+  ""support5"": 1548.0,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1551.0,
+  ""target"": 1554.0,
+  ""stoploss"": 1547.8,
+  ""entry1"": 1551.0,
+  ""target1"": 1557.0,
+  ""stoploss1"": 1547.8,
+  ""entry2"": 1551.5,
+  ""target2"": 1557.0,
+  ""stoploss2"": 1547.9,
+  ""entry3"": 1552.0,
+  ""target3"": 1560.0,
+  ""stoploss3"": 1548.0,
+  ""entry4"": 1552.0,
+  ""target4"": 1560.0,
+  ""stoploss4"": 1548.0,
+  ""entry5"": 1552.0,
+  ""target5"": 1560.0,
+  ""stoploss5"": 1548.0,
+  ""entry6"": 1555.0,
+  ""target6"": 1560.0,
+  ""stoploss6"": 1551.9,
+  ""entry7"": 1552.0,
+  ""target7"": 1612.0,
+  ""stoploss7"": 1419.0,
+  ""entry8"": 1552.0,
+  ""target8"": 1610.0,
+  ""stoploss8"": 1419.0,
+  ""respected_S"": 9,
+  ""respected_R"": 25,
+  ""respected_S1"": 5,
+  ""respected_R1"": 11,
+  ""respected_S2"": 5,
+  ""respected_R2"": 8,
+  ""respected_S3"": 17,
+  ""respected_R3"": 27,
+  ""respected_S4"": 15,
+  ""respected_R4"": 20,
+  ""respected_S5"": 15,
+  ""respected_R5"": 20,
+  ""respected_S6"": 15,
+  ""respected_R6"": 12,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.4457,
+  ""volume_threshold"": 3377.0,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from 1min candle"",
+    ""Adjusted base support to 1547.9 from latest 1min low to maintain stoploss < support < entry < target < resistance"",
+    ""Set base entry, target, stoploss to 1551.0, 1554.0, 1547.8 respectively to fit within support-resistance band"",
+    ""Adjusted entries, targets, stoplosses for S1 to S6 minimally to maintain strict long-only ordering and RR ratios"",
+    ""Corrected stoploss7 and stoploss8 to 1419.0 to be strictly below support7 and support8"",
+    ""Maintained volume threshold and bollinger bands from daily history and intraday indicators"",
+    ""Predicted targets retained from latest heuristic forecast"",
+    ""Signal remains 'No Action' due to no bullish setup confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"
+2025-09-09 15:40:08,"{
+  ""stock_code"": ""CDSL"",
+  ""instrument_token"": 5420545,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09 15:35:00+00:00"",
+    ""open"": 1548.9,
+    ""high"": 1548.9,
+    ""low"": 1548.9,
+    ""close"": 1548.9,
+    ""volume"": 0
+  },
+  ""support"": 1547.9,
+  ""resistance"": 1554.9,
+  ""support1"": 1547.9,
+  ""resistance1"": 1558.0,
+  ""support2"": 1548.0,
+  ""resistance2"": 1559.8,
+  ""support3"": 1548.0,
+  ""resistance3"": 1565.0,
+  ""support4"": 1548.0,
+  ""resistance4"": 1565.0,
+  ""support5"": 1548.0,
+  ""resistance5"": 1565.0,
+  ""support6"": 1552.0,
+  ""resistance6"": 1560.67,
+  ""support7"": 1421.0,
+  ""resistance7"": 1621.93,
+  ""support8"": 1421.0,
+  ""resistance8"": 1621.93,
+  ""entry"": 1551.0,
+  ""target"": 1554.0,
+  ""stoploss"": 1547.8,
+  ""entry1"": 1551.0,
+  ""target1"": 1556.0,
+  ""stoploss1"": 1547.8,
+  ""entry2"": 1551.5,
+  ""target2"": 1560.0,
+  ""stoploss2"": 1548.0,
+  ""entry3"": 1552.0,
+  ""target3"": 1563.0,
+  ""stoploss3"": 1548.0,
+  ""entry4"": 1552.0,
+  ""target4"": 1563.0,
+  ""stoploss4"": 1548.0,
+  ""entry5"": 1552.0,
+  ""target5"": 1563.0,
+  ""stoploss5"": 1548.0,
+  ""entry6"": 1555.0,
+  ""target6"": 1560.0,
+  ""stoploss6"": 1551.9,
+  ""entry7"": 1552.0,
+  ""target7"": 1612.0,
+  ""stoploss7"": 1419.0,
+  ""entry8"": 1552.0,
+  ""target8"": 1610.0,
+  ""stoploss8"": 1419.0,
+  ""respected_S"": 8,
+  ""respected_R"": 25,
+  ""respected_S1"": 4,
+  ""respected_R1"": 11,
+  ""respected_S2"": 4,
+  ""respected_R2"": 8,
+  ""respected_S3"": 17,
+  ""respected_R3"": 27,
+  ""respected_S4"": 15,
+  ""respected_R4"": 20,
+  ""respected_S5"": 14,
+  ""respected_R5"": 20,
+  ""respected_S6"": 15,
+  ""respected_R6"": 12,
+  ""respected_S7"": 8,
+  ""respected_R7"": 8,
+  ""respected_S8"": 4,
+  ""respected_R8"": 3,
+  ""sr_range_pct"": 0.4522,
+  ""volume_threshold"": 3377.0,
+  ""bollinger"": {
+    ""mid_price"": 1534.965,
+    ""upper_band"": 1621.9277,
+    ""lower_band"": 1448.0023
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Updated latest ohlcv from 1min candle"",
+    ""Adjusted base support to 1547.9 from latest 1min low to maintain stoploss < support < entry < target < resistance"",
+    ""Set base entry, target, stoploss to 1551.0, 1554.0, 1547.8 respectively to fit within support-resistance band"",
+    ""Adjusted entries, targets, stoplosses for S1 to S6 minimally to maintain strict long-only ordering and RR ratios"",
+    ""Corrected stoploss7 and stoploss8 to 1419.0 to be strictly below support7 and support8"",
+    ""Maintained volume threshold and bollinger bands from daily history and intraday indicators"",
+    ""Predicted targets retained from latest heuristic forecast"",
+    ""Signal remains 'No Action' due to no bullish setup confirmation""
+  ],
+  ""signal"": ""No Action"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": -0.0005941483789303341,
+      ""price"": 1551.2777628862243
+    },
+    ""1w"": {
+      ""ret"": -0.001328556164009531,
+      ""price"": 1550.1378151222245
+    },
+    ""3m"": {
+      ""ret"": -0.006642780820047655,
+      ""price"": 1541.889075611122
+    }
+  }
+}"

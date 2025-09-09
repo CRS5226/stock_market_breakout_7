@@ -1,10 +1,10 @@
 {
   "csv_writes": 0,
-  "monitor_cycles": 6898,
-  "monitor_time": 13286.534328699112,
+  "monitor_cycles": 9812,
+  "monitor_time": 6630.981915235519,
   "tick_count": 0,
-  "redis_writes": 79151,
+  "redis_writes": 6014,
   "csv_writes_per_sec": 0.0,
-  "monitor_cycles_per_sec": 0.5090561126431727,
+  "monitor_cycles_per_sec": 0.74635432428822,
   "ticks_per_sec": 0.0
 }

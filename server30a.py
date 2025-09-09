@@ -5,7 +5,7 @@ import time
 import json
 import pandas as pd
 from multiprocessing import Process, Manager
-from indicator import  add_indicators
+from indicator import add_indicators
 from telegram_alert30a import (
     send_trade_alert,
     send_pipeline_status,
@@ -15,10 +15,19 @@ from telegram_alert30a import (
 )
 
 # from llm_forecast import forecast_config_update, route_model
-from llm_predict2 import forecast_config_update, route_model
-from basic_algo_forecaster import basic_forecast_update
+from llm_predict3 import forecast_config_update, route_model
+
+# from basic_algo_forecaster import basic_forecast_update
+from basic_algo3 import basic_forecast_update
 from throughput_monitor import ThroughputMonitor
-from redis_utils import get_redis, get_recent_candles, get_recent_indicators
+from redis_utils import (
+    get_redis,
+    get_recent_candles_tf,
+    get_recent_indicators_tf,
+    push_indicator_row_tf,
+    get_last_indicator_bucket_tf,
+    set_last_indicator_bucket_tf,
+)
 from gsheet_logger import log_config_update
 from gforecast_logger import write_pretty_to_sheet_from_sheets
 from notifier import notify_sr_levels, is_breakout
@@ -38,6 +47,55 @@ os.makedirs(DATA_FOLDER, exist_ok=True)
 BREAKOUT_STATE = {}
 LAST_CONFIG = {}
 last_forecast_time = {}
+
+
+# Example TF set (match what collector produces)
+MONITOR_TFS = ["1min", "5min", "15min", "30min", "45min", "1hour", "4hour"]
+
+# Keep separate breakout state per code & timeframe
+BREAKOUT_STATE_TF = (
+    {}
+)  # shape: { code: { tf: {"above_resistance": bool, "below_support": bool} } }
+
+TS_CANDIDATES = ("minute", "bucket", "timestamp", "datetime", "time")
+
+
+def _find_ts_field(row: dict) -> str | None:
+    for k in TS_CANDIDATES:
+        if k in row and row[k] is not None:
+            return k
+    return None
+
+
+def _to_iso_bucket(val) -> str:
+    """
+    Normalize any time-like value to ISO string so you can safely compare & store in Redis.
+    Handles pandas.Timestamp, datetime, epoch-like str/int, and plain ISO strings.
+    """
+    try:
+        ts = pd.to_datetime(val, utc=True, errors="coerce")
+        if pd.isna(ts):
+            # try to rescue strings like "Timestamp('2025-09-08 14:22:00+0000', tz='UTC')"
+            if isinstance(val, str) and val.startswith("Timestamp("):
+                # extract the inside
+                import re
+
+                m = re.search(r"Timestamp\('([^']+)'", val)
+                if m:
+                    ts = pd.to_datetime(m.group(1), utc=True, errors="coerce")
+        if pd.isna(ts):
+            return str(val)  # last resort: stable string compare
+        return ts.isoformat()
+    except Exception:
+        return str(val)
+
+
+def _ensure_state(code, tf):
+    BREAKOUT_STATE_TF.setdefault(code, {})
+    BREAKOUT_STATE_TF[code].setdefault(
+        tf, {"above_resistance": False, "below_support": False}
+    )
+    return BREAKOUT_STATE_TF[code][tf]
 
 
 def load_config():
@@ -106,61 +164,6 @@ def init_last_config():
         LAST_CONFIG[stock_code] = stock.copy()
 
 
-def save_indicators(df, stock_code, max_rows=100):
-    os.makedirs("stock_indicators", exist_ok=True)
-
-    # --- Core columns (same as before) ---
-    cols_to_save = [
-        "Timestamp",
-        "Close",
-        "High",
-        "Low",
-        "Volume",
-        "MA_Fast",
-        "MA_Slow",
-        "BB_Mid",
-        "BB_Upper",
-        "BB_Lower",
-        "MACD",
-        "MACD_Signal",
-        "MACD_Hist",
-        "ADX",
-        "+DI",
-        "-DI",
-    ]
-
-    # --- Extended features from add_indicators ---
-    extended_cols = [
-        "RSI14",
-        "HH20",
-        "LL20",
-        "dist_hh20_bps",
-        "bb_width_bps",
-        "bb_squeeze",
-        "ema20_slope_bps",
-        "ema50_slope_bps",
-        "adx14",
-        "macd_hist_delta",
-        "VWAP",
-        "vwap_diff_bps",
-        "ATR14",
-        "atr_pct",
-        "vol_z",
-        "near_hh20_flag",
-        "above_upper_bb_flag",
-        "below_lower_bb_flag",
-    ]
-
-    # Keep only what exists in df (so it doesn’t error if missing)
-    all_cols = [c for c in cols_to_save + extended_cols if c in df.columns]
-
-    df_to_save = df[all_cols].copy()
-    df_to_save = df_to_save.tail(max_rows)
-
-    file_path = os.path.join("stock_indicators", f"{stock_code}_indicators.csv")
-    df_to_save.to_csv(file_path, index=False)
-
-
 def detect_removed_stocks(existing_codes):
     removed = []
     for stock_code in list(LAST_CONFIG.keys()):
@@ -214,7 +217,9 @@ def forecast_manager():
                             print(f"[⚠️ LLM Error for {stock_code}] {llm_e}")
                             print(f"[📊 Fallback] Using basic algo for {stock_code}...")
 
-                            rows = get_recent_indicators(r, stock_code, n=200)
+                            rows = get_recent_indicators_tf(
+                                r, stock_code, "1min", n=200
+                            )
                             if rows:
                                 df = pd.DataFrame(reversed(rows))
                             else:
@@ -234,11 +239,46 @@ def forecast_manager():
                         # 📊 Custom Algorithm Forecast only
                         print(f"[📊 Forecast] {stock_code} via basic algo...")
 
-                        rows = get_recent_indicators(r, stock_code, n=200)
+                        rows = get_recent_indicators_tf(r, stock_code, "1min", n=200)
                         if rows:
-                            df = pd.DataFrame(reversed(rows))
+                            df = pd.DataFrame(reversed(rows))  # chronological
+                            # normalize column names that basic_forecast_update expects
+                            cols = {c.lower(): c for c in df.columns}
+                            if "timestamp" not in cols:
+                                # rows may have 'minute' or lowercase 'timestamp'
+                                if "minute" in cols:
+                                    df["Timestamp"] = pd.to_datetime(
+                                        df[cols["minute"]], errors="coerce"
+                                    )
+                                elif "timestamp" in cols:
+                                    df["Timestamp"] = pd.to_datetime(
+                                        df[cols["timestamp"]], errors="coerce"
+                                    )
+                                else:
+                                    # no time column present; allow function to proceed with empty df
+                                    df["Timestamp"] = pd.NaT
+                            else:
+                                df["Timestamp"] = pd.to_datetime(
+                                    df[cols["timestamp"]], errors="coerce"
+                                )
+
+                            # standardize OHLCV names if only lowercase exist
+                            for a, b in [
+                                ("open", "Open"),
+                                ("high", "High"),
+                                ("low", "Low"),
+                                ("close", "Close"),
+                                ("volume", "Volume"),
+                            ]:
+                                if a in cols and b not in df.columns:
+                                    df[b] = df[cols[a]]
+
+                            # drop rows without usable time (keeps prompt lean)
+                            df = df.dropna(subset=["Timestamp"]).reset_index(drop=True)
                         else:
-                            print(f"[⚠️] No recent indicators found for {stock_code}")
+                            print(
+                                f"[⚠️] No recent indicators found for {stock_code} (1min)"
+                            )
                             df = pd.DataFrame()
 
                         updated_cfg = basic_forecast_update(
@@ -299,9 +339,13 @@ def forecast_manager():
 
 
 def monitor_shard(stock_list, stats, shard_id, total_shards, lookback_candles=200):
-    # Divide work among shards
+    # single redis handle for the loop
+
+    r = get_redis()
+
+    # shard routing (unchanged)
     stocks_for_this_shard = [
-        stock for i, stock in enumerate(stock_list) if i % total_shards == shard_id
+        s for i, s in enumerate(stock_list) if i % total_shards == shard_id
     ]
     print(f"🟢 Monitoring Shard {shard_id} with {len(stocks_for_this_shard)} stocks")
 
@@ -312,84 +356,149 @@ def monitor_shard(stock_list, stats, shard_id, total_shards, lookback_candles=20
             code = stock["stock_code"]
 
             try:
-                # ✅ Always refresh config for latest support/resistance/params
+                # --- 1) Pull latest cfg and update state (your existing helpers) ---
                 updated_config = fetch_latest_config_for_stock(code)
                 if updated_config:
                     stock = updated_config
-
-                    # Detect config changes → reset breakout state
                     config_changed = print_config_changes(code, updated_config)
                     if config_changed:
-                        BREAKOUT_STATE[code] = {
-                            "above_resistance": False,
-                            "below_support": False,
+                        BREAKOUT_STATE_TF[code] = {
+                            tf: {"above_resistance": False, "below_support": False}
+                            for tf in MONITOR_TFS
                         }
 
-                # ✅ Fetch last N candles
-                rows = get_recent_candles(r, code, n=lookback_candles)
-                if not rows or len(rows) < 10:
-                    continue
+                # --- 2) Loop over timeframes ---
+                for tf in MONITOR_TFS:
+                    rows = get_recent_candles_tf(r, code, tf, n=lookback_candles)
 
-                # Chronological order
-                df = pd.DataFrame(reversed(rows))
-                df["Timestamp"] = pd.to_datetime(df["minute"])
-                # df = df.drop_duplicates(subset=["Timestamp"]).reset_index(drop=True)
+                    if not rows:
+                        # nothing at all for this TF
+                        print(f"[ℹ️] {code} {tf}: no candles in Redis.")
+                        continue
+                    # if len(rows) < 20:
+                    #     # warn if warm-up may be insufficient for BB/RSI/ADX
+                    #     print(
+                    #         f"[⏳] {code} {tf}: only {len(rows)} candles; indicators may be partial."
+                    #     )
 
-                df.rename(
-                    columns={
-                        "open": "Open",
-                        "high": "High",
-                        "low": "Low",
-                        "close": "Close",
-                        "volume": "Volume",
-                        "minute": "Timestamp",
-                    },
-                    inplace=True,
-                )
+                    # detect timestamp field from the newest row
+                    ts_field = _find_ts_field(rows[0])
+                    if not ts_field:
+                        print(
+                            f"[⚠️] {code} {tf}: no timestamp field among {list(rows[0].keys())}"
+                        )
+                        continue
 
-                # ✅ Add indicators
-                df = add_indicators(df, stock)
+                    # dedup guard on last *closed* candle (newest)
+                    last_bucket_raw = rows[0].get(ts_field)
+                    last_bucket_iso = _to_iso_bucket(last_bucket_raw)
 
-                # ✅ Save latest candle+indicators
-                latest_row = df.iloc[-1].to_dict()
-                latest_row["Timestamp"] = str(latest_row["Timestamp"])
-                r.lpush(f"indicators:{code}", json.dumps(latest_row))
-                r.ltrim(f"indicators:{code}", 0, 200)
-                stats["redis_writes"] = stats.get("redis_writes", 0) + 1
+                    prev_done = get_last_indicator_bucket_tf(r, code, tf)
+                    if isinstance(prev_done, bytes):
+                        prev_done = prev_done.decode("utf-8", errors="ignore")
+                    if prev_done == last_bucket_iso:
+                        # already processed this candle
+                        continue
 
-                # ✅ Breakout check
-                signal, price, levels, reason = is_breakout(
-                    df, stock.get("resistance", 0), stock.get("support", 0), stock
-                )
-
-                state = BREAKOUT_STATE.setdefault(
-                    code, {"above_resistance": False, "below_support": False}
-                )
-                if signal == "breakout" and not state["above_resistance"]:
-                    send_trade_alert(
-                        code,
-                        f"📈 Breakout Above {stock.get('resistance', 0)}\n🧠 {reason}",
-                        price,
-                        df["Timestamp"].iloc[-1],
+                    # chronological order for indicator calc
+                    df = pd.DataFrame(reversed(rows)).copy()
+                    # normalize Timestamp
+                    df["Timestamp"] = pd.to_datetime(
+                        df[ts_field], errors="coerce", utc=True
                     )
-                    state["above_resistance"], state["below_support"] = True, False
 
-                elif signal == "breakdown" and not state["below_support"]:
-                    send_trade_alert(
-                        code,
-                        f"📉 Breakdown Below {stock.get('support', 0)}\n🧠 {reason}",
-                        price,
-                        df["Timestamp"].iloc[-1],
+                    # standardize OHLCV
+                    df.rename(
+                        columns={
+                            "open": "Open",
+                            "high": "High",
+                            "low": "Low",
+                            "close": "Close",
+                            "volume": "Volume",
+                        },
+                        inplace=True,
                     )
-                    state["below_support"], state["above_resistance"] = True, False
+
+                    # sanity check after normalization
+                    if df["Timestamp"].isna().all():
+                        print(
+                            f"[⚠️] {code} {tf}: all Timestamps NA after parsing {ts_field}."
+                        )
+                        continue
+
+                    # --- 3) Compute indicators (your function) ---
+                    df = add_indicators(df, stock)
+
+                    # --- 4) Write latest row to timeframe indicators stream ---
+                    latest = df.iloc[-1].to_dict()
+                    # store timestamp as ISO string for consistency
+                    latest["Timestamp"] = pd.to_datetime(
+                        latest["Timestamp"], utc=True
+                    ).isoformat()
+                    latest["timeframe"] = tf
+                    push_indicator_row_tf(r, code, tf, latest, maxlen=200)
+                    stats["redis_writes"] = stats.get("redis_writes", 0) + 1
+
+                    # mark computed bucket (store ISO)
+                    set_last_indicator_bucket_tf(r, code, tf, last_bucket_iso)
+
+                    # --- 5) Breakout / breakdown per timeframe (unchanged logic) ---
+                    signal, price, levels, reason = is_breakout(
+                        df,
+                        stock.get("resistance", 0),
+                        stock.get("support", 0),
+                        stock,
+                    )
+
+                    tf_state = _ensure_state(code, tf)
+                    bucket_dt = df["Timestamp"].iloc[-1]
+
+                    if signal == "breakout" and not tf_state["above_resistance"]:
+                        send_trade_alert(
+                            code,
+                            f"[{tf}] 📈 Breakout Above {stock.get('resistance', 0)}\n🧠 {reason}",
+                            price,
+                            bucket_dt,
+                        )
+                        tf_state["above_resistance"], tf_state["below_support"] = (
+                            True,
+                            False,
+                        )
+
+                    elif signal == "breakdown" and not tf_state["below_support"]:
+                        send_trade_alert(
+                            code,
+                            f"[{tf}] 📉 Breakdown Below {stock.get('support', 0)}\n🧠 {reason}",
+                            price,
+                            bucket_dt,
+                        )
+                        tf_state["below_support"], tf_state["above_resistance"] = (
+                            True,
+                            False,
+                        )
+
+                    # Optional: tag SR notifier with TF
+                    notify_sr_levels(
+                        code=code,
+                        df=df,
+                        stock_cfg=stock,
+                        redis_client=r,
+                        source_tag=(
+                            f"{stock.get('forecast')}_{tf}".upper()
+                            if stock.get("forecast")
+                            else tf
+                        ),
+                    )
 
             except Exception as e:
-                print(e)
-                # send_error_alert(f"[{code}] Monitor Error: {type(e).__name__}: {e}")
+                print(
+                    f"[❌ Monitor Error] {code} {tf if 'tf' in locals() else ''}: {type(e).__name__}: {e}"
+                )
 
-        # ✅ Update monitoring stats
-        stats["monitor_cycles"] += 1
-        stats["monitor_time"] += time.time() - start_time
+        stats["monitor_cycles"] = stats.get("monitor_cycles", 0) + 1
+        stats["monitor_time"] = stats.get("monitor_time", 0) + (
+            time.time() - start_time
+        )
         time.sleep(2)
 
 

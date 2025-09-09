@@ -10,16 +10,16 @@
     }
   },
   "JIOFIN": {
-    "total_input_tokens": 432237,
-    "total_output_tokens": 51997,
+    "total_input_tokens": 441572,
+    "total_output_tokens": 54262,
     "by_model": {
       "gpt-4.1-nano": {
         "input": 42349,
         "output": 4352
       },
       "gpt-4.1-mini": {
-        "input": 389888,
-        "output": 47645
+        "input": 399223,
+        "output": 49910
       }
     }
   },
@@ -152,42 +152,42 @@
     }
   },
   "CDSL": {
-    "total_input_tokens": 413221,
-    "total_output_tokens": 50349,
+    "total_input_tokens": 443001,
+    "total_output_tokens": 57708,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 413221,
-        "output": 50349
+        "input": 443001,
+        "output": 57708
       }
     }
   },
   "BSE": {
-    "total_input_tokens": 389754,
-    "total_output_tokens": 48607,
+    "total_input_tokens": 404122,
+    "total_output_tokens": 52005,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 389754,
-        "output": 48607
+        "input": 404122,
+        "output": 52005
       }
     }
   },
   "GESHIP": {
-    "total_input_tokens": 314312,
-    "total_output_tokens": 34596,
+    "total_input_tokens": 323506,
+    "total_output_tokens": 36647,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 314312,
-        "output": 34596
+        "input": 323506,
+        "output": 36647
       }
     }
   },
   "MCX": {
-    "total_input_tokens": 302136,
-    "total_output_tokens": 40729,
+    "total_input_tokens": 306787,
+    "total_output_tokens": 41870,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 302136,
-        "output": 40729
+        "input": 306787,
+        "output": 41870
       }
     }
   },

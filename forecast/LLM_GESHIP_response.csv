@@ -3904,3 +3904,235 @@ timestamp,raw_response
     ""volume"": 1017
   }
 }"
+2025-09-09 14:03:09,"{
+  ""stock_code"": ""GESHIP"",
+  ""instrument_token"": 3526657,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T14:01:00+00:00"",
+    ""open"": 990.0,
+    ""high"": 990.85,
+    ""low"": 989.3,
+    ""close"": 990.0,
+    ""volume"": 2164
+  },
+  ""support"": 986.9,
+  ""resistance"": 989.8,
+  ""support1"": 978.95,
+  ""resistance1"": 992.05,
+  ""support2"": 943.05,
+  ""resistance2"": 1000.27,
+  ""support3"": 944.77,
+  ""resistance3"": 995.56,
+  ""support4"": 941.53,
+  ""resistance4"": 996.52,
+  ""support5"": 947.04,
+  ""resistance5"": 995.37,
+  ""support6"": 951.88,
+  ""resistance6"": 997.18,
+  ""support7"": 922.5,
+  ""resistance7"": 991.36,
+  ""support8"": 922.5,
+  ""resistance8"": 991.36,
+  ""entry"": 988.084,
+  ""target"": 988.612,
+  ""stoploss"": 985.753,
+  ""entry1"": 989.001,
+  ""target1"": 989.868,
+  ""stoploss1"": 975.792,
+  ""entry2"": 989.001,
+  ""target2"": 996.792,
+  ""stoploss2"": 938.241,
+  ""entry3"": 989.001,
+  ""target3"": 991.633,
+  ""stoploss3"": 939.304,
+  ""entry4"": 989.001,
+  ""target4"": 992.725,
+  ""stoploss4"": 936.271,
+  ""entry5"": 988.151,
+  ""target5"": 991.764,
+  ""stoploss5"": 941.55,
+  ""entry6"": 985.851,
+  ""target6"": 995.221,
+  ""stoploss6"": 948.888,
+  ""entry7"": 953.001,
+  ""target7"": 985.412,
+  ""stoploss7"": 897.188,
+  ""entry8"": 953.001,
+  ""target8"": 983.925,
+  ""stoploss8"": 896.134,
+  ""respected_S"": 12,
+  ""respected_R"": 7,
+  ""respected_S1"": 2,
+  ""respected_R1"": 1,
+  ""respected_S2"": 0,
+  ""respected_R2"": 0,
+  ""respected_S3"": 0,
+  ""respected_R3"": 0,
+  ""respected_S4"": 0,
+  ""respected_R4"": 0,
+  ""respected_S5"": 0,
+  ""respected_R5"": 0,
+  ""respected_S6"": 0,
+  ""respected_R6"": 0,
+  ""respected_S7"": 19,
+  ""respected_R7"": 22,
+  ""respected_S8"": 5,
+  ""respected_R8"": 4,
+  ""sr_range_pct"": 0.2938,
+  ""volume_threshold"": 2508,
+  ""bollinger"": {
+    ""mid_price"": 958.11,
+    ""upper_band"": 991.36,
+    ""lower_band"": 924.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price is near support level with bullish intraday momentum"",
+    ""Recent candles show bullish trend with increasing volume"",
+    ""Support levels are well below current price, indicating room for upward movement""
+  ],
+  ""signal"": ""Long Entry"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.000149,
+      ""price"": 988.098
+    },
+    ""1w"": {
+      ""ret"": 0.000334,
+      ""price"": 988.280
+    },
+    ""3m"": {
+      ""ret"": 0.00167,
+      ""price"": 989.600
+    }
+  }
+}"
+2025-09-09 15:11:31,"{
+  ""stock_code"": ""GESHIP"",
+  ""instrument_token"": 3526657,
+  ""ohlcv"": {
+    ""time"": ""2025-09-09T15:10:00+00:00"",
+    ""open"": 975.3,
+    ""high"": 975.7,
+    ""low"": 975.0,
+    ""close"": 975.55,
+    ""volume"": 3382
+  },
+  ""support"": 958.0,
+  ""resistance"": 991.36,
+  ""support1"": 958.0,
+  ""resistance1"": 991.36,
+  ""support2"": 948.4,
+  ""resistance2"": 974.2,
+  ""support3"": 948.4,
+  ""resistance3"": 974.2,
+  ""support4"": 948.4,
+  ""resistance4"": 974.2,
+  ""support5"": 948.4,
+  ""resistance5"": 974.2,
+  ""support6"": 948.4,
+  ""resistance6"": 974.2,
+  ""support7"": 948.4,
+  ""resistance7"": 974.2,
+  ""support8"": 948.4,
+  ""resistance8"": 974.2,
+  ""entry"": 970.0,
+  ""target"": 985.0,
+  ""stoploss"": 950.0,
+  ""entry1"": 986.098,
+  ""target1"": 987.28,
+  ""stoploss1"": 975.524,
+  ""entry2"": 989.001,
+  ""target2"": 994.268,
+  ""stoploss2"": 938.924,
+  ""entry3"": 989.001,
+  ""target3"": 989.587,
+  ""stoploss3"": 940.637,
+  ""entry4"": 989.001,
+  ""target4"": 990.541,
+  ""stoploss4"": 937.411,
+  ""entry5"": 988.151,
+  ""target5"": 989.398,
+  ""stoploss5"": 942.897,
+  ""entry6"": 985.851,
+  ""target6"": 991.197,
+  ""stoploss6"": 948.548,
+  ""entry7"": 953.001,
+  ""target7"": 985.412,
+  ""stoploss7"": 918.464,
+  ""entry8"": 953.001,
+  ""target8"": 983.925,
+  ""stoploss8"": 918.464,
+  ""respected_S"": 0,
+  ""respected_R"": 0,
+  ""respected_S1"": 0,
+  ""respected_R1"": 0,
+  ""respected_S2"": 4,
+  ""respected_R2"": 0,
+  ""respected_S3"": 10,
+  ""respected_R3"": 0,
+  ""respected_S4"": 10,
+  ""respected_R4"": 12,
+  ""respected_S5"": 17,
+  ""respected_R5"": 20,
+  ""respected_S6"": 26,
+  ""respected_R6"": 24,
+  ""respected_S7"": 19,
+  ""respected_R7"": 22,
+  ""respected_S8"": 5,
+  ""respected_R8"": 4,
+  ""sr_range_pct"": 0.2938,
+  ""volume_threshold"": 2508,
+  ""bollinger"": {
+    ""mid_price"": 958.11,
+    ""upper_band"": 991.36,
+    ""lower_band"": 924.86
+  },
+  ""adx"": {
+    ""period"": 14,
+    ""threshold"": 20
+  },
+  ""moving_averages"": {
+    ""ma_fast"": 9,
+    ""ma_slow"": 20
+  },
+  ""inside_bar"": {
+    ""lookback"": 1
+  },
+  ""candle"": {
+    ""min_body_percent"": 0.7
+  },
+  ""reason"": [
+    ""Price is near support level with bullish intraday momentum"",
+    ""Recent candles show bullish trend with increasing volume"",
+    ""Support levels are well below current price, indicating room for upward movement""
+  ],
+  ""signal"": ""Long Entry"",
+  ""predicted_targets"": {
+    ""1d"": {
+      ""ret"": 0.000149,
+      ""price"": 988.098
+    },
+    ""1w"": {
+      ""ret"": 0.000334,
+      ""price"": 988.28
+    },
+    ""3m"": {
+      ""ret"": 0.00167,
+      ""price"": 989.6
+    }
+  }
+}"

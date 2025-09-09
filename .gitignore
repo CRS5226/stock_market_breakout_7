@@ -2,5 +2,6 @@
 *.rdb
 forecast
 historical_data
+historical_data_candles
 __pycache__
 cred.json
