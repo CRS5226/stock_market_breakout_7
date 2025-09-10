@@ -192,14 +192,14 @@ def _make_block(
     algo_row: Optional[Dict],
 ) -> List[List]:
     """
-    Output per-model sections (ALGO then GPT), each with:
+    Output per-model sections (ALGO then GPT):
     <STOCK> [MODEL] (last updated : ts) (close price : <close>) (signal : <sig>)
-    <tf_label>, S: <>, R: <>, SR_pct: <>, entry: <>, target: <>, stoploss: <>, respected_S: <>, respected_R: <>
-    ... for idx=0..8 (1min .. 1month)
+    tf | S | R | SR_pct | entry | target | stoploss | respected_S | respected_R
+    one row per TF (1min..1month)
     """
 
     def ts_of(row: Optional[Dict]) -> str:
-        v = _get_str(row, "timestamp")
+        v = _get_str(row, "timestamp", "last_updated", "last_updated_at")
         if not v:
             return ""
         try:
@@ -209,7 +209,6 @@ def _make_block(
 
     def header(model_tag: str, row: Optional[Dict]) -> List[str]:
         ts = ts_of(row)
-        # close may be in root, or inside ohlcv.close
         close = _get_num(row, "close")
         if close is None and isinstance(row, dict):
             close = _get_num(row.get("ohlcv", {}) if row else {}, "close")
@@ -234,36 +233,85 @@ def _make_block(
             )
 
         return [
-            f"{tf},",
-            "S:",
+            tf,
             fmt(s),
-            "R:",
             fmt(r),
-            "SR_pct:",
             fmt(srp),
-            "entry:",
             fmt(e),
-            "target:",
             fmt(t),
-            "stoploss:",
             fmt(sl),
-            "respected_S:",
             str(rs),
-            "respected_R:",
             str(rr),
         ]
 
     block: List[List] = []
-    # ALGO
+    # ALGO section
     block.append(header("ALGO", algo_row))
+    block.append(
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ]
+    )
     for idx in range(0, 9):
         block.append(one_row(algo_row, idx))
     block.append([])  # spacer
-    # GPT
+
+    # GPT section
     block.append(header("GPT", gpt_row))
+    block.append(
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ]
+    )
     for idx in range(0, 9):
         block.append(one_row(gpt_row, idx))
+
     return block
+
+
+# def _blocks_from_combined_df(
+#     combined_df: pd.DataFrame, spacer_rows: int = 3
+# ) -> List[List[List]]:
+#     df = _latest_per_stock(combined_df)
+#     blocks: List[List[List]] = []
+#     for stock, g in df.groupby("stock_code", dropna=False):
+#         gpt_row = g[g["model"] == "GPT"].sort_values("timestamp").tail(1)
+#         algo_row = g[g["model"] == "ALGO"].sort_values("timestamp").tail(1)
+#         gpt_row = gpt_row.iloc[0].to_dict() if not gpt_row.empty else None
+#         algo_row = algo_row.iloc[0].to_dict() if not algo_row.empty else None
+
+#         # combined last-updated if you ever want it
+#         ts_vals = []
+#         if gpt_row and gpt_row.get("timestamp"):
+#             ts_vals.append(pd.to_datetime(gpt_row["timestamp"]))
+#         if algo_row and algo_row.get("timestamp"):
+#             ts_vals.append(pd.to_datetime(algo_row["timestamp"]))
+#         ts_display = max(ts_vals).strftime("%Y-%m-%d %H:%M:%S") if ts_vals else ""
+
+#         blocks.append(_make_block(stock, ts_display, gpt_row, algo_row))
+
+#     spaced_blocks: List[List[List]] = []
+#     for i, blk in enumerate(blocks):
+#         spaced_blocks.append(blk)
+#         if i < len(blocks) - 1 and spacer_rows > 0:
+#             spaced_blocks.append([[] for _ in range(spacer_rows)])
+#     return spaced_blocks
 
 
 def _blocks_from_combined_df(
@@ -271,13 +319,58 @@ def _blocks_from_combined_df(
 ) -> List[List[List]]:
     df = _latest_per_stock(combined_df)
     blocks: List[List[List]] = []
+
+    # --- DUMMY ALGO FILTER block ---
+    dummy_algo = [
+        [
+            "DUMMY_ALGO [ALGO FILTER] (last updated : - ) (close price : - ) (signal : - )"
+        ],
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ],
+    ]
+    for idx in range(0, 9):
+        dummy_algo.append([TF_LABELS.get(idx, f"tf{idx}")] + [""] * 8)
+    blocks.append(dummy_algo)
+
+    blocks.append([[]])  # spacer row between dummy blocks
+
+    # --- DUMMY GPT FILTER block ---
+    dummy_gpt = [
+        ["DUMMY_GPT [GPT FILTER] (last updated : - ) (close price : - ) (signal : - )"],
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ],
+    ]
+    for idx in range(0, 9):
+        dummy_gpt.append([TF_LABELS.get(idx, f"tf{idx}")] + [""] * 8)
+    blocks.append(dummy_gpt)
+
+    blocks.append([[] for _ in range(spacer_rows)])  # spacer rows after dummy blocks
+
+    # --- Real stock blocks ---
     for stock, g in df.groupby("stock_code", dropna=False):
         gpt_row = g[g["model"] == "GPT"].sort_values("timestamp").tail(1)
         algo_row = g[g["model"] == "ALGO"].sort_values("timestamp").tail(1)
         gpt_row = gpt_row.iloc[0].to_dict() if not gpt_row.empty else None
         algo_row = algo_row.iloc[0].to_dict() if not algo_row.empty else None
 
-        # combined last-updated if you ever want it
         ts_vals = []
         if gpt_row and gpt_row.get("timestamp"):
             ts_vals.append(pd.to_datetime(gpt_row["timestamp"]))
@@ -286,13 +379,9 @@ def _blocks_from_combined_df(
         ts_display = max(ts_vals).strftime("%Y-%m-%d %H:%M:%S") if ts_vals else ""
 
         blocks.append(_make_block(stock, ts_display, gpt_row, algo_row))
+        blocks.append([[] for _ in range(spacer_rows)])  # spacing between stocks
 
-    spaced_blocks: List[List[List]] = []
-    for i, blk in enumerate(blocks):
-        spaced_blocks.append(blk)
-        if i < len(blocks) - 1 and spacer_rows > 0:
-            spaced_blocks.append([[] for _ in range(spacer_rows)])
-    return spaced_blocks
+    return blocks
 
 
 # ---------- NO-FLICKER SHEET WRITER (no ws.clear, skip if unchanged, single range update) ----------
@@ -357,34 +446,6 @@ def _update_sheet_values_no_flicker(ws, new_rows: List[List]):
     end_row = tgt_rows if tgt_rows > 0 else 1
     a1 = f"A1:{end_col}{end_row}"
     ws.update(a1, padded, value_input_option="RAW")
-
-
-# ====================== PUBLIC ENTRYPOINTS (CSV) ======================
-
-
-def write_pretty_csv_from_two_csvs(
-    gpt_csv_path: str,
-    algo_csv_path: str,
-    out_csv_path: str = "forecasts_pretty_view.csv",
-    spacer_rows: int = 3,
-):
-    def _load_tag(p, tag):
-        df = pd.read_csv(p)
-        df["model"] = tag
-        return df
-
-    gpt = _load_tag(gpt_csv_path, "GPT")
-    algo = _load_tag(algo_csv_path, "ALGO")
-    blocks = _blocks_from_combined_df(
-        pd.concat([gpt, algo], ignore_index=True), spacer_rows=spacer_rows
-    )
-    flat_rows: List[List] = []
-    for blk in blocks:
-        flat_rows.extend(blk)
-    out = Path(out_csv_path)
-    out.parent.mkdir(parents=True, exist_ok=True)
-    with open(out, "w", newline="", encoding="utf-8") as f:
-        csv.writer(f).writerows(flat_rows)
 
 
 # ============== PUBLIC ENTRYPOINT (WRITE DIRECTLY TO SHEET TAB) ==============

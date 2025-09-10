@@ -10,46 +10,46 @@
     }
   },
   "JIOFIN": {
-    "total_input_tokens": 441572,
-    "total_output_tokens": 54262,
+    "total_input_tokens": 1019909,
+    "total_output_tokens": 62069,
     "by_model": {
       "gpt-4.1-nano": {
         "input": 42349,
         "output": 4352
       },
       "gpt-4.1-mini": {
-        "input": 399223,
-        "output": 49910
+        "input": 977560,
+        "output": 57717
       }
     }
   },
   "PARADEEP": {
-    "total_input_tokens": 247797,
-    "total_output_tokens": 28607,
+    "total_input_tokens": 617597,
+    "total_output_tokens": 33383,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 247797,
-        "output": 28607
+        "input": 617597,
+        "output": 33383
       }
     }
   },
   "COCHINSHIP": {
-    "total_input_tokens": 250144,
-    "total_output_tokens": 29265,
+    "total_input_tokens": 625782,
+    "total_output_tokens": 34476,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 250144,
-        "output": 29265
+        "input": 625782,
+        "output": 34476
       }
     }
   },
   "TRENT": {
-    "total_input_tokens": 233218,
-    "total_output_tokens": 29899,
+    "total_input_tokens": 601845,
+    "total_output_tokens": 35060,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 230082,
-        "output": 29554
+        "input": 598709,
+        "output": 34715
       },
       "gpt-4.1-nano": {
         "input": 3136,
@@ -58,52 +58,52 @@
     }
   },
   "POWERINDIA": {
-    "total_input_tokens": 224473,
-    "total_output_tokens": 24596,
+    "total_input_tokens": 590030,
+    "total_output_tokens": 29733,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 224473,
-        "output": 24596
+        "input": 590030,
+        "output": 29733
       }
     }
   },
   "KAJARIACER": {
-    "total_input_tokens": 239056,
-    "total_output_tokens": 28257,
+    "total_input_tokens": 613861,
+    "total_output_tokens": 33400,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 239056,
-        "output": 28257
+        "input": 613861,
+        "output": 33400
       }
     }
   },
   "FORCEMOT": {
-    "total_input_tokens": 219506,
-    "total_output_tokens": 26007,
+    "total_input_tokens": 585431,
+    "total_output_tokens": 30957,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 219506,
-        "output": 26007
+        "input": 585431,
+        "output": 30957
       }
     }
   },
   "POLYCAB": {
-    "total_input_tokens": 216693,
-    "total_output_tokens": 26495,
+    "total_input_tokens": 586163,
+    "total_output_tokens": 31428,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 216693,
-        "output": 26495
+        "input": 586163,
+        "output": 31428
       }
     }
   },
   "ANANDRATHI": {
-    "total_input_tokens": 208836,
-    "total_output_tokens": 25752,
+    "total_input_tokens": 582162,
+    "total_output_tokens": 30834,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 205594,
-        "output": 25376
+        "input": 578920,
+        "output": 30458
       },
       "gpt-4.1-mini": {
         "input": 3242,
@@ -112,132 +112,132 @@
     }
   },
   "CHOLAHLDNG": {
-    "total_input_tokens": 207195,
-    "total_output_tokens": 24795,
+    "total_input_tokens": 538377,
+    "total_output_tokens": 28947,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 207195,
-        "output": 24795
+        "input": 538377,
+        "output": 28947
       }
     }
   },
   "NATCOPHARM": {
-    "total_input_tokens": 201031,
-    "total_output_tokens": 24173,
+    "total_input_tokens": 526856,
+    "total_output_tokens": 28084,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 201031,
-        "output": 24173
+        "input": 526856,
+        "output": 28084
       }
     }
   },
   "GMDCLTD": {
-    "total_input_tokens": 202095,
-    "total_output_tokens": 24524,
+    "total_input_tokens": 526591,
+    "total_output_tokens": 28327,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 202095,
-        "output": 24524
+        "input": 526591,
+        "output": 28327
       }
     }
   },
   "RPOWER-BE": {
-    "total_input_tokens": 177249,
-    "total_output_tokens": 22243,
+    "total_input_tokens": 249572,
+    "total_output_tokens": 25135,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 177249,
-        "output": 22243
+        "input": 249572,
+        "output": 25135
       }
     }
   },
   "CDSL": {
-    "total_input_tokens": 443001,
-    "total_output_tokens": 57708,
+    "total_input_tokens": 1130585,
+    "total_output_tokens": 70335,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 443001,
-        "output": 57708
+        "input": 1130585,
+        "output": 70335
       }
     }
   },
   "BSE": {
-    "total_input_tokens": 404122,
-    "total_output_tokens": 52005,
+    "total_input_tokens": 1079511,
+    "total_output_tokens": 62027,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 404122,
-        "output": 52005
+        "input": 1079511,
+        "output": 62027
       }
     }
   },
   "GESHIP": {
-    "total_input_tokens": 323506,
-    "total_output_tokens": 36647,
+    "total_input_tokens": 814350,
+    "total_output_tokens": 43547,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 323506,
-        "output": 36647
+        "input": 814350,
+        "output": 43547
       }
     }
   },
   "MCX": {
-    "total_input_tokens": 306787,
-    "total_output_tokens": 41870,
+    "total_input_tokens": 801083,
+    "total_output_tokens": 48977,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 306787,
-        "output": 41870
+        "input": 801083,
+        "output": 48977
       }
     }
   },
   "GRSE": {
-    "total_input_tokens": 307282,
-    "total_output_tokens": 40023,
+    "total_input_tokens": 804978,
+    "total_output_tokens": 47383,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 307282,
-        "output": 40023
+        "input": 804978,
+        "output": 47383
       }
     }
   },
   "DELHIVERY": {
-    "total_input_tokens": 297929,
-    "total_output_tokens": 36171,
+    "total_input_tokens": 712903,
+    "total_output_tokens": 41891,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 297929,
-        "output": 36171
+        "input": 712903,
+        "output": 41891
       }
     }
   },
   "PARAS": {
-    "total_input_tokens": 276778,
-    "total_output_tokens": 33998,
+    "total_input_tokens": 685734,
+    "total_output_tokens": 39740,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 276778,
-        "output": 33998
+        "input": 685734,
+        "output": 39740
       }
     }
   },
   "RRKABEL": {
-    "total_input_tokens": 265772,
-    "total_output_tokens": 31765,
+    "total_input_tokens": 639985,
+    "total_output_tokens": 36847,
     "by_model": {
       "gpt-4.1-mini": {
-        "input": 265772,
-        "output": 31765
+        "input": 639985,
+        "output": 36847
       }
     }
   },
   "RTNINDIA": {
-    "total_input_tokens": 252828,
-    "total_output_tokens": 28675,
+    "total_input_tokens": 622144,
+    "total_output_tokens": 33465,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 252828,
-        "output": 28675
+        "input": 622144,
+        "output": 33465
       }
     }
   },
@@ -1602,12 +1602,12 @@
     }
   },
   "ETERNAL": {
-    "total_input_tokens": 177233,
-    "total_output_tokens": 20510,
+    "total_input_tokens": 504975,
+    "total_output_tokens": 24318,
     "by_model": {
       "gpt-4.1-nano": {
-        "input": 177233,
-        "output": 20510
+        "input": 504975,
+        "output": 24318
       }
     }
   }

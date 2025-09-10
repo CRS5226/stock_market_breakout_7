@@ -5,6 +5,7 @@ import json
 import csv
 from datetime import datetime
 import glob
+import math
 
 import pandas as pd
 from dotenv import load_dotenv
@@ -504,11 +505,6 @@ EXAMPLE_CONFIG = {
     "candle": {"min_body_percent": 0.7},
     "reason": [],
     "signal": "No Action",
-    "predicted_targets": {
-        "1d": {"ret": 0.0, "price": None},
-        "1w": {"ret": 0.0, "price": None},
-        "3m": {"ret": 0.0, "price": None},
-    },
 }
 
 
@@ -885,6 +881,191 @@ def _fill_all_tf_respects(cfg: dict, stock_code: str) -> None:
         cfg[rs_key_r] = int(rc.get("R", 0))
 
 
+def _has_all(e, t, s):
+    return (e is not None) and (t is not None) and (s is not None)
+
+
+def _nudge_long_chain(cfg, sk, rk, ek, tk, slk, cp=None, rr_min=1.1, tiny=0.0008):
+    s = cfg.get(sk)
+    r = cfg.get(rk)
+    e = cfg.get(ek)
+    t = cfg.get(tk)
+    sl = cfg.get(slk)
+    try:
+        s = float(s) if s is not None else None
+        r = float(r) if r is not None else None
+        e = float(e) if e is not None else None
+        t = float(t) if t is not None else None
+        sl = float(sl) if sl is not None else None
+        cp = float(cp) if cp is not None else None
+    except Exception:
+        return  # keep as-is on coercion failure
+
+    if (s is None) or (r is None) or (s >= r):
+        return
+
+    # nudge—never null
+    if sl is None:
+        sl = s * (1.0 - tiny)
+    if e is None:
+        e = s * (1.0 + tiny)
+    if t is None:
+        # minimal RR relative to risk
+        risk = max(0.01, e - sl)
+        t = min(r * (1.0 - tiny), e + rr_min * risk)
+
+    # prefer ordering anchored by cp (if provided)
+    x = cp
+    if x is not None:
+        if sl >= s:
+            sl = s * (1.0 - tiny)
+        e = max(e, s * (1.0 + tiny))
+        if e <= x:
+            e = max(e, x * (1.0 + tiny))
+        if t <= e:
+            t = min(r * (1.0 - tiny), e + rr_min * max(0.01, e - sl))
+        if t >= r:
+            t = r * (1.0 - tiny)
+    else:
+        if sl >= s:
+            sl = s * (1.0 - tiny)
+        if e <= s:
+            e = s * (1.0 + tiny)
+        if t <= e:
+            t = min(r * (1.0 - tiny), e * (1.0 + tiny))
+        if t >= r:
+            t = r * (1.0 - tiny)
+
+    cfg[ek] = round(e, 3)
+    cfg[tk] = round(t, 3)
+    cfg[slk] = round(sl, 3)
+
+
+def _sanitize_numbers(x):
+    if isinstance(x, dict):
+        return {k: _sanitize_numbers(v) for k, v in x.items()}
+    if isinstance(x, list):
+        return [_sanitize_numbers(v) for v in x]
+    if isinstance(x, float):
+        if math.isnan(x) or math.isinf(x):
+            return None
+        return float(x)
+    return x
+
+
+def _best_close(cfg, fallback):
+    llm_c = (cfg.get("ohlcv") or {}).get("close")
+    if llm_c is not None:
+        try:
+            return float(llm_c)
+        except Exception:
+            pass
+    try:
+        return float(cfg.get("close")) if cfg.get("close") is not None else fallback
+    except Exception:
+        return fallback
+
+
+def _normalize_llm_cfg_prefer_llm_close(cfg_llm: dict, stock_block: dict) -> dict:
+    """
+    Normalize raw LLM config output into a safe config dict.
+    - Prefer LLM-provided OHLCV (esp. close).
+    - Carry over stock_code & instrument_token from stock_block if missing.
+    - Ensure core keys exist with sane defaults.
+    """
+    cfg = dict(cfg_llm or {})
+
+    # --- core ids ---
+    cfg["stock_code"] = cfg.get("stock_code") or stock_block.get("stock_code")
+    cfg["instrument_token"] = cfg.get("instrument_token") or stock_block.get(
+        "instrument_token"
+    )
+
+    # --- OHLCV: prefer LLM close ---
+    llm_ohlcv = (cfg_llm.get("ohlcv") or {}) if cfg_llm else {}
+    block_ohlcv = stock_block.get("ohlcv") or {}
+    cfg["ohlcv"] = {
+        "time": llm_ohlcv.get("time") or block_ohlcv.get("time"),
+        "open": (
+            llm_ohlcv.get("open")
+            if llm_ohlcv.get("open") is not None
+            else block_ohlcv.get("open")
+        ),
+        "high": (
+            llm_ohlcv.get("high")
+            if llm_ohlcv.get("high") is not None
+            else block_ohlcv.get("high")
+        ),
+        "low": (
+            llm_ohlcv.get("low")
+            if llm_ohlcv.get("low") is not None
+            else block_ohlcv.get("low")
+        ),
+        "close": (
+            llm_ohlcv.get("close")
+            if llm_ohlcv.get("close") is not None
+            else block_ohlcv.get("close")
+        ),
+        "volume": (
+            llm_ohlcv.get("volume")
+            if llm_ohlcv.get("volume") is not None
+            else block_ohlcv.get("volume")
+        ),
+    }
+
+    # --- triplet safety ---
+    for base in ["", "1", "2", "3", "4", "5", "6", "7", "8"]:
+        for field in ("entry", "target", "stoploss"):
+            key = f"{field}{base}" if base else field
+            if key not in cfg:
+                cfg[key] = None
+
+    # --- respects safety ---
+    cfg.setdefault("respected_S", 0)
+    cfg.setdefault("respected_R", 0)
+    for k in range(1, 9):
+        cfg.setdefault(f"respected_S{k}", 0)
+        cfg.setdefault(f"respected_R{k}", 0)
+
+    # --- misc defaults ---
+    cfg.setdefault("sr_range_pct", None)
+    cfg.setdefault("predicted_targets", {})
+    cfg.setdefault("reason", [])
+    cfg.setdefault("signal", "No Action")
+
+    return cfg
+
+
+def _strip_fence_to_json(raw: str) -> str:
+    """
+    Clean LLM output into plain JSON:
+    - remove leading/trailing markdown fences (``` or ```json)
+    - strip extra whitespace
+    - return the cleaned string (safe for json.loads)
+    """
+    if not raw:
+        return "{}"
+
+    cleaned = raw.strip()
+
+    # if fenced with backticks
+    if cleaned.startswith("```"):
+        # remove the first fence
+        parts = cleaned.split("```")
+        if len(parts) >= 2:
+            # parts[1] may start with 'json'
+            body = parts[1].lstrip()
+            if body.lower().startswith("json"):
+                body = body[4:].lstrip()
+            cleaned = body
+        else:
+            # fallback: just strip leading/trailing backticks
+            cleaned = cleaned.strip("`")
+
+    # final trim
+    return cleaned.strip()
+
+
 def save_forecast_csv(stock_code, raw):
     os.makedirs("forecast", exist_ok=True)
     file_path = f"forecast/LLM_{stock_code}_response.csv"
@@ -935,242 +1116,148 @@ def update_token_monitor(
         json.dump(data, f, indent=2)
 
 
+def load_candles(
+    stock_code: str,
+    tf: str,
+    n: int = 5,
+    base_dir: str = "historical_data_candles",
+    source: str = "redis",
+) -> pd.DataFrame:
+    """
+    Load last N candles for a stock and timeframe.
+    - source="redis": get from Redis (via get_recent_indicators_tf)
+    - source="disk": get from historical_data_candles/<tf>/ CSVs
+    Returns normalized DataFrame with at least:
+      Timestamp, Open, High, Low, Close, Volume, + any indicators.
+    """
+    import glob
+
+    if source == "redis":
+        try:
+            rows = get_recent_indicators_tf(get_redis(), stock_code, tf, n=n)
+            if rows:
+                df = pd.DataFrame(rows)
+                if "Timestamp" not in df.columns:
+                    for c in ("minute", "timestamp", "datetime"):
+                        if c in df.columns:
+                            df["Timestamp"] = pd.to_datetime(df[c], errors="coerce")
+                            break
+                return df.dropna(subset=["Timestamp"]).sort_values("Timestamp").tail(n)
+        except Exception:
+            return pd.DataFrame()
+
+    if source == "disk":
+        tf_dir = os.path.join(base_dir, tf)
+        if os.path.isdir(tf_dir):
+            patt = os.path.join(tf_dir, f"{stock_code}_{tf}_*.csv")
+            files = glob.glob(patt)
+            if files:
+                latest_path = max(files, key=os.path.getmtime)
+                try:
+                    df = pd.read_csv(latest_path)
+                    if "Timestamp" not in df.columns:
+                        for c in ("minute", "timestamp", "datetime"):
+                            if c in df.columns:
+                                df = df.rename(columns={c: "Timestamp"})
+                                break
+                    df["Timestamp"] = pd.to_datetime(df["Timestamp"], errors="coerce")
+                    return (
+                        df.dropna(subset=["Timestamp"]).sort_values("Timestamp").tail(n)
+                    )
+                except Exception:
+                    return pd.DataFrame()
+
+    return pd.DataFrame()
+
+
 def forecast_config_update(
     stock_block: dict,
-    historical_folder: str = "historical_data",
+    historical_folder: str = "historical_data_candles",
     model: str = "gpt-4.1-mini",
     temperature: float = 0.2,
     escalate_on_signal: bool = True,
 ):
     stock_code = stock_block.get("stock_code")
 
-    # ---------- 1) Build ONE latest candle per timeframe (Redis → Disk fallback) ----------
+    # ---------- Build candles per timeframe (Redis + History) ----------
     base_dir = os.path.join(os.getcwd(), "historical_data_candles")
-    tf_latest_records = []  # for prompt
-    tf_source_rows = {}  # idx -> single-row DataFrame (for respect counts if needed)
-    df_hist_daily = pd.DataFrame()  # full daily for respect counts & excerpts
+    tf_records = {}  # structure: {tf: {"redis": df, "history": df}}
+    df_hist_daily = pd.DataFrame()
 
     for tf, idx, _ in TF_PLAN:
-        # try Redis (n=1 latest)
+        # Redis (last 5 candles) only for intraday tfs
         df_r = pd.DataFrame()
-        try:
-            rows = get_recent_indicators_tf(get_redis(), stock_code, tf, n=1)
-            if rows:
-                df_r = pd.DataFrame(rows)
-        except Exception:
-            df_r = pd.DataFrame()
+        if tf in ["1min", "5min", "15min", "30min", "45min", "1hour", "4hour"]:
+            df_r = load_candles(stock_code, tf, n=10, base_dir=base_dir, source="redis")
 
-        # normalize redis row -> 'Timestamp' + OHLCV
-        if not df_r.empty:
-            if "Timestamp" not in df_r.columns:
-                if "minute" in df_r.columns:
-                    df_r["Timestamp"] = pd.to_datetime(df_r["minute"], errors="coerce")
-                elif "timestamp" in df_r.columns:
-                    df_r["Timestamp"] = pd.to_datetime(
-                        df_r["timestamp"], errors="coerce"
-                    )
-                elif "datetime" in df_r.columns:
-                    df_r["Timestamp"] = pd.to_datetime(
-                        df_r["datetime"], errors="coerce"
-                    )
-            for a, b in [
-                ("open", "Open"),
-                ("high", "High"),
-                ("low", "Low"),
-                ("close", "Close"),
-                ("volume", "Volume"),
-            ]:
-                if a in df_r.columns and b not in df_r.columns:
-                    df_r[b] = df_r[a]
-            df_r = df_r.dropna(subset=["Timestamp"]).sort_values("Timestamp").tail(1)
+        # History (last 5 candles always available)
+        df_h = load_candles(stock_code, tf, n=10, base_dir=base_dir, source="disk")
 
-        # if Redis missing, fallback to disk: newest CSV in historical_data_candles/<tf>/
-        df_d = pd.DataFrame()
-        if df_r.empty:
-            tf_dir = os.path.join(base_dir, tf)
-            if os.path.isdir(tf_dir):
-                patt = os.path.join(tf_dir, f"{stock_code}_{tf}_*.csv")
-                files = glob.glob(patt)
-                if files:
-                    latest_path = max(files, key=os.path.getmtime)
-                    try:
-                        df_d = pd.read_csv(latest_path)
-                        # timestamp normalization
-                        if "Timestamp" not in df_d.columns:
-                            for c in ("timestamp", "minute", "datetime"):
-                                if c in df_d.columns:
-                                    df_d = df_d.rename(columns={c: "Timestamp"})
-                                    break
-                        df_d["Timestamp"] = pd.to_datetime(
-                            df_d["Timestamp"], errors="coerce"
-                        )
-                        for a, b in [
-                            ("open", "Open"),
-                            ("high", "High"),
-                            ("low", "Low"),
-                            ("close", "Close"),
-                            ("volume", "Volume"),
-                        ]:
-                            if a in df_d.columns and b not in df_d.columns:
-                                df_d[b] = df_d[a]
-                        df_d = (
-                            df_d.dropna(subset=["Timestamp"])
-                            .sort_values("Timestamp")
-                            .tail(1)
-                        )
-                    except Exception:
-                        df_d = pd.DataFrame()
+        tf_records[tf] = {
+            "redis": df_r.to_dict(orient="records") if not df_r.empty else [],
+            "history": df_h.to_dict(orient="records") if not df_h.empty else [],
+        }
 
-        # choose whichever is available (prefer Redis if present)
-        df_one = df_r if not df_r.empty else df_d
-        if not df_one.empty:
-            row = df_one.iloc[-1]
-            tf_latest_records.append(
-                {
-                    "tf": tf,
-                    "time": str(row.get("Timestamp", row.get("minute", ""))),
-                    "open": (
-                        float(row.get("Open")) if pd.notna(row.get("Open")) else None
-                    ),
-                    "high": (
-                        float(row.get("High")) if pd.notna(row.get("High")) else None
-                    ),
-                    "low": float(row.get("Low")) if pd.notna(row.get("Low")) else None,
-                    "close": (
-                        float(row.get("Close")) if pd.notna(row.get("Close")) else None
-                    ),
-                    "volume": (
-                        int(row.get("Volume")) if pd.notna(row.get("Volume")) else None
-                    ),
-                }
+        # Special: store full daily history for excerpt (not just 5 rows)
+        if tf == "1day" and df_hist_daily.empty:
+            df_hist_daily = load_candles(
+                stock_code, "1day", n=10, base_dir=base_dir, source="disk"
             )
-            tf_source_rows[idx] = df_one.copy()
+            if not df_hist_daily.empty:
+                df_hist_daily = (
+                    df_hist_daily.dropna(subset=["Timestamp"])
+                    .sort_values("Timestamp")
+                    .reset_index(drop=True)
+                )
 
-            # keep full daily history for counts/excerpt if we have a daily CSV
-            if tf == "1day" and df_hist_daily.empty:
-                # try to load full 1day file for better context / counts
-                tf_dir = os.path.join(base_dir, "1day")
-                if os.path.isdir(tf_dir):
-                    patt = os.path.join(tf_dir, f"{stock_code}_1day_*.csv")
-                    files = glob.glob(patt)
-                    if files:
-                        try:
-                            best = max(files, key=os.path.getmtime)
-                            df_hist_daily = pd.read_csv(best)
-                            if "Timestamp" not in df_hist_daily.columns:
-                                for c in ("timestamp", "minute", "datetime"):
-                                    if c in df_hist_daily.columns:
-                                        df_hist_daily = df_hist_daily.rename(
-                                            columns={c: "Timestamp"}
-                                        )
-                                        break
-                            df_hist_daily["Timestamp"] = pd.to_datetime(
-                                df_hist_daily["Timestamp"], errors="coerce"
-                            )
-                            for a, b in [
-                                ("open", "Open"),
-                                ("high", "High"),
-                                ("low", "Low"),
-                                ("close", "Close"),
-                                ("volume", "Volume"),
-                            ]:
-                                if (
-                                    a in df_hist_daily.columns
-                                    and b not in df_hist_daily.columns
-                                ):
-                                    df_hist_daily[b] = df_hist_daily[a]
-                            df_hist_daily = (
-                                df_hist_daily.dropna(subset=["Timestamp"])
-                                .sort_values("Timestamp")
-                                .reset_index(drop=True)
-                            )
-                        except Exception:
-                            df_hist_daily = pd.DataFrame()
-
-    # Excerpts for prompt
+    # ---------- Excerpts for LLM ----------
     historical_excerpt = (
         df_hist_daily.tail(5).to_csv(index=False)
         if not df_hist_daily.empty
         else "(No 1day data found)"
     )
     try:
-        tf_latest_json = json.dumps(tf_latest_records, indent=2, default=str)
+        tf_json = json.dumps(tf_records, indent=2, default=str)
     except Exception:
-        tf_latest_json = "[]"
+        tf_json = "{}"
 
-    # ---------- 2) Recent indicators (context block) ----------
-    try:
-        r = get_redis()
-        recent_data = get_recent_indicators(r, stock_code, n=50)
-        if not recent_data:
-            return None, None, f"No recent indicators for {stock_code}"
-        df_recent = pd.DataFrame(recent_data)
-        try:
-            df_recent.columns = [str(c).strip() for c in df_recent.columns]
-        except Exception:
-            pass
-        recent_excerpt = df_recent.tail(1).to_csv(index=False)
-    except Exception as e:
-        return None, None, f"Failed to fetch recent indicators from Redis: {e}"
-
-    # ---------- 3) Build multi-TF prompt (strict JSON) ----------
+    # ---------- Prompt ----------
     schema_str = json.dumps(EXAMPLE_CONFIG, indent=2)
     provided_cfg_str = json.dumps(stock_block, indent=2)
+
     prompt = f"""
-You are a STRICT JSON generator for a stock trading config.
+    You are a STRICT JSON generator for a stock trading config.
 
-OBJECTIVE
-- Read CONFIG, DAILY HISTORY (last rows), RECENT INTRADAY INDICATORS, and the LATEST PER-TIMEFRAME CANDLES (1min..1month; exactly one candle per TF).
-- Update fields ONLY when justified by the data:
-  • Core levels for base (S0) and S1..S8
-  • volume_threshold, bollinger, adx/moving_averages/inside_bar/candle params, and signal
-  • Trade levels: entry/target/stoploss for base and for each S/R pair k=1..8
-  • Forward predicted_targets (1d, 1w, 3m)
-- Provide a SHORT list of reasons explaining what changed and why.
+    OBJECTIVE
+    - From CONFIG, DAILY HISTORY (last rows), and candles per TF (redis + history, 5 each),
+    update only when justified:
+    • Multi-TF support/resistance (base S0 and S1..S8)
+    • Long-only trade levels (entry, target, stoploss for base + k=1..8)
+    • Key params (volume_threshold, bollinger, adx, moving_averages, inside_bar, candle)
+    • Signal
+    - Give 3–4 short reasons for changes.
+    - you can take help from the various stock indicators in candles if available.
 
-LONG-ONLY POLICY (NO SHORTS)
-- Never propose or imply short trades.
-- For EVERY S/R pair (base and k=1..8), enforce:
-  stoploss < support < entry < target < resistance
-- Keep entry & target INSIDE the S–R band; keep stoploss STRICTLY below support.
+    LONG-ONLY POLICY
+    - No shorts. For every base/TF pair: stoploss < support < entry < target < resistance.
+    - Entry/target must stay inside band; stoploss strictly below support.
 
-SUPPORT/RESISTANCE (MULTI-TF)
-- Always output numeric floats for base S/R: "support","resistance"
-- And for k = 1..8 (TFs: 1min=0,5m=1,15m=2,30m=3,45m=4,1h=5,4h=6,1d=7,1mth=8):
-  "support k","resistance k"
-- Ensure S < R for base and each k (swap if needed).
+    SCHEMA:
+    {schema_str}
 
-TRADE LEVELS (LONG-ONLY)
-- Base → "entry","target","stoploss"
-- For k=1..8 → "entry k","target k","stoploss k"
-- Check ordering BEFORE returning JSON; adjust minimally if needed (RR ~1.1–2.5).
+    CONFIG:
+    {provided_cfg_str}
 
-PREDICTED TARGETS
-- Return "predicted_targets" with keys "1d","1w","3m" (numeric "ret" fraction + "price").
+    CANDLES PER TIMEFRAME (redis + history):
+    {tf_json}
 
-RULES
-- Preserve "stock_code" and "instrument_token".
-- You MAY fill "ohlcv" of the latest bar if you can infer it; if uncertain, leave None (system may overwrite).
-- Output ONE valid JSON object matching the SCHEMA keys exactly. No commentary, no markdown.
-- ALL price-like fields must be numeric floats (no nulls / empty strings).
-
-SCHEMA (example):
-{schema_str}
-
-CONFIG (current):
-{provided_cfg_str}
-
-LATEST CANDLES PER TIMEFRAME (S0..S8, one per TF):
-{tf_latest_json}
-
-DAILY HISTORY (recent rows):
-{historical_excerpt}
-
-RECENT INTRADAY INDICATORS (last rows):
-{recent_excerpt}
-""".strip()
+    DAILY HISTORY (recent rows):
+    {historical_excerpt}
+    """.strip()
 
     # ---------- 4) LLM call (inline — no nested funcs) ----------
+    # --- after you build `prompt` ---
+
     resp = client.responses.create(
         model=model,
         temperature=temperature,
@@ -1188,32 +1275,34 @@ RECENT INTRADAY INDICATORS (last rows):
             {"role": "user", "content": prompt},
         ],
     )
+
     raw = resp.output_text.strip()
-    cleaned = raw
-    if cleaned.startswith("```"):
-        cleaned = cleaned.strip("`")
-        if cleaned.lower().startswith("json"):
-            cleaned = cleaned[4:].strip()
+    cleaned = _strip_fence_to_json(
+        raw
+    )  # external helper: removes ```json fences safely
     save_forecast_csv(stock_code, cleaned)
+
     in_toks = getattr(getattr(resp, "usage", None), "input_tokens", 0)
     out_toks = getattr(getattr(resp, "usage", None), "output_tokens", 0)
     update_token_monitor(stock_code, in_toks, out_toks, model_used=model)
 
     try:
-        cfg = json.loads(cleaned)
+        cfg_llm = json.loads(cleaned)
     except Exception as e:
         safe_excerpt = cleaned[:300] + ("..." if len(cleaned) > 300 else "")
         return None, None, f"JSON parse error: {e}. Output excerpt: {safe_excerpt}"
 
     # ---------- 5) Post-LLM long-only sanitization & enrich ----------
-    cfg = _normalize_llm_cfg(cfg, stock_block)
+    # IMPORTANT: prefer LLM close and NEVER null out triplets; only nudge if needed.
+    cfg = _normalize_llm_cfg_prefer_llm_close(cfg_llm, stock_block)  # external helper
     cfg.setdefault("reason", [])
     cfg.setdefault("signal", "No Action")
     cfg["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     cfg["forecast"] = "AI"
 
-    print("[*]llm repose : ", json.dumps(cfg, indent=2))
+    # print("[*]llm repose : ", json.dumps(cfg, indent=2))
 
+    # ---------- 6) (LEAVE THIS BLOCK EXACTLY AS YOU HAVE IT) ----------
     # latest 1m OHLCV snapshot (Redis legacy)
     try:
         last_candles = fetch_candles(stock_code, n=max(REALTIME_MINUTE_LOOKBACK, 1))
@@ -1285,74 +1374,73 @@ RECENT INTRADAY INDICATORS (last rows):
             "volume": None,
         }
 
-    # predicted targets
-    pt = cfg.get("predicted_targets", {}) or {}
-    if not isinstance(pt, dict):
-        pt = {}
-    last_close = _last_close_from(df_recent, df_hist_daily, cfg)
-    for h, cap in (("1d", 0.06), ("1w", 0.12), ("3m", 0.30)):
-        slot = pt.get(h, {}) or {}
-        rhat = _coerce_ret(slot.get("ret", 0.0))
-        rhat = max(-cap, min(cap, rhat))
-        phat = slot.get("price", None)
-        try:
-            phat = float(phat) if phat is not None else None
-        except Exception:
-            phat = float(last_close * (1.0 + rhat)) if last_close is not None else None
-        if phat is None and last_close is not None:
-            phat = float(last_close * (1.0 + rhat))
-        pt[h] = {"ret": float(rhat), "price": phat, "method": "llm_v1"}
-    cfg["predicted_targets"] = pt
-
-    # ensure SR order base + k=1..8
-    cfg["support"], cfg["resistance"] = _ensure_sr_order(
+    # ---------- 8) ensure SR order before any triplet work ----------
+    cfg["support"], cfg["resistance"] = _ensure_sr_order(  # external
         cfg.get("support"), cfg.get("resistance")
     )
     for k in range(1, 9):
         sk, rk = _ensure_sr_order(cfg.get(f"support{k}"), cfg.get(f"resistance{k}"))
         cfg[f"support{k}"], cfg[f"resistance{k}"] = sk, rk
 
-    # synthesize long-only triplets
-    _long_only_triplet(
-        cfg,
-        "support",
-        "resistance",
-        "entry",
-        "target",
-        "stoploss",
-        last_close=last_close,
-        use_last_close_anchor=True,
-    )
-    # mild anchor for 1/2; band-only for others
-    for k, anch, risk_p in [
-        (1, True, 0.30),
-        (2, True, 0.30),
-        (3, False, 0.30),
-        (4, False, 0.30),
-        (5, False, 0.30),
-        (6, False, 0.30),
-        (7, False, 0.30),
-        (8, False, 0.35),
-    ]:
+    # ---------- 9) Long-only triplets: DO NOT overwrite LLM triplets if present ----------
+    df_r_1m = load_candles(stock_code, "1min", n=1, base_dir=base_dir, source="redis")
+    df_h_1m = load_candles(stock_code, "1min", n=1, base_dir=base_dir, source="disk")
+
+    df_recent_for_preds = df_r_1m if not df_r_1m.empty else df_h_1m
+    last_close_for_preds = _last_close_from(
+        df_recent_for_preds, df_hist_daily, cfg
+    )  # external
+    anchor_close = _best_close(cfg, last_close_for_preds)  # external
+
+    # base
+    if _has_all(cfg.get("entry"), cfg.get("target"), cfg.get("stoploss")):  # external
+        _nudge_long_chain(
+            cfg,
+            "support",
+            "resistance",
+            "entry",
+            "target",
+            "stoploss",  # external
+            cp=anchor_close,
+        )
+    else:
         _long_only_triplet(
             cfg,
-            f"support{k}",
-            f"resistance{k}",
-            f"entry{k}",
-            f"target{k}",
-            f"stoploss{k}",
-            last_close=last_close,
-            use_last_close_anchor=anch,
-            risk_pct_by_band=risk_p,
+            "support",
+            "resistance",
+            "entry",
+            "target",
+            "stoploss",  # external
+            last_close=anchor_close,
+            use_last_close_anchor=True,
         )
 
-    _push_apart_if_equal_long(cfg, "entry", "target", "resistance")
+    # TF1..8 (only synthesize when missing; otherwise nudge)
+    for k in range(1, 9):
+        ek, tk, slk = f"entry{k}", f"target{k}", f"stoploss{k}"
+        sk, rk = f"support{k}", f"resistance{k}"
+        if _has_all(cfg.get(ek), cfg.get(tk), cfg.get(slk)):
+            _nudge_long_chain(cfg, sk, rk, ek, tk, slk, cp=anchor_close)
+        else:
+            _long_only_triplet(
+                cfg,
+                sk,
+                rk,
+                ek,
+                tk,
+                slk,
+                last_close=anchor_close,
+                use_last_close_anchor=(k in (1, 2)),
+                risk_pct_by_band=(0.35 if k == 8 else 0.30),
+            )
+
+    _push_apart_if_equal_long(cfg, "entry", "target", "resistance")  # external
     for k in range(1, 9):
         _push_apart_if_equal_long(cfg, f"entry{k}", f"target{k}", f"resistance{k}")
 
     _audit_long_invariants(
         cfg, "support", "resistance", "entry", "target", "stoploss", "base"
-    )
+    )  # external
     for k in range(1, 9):
         _audit_long_invariants(
             cfg,
@@ -1364,17 +1452,17 @@ RECENT INTRADAY INDICATORS (last rows):
             f"S{k}/R{k}",
         )
 
+    # ---------- 10) respected_* counts ----------
     try:
-        _fill_all_tf_respects(cfg, stock_code)
+        _fill_all_tf_respects(cfg, stock_code)  # external
     except Exception:
-        # ensure keys exist even if counting failed
         cfg.setdefault("respected_S", 0)
         cfg.setdefault("respected_R", 0)
         for k in range(1, 9):
             cfg.setdefault(f"respected_S{k}", 0)
             cfg.setdefault(f"respected_R{k}", 0)
 
-    # legacy width
+    # ---------- 11) legacy width ----------
     try:
         if cfg.get("support") is not None and cfg.get("resistance") is not None:
             cfg["sr_range_pct"] = round(
@@ -1390,15 +1478,17 @@ RECENT INTRADAY INDICATORS (last rows):
     except Exception:
         cfg["sr_range_pct"] = None
 
-    # final missing guards
+    # ---------- 12) final guard + NaN/Inf sanitization ----------
     must_have = ["entry", "target", "stoploss"] + [
-        k
+        key
         for trio in [(f"entry{i}", f"target{i}", f"stoploss{i}") for i in range(1, 9)]
-        for k in trio
+        for key in trio
     ]
     if any(cfg.get(k) is None for k in must_have):
         cfg["reason"].append(
             "WARNING: Some trade levels still missing after synthesis."
         )
+
+    # cfg = _sanitize_numbers(cfg)  # external: convert NaN/Inf → None only, leave valid floats intact
 
     return cfg, cfg.get("reason", []), None

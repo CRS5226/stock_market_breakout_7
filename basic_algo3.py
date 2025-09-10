@@ -1,4 +1,4 @@
-# basic_algo_forecaster.py  (updated)
+# basic_algo_forecaster.py
 import os
 import glob
 import copy

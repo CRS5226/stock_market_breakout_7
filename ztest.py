@@ -1,9 +1,10 @@
-# pretty_forecasts.py
+# # pretty_forecasts.py
+
 import os
 import csv
 from pathlib import Path
 from typing import Dict, List, Optional
-
+import math
 import pandas as pd
 
 try:
@@ -22,124 +23,166 @@ def _safe(d: Dict, key: str, default=""):
     return v
 
 
+# def _latest_per_stock(df: pd.DataFrame) -> pd.DataFrame:
+#     if "timestamp" in df.columns:
+#         df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
+#     if "stock_code" in df.columns:
+#         df["stock_code"] = df["stock_code"].astype(str).str.upper()
+#     if "model" not in df.columns:
+#         df["model"] = "ALGO"
+#     df = df.sort_values(["stock_code", "model", "timestamp"])
+#     idx = (
+#         df.groupby(["stock_code", "model"], dropna=False)["timestamp"].transform("max")
+#         == df["timestamp"]
+#     )
+#     return df[idx].copy()
+
+
 def _latest_per_stock(df: pd.DataFrame) -> pd.DataFrame:
-    if "timestamp" in df.columns:
-        df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
+    # accept either 'timestamp' or 'last_updated'
+    ts_col = None
+    for cand in ("timestamp", "last_updated", "last_updated_at"):
+        if cand in df.columns:
+            ts_col = cand
+            break
+
+    if ts_col:
+        df[ts_col] = pd.to_datetime(df[ts_col], errors="coerce")
+        # create a uniform helper column for grouping
+        df["_ts"] = df[ts_col]
+    else:
+        # no timestamp-like column—treat all as same time so last row wins within each group
+        df["_ts"] = pd.NaT
+
     if "stock_code" in df.columns:
         df["stock_code"] = df["stock_code"].astype(str).str.upper()
     if "model" not in df.columns:
         df["model"] = "ALGO"
-    df = df.sort_values(["stock_code", "model", "timestamp"])
+
+    df = df.sort_values(["stock_code", "model", "_ts"])
     idx = (
-        df.groupby(["stock_code", "model"], dropna=False)["timestamp"].transform("max")
-        == df["timestamp"]
+        df.groupby(["stock_code", "model"], dropna=False)["_ts"].transform("max")
+        == df["_ts"]
     )
-    return df[idx].copy()
+    out = df[idx].copy()
+    out.drop(columns=["_ts"], inplace=True, errors="ignore")
+    return out
 
 
-# def _make_block(
-#     stock: str, ts_display: str, gpt_row: Optional[Dict], algo_row: Optional[Dict]
-# ) -> List[List]:
-#     """
-#     Layout:
+# ---------- NEW: TF labels + schema-agnostic getters ----------
 
-#     <STOCK> (last updated : <timestamp>)
-#     close price : <val>, (signal : <val>)
-#     [ "", "GPT", "ALGO", "", "GPT", "ALGO", "", "GPT", "ALGO" ]  (model header for 3 triplets)
-#     S   [GPT] [ALGO]   R   [GPT] [ALGO]   SR_pct [GPT] [ALGO]
-#     S1  [GPT] [ALGO]   R1  [GPT] [ALGO]   SR1_pct [GPT] [ALGO]
-#     S2  [GPT] [ALGO]   R2  [GPT] [ALGO]   SR2_pct [GPT] [ALGO]
-#     S3  [GPT] [ALGO]   R3  [GPT] [ALGO]   SR3_pct [GPT] [ALGO]
-#     <blank>
-#     entry  [GPT] [ALGO]  target  [GPT] [ALGO]  stoploss  [GPT] [ALGO]
-#     entry1 [GPT] [ALGO]  target1 [GPT] [ALGO]  stoploss1 [GPT] [ALGO]
-#     entry2 [GPT] [ALGO]  target2 [GPT] [ALGO]  stoploss2 [GPT] [ALGO]
-#     entry3 [GPT] [ALGO]  target3 [GPT] [ALGO]  stoploss3 [GPT] [ALGO]
-#     <blank>
-#     respected_S  [GPT] [ALGO]  respected_R  [GPT] [ALGO]
-#     respected_S1 [GPT] [ALGO]  respected_R1 [GPT] [ALGO]
-#     respected_S2 [GPT] [ALGO]  respected_R2 [GPT] [ALGO]
-#     respected_S3 [GPT] [ALGO]  respected_R3 [GPT] [ALGO]
-#     """
-#     # ------- headers -------
-#     header1 = [f"{stock} (last updated : {ts_display})"]
+TF_LABELS = {
+    0: "1min",
+    1: "5min",
+    2: "15min",
+    3: "30min",
+    4: "45min",
+    5: "1hour",
+    6: "4hour",
+    7: "1day",
+    8: "1month",
+}
 
-#     close_g = _safe(gpt_row or {}, "close", "")
-#     close_a = _safe(algo_row or {}, "close", "")
-#     if close_g and close_a and str(close_g) != str(close_a):
-#         close_txt = f"close price : GPT={close_g}, ALGO={close_a}"
-#     else:
-#         close_txt = f"close price : {close_g or close_a}"
 
-#     sig_g = _safe(gpt_row or {}, "signal", "")
-#     sig_a = _safe(algo_row or {}, "signal", "")
-#     if sig_g and sig_a and str(sig_g) != str(sig_a):
-#         sig_txt = f"(signal : GPT={sig_g}, ALGO={sig_a})"
-#     else:
-#         sig_txt = f"(signal : {sig_g or sig_a})"
+def _get_num(row: Optional[Dict], *keys):
+    if not row:
+        return None
+    for k in keys:
+        if k in row and row[k] not in (None, ""):
+            try:
+                v = row[k]
+                # normalize common string sentinels
+                if isinstance(v, str) and v.strip().lower() in (
+                    "nan",
+                    "na",
+                    "null",
+                    "none",
+                    "inf",
+                    "+inf",
+                    "-inf",
+                ):
+                    continue
+                fv = float(v)
+                if math.isnan(fv) or math.isinf(fv):
+                    continue
+                return fv
+            except Exception:
+                pass
+    return None
 
-#     header2 = [f"{close_txt}, {sig_txt}"]
 
-#     # helper: one metric triplet
-#     def tri(label: str, key: str) -> List:
-#         return [label, _safe(gpt_row or {}, key, ""), _safe(algo_row or {}, key, "")]
+def _get_str(row: Optional[Dict], *keys, default=""):
+    if not row:
+        return default
+    for k in keys:
+        if k in row and row[k] not in (None, ""):
+            return str(row[k])
+    return default
 
-#     # one-time model header for 3 triplets (S/R/SR_pct width)
-#     model_header = ["", "GPT", "ALGO", "", "GPT", "ALGO", "", "GPT", "ALGO"]
 
-#     # ------- level rows -------
-#     base_row = tri("S", "S") + tri("R", "R") + tri("SR_pct", "SR_pct")
-#     row_S1 = tri("S1", "S1") + tri("R1", "R1") + tri("SR1_pct", "SR1_pct")
-#     row_S2 = tri("S2", "S2") + tri("R2", "R2") + tri("SR2_pct", "SR2_pct")
-#     row_S3 = tri("S3", "S3") + tri("R3", "R3") + tri("SR3_pct", "SR3_pct")
+def _sr_pair(row: Optional[Dict], idx: int):
+    """Return (support, resistance) for base (idx=0) or idx>0. Accepts new and legacy names."""
+    if idx == 0:
+        s = _get_num(row, "support", "S")
+        r = _get_num(row, "resistance", "R")
+    else:
+        s = _get_num(row, f"support{idx}", f"S{idx}")
+        r = _get_num(row, f"resistance{idx}", f"R{idx}")
+    return s, r
 
-#     # ------- entries section (NO blank between entry and entry1) -------
-#     entry_row = (
-#         tri("entry", "entry") + tri("target", "target") + tri("stoploss", "stoploss")
-#     )
-#     entry1_row = (
-#         tri("entry1", "entry1")
-#         + tri("target1", "target1")
-#         + tri("stoploss1", "stoploss1")
-#     )
-#     entry2_row = (
-#         tri("entry2", "entry2")
-#         + tri("target2", "target2")
-#         + tri("stoploss2", "stoploss2")
-#     )
-#     entry3_row = (
-#         tri("entry3", "entry3")
-#         + tri("target3", "target3")
-#         + tri("stoploss3", "stoploss3")
-#     )
 
-#     # ------- respected section -------
-#     res_row0 = tri("respected_S", "respected_S") + tri("respected_R", "respected_R")
-#     res_row1 = tri("respected_S1", "respected_S1") + tri("respected_R1", "respected_R1")
-#     res_row2 = tri("respected_S2", "respected_S2") + tri("respected_R2", "respected_R2")
-#     res_row3 = tri("respected_S3", "respected_S3") + tri("respected_R3", "respected_R3")
+def _triplet(row: Optional[Dict], idx: int):
+    if idx == 0:
+        e = _get_num(row, "entry")
+        t = _get_num(row, "target")
+        sl = _get_num(row, "stoploss")
+    else:
+        e = _get_num(row, f"entry{idx}")
+        t = _get_num(row, f"target{idx}")
+        sl = _get_num(row, f"stoploss{idx}")
+    return e, t, sl
 
-#     # assemble with blanks: one before entries, none between entry and entry1, one before respected
-#     block: List[List] = [
-#         header1,
-#         header2,
-#         model_header,
-#         base_row,
-#         row_S1,
-#         row_S2,
-#         row_S3,
-#         [],  # blank before base entry row
-#         entry_row,
-#         entry1_row,  # <-- no blank here
-#         entry2_row,
-#         entry3_row,
-#         [],  # blank before respected rows
-#         res_row0,
-#         res_row1,
-#         res_row2,
-#         res_row3,
-#     ]
-#     return block
+
+def _sr_pct(row: Optional[Dict], idx: int):
+    """SR% from row if present; else compute ((R-S)/S)*100."""
+    if idx == 0:
+        v = _get_num(row, "sr_range_pct", "SR_pct")
+    else:
+        v = _get_num(row, f"SR{idx}_pct")  # legacy spare key if present
+    if v is not None:
+        return v
+    s, r = _sr_pair(row, idx)
+    if s is None or r is None or s == 0:
+        return None
+    try:
+        return ((r - s) / s) * 100.0
+    except Exception:
+        return None
+
+
+def _respect_pair(row: Optional[Dict], idx: int):
+    if idx == 0:
+        rs = _get_num(row, "respected_S")
+        rr = _get_num(row, "respected_R")
+    else:
+        rs = _get_num(row, f"respected_S{idx}")
+        rr = _get_num(row, f"respected_R{idx}")
+
+    def safe_int(v, default=0):
+        try:
+            if v is None:
+                return default
+            v = float(v)
+            if math.isnan(v) or math.isinf(v):
+                return default
+            return int(v)
+        except Exception:
+            return default
+
+    return safe_int(rs), safe_int(rr)
+
+
+# ============================= block builder =============================
 
 
 def _make_block(
@@ -149,85 +192,95 @@ def _make_block(
     algo_row: Optional[Dict],
 ) -> List[List]:
     """
-    Per-model layout (ALGO block, then GPT) with close price in the header.
-
-    CDSL [ALGO] (last updated : ts_algo) (close price : <close_algo>) (signal : <sig_algo>)
-    S, R, SR_pct, entry, target, stoploss, respected_S, respected_R
-    S1, R1, SR1_pct, entry1, target1, stoploss1, respected_S1, respected_R1
-    S2, R2, SR2_pct, entry2, target2, stoploss2, respected_S2, respected_R2
-    S3, R3, SR3_pct, entry3, target3, stoploss3, respected_S3, respected_R3
-
-    <blank>
-
-    CDSL [GPT] (last updated : ts_gpt) (close price : <close_gpt>) (signal : <sig_gpt>)
-    (same rows)
+    Output per-model sections (ALGO then GPT):
+    <STOCK> [MODEL] (last updated : ts) (close price : <close>) (signal : <sig>)
+    tf | S | R | SR_pct | entry | target | stoploss | respected_S | respected_R
+    one row per TF (1min..1month)
     """
-    import pandas as pd
 
     def ts_of(row: Optional[Dict]) -> str:
-        if row and row.get("timestamp"):
-            try:
-                return pd.to_datetime(row["timestamp"]).strftime("%Y-%m-%d %H:%M:%S")
-            except Exception:
-                return str(row["timestamp"])
-        return ""
+        v = _get_str(row, "timestamp", "last_updated", "last_updated_at")
+        if not v:
+            return ""
+        try:
+            return pd.to_datetime(v).strftime("%Y-%m-%d %H:%M:%S")
+        except Exception:
+            return str(v)
 
-    def one_model_header(model_tag: str, row: Optional[Dict]) -> List[str]:
+    def header(model_tag: str, row: Optional[Dict]) -> List[str]:
         ts = ts_of(row)
-        close = _safe(row or {}, "close", "")
-        sig = _safe(row or {}, "signal", "")
-        # e.g., "CDSL [ALGO] (last updated : 2025-09-04 11:39:05) (close price : 1508.8) (signal : No Action)"
+        close = _get_num(row, "close")
+        if close is None and isinstance(row, dict):
+            close = _get_num(row.get("ohlcv", {}) if row else {}, "close")
+        close_txt = f"{close:.6g}" if close is not None else ""
+        sig = _get_str(row, "signal")
         return [
-            f"{stock} [{model_tag}] (last updated : {ts}) (close price : {close}) (signal : {sig})"
+            f"{stock} [{model_tag}] (last updated : {ts}) (close price : {close_txt}) (signal : {sig})"
         ]
 
-    def pair(row: Optional[Dict], label: str, key: str) -> List:
-        return [label, _safe(row or {}, key, "")]
+    def one_row(row: Optional[Dict], idx: int) -> List:
+        tf = TF_LABELS.get(idx, f"tf{idx}")
+        s, r = _sr_pair(row, idx)
+        srp = _sr_pct(row, idx)
+        e, t, sl = _triplet(row, idx)
+        rs, rr = _respect_pair(row, idx)
 
-    def s_row(row: Optional[Dict]) -> List:
-        # S line with base metrics + respected_S/R
-        r: List = []
-        r += pair(row, "S", "S")
-        r += pair(row, "R", "R")
-        r += pair(row, "SR_pct", "SR_pct")
-        r += pair(row, "entry", "entry")
-        r += pair(row, "target", "target")
-        r += pair(row, "stoploss", "stoploss")
-        r += pair(row, "respected_S", "respected_S")
-        r += pair(row, "respected_R", "respected_R")
-        return r
+        def fmt(x):
+            return (
+                ""
+                if x is None
+                else (f"{x:.6g}" if isinstance(x, (int, float)) else str(x))
+            )
 
-    def sN_row(row: Optional[Dict], n: int) -> List:
-        # S1/S2/S3 rows with R*, SR*%, entry*, target*, stoploss*, respected_S*, respected_R*
-        r: List = []
-        r += pair(row, f"S{n}", f"S{n}")
-        r += pair(row, f"R{n}", f"R{n}")
-        r += pair(row, f"SR{n}_pct", f"SR{n}_pct")
-        r += pair(row, f"entry{n}", f"entry{n}")
-        r += pair(row, f"target{n}", f"target{n}")
-        r += pair(row, f"stoploss{n}", f"stoploss{n}")
-        r += pair(row, f"respected_S{n}", f"respected_S{n}")
-        r += pair(row, f"respected_R{n}", f"respected_R{n}")
-        return r
+        return [
+            tf,
+            fmt(s),
+            fmt(r),
+            fmt(srp),
+            fmt(e),
+            fmt(t),
+            fmt(sl),
+            str(rs),
+            str(rr),
+        ]
 
-    # ----- ALGO block -----
-    block: List[List] = [
-        one_model_header("ALGO", algo_row),
-        s_row(algo_row),
-        sN_row(algo_row, 1),
-        sN_row(algo_row, 2),
-        sN_row(algo_row, 3),
-        [],  # spacer between ALGO and GPT blocks (remove if you don't want a blank line)
-    ]
+    block: List[List] = []
+    # ALGO section
+    block.append(header("ALGO", algo_row))
+    block.append(
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ]
+    )
+    for idx in range(0, 9):
+        block.append(one_row(algo_row, idx))
+    block.append([])  # spacer
 
-    # ----- GPT block -----
-    block += [
-        one_model_header("GPT", gpt_row),
-        s_row(gpt_row),
-        sN_row(gpt_row, 1),
-        sN_row(gpt_row, 2),
-        sN_row(gpt_row, 3),
-    ]
+    # GPT section
+    block.append(header("GPT", gpt_row))
+    block.append(
+        [
+            "tf",
+            "S",
+            "R",
+            "SR_pct",
+            "entry",
+            "target",
+            "stoploss",
+            "respected_S",
+            "respected_R",
+        ]
+    )
+    for idx in range(0, 9):
+        block.append(one_row(gpt_row, idx))
 
     return block
 
@@ -242,12 +295,15 @@ def _blocks_from_combined_df(
         algo_row = g[g["model"] == "ALGO"].sort_values("timestamp").tail(1)
         gpt_row = gpt_row.iloc[0].to_dict() if not gpt_row.empty else None
         algo_row = algo_row.iloc[0].to_dict() if not algo_row.empty else None
+
+        # combined last-updated if you ever want it
         ts_vals = []
         if gpt_row and gpt_row.get("timestamp"):
             ts_vals.append(pd.to_datetime(gpt_row["timestamp"]))
         if algo_row and algo_row.get("timestamp"):
             ts_vals.append(pd.to_datetime(algo_row["timestamp"]))
         ts_display = max(ts_vals).strftime("%Y-%m-%d %H:%M:%S") if ts_vals else ""
+
         blocks.append(_make_block(stock, ts_display, gpt_row, algo_row))
 
     spaced_blocks: List[List[List]] = []
@@ -258,7 +314,7 @@ def _blocks_from_combined_df(
     return spaced_blocks
 
 
-# ---------- NO-FLICKER WRITER (no ws.clear, skip if unchanged, single range update) ----------
+# ---------- NO-FLICKER SHEET WRITER (no ws.clear, skip if unchanged, single range update) ----------
 
 
 def _col_letter(n: int) -> str:
@@ -289,8 +345,7 @@ def _grids_equal(a: List[List], b: List[List]) -> bool:
     if len(pa) != len(pb):
         return False
     if pa and pb and len(pa[0]) != len(pb[0]):
-        # different widths
-        # re-pad to the max width
+        # different widths → re-pad to the max width
         maxw = max(len(pa[0]), len(pb[0]))
         pa = [r + [""] * (maxw - len(r)) for r in pa]
         pb = [r + [""] * (maxw - len(r)) for r in pb]
@@ -305,7 +360,6 @@ def _update_sheet_values_no_flicker(ws, new_rows: List[List]):
     - Pad blanks to wipe leftover cells (no separate clear)
     """
     cur = _get_current_values(ws)
-    # flatten blocks -> list of rows; ensure rectangular grid
     new_grid = _pad_grid(new_rows)
     if _grids_equal(cur, new_grid):
         return  # no change -> no flicker
@@ -327,29 +381,29 @@ def _update_sheet_values_no_flicker(ws, new_rows: List[List]):
 # ====================== PUBLIC ENTRYPOINTS (CSV) ======================
 
 
-def write_pretty_csv_from_two_csvs(
-    gpt_csv_path: str,
-    algo_csv_path: str,
-    out_csv_path: str = "forecasts_pretty_view.csv",
-    spacer_rows: int = 3,
-):
-    def _load_tag(p, tag):
-        df = pd.read_csv(p)
-        df["model"] = tag
-        return df
+# def write_pretty_csv_from_two_csvs(
+#     gpt_csv_path: str,
+#     algo_csv_path: str,
+#     out_csv_path: str = "forecasts_pretty_view.csv",
+#     spacer_rows: int = 3,
+# ):
+#     def _load_tag(p, tag):
+#         df = pd.read_csv(p)
+#         df["model"] = tag
+#         return df
 
-    gpt = _load_tag(gpt_csv_path, "GPT")
-    algo = _load_tag(algo_csv_path, "ALGO")
-    blocks = _blocks_from_combined_df(
-        pd.concat([gpt, algo], ignore_index=True), spacer_rows=spacer_rows
-    )
-    flat_rows: List[List] = []
-    for blk in blocks:
-        flat_rows.extend(blk)
-    out = Path(out_csv_path)
-    out.parent.mkdir(parents=True, exist_ok=True)
-    with open(out, "w", newline="", encoding="utf-8") as f:
-        csv.writer(f).writerows(flat_rows)
+#     gpt = _load_tag(gpt_csv_path, "GPT")
+#     algo = _load_tag(algo_csv_path, "ALGO")
+#     blocks = _blocks_from_combined_df(
+#         pd.concat([gpt, algo], ignore_index=True), spacer_rows=spacer_rows
+#     )
+#     flat_rows: List[List] = []
+#     for blk in blocks:
+#         flat_rows.extend(blk)
+#     out = Path(out_csv_path)
+#     out.parent.mkdir(parents=True, exist_ok=True)
+#     with open(out, "w", newline="", encoding="utf-8") as f:
+#         csv.writer(f).writerows(flat_rows)
 
 
 # ============== PUBLIC ENTRYPOINT (WRITE DIRECTLY TO SHEET TAB) ==============
@@ -394,5 +448,5 @@ def write_pretty_to_sheet_from_sheets(
     except Exception:
         ws_pretty = sh.add_worksheet(title=pretty_tab, rows=100, cols=50)
 
-    # <-- key change: no clear, update a fixed A1 range; skip if unchanged
+    # no clear; single A1 range update; skip when unchanged
     _update_sheet_values_no_flicker(ws_pretty, flat_rows)
